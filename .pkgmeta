@@ -1,0 +1,13 @@
+package-as: RC-Translator
+
+ignore:
+  - README.md
+  - CHANGELOG.md
+  - tools
+  - .github
+  - .pkgmeta
+  - .gitignore
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown

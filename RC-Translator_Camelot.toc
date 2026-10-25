@@ -1,0 +1,64 @@
+## Interface: 16001
+## AllowLoadGameType: camelot
+## Title: RC-Translator
+## Notes: Real-language chat translator for World of Warcraft
+## Author: Raw Card
+## X-Curse-Project-ID: 1462550
+## Version: 3.4.62
+## SavedVariables: RC_TranslatorDB
+## DefaultState: enabled
+## Category: Chat
+
+# Retail 12.0-12.1 | Forever 1.60 | MoP Classic 5.5.4 | Cata 4.4.2 | Wrath 3.4.5 | TBC 2.5.5-2.5.6 | Classic Era 1.15.8-1.15.9
+
+# Compatibility shim (must load first)
+Compat.lua
+
+# Core
+Core.lua
+UI.lua
+Languages.lua
+
+# Packed dictionaries (flat strings; expanded into tables only on use)
+Dictionaries\_Keys.lua
+Dictionaries\ar.lua
+Dictionaries\bg.lua
+Dictionaries\zh.lua
+Dictionaries\hr.lua
+Dictionaries\cs.lua
+Dictionaries\da.lua
+Dictionaries\nl.lua
+Dictionaries\tl.lua
+Dictionaries\fi.lua
+Dictionaries\fr.lua
+Dictionaries\de.lua
+Dictionaries\el.lua
+Dictionaries\he.lua
+Dictionaries\hi.lua
+Dictionaries\hu.lua
+Dictionaries\id.lua
+Dictionaries\it.lua
+Dictionaries\ja.lua
+Dictionaries\ko.lua
+Dictionaries\esMX.lua
+Dictionaries\ms.lua
+Dictionaries\no.lua
+Dictionaries\pl.lua
+Dictionaries\pt.lua
+Dictionaries\ptBR.lua
+Dictionaries\ro.lua
+Dictionaries\ru.lua
+Dictionaries\es.lua
+Dictionaries\sv.lua
+Dictionaries\th.lua
+Dictionaries\zhTW.lua
+Dictionaries\tr.lua
+Dictionaries\uk.lua
+Dictionaries\vi.lua
+Dictionaries\sk.lua
+Dictionaries\sl.lua
+Dictionaries\ca.lua
+Dictionaries\sr.lua
+Dictionaries\fa.lua
+Dictionaries\Common.lua
+Dictionaries\Orcish.lua
