@@ -337,6 +337,13 @@ function GetTalentTabInfo(i) return "Tree" .. i, nil, 0 end
 -- ======================================================== flavor tweaks
 CLASS_NAME = ({ WARRIOR = "Warrior", PALADIN = "Paladin", HUNTER = "Hunter", ROGUE = "Rogue", PRIEST = "Priest", DEATHKNIGHT = "Death Knight",
 	SHAMAN = "Shaman", MAGE = "Mage", WARLOCK = "Warlock", MONK = "Monk", DRUID = "Druid", DEMONHUNTER = "Demon Hunter", EVOKER = "Evoker" })[CLASS_FILE]
+-- Titan Reforged is the Chinese Wrath client: test it in Chinese
+if FLAVOR == "titan" then
+	function GetLocale() return "zhCN" end
+	CLASS_NAME = ({ WARRIOR = "战士", PALADIN = "圣骑士", HUNTER = "猎人", ROGUE = "潜行者", PRIEST = "牧师", DEATHKNIGHT = "死亡骑士",
+		SHAMAN = "萨满祭司", MAGE = "法师", WARLOCK = "术士", DRUID = "德鲁伊" })[CLASS_FILE]
+end
+
 SECRET_CLIENT = (FLAVOR == "retail" or FLAVOR == "forever")
 if SECRET_CLIENT then
 	-- removed on Retail (11.0+) and so on WoW Forever
@@ -370,7 +377,7 @@ end
 if FLAVOR == "era" or FLAVOR == "tbc" or FLAVOR == "forever" then
 	GetSpecialization, GetSpecializationInfo, GetSpecializationInfoByID, GetInspectSpecialization = nil, nil, nil, nil
 end
-if FLAVOR == "wrath" or FLAVOR == "cata" then
+if FLAVOR == "wrath" or FLAVOR == "titan" or FLAVOR == "cata" then
 	GetSpecialization, GetSpecializationInfo, GetSpecializationInfoByID = nil, nil, nil
 	function GetPrimaryTalentTree() return 1 end
 end

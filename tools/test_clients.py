@@ -22,6 +22,7 @@ CLIENTS = {
     "era": ("RC-Translator.toc", 11508),
     "tbc": ("RC-Translator.toc", 20505),
     "wrath": ("RC-Translator.toc", 30405),
+    "titan": ("RC-Translator.toc", 38002),
     "cata": ("RC-Translator.toc", 40402),
     "mists": ("RC-Translator.toc", 50504),
     "retail": ("RC-Translator.toc", 120005),

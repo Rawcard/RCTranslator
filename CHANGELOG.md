@@ -1,4 +1,9 @@
-# RC-Translator 3.4.62
+# RC-Translator 3.4.63
+
+- **Wrath Titan Reforged** (client 3.80) is listed as supported again, so CurseForge offers this version to Titan Reforged players. Checked in the Chinese game language.
+- Release jobs updated to GitHub's newer Node 24 actions (no more Node.js 20 warning).
+
+## RC-Translator 3.4.62
 
 - RC-Translator now lives on GitHub. Releases are built and uploaded to CurseForge automatically.
 - **Retail and WoW Forever:** the game can hide chat text from addons (for example in instances during combat). Those lines now pass through untouched instead of risking errors; everything else is translated as before.

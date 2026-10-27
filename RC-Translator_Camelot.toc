@@ -4,7 +4,7 @@
 ## Notes: Real-language chat translator for World of Warcraft
 ## Author: Raw Card
 ## X-Curse-Project-ID: 1462550
-## Version: 3.4.62
+## Version: 3.4.63
 ## SavedVariables: RC_TranslatorDB
 ## DefaultState: enabled
 ## Category: Chat
