@@ -27323,4 +27323,504 @@ chịu đựng
 bản nhạc
 đường mòn
 
+nhà nước
+các bang
+quốc gia
+thống nhất
+tòa án
+đại học
+quốc tế
+phát triển
+
+truyền thông
+phi
+chính trị
+giáo dục
+cao đẳng
+chương trình
+
+tình dục
+quân sự
+hạt
+công nghiệp
+
+công ty
+cao hơn
+chính sách
+
+đã thêm
+y tế
+hóa đơn
+
+các nước
+liên bang
+
+
+
+tài sản
+kinh tế
+bài báo
+công nghệ
+
+hội đồng
+tài chính
+
+sự nghiệp
+đã xuất bản
+
+trường học
+quận
+bộ trưởng
+
+văn hóa
+thế kỷ
+mạng lưới
+được cung cấp
+doanh số
+chống
+hiệp hội
+thủ đô
+ủy ban
+hội nghị
+dân số
+đài phát thanh
+nhà ga
+điều trị
+phương Tây
+chiến dịch
+được mô tả
+việc làm
+nghiên cứu
+xây dựng
+thu nhập
+
+trung tâm thành phố
+đã phát triển
+thư ký
+
+hàng năm
+hợp đồng
+
+chính quyền
+ung thư
+dân sự
+cổ phiếu
+thương mại
+ca phẫu thuật
+tổ chức
+phân tích
+hoa hồng
+hôn nhân
+bệnh nhân
+
+các chương trình
+
+
+
+luật pháp
+đảng phái
+
+
+dân tộc
+
+cơ quan
+tế bào
+bờ biển
+ma túy
+giám đốc điều hành
+hội trường
+khối lượng
+sĩ quan
+
+nhạc pop
+được sản xuất
+đơn xin
+phỏng vấn
+vụ giết người
+phía bắc
+trước đó
+tôn giáo
+loài
+bài phát biểu
+thành phố
+nhu cầu
+động cơ
+
+phía nam
+thương hiệu
+
+kỹ thuật số
+bất động sản
+thời trang
+quỹ
+
+
+nhân viên
+quỹ từ thiện
+
+lãnh đạo
+hàng đầu
+dự án
+chủ tịch
+phiên bản
+viện
+các quốc gia
+hãng
+truyền hình
+đô la
+phía đông
+
+tiếp thị
+
+
+khái niệm
+các loại ma túy
+nhà ở
+tạp chí khoa học
+lao động
+khả năng lãnh đạo
+phần mềm
+phương tiện
+các tế bào
+tội phạm
+
+điều tra
+đang vận hành
+được trình bày
+
+thanh niên
+quỹ tiền
+tạp chí
+
+tôn giáo học
+các trang
+đã nêu
+giáo viên
+
+vịnh
+
+số liệu
+biểu mẫu
+được ban hành
+y học
+hạt nhân
+cảng
+sự hiện diện
+công dân
+điện
+nhà cửa
+được giới thiệu
+
+
+giảng dạy
+cửa sổ
+các bài báo
+
+khí hậu
+
+thống đốc
+công nghiệp hóa
+chung
+thực vật
+các chính sách
+được đề xuất
+mua hàng
+phó
+
+hẹn hò
+đảm bảo
+môi trường
+trí thông minh
+nhân công
+binh lính
+luật sư
+
+
+nợ
+trong nước
+lịch sử
+tổ ấm
+ra mắt
+bản địa
+tối cao
+khảo sát
+công nghệ cao
+cây cối
+nhà văn
+cáo buộc
+giao tiếp
+tốc hành
+được hình thành
+quan chức
+được thực hiện
+các mối quan hệ
+vận tải
+sự vụ
+kháng cáo
+
+
+kỷ nguyên
+tài trợ
+trưởng thành
+luật gia
+biện pháp
+các tổ chức
+quan hệ
+đòi hỏi
+
+bài kiểm tra
+lạm dụng
+doanh nghiệp
+bầu cử
+cơ sở vật chất
+
+lĩnh vực
+đường phố
+phòng thu
+phụ
+tài chính học
+thuộc tính
+thuế
+đạo luật
+
+
+
+xung đột
+doanh nghiệp lớn
+tranh luận
+phân phối
+tài liệu
+phim ảnh
+các quý bà
+cư dân
+doanh thu
+
+xe tải
+phiếu bầu
+chính quyền địa phương
+phạm vi phủ sóng
+được bầu
+tài trợ vốn
+
+sân vận động
+
+biên tập viên
+
+tự sát
+xe cộ
+đã bỏ phiếu
+
+bức tường
+rượu bia
+hội đồng nhân dân
+bảo thủ
+thị trường
+trung bình
+
+giấy tờ
+
+mang tính giáo dục
+cơ sở
+báo
+hội họa
+cộng hòa
+thống kê
+lãnh thổ
+người lớn
+ảnh hưởng đến
+được bổ nhiệm
+vũ trang
+hoàn cảnh
+thông tin liên lạc
+mối lo ngại
+đồng đô la
+giới tính
+nông thôn
+đã tiến hành
+định nghĩa
+độc lập
+thể chế
+học thuật
+học viện
+hóa học
+
+phe đối lập
+lịch phát sóng
+người đại diện
+
+giao thông
+sân
+tài sản công ty
+ứng cử viên
+người tiêu dùng
+sự sáng tạo
+được định nghĩa
+
+việc làm ổn định
+độc quyền
+
+nhân sự
+thủ tướng
+cách mạng
+các-bon
+tuyên bố rằng
+phó chức
+
+điện tử
+nhà máy
+nội thất
+pháp luật
+hội đồng chuyên gia
+tính cách
+bán lẻ
+
+các nhà văn
+quảng cáo
+đại lý
+cáp
+chính trị gia
+toàn thế giới
+hàng hải
+có động cơ
+bảng Anh
+cải cách
+năng lượng mặt trời
+ra mắt lần đầu
+bên ngoài
+giấy phép
+tổng thống
+các đại biểu
+vận chuyển
+hút thuốc
+hơi nước
+đã chịu
+nhà hát
+được nhận nuôi
+khuôn viên
+lâm sàng
+câu lạc bộ
+quốc phòng
+được hưởng
+chúng ta hãy
+khoản vay
+nhựa
+
+lâu năm
+công ước
+văn kiện
+người lao động
+
+hàng tháng
+khu phố
+quy định
+nhà khoa học
+các nhà ga
+tác giả
+nội các
+
+
+đương đại
+phê bình
+ADN
+đã nộp
+về mặt lịch sử
+
+bồi thẩm đoàn
+
+khu định cư
+được tìm kiếm
+phổ quát
+đàn guitar
+văn phòng
+quan hệ đối tác
+
+tỷ lệ phần trăm
+
+buổi
+cấu trúc
+triệu chứng
+
+phòng họp
+mạch điện
+quần áo
+định dạng
+chăm sóc sức khỏe
+hộ gia đình
+các quản lý
+tư cách thành viên
+tỉnh
+đã mua
+
+
+các tòa án
+phần mở rộng
+hông
+cơ sở hạ tầng
+xử lý
+đường sắt
+cử tri
+hành chính
+từ thiện
+giám đốc
+thực thi
+pháo đài
+các chính phủ
+
+các mạng
+Thế vận hội
+cung điện
+nhiếp ảnh
+biểu tình
+ấn phẩm
+lần lượt
+vùng nước
+hành hung
+nhận thức
+bồn tắm
+linh kiện
+bê tông
+sâu sắc
+kỳ vọng
+sự tiếp xúc
+nổi bật
+bảo hành
+hạnh phúc
+trái tim
+lý tưởng
+chấn thương nặng
+trung úy
+
+đam mê
+đang hái
+hài lòng
+thủ tục
+đang đẩy
+sự thay thế
+đã nghỉ hưu
+
+tiền tiết kiệm
+đã giải quyết
+người độc thân
+
+băng dính
+đang thăm
+tiền lương
+đôi cánh
+đại lộ
+túi xách
+đánh đập
+khối
+đang kiểm tra
+ủy viên
+cam kết
+có chứa
+bản sao chép
+tội ác
+phong tục
+bị từ chối
+bàn làm việc
+điện năng
+tập phim
+
+khuôn viên đất
 ]==])

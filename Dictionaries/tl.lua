@@ -27323,4 +27323,504 @@ magdusa
 mga track
 
 kakahuyan
+estado
+mga estado
+pambansa
+nagkakaisa
+korte
+unibersidad
+internasyonal
+
+mga serbisyo
+
+
+pampulitika
+edukasyon
+kolehiyo
+programa
+departamento
+
+militar
+
+industriya
+mga isyu
+mga kumpanya
+mas mataas
+patakaran
+lipunan
+idinagdag
+medikal
+
+produksyon
+mga bansa
+pederal
+pamamahala
+sentral
+
+ari-arian
+pang-ekonomiya
+artikulo
+teknolohiya
+
+konseho
+pinansyal
+unyon
+
+inilathala
+mga sistema
+mga paaralan
+distrito
+ministro
+mga produkto
+kultura
+siglo
+
+
+benta
+
+samahan
+kabisera
+komite
+kumperensya
+populasyon
+radyo
+istasyon
+paggamot
+kanluranin
+kampanya
+inilarawan
+mga trabaho
+pag-aaral
+konstruksyon
+
+pahayag
+sentro
+binuo
+kalihim
+mga kuwento
+taunan
+kontrata
+mga pamilya
+administrasyon
+kanser
+sibil
+
+komersyal
+operasyon
+organisasyon
+pagsusuri
+komisyon
+kasal
+mga pasyente
+
+mga programa
+mga rekord
+mga ulat
+
+mga batas
+mga partido
+
+
+
+mga rate
+ahensya
+selula
+baybayin
+droga
+ehekutibo
+bulwagan
+masa
+mga opisyal
+mga operasyon
+
+
+aplikasyon
+panayam
+
+hilagang
+nauna
+relihiyoso
+uri ng hayop
+talumpati
+mga lungsod
+
+
+mga mapagkukunan
+
+
+sentimo
+
+lupain
+moda
+pondo
+sekswal
+batayan
+mga empleyado
+pundasyon
+mga indibidwal
+mga pinuno
+
+mga proyekto
+tagapangulo
+edisyon
+instituto
+mga bansa ng mundo
+kompanya
+telebisyon
+dolyar
+
+
+
+mga materyales
+
+konsepto
+mga droga
+pabahay
+
+paggawa
+pamumuno
+
+sasakyan
+mga selula
+kriminal
+pangkultura
+imbestigasyon
+nagpapatakbo
+iniharap
+karahasan
+kabataan
+mga pondo
+magasin
+mga modelo
+relihiyon
+mga site
+
+mga guro
+
+look
+
+
+mga form
+
+medisina
+nukleyar
+daungan
+presensya
+mga mamamayan
+elektrikal
+mga bahay
+ipinakilala
+
+rehiyonal
+pagtuturo
+mga bintana
+mga artikulo
+mga parangal
+klima
+mga komunidad
+gobernador
+pang-industriya
+magkasanib
+mga halaman
+
+
+pagbili
+bise
+
+pakikipag-date
+tiyakin
+pangkapaligiran
+katalinuhan
+
+mga sundalo
+abogado
+mga bangko
+mga gusali
+utang
+domestiko
+makasaysayan
+mga tahanan
+paglulunsad
+katutubo
+kataas-taasan
+
+
+mga puno
+manunulat
+mga paratang
+komunikasyon
+
+nabuo
+mga opisyal ng gobyerno
+isinagawa
+mga relasyon
+transportasyon
+mga gawain
+apela
+mga artista
+
+
+
+
+abugado
+
+mga organisasyon
+
+nangangailangan
+siyentipiko
+mga pagsusulit
+pang-aabuso
+mga negosyo
+halalan
+mga pasilidad
+
+sektor
+mga kalye
+
+
+pananalapi
+mga katangian
+mga buwis
+mga gawa
+sasakyang panghimpapawid
+mga application
+inaresto
+
+
+
+pamamahagi
+mga dokumento
+
+mga ginang
+mga residente
+kita ng gobyerno
+mga tropa
+trak
+mga boto
+mga awtoridad
+
+nahalal
+pagpopondo
+ministeryo
+istadyum
+mga tindahan
+
+kulungan
+pagpapakamatay
+mga sasakyan
+bumoto
+pagboto
+mga pader
+alak
+kapulungan
+konserbatibo
+mga merkado
+
+mga oportunidad
+mga papel
+
+pang-edukasyon
+pasilidad
+pahayagan
+pagpipinta
+republika
+estadistika
+teritoryo
+mga nasa hustong gulang
+makaapekto
+hinirang
+armado
+mga pangyayari
+mga komunikasyon
+mga alalahanin
+dolyar na pera
+kasarian
+kanayunan
+isinagawa ang
+
+
+mga institusyon
+akademiko
+akademya
+kemikal
+
+oposisyon
+programming
+kinatawan
+pamamaraan
+transportasyon pampubliko
+bakuran
+mga ari-arian
+mga kandidato
+mamimili
+paglikha
+
+mga drayber
+trabaho pang-empleyo
+eksklusibo
+pagmamanupaktura
+tauhan
+punong ministro
+rebolusyon
+
+
+kinatawan ng pinuno
+mga doktor
+elektroniko
+pabrika
+
+batas pambatasan
+
+personalidad
+tingi
+mga barko
+mga manunulat
+
+mga ahensya
+kable
+mga pulitiko
+sa buong mundo
+pandagat
+de-motor
+libra
+reporma
+
+
+panlabas
+lisensya
+pampanguluhan
+mga kinatawan
+pagpapadala
+paninigarilyo
+singaw
+nagdusa
+teatro
+inampon
+kampus
+klinikal
+mga club
+
+may karapatan
+tara
+mga pautang
+plastik
+
+luma na
+kombensyon
+dokumento
+empleyado
+
+buwanan
+kapitbahayan
+mga regulasyon
+mga siyentipiko
+mga istasyon
+mga awtor
+gabinete
+uling
+
+kontemporaryo
+pagpuna
+
+isinampa
+sa kasaysayan
+pulgada
+hurado
+olimpiko
+pamayanan
+hinahanap
+unibersal
+gitara
+mga opisina
+pakikipagtulungan
+mga bayad
+
+bulsa
+mga sesyon
+mga istruktura
+mga sintomas
+
+silid
+
+
+
+pangangalagang pangkalusugan
+sambahayan
+mga tagapamahala
+pagiging miyembro
+probinsya
+binili
+pagtatasa
+
+mga korte
+
+balakang
+imprastraktura
+pagproseso
+riles
+mga botante
+administratibo
+kawanggawa
+mga direktor
+pagpapatupad
+kuta
+mga pamahalaan
+
+mga network
+olimpiyada
+palasyo
+potograpiya
+protesta
+publikasyon
+ayon sa pagkakabanggit
+mga katubigan
+pananakit
+kamalayan
+paliguan
+
+kongkreto
+
+mga inaasahan
+pagkakalantad
+itinampok
+garantiya
+kaligayahan
+mga puso
+perpekto para
+mga pinsala
+tenyente
+
+pagnanasa
+namimitas
+nalulugod
+pamamaraan ng proseso
+nagtutulak
+
+retirado
+mga papel na ginagampanan
+ipon
+naayos
+mga walang asawa
+
+
+bumibisita
+sahod
+mga pakpak
+abenida
+mga bag
+pambubugbog
+mga bloke
+sinusuri
+komisyoner
+
+
+mga kopya
+mga krimen
+kaugalian
+tinanggihan
+mesa
+
+mga episode
+mga magsasaka
+bakuran ng lupa
 ]==])
