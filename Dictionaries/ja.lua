@@ -101,15 +101,15 @@ abacus の 暴力的 見込み
 放棄 試練
 放棄 乗り物
 放棄 乗り物 オン 変身
-
+見捨てられた
 abandoned 血洗い 木箱 殺す クレジット
-
+逸脱
 アビリティ
 アビリティ
 能力 制御装置
-
-
-
+燃え上がる
+沐浴
+清め
 aboard その krom'gar 荷馬車
 解除 毒
 abom クレジット
@@ -150,8 +150,8 @@ abort 任務
 絶対に rinsed
 絶対に 気絶
 絶対に stunning
-
-
+赦免
+赦す
 吸収する
 吸収 アニマ
 吸収 血
@@ -201,7 +201,7 @@ abuse それ
 深淵 打撃
 深淵 投げる
 深淵 変身
-
+加速する
 加速
 加速 均衡 trillium 塊
 加速 天上の 布
@@ -220,10 +220,10 @@ abuse それ
 承認 その 招待
 accepting 蘇生
 accepting 精神 ヒーラー
-
+アクセス
 access 制御 操作卓
-
-
+順応
+達成
 に従って
 に従って へ
 に従って へ その 案内
@@ -248,7 +248,7 @@ aced それ
 acherus ポータル ダミー
 
 
-
+達成する
 achieve 走る
 実績
 実績 - 戦い 怒り と 怒り
@@ -310,7 +310,7 @@ aching 骨
 どんぐり
 どんぐり 成長
 どんぐり 投げる
-
+獲得した
 acquiring 対象
 acrid 嵐
 
@@ -393,7 +393,7 @@ actions 話す louder than 言葉
 有効 chat
 有効 タイル
 
-
+女優
 実際
 実際 ダメージ
 実際 dps
@@ -404,7 +404,7 @@ actions 話す louder than 言葉
 実際 laughed
 実際 ない 悪い
 実際2
-
+鍼
 
 adam テスト
 adamantine 殻
@@ -423,7 +423,7 @@ adamantine 殻
 アダマンタイト 研磨 石
 アダマンタイト 武器 連鎖
 アダマンタイト 研ぎ石
-
+適応する
 
 適応
 適応 装備
@@ -459,7 +459,7 @@ Adarrah'sブレス
 追加 召喚 視覚
 追加 へ participating percentage
 addicted へ これ ゲーム
-
+追加の
 addle 人型
 アドオン
 アドオン 言葉
@@ -478,7 +478,7 @@ address その 問題
 熟達 朱 縞瑪瑙
 熟達の エリクサー
 adherent's 決意
-
+アディオス
 adjules chow 時間
 adjunct sha 出現 視覚
 調整
@@ -486,12 +486,12 @@ adjunct sha 出現 視覚
 調整 その gears
 
 admiral's 帽子
-
+感心する
 認める
 
 adopt ある puppy
-
-
+かわいい
+愛された
 adorned sceptre ボス emote
 adornment の shells
 アドレナリン
@@ -508,11 +508,11 @@ adornment の shells
 高度 対象 ダミー パッシブ
 高度 対象 ダミー 出現 効果
 優位
-
+メリット
 
 adventurer's 到着
 Adventurer'sラッシュ
-
+冒険好き
 adverse 反応
 助言
 助言 予防 オーラ
@@ -550,23 +550,23 @@ aerialist's 蹴り
 aerie 決意
 aery 魂 捕獲
 aery 魂 捕獲 クレジット
-
+美的
 aetha 殺す クレジット
 エーテル 爆発
 エーテル 盾
 エーテル 視界
-
-
-
+私の知る限り
+肯定
+接辞
 affixes これ 週
 苦痛 ウォーロック
-
+余裕がある
 離席
 離席 確認
 離席 周回
 
 怖い
-
+アフリカ
 の後に
 後 ある 千 試みる
 後 全て
@@ -578,10 +578,10 @@ affixes これ 週
 お先にどうぞ
 後-market burners
 の後に燃焼
-
+アフターバーナー
 来世
 余波
-
+午後
 の後にショック
 
 再び
@@ -656,15 +656,15 @@ agogridon 殺す クレジット
 敵対 守護者
 敵対 守護者 オーラ
 敵対 守護者 script
-
-
+ああ
+あはは
 
 
 前方
 前方 の 彼の 時間
 前方 の その curve
 前方 の あなたの 時間
-
+あぁ
 ahh 了解
 ahn'kahet 火鉢 効果
 ahn'kahet 火鉢 殺す クレジット
@@ -703,7 +703,7 @@ aicast 召喚 taoshi
 狙う のための
 狙う の その 鉄 dwarves
 狙う へ 傷
-
+エイムボット使用
 エイムドショット
 空気
 空気 爆風
@@ -732,13 +732,13 @@ aicast 召喚 taoshi
 空気 vent
 空気 守り
 空気-へ-空気 rockets
-
+エアビーアンドビー
 
 airborne 毒素
 airdrop ある プリースト
 飛行機
 飛行機 皮
-
+空港
 airport 旗 中立 クリック
 飛空艇 大砲
 飛空艇 衝突 1
@@ -755,7 +755,7 @@ airport 旗 中立 クリック
 軽やかな 魂
 aiyu 視覚 オーラ
 ak テスト
-
+別名
 akali's 免疫
 akali's ritual の annihilation
 akali's 気絶
@@ -824,11 +824,11 @@ alexstrasza's 贈り物 ビーム
 alexstrasza's 贈り物 視覚
 alexstrasza's 存在
 
-
+藻
 algalon イベント ビーム
 algalon イベント ビーム climax
 algar 殺す クレジット
-
+アルゴリズム
 alicite 垂飾り
 align 円盤 アグロ
 整列 完了
@@ -875,7 +875,7 @@ align 円盤 アグロ
 全て 週末
 全て2
 allergic 反応
-
+アレルギー
 アライアンス
 アライアンス 大使
 アライアンス 風船
@@ -972,7 +972,7 @@ allergic 反応
 また
 また する
 また2
-
+サブキャラ
 alt アカウント
 alt キャラクター
 alt 友好的
@@ -1000,9 +1000,9 @@ alterac 谷 - 鉱山 捕獲
 変質 姿
 alternate 力 増加
 alternating 間欠泉
+あるいは
 
-
-
+けれども
 alumeth's 残骸
 いつも
 常に ここ
@@ -1023,7 +1023,7 @@ alysrazor 開始 呪文
 です 私 死亡
 amakkar's kidney 射撃
 amakkar's ポケット ポーション
-
+アマルガム
 amani 戦闘 熊
 amani ドラゴンホーク
 amani 力
@@ -1090,11 +1090,11 @@ amberfly 偶像
 ambermill メイジ 変身
 amberseed 殺す クレジット
 amberstill 防御 クレジット
-
+両利き
 環境 死体 錨 出現
 環境 死体 蜘蛛 出現
 環境 fx
-
+野心的
 アンブッシュ
 待ち伏せ きれい-上 消滅
 待ち伏せ イベント 発動
@@ -1103,7 +1103,7 @@ amberstill 防御 クレジット
 待ち伏せされた
 待ち伏せされた による thisalee
 待ち伏せされた 状態
-
+アメリカ
 紫水晶 過負荷
 紫水晶 petrification
 紫水晶 溜まり
@@ -1112,12 +1112,12 @@ ammen 谷 lashling
 弾薬
 弾薬 荷車 rockets
 Amnennar'sラス
-
+記憶喪失
 の中で
 色めいた
 色めいた rooster
-
-
+量
+増幅
 増幅器
 増幅 ダメージ
 増幅 炎
@@ -1134,8 +1134,8 @@ Amnennar'sラス
 anachronos 幻視 初期化
 anachronos 幻視 音楽
 分析 麻痺
-
-
+分析する
+忌み嫌うもの
 anatomical ダミー
 祖先 透明化
 祖先 視覚
@@ -1163,7 +1163,7 @@ ancestral 幻視
 錨 縄
 錨 へ skulls
 錨 視覚
-
+停泊した
 
 古代
 古代 琥珀
@@ -1229,13 +1229,13 @@ anduin's 壊れた 脚
 anemone 化学 抽出
 anemone 魚 守護者
 anemone 匂い 雲
-
-
-
+麻酔薬
+麻酔剤
+天使
 angel の 死
 angelic 防壁
 エンジェリックフェザー
-
+天使たち
 怒り
 怒り ビーム
 怒り 野営 鍵
@@ -1288,18 +1288,18 @@ animal 柱 武器
 動く 映画
 動く 打撃
 アニメ キャンセル
-
+アニメ
 
 足首 噛む
 足首 割れ目
 anklet と 黄金 bells
-
+全滅させる
 annihilate 悪魔
 
+殲滅
+殲滅者
 
-
-
-
+記念日
 告知
 告知 akkokoz 出現
 告知 shoxtik 出現
@@ -1307,7 +1307,7 @@ annihilate 悪魔
 告知 zul'farrak ゾンビ
 announcer 制御 オーラ
 
-
+イライラした
 迷惑
 迷惑 buzz
 迷惑 imp
@@ -1326,10 +1326,10 @@ Anson'sリチュアル
 答え はい 不正確
 
 
-
-
+アリ
+敵役
 antechamber テレポート
-
+賛歌
 anti 魔法 殻
 anti 魔法 地域
 anti-空気 大砲
@@ -1351,7 +1351,7 @@ anti-personnel 大砲
 anti-海賊 爆弾
 anti-毒液
 
-
+抗生物質
 
 anticipation の 戦争
 antimagic 脈動
@@ -1368,8 +1368,8 @@ anuniaq's 網
 anveena エネルギー 吸収
 anveena's 牢獄
 金床 クリック ダミー
-
-
+不安
+不安な
 anxious 突進
 どれでも
 どれか dps
@@ -1397,12 +1397,12 @@ anxious 突進
 いつでも
 とにかく
 とにかく2
-
+ともかく
 どこでも
 
 aod 特別
 aod 特別 - vegard
-
+範囲攻撃
 aoe 上限
 aoe ダメージ
 aoe 回復
@@ -1416,8 +1416,8 @@ aoe 召喚 プレイヤー カメラ ホード
 aoe テスト
 aoe その 雑魚
 離れて
-
-
+アパート
+無関心
 アペクシス 水晶 注入
 アペクシス emanations
 アペクシス 悟り
@@ -1426,15 +1426,15 @@ aoe その 雑魚
 アペクシス 召喚
 アペクシス vibrations
 
-
+黙示録
 apollo's 引き綱
 
 Apothecary'sバーニングウォーター
 Apothecary'sポイズン
 apparatus の khaz'goroth
-
+どうやら
 apparently 彼ら 言う
-
+亡霊
 
 
 appearance - ホード 詠唱者
@@ -1446,7 +1446,7 @@ appearance - ホード タンク
 林檎 滝 へ 地面
 林檎-berry hooch
 apples へ oranges
-
+応募者
 適用
 適用 anemone chemicals
 適用 銀色 子馬
@@ -1488,8 +1488,8 @@ apples へ oranges
 適用 誘惑 gland
 適用 へ ギルド
 applying その 誘い
-
-
+予約
+査定
 感謝
 感謝 それ
 感謝 その 招待
@@ -1516,8 +1516,8 @@ applying その 誘い
 見習い yufi
 接近
 接近 cautiously
-
-
+適切な
+およそ
 
 水 爆弾
 水 噴射
@@ -1795,12 +1795,12 @@ Archer'sグレイス
 弓術 対象 ダミー 乗り物 記録
 archimonde 炎
 Archimonde'sダークネス
-
+アーカイブの
 archivist's 紋章
 
 archmage altaeric 変身
 ArchmageVargoth'sリチュアル
-
+アーチ道
 弧を描く 爆風
 弧を描く 燃やす
 弧を描く エネルギー
@@ -1922,13 +1922,13 @@ ares 透明化
 間違いなく より良い
 間違いなく その 最高
 間違いなく その 最悪
-
+口論する
 議論
 argus 影 メイジ 変身
 argus' 日誌
 
 aria の 悪い luckydo
-
+生じる
 arlokk 変身
 腕
 腕 死亡 ダメージ kologarn
@@ -1939,13 +1939,13 @@ arlokk 変身
 腕 薙ぎ払い
 腕 自分
 armadillo 仔
-
+ハルマゲドン
 armed と 危険
 武装 土地 鉱山
 武装 視覚 橙
 武装 視覚 赤
 武装 視覚 黄色
-
+休戦
 armoire カメラ
 armoire 透明
 防具
@@ -1975,7 +1975,7 @@ armore カメラ
 装甲 snowy グリフォン
 装甲 titanium ゴーグル
 
-
+鎧職人
 武器
 武器 後ろ 戻る
 武器 戦士
@@ -1988,15 +1988,15 @@ arngrim's 歯
 aronus カスタム 騎乗
 の周りに
 周り 三十
-
-
+手配する
+逮捕
 arrest 信者
 到着
 到着 の その naaru
 
 
-
-
+傲慢
+傲慢な
 アロー
 矢 強襲
 矢 詠唱 円錐 テスト
@@ -2096,9 +2096,9 @@ aryna テレポート
 として よく
 として よく として
 として あなた 願い
-
+至急
 asaq conversation クレジット
-
+昇る
 ascend へ その 天
 アセンダンス
 ascendant 打撃
@@ -2140,7 +2140,7 @@ ashtongue 波 b
 ashweb 蜘蛛の巣
 ashwing 蛾
 
-
+アジア
 asira 降りる
 asira 竜 力 asira へ 降りる
 聞く
@@ -2153,7 +2153,7 @@ asira 竜 力 asira へ 降りる
 尋ねる mystic birdhat へ 去る
 尋ねる2
 尋ねた
-
+尋ねる
 眠っている オン その 仕事
 アスペクト
 様相 の arlokk
@@ -2174,7 +2174,7 @@ asira 竜 力 asira へ 降りる
 様相 の venoxis
 様相 位相 呪文
 様相
-
+窒息させる
 
 ケツ
 尻 道化
@@ -2194,7 +2194,7 @@ asira 竜 力 asira へ 降りる
 暗殺者の 視界
 暗殺者の 視界 装飾
 暗殺者の 忍び寄る
-
+暗殺する
 
 暗殺
 暗殺 イベント 初期化
@@ -2224,12 +2224,12 @@ assaulter 投げる にて 私
 援護
 援護 チャンピオン
 援護 その タンク
-
+アシスタント
 
 assuming それ
-
-
-
+小惑星
+喘息
+驚くべき
 astral 整列
 astral 防具
 astral 防具 視覚
@@ -2290,13 +2290,13 @@ Atal'aiポイズン
 atal'ai 骸骨 トーテム
 食べた
 食べた と 左 いいえ crumbs
-
+陸上競技
 atiesh 視覚
 
-
+贖罪
 atrophic 一撃
 atrophic 毒
-
+萎縮
 取り付け 電池 1
 取り付け 電池 2
 取り付け 大砲 球 1
@@ -2468,7 +2468,7 @@ attacked プレイヤー
 攻撃者 回復 吸収 バグ
 攻撃者 ただ 左
 攻撃者 オン 私
-
+攻撃中
 attacking プレイヤー
 試み
 
@@ -2477,8 +2477,8 @@ attacking プレイヤー
 注意 範囲
 注意 範囲 損失
 注意 範囲 失った
-
-
+減衰させる
+減衰
 態度
 引き寄せる
 引き寄せる eel
@@ -2498,18 +2498,18 @@ attacking プレイヤー
 同調 へ 自然 2 dose 軽減
 同調 へ 自然 25 dose 軽減
 同調 へ その 核
-
+同調中
 
 オークション
 オークションハウス
-
+オーディオブック
 うわ
 増強 苦痛
 増強 ルーン
 増強 視界
 augmented 現実
 august 天上者 壮大 表彰
-
+おば
 auntie stormstout 装飾
 オーラ
 オーラ ビーム テスト
@@ -2575,7 +2575,7 @@ aural 衝撃
 厳格 大地の包囲 ダイヤ
 厳格 原初 ダイヤ
 厳格 影霊 ダイヤ
-
+オーストラリア
 
 自動 攻撃
 自動 炎
@@ -2586,9 +2586,9 @@ aural 衝撃
 自動 翻訳
 自動 ワンド
 自動-修理
-
-
-
+自伝
+オートキャノン
+オートコレクト
 autocorrect 得た 私
 autokill 鷹
 automated シュレッダー 死 notify
@@ -2601,13 +2601,13 @@ automatic 修理 ビーム
 秋 花 sapling 視覚
 秋 花 花火
 av クエスト 透明 種類 ある
-
+雪崩
 アバター
 アバター の 絶望
 アバター の 炎
 アバター の hakkar は 召喚された
 アバター の jade
-
+復讐する
 復讐者 審判 ボーナス
 アヴェンジャーシールド
 復讐者の trillium 脚甲
@@ -2616,7 +2616,7 @@ av クエスト 透明 種類 ある
 報復 激怒
 報復 精霊
 アヴェンジングラス
-
+平均
 avert 害
 
 Aviana'sウィル
@@ -2625,7 +2625,7 @@ Aviana'sウィル
 回避 その ビーム
 回避 その 光線
 回避 その 整備士
-
+回避可能
 
 avoidance の その 蛇
 avruu's 宝珠
@@ -2673,7 +2673,7 @@ awaiting 救助
 報酬 武勇 1000
 報酬 武勇 500
 報酬 ysondre 殺す クレジット
-
+気づいている
 離れて から
 離れて から その ボス
 すげー
@@ -2681,7 +2681,7 @@ awaiting 救助
 最高 ポーション
 最高2
 ひどい
-
+気まずい
 
 
 斧
@@ -2699,12 +2699,12 @@ axis model - 宝箱 血 戻る
 Aynasha'sアロー
 Aynasha'sボウ
 Aynasha'sルート
-
+よっ
 aysa おめでとう タイマー
 aysa 墜落 船 守護者 オーラ
 aysa 守護者 オーラ
 aysa 風 chamber 守護者 オーラ
-
+あいっ
 アゼロス
 アゼロス 燃焼
 azil 視覚
@@ -2752,7 +2752,7 @@ Bomber onSpawn
 赤ん坊 香辛料
 babysitting 猛禽
 
-
+独身男性
 後ろに
 戻る と forth
 戻る にて その 開始 再び
@@ -2789,14 +2789,14 @@ babysitting 猛禽
 戻る へ その 点
 戻る 明日
 戻る 上
-
-
-
+腰痛
+背骨折り
+バックドラフト
 逆効果
 background オーラ
 後ろに手
 
-
+反発
 背嚢
 背嚢 状態
 背嚢 視覚
@@ -2805,9 +2805,9 @@ backslash 照準
 バックスタブ
 予備
 予備 襲撃者
+後ろ向き
 
-
-
+細菌
 悪い
 悪い 尻
 悪い 態度
@@ -2839,13 +2839,13 @@ backslash 照準
 悪い winner
 悪い2
 悪い3
-
+悪役
 記章 の kypari zar
 記章 の その 守護者
 記章 の その swarmguard
 badger メダル
 荒れ地
-
+ひどく
 bael'dun 業火
 bael'gar's 燃える 精髄
 baelog's valhalla 射撃
@@ -2863,7 +2863,7 @@ baine's トーテム
 餌 その ボス
 餌 彼ら
 
-
+焼く
 bake ムルゴア 香辛料 パン
 焼いた manta 光線
 焼いた rockfish
@@ -2890,7 +2890,7 @@ baker チーム broadcast 達人
 均衡 trillium 塊
 均衡 trillium 塊 と その uses
 均衡 野生 jade
-
+たわごと
 bale 打撃
 baleful 打撃
 baleroc 変身
@@ -2921,7 +2921,7 @@ balnazzar 変身
 balnazzar 変身 気絶
 
 Bambina'sヴェンジェンス
-
+騙された
 
 ban それ
 ban taunts ある mogu
@@ -2949,7 +2949,7 @@ Hate Dummy
 帯 の その 永遠 sage
 帯 の 武勇
 包帯
-
+包帯を巻いた
 
 帯それは guile
 bandit's 記章
@@ -2974,7 +2974,7 @@ banging その gong
 追放 状態 大きい 黄色
 追放 状態 小さい 黄色
 追放 thundering 追放
-
+追放された
 banished から shattrath 都市
 追放
 追放 の 鱗
@@ -3031,7 +3031,7 @@ barbecued buzzard 翼
 棘付き 網
 棘付き 射撃
 棘付き 刺す
-
+とげ
 かろうじて
 かろうじて 生存
 かろうじて 作った それ
@@ -3070,7 +3070,7 @@ baroque 剣 scabbard
 樽 オフ
 樽 照準
 樽 投げる
-
+突進した
 barreled 制御 オーラ
 
 barrens 開花
@@ -3082,13 +3082,13 @@ barrens 迅速
 障壁 の 光
 障壁 構え
 barrrage の 炎
-
+物々交換
 
 
 base 野営 印
 base 隠密
 base 視覚
-
+野球
 基づく
 基づく と redpilled
 基づく オン
@@ -3100,14 +3100,14 @@ base 視覚
 bash'ir phasing 装置
 basic 攻撃 集中 費用 modifier
 basic くそ
-
+基本的に
 バジリスク liverdog
 バジリスク 見本
 バジリスク 皮
 バジリスク 足跡
 籠 爆発
 籠 の crocs
-
+バスケットボール
 bassgut 呼吸
 
 やろう
@@ -3123,7 +3123,7 @@ bathed 内 光
 bathed 内 激怒
 風呂
 風呂 破壊
-
+衣
 
 battering 雄羊
 電池
@@ -3253,7 +3253,7 @@ battok 変身
 ビーム へ zelfrax
 ビーム 視覚
 beaming 大地の包囲 ダイヤ
-
+豆
 熊
 熊 animal
 熊 防具
@@ -3301,7 +3301,7 @@ beaming 大地の包囲 ダイヤ
 獣の 印
 beastcaller 投げる
 獣 甲板
-
+獣殺し
 打つ
 打つ ある 死亡 馬
 打つ 下
@@ -3319,7 +3319,7 @@ beaver 平手打ち
 なぜなら の
 beckon の anachronos
 beckon 七面鳥
-
+手招きした
 
 なる
 なる ボス 影
@@ -3328,9 +3328,9 @@ beckon 七面鳥
 なる ストームウィンド harbor 守護者
 なる2
 寝台
-
-
-
+寝室
+蜂
+牛肉
 beehive 状態
 だった
 だった ある 間
@@ -3347,7 +3347,7 @@ beehive 状態
 ビール 配達
 ビール ゴーグル
 ビール-basted クロコリスク
-
+甲虫
 beetle 穴掘り
 
 の前に
@@ -3370,14 +3370,14 @@ befriend 紺碧 whelping
 開始 korrah's tour
 beginner 友好的
 始まり
-
+惑わす
 behemoth 突撃
 の後ろに
 後ろ オン episodes
 後ろ その 柱
 後ろ その 回
 後ろだ
-
+ベージュ
 存在
 存在 eaten
 存在 sarcastic
@@ -3391,7 +3391,7 @@ bejeweled 魔法使いの 腕輪
 信じる それ または ない
 信じる 私
 信じる 我々 できる 勝利
-
+信じた
 
 鐘
 鐘 詠唱
@@ -3425,11 +3425,11 @@ belrysa's 護符
 長椅子
 長椅子 その プレイヤー
 長椅子 warmer
+ベンチに下げられた
 
+祝祷
 
-
-
-
+特典
 バーサーク
 狂戦 vo 発動
 バーサーカーオーラ
@@ -3452,7 +3452,7 @@ berzerker 炎 爆発
 besalt ウサギ 呪文 出現装置
 beseech 祝福
 の隣に
-
+包囲する
 最高
 最高 場合 シナリオ
 最高 deals どこでも
@@ -3482,7 +3482,7 @@ beseech 祝福
 bestial 誇り
 獣の 咆哮
 ビースティアルラス
-
+親友
 bestie 挙動
 bestow 血
 授与 の angerforge
@@ -3493,8 +3493,8 @@ bestow 血
 授与 の moltenfist
 授与 の shadowforge
 授与 の thaurissan
-
-
+賭け
+ベータ
 beta 男性
 Bethekk'sブレッシング
 bethod's 剣 挑戦
@@ -3529,9 +3529,9 @@ bfgc 完了
 bg 弾けた
 bg 援軍 - ondeath proc オーラ
 
-
+偏見
 自転車
-
+入札
 bidding 金
 大きい
 大きい 赤ん坊
@@ -3595,7 +3595,7 @@ bilgewater cartel 旗
 bilgewater チャンピオン
 bilgewater 表彰 writ
 bilious 醸造 息
-
+十億
 
 billy 山羊 爆風
 束縛
@@ -3641,9 +3641,9 @@ bindings の 稲妻 reflexes
 bindings の 服従
 binge 見る
 bio 破壊
-
-
-
+伝記
+生物学
+生物発光
 
 bipsi's 手袋
 鳥
@@ -3661,12 +3661,12 @@ bipsi's 手袋
 誕生日 ケーキ
 誕生日 パーティ
 birthing 炎
-
+最強装備
 bis 装備
 あま
-
-
-
+愚痴
+不機嫌な
+ビットコイン
 噛む
 噛む knut
 噛む 私
@@ -3907,7 +3907,7 @@ blanche's ブーマー 醸造 力 バー
 blanche's ブーマー 醸造 力 ボタン
 blanche's エリクサー の replenishment
 blanched 針 茸
-
+毛布
 ブラスト
 爆風 ノヴァ
 爆風 の 空気
@@ -3918,8 +3918,8 @@ blanched 針 茸
 ブラストウェイヴ
 爆風-brewed
 blastbarrel 乗組員 起爆剤
-
-
+爆竹
+吹き飛ばされた
 荒廃の大地
 blasterboot 跳躍 01
 blasterboot 跳躍 02
@@ -3998,7 +3998,7 @@ bleakwood 呪い
 出血 心臓
 出血 外
 出血 傷
-
+うぇ
 祝福された
 祝福された 金床
 ブレスドブレイサー
@@ -4023,7 +4023,7 @@ bleakwood 呪い
 祝福された trillium greaves
 祝福された 武器 coating
 祝福された 魔法使い 油
-
+至福
 ブレッシング
 祝福 の a'dal
 祝福 の aessina
@@ -4149,9 +4149,9 @@ blightguard 除去 変装
 盲目 地点
 盲目 打撃
 盲目 幼竜
-
+目がくらんだ
 blinded による 激怒
-
+目隠し
 blindfold 像
 目くらまし 泥
 目くらまし 塵
@@ -4166,7 +4166,7 @@ blindfold 像
 目くらまし 毒素
 目くらまし 蜘蛛の巣
 ブラインド側
-
+不意を突かれた
 
 blingtron 音楽
 ブリンク
@@ -4185,7 +4185,7 @@ blinking 爆発 導火線
 焼けつく 腐敗
 焼けつく 触手 騎乗 乗り物
 焼けつく 傷
-
+電撃戦
 blitz 召喚
 blitz 召喚 発動
 blitzkrieg 初期化
@@ -4248,8 +4248,8 @@ bloating 醸造
 ブロック2
 blockade 爆発 ウサギ - 炎
 blockade 爆発 ウサギ - 水
-
-
+ブロックされた
+ブロック中
 blonde 騎乗 ヤク
 血
 血 と 雷
@@ -4365,7 +4365,7 @@ blonde 騎乗 ヤク
 ブラッドバス
 ブラッドバス ボタン
 bloodbathed frostbrood 征服者
-
+ブラッドベリー
 血沸騰
 血ボルト
 bloodbolt 飛沫
@@ -4422,7 +4422,7 @@ bloodhilt 殺す クレジット
 血まみれ ワーム皮 兜
 血まみれ ワーム皮 脚
 血まみれ ワーム皮 肩当て
-
+瀉血
 Bloodlord'sオーラ
 ブラッドラスト
 血の渇き 状態
@@ -4461,7 +4461,7 @@ bloodspore 毒
 血石 帯
 血石 テレポート
 血ストーム
-
+血の高まり
 bloodtalon 幼体 オーラ
 bloodtalon 笛
 ブラッドサースト
@@ -4548,7 +4548,7 @@ bloodtalon 笛
 
 
 
-
+血毒
 bloodvine ブーツ
 bloodvine ゴーグル
 bloodvine レギンス
@@ -4581,7 +4581,7 @@ bloodvine 胴着
 血まみれ 水 装飾
 開花
 開花 月 蓮
-
+咲いている
 花
 花 照準
 blossoming 古代
@@ -4703,7 +4703,7 @@ bluetip メダル
 崖
 崖 クエスト クレジット
 鈍い
-
+ぼかし
 blurred 速度
 blurring 斬撃
 blushleaf 残留物
@@ -4733,7 +4733,7 @@ boarding sub 殺す クレジット
 船 テレポート
 bobbing のための apples
 bodacious 扉 knocker
-
+ボコボコにされた
 bodily 浄化
 体
 体 と 魂
@@ -4742,7 +4742,7 @@ bodily 浄化
 体 引く
 体 叩きつけ
 体 切替
-
+ボディブロー
 
 bog 鞭打ち
 bogblossom ノックバック
@@ -4779,7 +4779,7 @@ boiled 貝
 大胆 蛇の 目
 
 
-
+強化中
 bolstering 存在
 ボルト
 矢 突撃 茨
@@ -4871,8 +4871,8 @@ bombed それ
 bonechewer 噛む
 bonechewer 腐敗
 bonechilling 吹雪
-
-
+骨砕き
+骨挽き
 bonereaver's 刃
 骨 の bwonsamdi
 骨 の bwonsamdi オーラ
@@ -4880,14 +4880,14 @@ bonereaver's 刃
 
 bonescythe 胸当て
 bonescythe 宝箱
-
+骨棘
 
 焚き火 変装
 焚き火 superbuff
 焚き火の 祝福
 焚き火の 祝福 キャンセル
-
-
+ゴツン
+狂ってる
 ボーナス
 bonus burial trove 鍵
 bonus 回避
@@ -4910,8 +4910,8 @@ boogaloo 爆発
 本 の 星
 本 の 生存
 本 の その ages
-
-
+予約受付
+ブックマークした
 本お店
 爆発
 爆発 ブーツ
@@ -4925,7 +4925,7 @@ boogaloo 爆発
 爆発 視覚
 老害
 ブーマー 醸造 打撃
-
+ブーメラン
 boomerang 稲妻 矢
 booming 声
 boomshroom 爆発
@@ -4935,7 +4935,7 @@ boomshroom 爆発
 恩恵 の その loa
 増強
 ブースト
-
+ブースター
 boosting 奉仕
 ブーツ heel と scrollwork
 ブーツ へ その 頭
@@ -4957,7 +4957,7 @@ boosting 奉仕
 ブーツ の wintry 持久力
 
 booze 吐く
-
+叩かれた
 
 borderline 実行可能
 退屈させる
@@ -5145,7 +5145,7 @@ borer 訓練
 ボス3
 ボス
 ボット
-
+両方
 both と
 
 botm - 泡 醸造 - 弾ける
@@ -5169,7 +5169,7 @@ botm - flowery 醸造 - 育つ
 底 段階
 bottomless 袋
 bottomless 穴
-
+買った
 bought その アカウント
 岩
 岩 強襲
@@ -5195,7 +5195,7 @@ bouncer 球
 跳ねる 矢 bounced
 跳ねる 矢 発動
 跳ねる 突撃
-
+弾む
 束縛
 束縛 炎
 束縛 servant
@@ -5213,7 +5213,7 @@ bounty の その 収穫
 弓
 弓 へ 私
 椀
-
+ボウルたち
 bowmen ダミー
 
 bowmen 包み込む マンティッド
@@ -5223,11 +5223,11 @@ bowmen 包み込む マンティッド
 箱
 箱 の 爆弾
 boxed 爆発 爆発
-
+ボクシング
 男の子
 男の子2
-
-
+彼氏
+男の子たち
 
 bracelet の jade と coins
 腕当て
@@ -5268,7 +5268,7 @@ braised 亀
 茨 殺す
 茨 snatch
 bramblescar 成長 召喚
-
+茨の杖
 bramblewood ベルト
 bramblewood ブーツ
 bramblewood 兜
@@ -5281,13 +5281,13 @@ brann 飛行 位相 目印
 brann 体力 検査器
 brann 合図 へ 自己
 brann 変身
-
+虚勢
 勇敢な
 brave's 閃光
 brave's 閃光 効果
 bravo 仲間 broadcast
 bravo 仲間 野原 道具
-
+乱闘
 brawl ボス 勝利 反撃
 brawler 爆発
 brawler 部品 00
@@ -5309,8 +5309,8 @@ brazie's accelerating グリフォン
 火鉢 lit
 火鉢 の 踊る 炎
 火鉢 煙
-
-
+ブラジル
+ブラジル人
 すぐ戻る
 すぐ戻る 二 分
 突破 防具
@@ -5391,7 +5391,7 @@ breakin' 物
 息 の その 黒 王子
 息 の その ドラゴン
 息 の y'shaarj
-
+呼吸する
 breathe 深い
 呼吸 exercise
 呼吸 炎
@@ -5493,7 +5493,7 @@ brewfest 乾杯
 brewfestive 祝日 騎乗animal
 
 ブリュー兜
-
+醸造
 brewing 視覚
 醸造乙女 消滅 制御 オーラ
 醸造乙女 spotlight
@@ -5512,7 +5512,7 @@ brewmoon festival テレポート
 
 
 brianna's experimental 呪文
-
+賄賂
 橋
 橋 イベント
 bridges 燃えた
@@ -5608,13 +5608,13 @@ bristlepine den オーラ
 兄弟 何
 兄弟2
 broadcast 水晶 伝言
-
+舷側砲
 brogg's トーテム
 炙った bloodfin
 炙った ドラゴン 宴
 炙った 山 鱒
 broiling lava オーラ
-
+金欠
 broke その 記録
 壊れた
 壊れた として 地獄
@@ -5682,7 +5682,7 @@ broomstick 変身
 兄弟
 兄弟2
 兄弟3
-
+持ってきた
 茶色
 茶色 ドラゴン 亀
 茶色 elekk
@@ -5705,12 +5705,12 @@ broomstick 変身
 茶色 狼
 おい
 おい 瞬間
-
+あざ
 bruiser 眠る
 bruising 一撃
 brunnhildar 変装
 
-
+ブラシ
 野火
 野火 燃やす オーラ
 野火 燃えた 範囲 visualization
@@ -5741,7 +5741,7 @@ brutallus 死 雲
 brutusk 射撃
 brutusk 連鎖 稲妻
 brutusk 召喚 オーラ
-
+ところで
 泡
 泡 と abscess 召喚 - 達人
 泡 ビーム
@@ -5767,8 +5767,8 @@ brutusk 召喚 オーラ
 泡 噴射
 泡 罠 死 オーラ
 泡 上
-
-
+バブルビーム
+泡に包まれた
 泡
 泡立つ
 泡立つ 琥珀
@@ -5787,7 +5787,7 @@ buck 右 警告
 バケツ 土地
 バケツ 一覧
 バケツ の meaty 犬 食料
-
+暴れる
 budd ダミー 01
 budd ノックバック
 budd nedreck - 投げる 小瓶
@@ -5795,7 +5795,7 @@ budd's 注意 範囲
 budd's 忍び寄る
 buddied 上
 相棒
-
+予算
 
 バフ
 バフ 食料
@@ -5850,8 +5850,8 @@ buffeting 風 の susurrus
 建物 速度
 建物 速度 効果
 建物 速度 発動
-
-
+ビルド
+建てられた
 bulging 袋 の charms
 bulging 喧嘩屋の purse
 bull 突進
@@ -5861,7 +5861,7 @@ bulldozer 祓魔 殺す クレジット
 弾丸 制御装置 周期的
 弾丸 制御装置 召喚 効果 闇
 弾丸 召喚 発動
-
+頑固な
 でたらめ
 防壁
 防壁 変装
@@ -5878,14 +5878,14 @@ bungie 跳躍 01
 ウサギ 焼身
 ウサギ 騎乗 乗り物
 
-
+ブイ
 
 burd sticker 衝撃
 重荷 の 永遠
 重荷 の guilt
 重荷 の proof
 重荷 の その 王冠
-
+ハンバーガー
 burgy blackheart's handsome 帽子
 burgy blackheart's 海賊 帽子
 burlap 跡 待ち伏せ 引く
@@ -6031,9 +6031,9 @@ burninate 殺す クレジット
 燃焼 傷
 燃焼 傷
 バーニングラス
-
+燃え尽き
 burnt 木 視覚
-
+げっぷする
 穴掘り
 穴掘り 攻撃
 穴掘り 離れて
@@ -6045,7 +6045,7 @@ burnt 木 視覚
 穴掘り 内 へ 支配 点
 穴掘り 準備
 穴掘り 視覚
-
+穴を掘る
 バースト
 爆発 にて その seams
 爆発 ダメージ
@@ -6067,7 +6067,7 @@ burnt 木 視覚
 爆発 の 速度
 爆発 の 速度 - permanent
 爆発 射撃
-
+破裂
 bursting 誇り
 bursting 種
 buru 変身
@@ -6077,10 +6077,10 @@ buru 変身
 埋める その hatchet
 バス
 バス 止める
+茂み
 
 
-
-
+バレた
 忙しい
 忙しい 忙しい
 忙しい 後で
@@ -6092,9 +6092,9 @@ butcher 薙ぎ払い
 butcher 吸収
 
 
-
-
-
+お尻
+バター
+蝶
 ボタン 1
 ボタン 10
 ボタン 2
@@ -6115,10 +6115,10 @@ buttress 罠
 買います
 買います ある 走る
 買います materials
-
+買い取り
 buzzard 噛む
 buzzer 強制詠唱
-
+丸のこ
 
 bwemba's 援助
 bwonsamdi 骨 dot
@@ -6144,7 +6144,7 @@ c'est la vie 長い
 c-14 gauss ライフル
 caber 衝撃
 caber 投げる
-
+高笑い
 
 cackling 遠吠え
 死体 collage hover
@@ -6152,11 +6152,11 @@ cackling 遠吠え
 死体 投げる
 死体 虫
 
-
+カフェ
 檻 捕獲 暗転 オーラ
 檻 罠
 檻 罠 - 召喚
-
+檻に入れられた
 
 caimas 起動 卵
 caimas 周期的
@@ -6164,14 +6164,14 @@ cairne pyre クレジット
 
 ケーキ
 caladis brightspear 透明化
-
+災難
 calcinder 炎 視覚
+計算する
 
-
-
+計算された
 calculated 回復
-
-
+計算
+電卓
 caledis's 変装
 calen 人型 変身
 calico 猫
@@ -6355,7 +6355,7 @@ calico 猫
 呼び出し ワームレスト 征服者
 呼び出し xink's シュレッダー
 呼び出し2
-
+呼んだ
 called それ
 呼びかけ blaithe
 呼びかけ のための 空気 支援
@@ -6370,7 +6370,7 @@ called それ
 呼びかけ その 隊商
 呼びかけ wildhammer グリフォン 騎手
 呼びかけ 全滅
-
+冷酷さ
 呼ぶ
 呼ぶ のための 援助
 静める
@@ -6384,8 +6384,8 @@ called それ
 静める その 嵐
 calming 下
 calming 歌 の その 歌手
-
-
+カロリー
+来た
 came から どこにもない
 駱駝 小像 呪文 効果
 駱駝 粉砕
@@ -6479,7 +6479,7 @@ came から どこにもない
 できない 種類 速い
 できない 作業
 できる2
-
+カナダ
 キャンセル 85149
 キャンセル 起動
 キャンセル agatha
@@ -6616,7 +6616,7 @@ came から どこにもない
 キャンセル wrynn オーラ
 キャンセル zazzo's auras
 キャンセル 地域 オーラ
-
+キャンセルされた
 
 
 
@@ -6626,7 +6626,7 @@ candied 甘い potato
 
 canh's 宝
 canned 熱
-
+共食いする
 cannibalize 肉 視覚
 cannibalize 視覚
 大砲
@@ -6683,8 +6683,8 @@ canyon ettin 出現 呪文
 上限 その 旗
 上限 その 鉱脈
 上限 あなたの 命中
-
-
+有能な
+静電容量
 蓄電器 放電
 蓄電器 過負荷
 蓄電器 トーテム
@@ -6739,7 +6739,7 @@ capper ボス 跳躍
 捕獲 トーテム 周期的
 捕獲 野生 駱駝
 捕獲 ヤク
-
+捕獲中
 
 
 車
@@ -6763,11 +6763,11 @@ capper ボス 跳躍
 隊商 準備完了
 隊商 視覚
 
-
-
+炭酸化
+炭水化物
 carcanet の その 百 magi
 
-
+有酸素運動
 世話
 慎重
 慎重 狙う

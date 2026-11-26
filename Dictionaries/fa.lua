@@ -101,15 +101,15 @@ abacus از violent odds
 رها آزمون
 رها vehicle
 رها vehicle روشن poly
-
+رهاشده
 abandoned bloodwash جعبه کشتن اعتبار
-
+انحراف
 توانایی‌ها
 توانایی
 توانایی کنترلر
 
-
-
+وضو
+شست‌وشو
 aboard krom'gar wagon
 abolish زهر
 abom اعتبار
@@ -131,7 +131,7 @@ above سقف
 above آب
 above صفر
 
-
+غایب
 مطلق
 مطلق banger
 مطلق certitude
@@ -150,7 +150,7 @@ above صفر
 کاملا rinsed
 کاملا گیج
 کاملا stunning
-
+آمرزش
 
 جذب
 جذب anima
@@ -183,7 +183,7 @@ above صفر
 absorbed خون
 جذب
 جذب سپر
-
+مضحک
 abuse آن
 ژرف کیف
 ژرف clam
@@ -201,14 +201,14 @@ abuse آن
 ژرف ضربه
 ژرف پرتاب
 ژرف تبدیل
-
-
+شتاب دادن
+شتاب‌یافته
 
 accelerated آسمانی پارچه
 accelerated hardened magnificent پنهان
 
 
-
+شتاب
 
 
 accept آن
@@ -216,20 +216,20 @@ accept مأموریت
 accept صف
 
 
-
+پذیرفته‌شده
 accepted دعوت کن
 
 accepting روح شفادهنده
-
+دسترسی
 access کنترل console
+سازگاری با محیط
 
-
-
+طبق
 according به
 according به guide
 حساب
 حساب sharing
-
+دقت
 
 دقیق
 دقیق demonseye
@@ -248,7 +248,7 @@ aced آن
 acherus دروازه عروسک
 
 
-
+رسیدن به
 achieve فرار کن
 دستاورد
 دستاورد - مبارزه خشم با خشم
@@ -307,21 +307,21 @@ aching استخوان‌ها
 اسیدی ضربه
 اسیدی sweat
 اسیدی زخم
-
+بلوط دانه
 acorn رشد
 acorn پرتاب
-
+کسب‌شده
 acquiring هدف
 acrid طوفان
 
 across transborea کامل
-
+عمل کردن
 act اکنون
 act روشن من فراخواندن
 act تو age
 
 acting مانند یک clown
-
+اقدام
 
 
 actions داشتن consequences
@@ -392,20 +392,20 @@ actions داشتن consequences
 فعال تقویت
 فعال گفتگو
 فعال tile
-
-
-
+بازیگر
+بازیگر زن
+واقعی
 actual آسیب
 actual دی‌پی‌اس
 actual شفا
-
+در واقع
 
 
 
 actually نه بد
 
-
-
+طب سوزنی
+آگهی
 adam آزمایش
 
 
@@ -423,9 +423,9 @@ adamantite زره دستکش
 adamantite sharpening سنگ
 adamantite سلاح زنجیر
 
+وفق دادن
 
-
-
+تطبیقی
 adaptive تجهیزات
 adaptive محافظت
 adarrah حباب
@@ -459,12 +459,12 @@ adarrah's نفس
 افزودن احضار بصری
 افزودن به participating percentage
 addicted به این بازی
+اضافی
 
 
 
-
-
-
+افزونه‌ها
+نشانی
 address issue
 دشمنان
 دشمنان دارن میان
@@ -481,40 +481,40 @@ adept's اکسیر
 
 adjules chow زمان
 adjunct sha ظهور بصری
-
+تنظیم کردن
 
 adjust gears
 
 admiral's کلاه
-
-
+تحسین کردن
+اعتراف کردن
 
 adopt یک puppy
-
-
+دوست‌داشتنی
+ستایش‌شده
 adorned sceptre رئیس حرکت
 adornment از shells
-
+آدرنالین
 adrenaline بمب
 adrenaline یورش
-
-
+بزرگسال
+پیشروی
 advance به step 3
-
+پیشرفته
 advanced deepdive کلاه‌خود
 
 advanced هدف عروسک
 advanced هدف عروسک - رویداد 003
 advanced هدف عروسک غیرفعال
 advanced هدف عروسک ظهور اثر
-
-
-
+برتری
+مزایا
+ماجراجویی
 
 adventurer's یورش
+ماجراجو
 
-
-
+نصیحت
 advice prevention هاله
 ae طلسم
 
@@ -540,7 +540,7 @@ aeonaxx سقوط animation
 aeonaxx whelp آسیب reduction هاله
 aeonaxx whelp احضار
 aeosera کشتن اعتبار
-
+هوایی
 aerial یورش auto-load
 
 aerial جهش
@@ -550,23 +550,23 @@ aerialist's لگد
 
 aery روح اسیر
 aery روح اسیر اعتبار
-
+زیبایی‌شناسی
 aetha کشتن اعتبار
 aether انفجار
 aether سپر
 aether بینایی
-
-
-
+تا جایی که می‌دانم
+مثبت
+پسوند
 affixes این week
 
-
+استطاعت داشتن
 
 afk بررسی
 
 
-
-
+ترسیده
+آفریقا
 
 after یک thousand tries
 after همه
@@ -578,10 +578,10 @@ after کشیدن
 after تو
 after-بازار burners
 
+پس‌سوز
 
 
-
-
+بعدازظهر
 
 
 
@@ -593,7 +593,7 @@ against norm
 agamaggan's چابکی
 agamaggan's قدرت
 
-
+سن
 age از
 aged dalaran تیز wheel
 agent townsley اعتبار
@@ -601,7 +601,7 @@ aggra هدایت
 aggra انتقال
 
 aggresive جهش
-
+پرخاشگر
 
 aggressive زهر
 خشم
@@ -624,7 +624,7 @@ aggressive زهر
 خشم thrall
 خشم زباله
 
-
+چابک
 
 agile تمرکز
 agile ابتدایی diamond
@@ -640,7 +640,7 @@ agile سایهروح diamond
 چابکی viii
 
 agmar نامرئی
-
+پیش
 agogridon کشتن اعتبار
 agonizing زره
 agonizing شعله‌ها
@@ -651,20 +651,20 @@ agony و anima
 agony و torment
 agony از افتاده cultist
 
-
+توافق‌شده
 
 
 agro protectors هاله
 
-
-
+آه
+آها
 
 
 جلو
 جلو از his زمان
 جلو از curve
 جلو از تو زمان
-
+آخ
 
 ahn'kahet brazier اثر
 ahn'kahet brazier کشتن اعتبار
@@ -694,7 +694,7 @@ aicast stealing کارفروشگاه orders
 aicast احضار guiding mist
 aicast احضار داغ هوا balloon
 aicast احضار taoshi
-
+یاری
 aid از خاکی
 aid از frostwolf دوربین
 
@@ -703,7 +703,7 @@ aid از frostwolf دوربین
 نشانه برای
 نشانه از آهن dwarves
 نشانه به زخم
-
+ایمباتینگ
 aimed شلیک
 هوا
 هوا انفجار
@@ -732,13 +732,13 @@ aimed شلیک
 هوا vent
 هوا طلسم
 هوا-به-هوا rockets
-
+ایربی‌ان‌بی
 
 airborne سم
 airdrop یک priest
 
 airplane پوست
-
+فرودگاه
 airport پرچم neutral click
 airship توپ
 airship برخورد 1
@@ -755,7 +755,7 @@ airship انتقال
 airy روح
 aiyu بصری هاله
 ak آزمایش
-
+معروف به
 akali's مصونیت
 akali's آیین از annihilation
 akali's گیج کردن
@@ -773,9 +773,9 @@ al'chukla اعتبار
 al'chukla آذرخش توپ
 al'chukla آذرخش hand
 alabaster سپر
-
+چالاکی
 alacrity از elements
-
+زنگ هشدار
 alarm went خاموش
 
 albatross یورش
@@ -784,7 +784,7 @@ albino اژدها
 albino سواری crane
 albino مار
 
-
+آلبوم
 alcaz جزیره survey
 alcaz survey هاله
 alcaz survey اعتبار
@@ -824,11 +824,11 @@ alexstrasza's هدیه پرتو
 alexstrasza's هدیه بصری
 
 
-
+جلبک
 algalon رویداد پرتو
 algalon رویداد پرتو climax
 algar کشتن اعتبار
-
+الگوریتم
 alicite آویز
 align disk خشم
 alignment تکمیل
@@ -875,7 +875,7 @@ alive و چاه
 همه weekend
 همه2
 
-
+حساسیت‌ها
 
 
 
@@ -932,7 +932,7 @@ alliance بصری
 
 
 
-
+فریبنده
 alluring هاله
 
 alluring perfume افشانه
@@ -956,7 +956,7 @@ ally هوا dropoff کشتن اعتبار
 
 
 
-
+آلفا
 alpha پرتوها
 alpha fade بیرون
 
@@ -972,7 +972,7 @@ already آنجا
 
 also انجام
 
-
+کاراکتر فرعی
 alt حساب
 
 
@@ -1000,9 +1000,9 @@ altered cauldron سم
 altered شکل
 alternate قدرت increase
 
+به جای آن
 
-
-
+اگرچه
 
 همیشه
 همیشه اینجا
@@ -1019,11 +1019,11 @@ alysrazor آرایشی تخم xplosion
 alysrazor انرژی پر
 alysrazor فرار کن loop
 alysrazor شروع طلسم
-
+هستم
 am من مرده
 amakkar's kidney شلیک
 amakkar's pocket معجون
-
+ملغمه
 amani نبرد خرس
 
 amani قدرت
@@ -1090,35 +1090,35 @@ amberfly بت
 ambermill mage دگرگونی
 amberseed کشتن اعتبار
 amberstill دفاع اعتبار
-
+دوسوتوانی
 ambient جسد anchor ظهور
 ambient جسد عنکبوت ظهور
 
-
-
+بلندپرواز
+کمین
 ambush تمیز-بالا ناپدید شدن
 ambush رویداد فعال‌سازی
 ambush override هاله
 ambush مأموریت اعتبار
-
+غافلگیرشده
 ambushed توسط thisalee
 ambushed وضعیت
-
+آمریکا
 amethyst اضافه‌بار
 
 
 
 
-
+مهمات
 
 amnennar's غضب
+فراموشی
 
 
 
+مقدار
 
-
-
-
+تقویت‌کننده
 amplify آسیب
 amplify شعله‌ها
 amplify جادو
@@ -1134,8 +1134,8 @@ amplify جادو
 anachronos رؤیا initialize
 anachronos رؤیا موسیقی
 
-
-
+تحلیل کردن
+لعنت
 anatomical عروسک
 ancestor نامرئی
 ancestor بصری
@@ -1163,7 +1163,7 @@ anchor اینجا جدید
 
 anchor به skulls
 anchor بصری
-
+لنگرانداخته
 
 باستانی
 باستانی amber
@@ -1229,13 +1229,13 @@ anduin's شکسته پا
 
 anemone ماهی نگهبان
 anemone scent ابر
-
-
-
+بی‌حس‌کننده
+داروهای بی‌حسی
+فرشته
 angel از مرگ
 angelic دژ
 
-
+فرشتگان
 خشم
 خشم پرتو
 خشم اردوگاه کلید
@@ -1288,34 +1288,34 @@ animate استخوان‌ها
 
 animated ضربه
 animation لغو
-
+انیمه
 
 ankle گاز
 
 anklet با golden bells
 
 annihilate دیوها
+نابودشده
 
+نابودگر
 
-
-
-
+سالگرد
 
 announce akkokoz ظهور
 announce shoxtik ظهور
 announce وحشت ظهور
 
 announcer کنترل هاله
+آزردگی
+آزرده
+آزاردهنده
 
 
 
 
-
-
-
-
+ناهنجاری
 anomaly بصری
-
+یکی دیگر
 another یک
 
 anson's آیین
@@ -1326,10 +1326,10 @@ answer بله correct
 answer بله incorrect
 
 
-
-
+مورچه
+آنتاگونیست
 antechamber انتقال
-
+سرود
 anti جادو shell
 anti جادو منطقه
 anti-هوا توپ
@@ -1351,8 +1351,8 @@ anti-personnel توپ
 anti-pirate بمب
 anti-زهر
 
-
-
+آنتی‌بیوتیک
+انتظار
 anticipation از جنگ
 antimagic ضربان
 antlers از malorne
@@ -1368,8 +1368,8 @@ anuniaq's تور
 anveena انرژی تخلیه
 
 anvil click عروسک
-
-
+اضطراب
+مضطرب
 anxious یورش
 
 any دی‌پی‌اس
@@ -1381,7 +1381,7 @@ any skips اینجا
 
 any tips برای این رئیس
 any tips برای این سیاه‌چال
-
+کسی
 هرکسی
 هرکسی یک blacksmith
 هرکسی alive
@@ -1391,18 +1391,18 @@ any tips برای این سیاه‌چال
 هرکسی آزاد
 هرکسی online
 هرکسی آنجا
-
+هر چیزی
 anything می‌تواند happen
 anything جدید
 
+به هر حال
+
+به هر صورت
+هر جا
 
 
 
-
-
-
-
-
+حمله گسترده
 aoe سقف
 aoe آسیب
 aoe شفا
@@ -1416,8 +1416,8 @@ aoe احضار بازیکن دوربین horde
 aoe آزمایش
 aoe دشمنان
 
-
-
+آپارتمان
+بی‌تفاوتی
 apexis بلور infusion
 
 
@@ -1426,15 +1426,15 @@ apexis mob faction بررسی
 apexis احضار
 
 
-
+آخرالزمان
 
 
 apothecary's سوزان آب
 apothecary's زهر
 apparatus از khaz'goroth
-
+ظاهراً
 apparently آنها say
-
+اشباح
 
 
 appearance - horde جادوگر
@@ -1446,7 +1446,7 @@ apple سطل
 apple falls به زمین
 
 apples به oranges
-
+متقاضی
 اعمال
 اعمال anemone chemicals
 اعمال argent pony
@@ -1490,10 +1490,10 @@ apples به oranges
 applying lure
 
 
-
+قدردانی کردن
 appreciate آن
 appreciate دعوت کن
-
+دستگیرشده
 شاگرد
 شاگرد alchemist
 شاگرد archaeologist
@@ -1514,7 +1514,7 @@ appreciate دعوت کن
 شاگرد skinner
 شاگرد tailor
 شاگرد yufi
-
+نزدیک شدن
 
 
 
@@ -1780,7 +1780,7 @@ arcanum از vicious intellect
 arcanum از vicious قدرت
 
 archaeology جعبه
-
+فرشته مقرب
 archeology پاکسازی
 archeology distance - سرد
 archeology distance - داغ
@@ -1795,12 +1795,12 @@ archery هدف عروسک سواری vehicle
 archery هدف عروسک vehicle رکورد
 archimonde آتش
 archimonde's تاریکی
-
+بایگانی
 archivist's نماد
 
 archmage altaeric دگرگونی
 archmage vargoth's آیین
-
+طاق‌نما
 arcing انفجار
 arcing سوزاندن
 arcing انرژی
@@ -1922,13 +1922,13 @@ argent vanguard chapter من
 arguably بهتر
 arguably بهترین
 arguably بدترین
-
-
+بحث کردن
+استدلال
 argus سایه mage دگرگونی
 
 
 aria از بد luckydo
-
+برخاستن
 arlokk دگرگونی
 بازو
 بازو مرده آسیب kologarn
@@ -1939,13 +1939,13 @@ arlokk دگرگونی
 بازو جاروب
 بازو خودت
 
-
+آرماگدون
 armed و dangerous
 arming land مین
 arming بصری orange
 arming بصری قرمز
 arming بصری زرد
-
+آتش‌بس
 armoire دوربین
 armoire نامرئی
 زره
@@ -1963,7 +1963,7 @@ armoire نامرئی
 زره ارزش
 زره2
 armore دوربین
-
+زرهی
 
 armored آبی dragonhawk
 armored آبی باد سوار
@@ -1974,8 +1974,8 @@ armored قرمز dragonhawk
 
 
 armored titanium عینک
-
-
+زره‌ها
+زره‌ساز
 بازوها
 بازوها behind عقب
 بازوها warrior
@@ -1988,15 +1988,15 @@ armored titanium عینک
 aronus custom سواری
 
 
-
-
+ترتیب دادن
+بازداشت
 
 
 arrival از naaru
 
 
-
-
+غرور
+مغرور
 
 arrow یورش
 arrow کانال مخروط آزمایش
@@ -2063,7 +2063,7 @@ artillery ضربه
 صنعتگر scribe
 صنعتگر skinner
 صنعتگر tailor
-
+هنرمند
 artist کشتن اعتبار
 arugal کانال
 arugal رویداد کانال
@@ -2096,17 +2096,17 @@ aryna انتقال
 به‌عنوان چاه
 به‌عنوان چاه به‌عنوان
 به‌عنوان تو wish
-
+هرچه زودتر
 asaq conversation اعتبار
-
+صعود کردن
 ascend به heavens
-
+برتری یافتن
 ascendant ضربه
-
+عروج
 
 ash عنصری ظهور
 ash طوفان
-
+شرمنده
 
 
 
@@ -2140,7 +2140,7 @@ ashtongue موج b
 
 
 
-
+آسیا
 
 asira اژدها نیرو asira به dismount
 
@@ -2152,8 +2152,8 @@ ask hakmud به ترک
 ask mojodishu به ترک
 ask mystic birdhat به ترک
 
-
-
+پرسید
+می‌پرسد
 asleep روشن job
 
 aspect از arlokk
@@ -2173,8 +2173,8 @@ aspect از روح شکارچی
 aspect از thekal
 aspect از venoxis
 aspect مرحله طلسم
-
-
+جنبه‌ها
+خفه کردن
 
 
 
@@ -2194,7 +2194,7 @@ assassin's serpent's چشم
 assassin's بینایی
 assassin's بینایی آرایشی
 
-
+ترور کردن
 
 
 assassination رویداد initialize
@@ -2220,16 +2220,16 @@ assign geist کشتن اعتبار به استاد
 assign غول کشتن اعتبار به استاد
 assign کشتن اعتبار به استاد
 assign skeleton کشتن اعتبار به استاد
-
+تکلیف
 
 assist قهرمان
 assist تانک
-
+دستیار
 
 assuming آن
-
-
-
+سیارک
+آسم
+حیرت‌انگیز
 
 astral زره
 astral زره بصری
@@ -2288,15 +2288,15 @@ atal'ai جسد خوردن
 atal'ai زهر
 
 atal'ai skeleton توتم
-
+خورد
 ate و چپ نه crumbs
-
+ورزش‌های دوومیدانی
 atiesh بصری
-
-
+خودپرداز
+کفاره
 atrophic ضربه
 atrophic زهر
-
+تحلیل رفتن
 
 
 attach توپ توپ 1
@@ -2468,26 +2468,26 @@ attacked بازیکن
 مهاجم شفا جذب اشکال
 مهاجم فقط چپ
 مهاجم روشن من
+در حال حمله
 
 
 
 
-
-
+توجه
 
 
 attention span گمشده
+تضعیف‌کننده
 
-
-
-
+نگرش
+جذب کردن
 
 attract خشمگین kodo
 attract غول
 attract جادو
 attract rift ظهور
-
-
+جاذبه
+هماهنگ کردن
 
 attune به kypari vos
 
@@ -2498,18 +2498,18 @@ attuned به طبیعت 10 dose reduction
 attuned به طبیعت 2 dose reduction
 attuned به طبیعت 25 dose reduction
 attunement به هسته
+در حال هماهنگی
 
 
 
-
-
-
+کتاب صوتی
+اوه
 
 augment رون
 augment بینایی
 
 
-
+عمه
 auntie stormstout آرایشی
 هاله
 هاله پرتو آزمایش
@@ -2575,7 +2575,7 @@ aural شوک
 
 austere ابتدایی diamond
 austere سایهروح diamond
-
+استرالیا
 
 auto حمله
 auto آتش
@@ -2586,14 +2586,14 @@ auto سرعت boost
 
 auto عصا
 auto-تعمیر
-
-
-
+زندگی‌نامه خودنوشت
+توپ خودکار
+تصحیح خودکار
 autocorrect گرفت من
 
 automated shredder مرگ notify
 automatic تعمیر پرتو
-
+خودکارسازی
 automation ساختن friendlies orange
 automation mechanic مصونیت
 automation ریشه طلسم
@@ -2601,13 +2601,13 @@ automation ریشه طلسم
 autumn شکوفه sapling بصری
 autumn flower آتش‌بازی
 av مأموریت نامرئی type یک
-
-
+بهمن
+آواتار
 avatar از ناامیدی
 avatar از شعله
 avatar از hakkar است summoned
 avatar از jade
-
+انتقام گرفتن
 avenger judgment پاداش
 avenger's سپر
 
@@ -2616,16 +2616,16 @@ avenging خشم
 avenging خشم
 avenging ارواح
 avenging غضب
-
+میانگین
 
 
 aviana's خواهد
-
+اجتناب کردن
 avoid آن
 avoid پرتو
 avoid پرتوها
 avoid mechanic
-
+قابل اجتناب
 
 avoidance از مار
 avruu's گوی
@@ -2673,16 +2673,16 @@ avruu's گوی
 جایزه valor 1000
 جایزه valor 500
 جایزه ysondre کشتن اعتبار
-
+باخبر
 دور از
 دور از رئیس
 عالیه
 عالیه گروه ensemble
 عالیه معجون
 عالیه2
-
-
-
+افتضاح
+ناجور
+بیدارشده
 
 تبر
 تبر ضربه
@@ -2704,7 +2704,7 @@ aysa تبریک زمان‌سنج
 aysa crashed ship نگهبان هاله
 aysa نگهبان هاله
 aysa باد chamber نگهبان هاله
-
+آی
 
 azeroth سوزان
 azil بصری
@@ -2739,7 +2739,7 @@ b رده
 ba-bam راکت
 babam بشکه هاله
 babam powder kegs هاله
-
+نوزاد
 baby عقب
 baby blizzard خرس
 baby elephant takes یک bath
@@ -2789,25 +2789,25 @@ baby murloc غیرفعال
 عقب به نقطه
 عقب فردا
 عقب بالا
-
-
-
+کمردرد
+کمرشکن
+برگشت شعله
 عقبآتش
 background هاله
 
 
-
-
+واکنش منفی
+کوله‌پشتی
 backpack وضعیت
 backpack بصری
 عقببرش
 backslash هدف‌گیری
+خنجر از پشت
+پشتیبان
 
 
 
-
-
-
+باکتری
 بد
 بد ass
 بد attitude
@@ -2839,13 +2839,13 @@ backslash هدف‌گیری
 بد winner
 بد2
 بد3
-
+آدم بد
 نشان از kypari zar
 نشان از محافظ
 نشان از swarmguard
 badger مدال
 
-
+به‌شدت
 
 bael'gar's آتشین جوهر
 baelog's valhalla شلیک
@@ -2862,7 +2862,7 @@ bait آن اینجا
 
 bait رئیس
 bait آنها
-
+طعمه گذاشتن
 
 
 baked manta پرتو
@@ -2884,13 +2884,13 @@ balance pole exit پرش
 balance pole exit من هاله
 balance pole landing برخورد
 balance pole بصری
-
+متعادل
 
 
 
 balanced trillium ingot و its uses
 balanced وحشی jade
-
+چرندیات
 bale ضربه
 baleful ضربه
 baleroc دگرگونی
@@ -2916,17 +2916,17 @@ ballista آتش - scene
 
 balloon کشتن اعتبار
 
-
+توپ‌ها
 balnazzar دگرگونی
 balnazzar دگرگونی گیج کردن
 
 
-
+گول‌خورده
 
 ban آن
 ban taunts یک mogu
 ban's بمب
-
+موز
 banana نوار
 banana نوار remove
 banana رگبار
@@ -2936,7 +2936,7 @@ banana رگبار
 banana پرتاب
 
 
-
+موزها
 bananas سقوط به زمین
 
 
@@ -2949,11 +2949,11 @@ band از ابدی restorer
 band از ابدی sage
 band از valor
 
-
-
+باندپیچی‌شده
+باندپیچی
 
 bandit's نشان
-
+بلا
 bane از doom
 bane از infinity
 bane از treachery
@@ -2974,7 +2974,7 @@ banging gong
 تبعید وضعیت بزرگ زرد
 تبعید وضعیت کوچک زرد
 تبعید thundering exile
-
+تبعیدشده
 banished از shattrath شهر
 
 banishment از فلس
@@ -3005,7 +3005,7 @@ banshee تهدید
 
 banshee's جادو mirror
 banshee's سپر
-
+شوخی
 نوار
 baradin شفا معجون
 baradin نگه‌داشتن closure هشدار
@@ -3031,15 +3031,15 @@ barbecued buzzard بال
 barbed تور
 barbed شلیک
 
-
-
+خارها
+به‌سختی
 
 barely made آن
 
 bark از doom
 bark از walkers
 barking بالا اشتباه درخت
-
+پوست درخت
 barkskin مدت increase
 
 barnacle خدمه ناپدید شدن
@@ -3070,9 +3070,9 @@ baroque شمشیر scabbard
 بشکه خاموش
 بشکه هدف‌گیری
 بشکه پرتاب
-
+پرشتاب
 barreled کنترل هاله
-
+بشکه‌ها
 barrens شکوفه
 
 
@@ -3082,14 +3082,14 @@ barricade انفجار
 مانع از نور
 مانع stance
 barrrage از آتش
-
+پایاپای
 
 
 base اردوگاه نشان
 
 base بصری
-
-
+بیسبال
+بر اساس
 based و redpilled
 based روشن
 
@@ -3100,14 +3100,14 @@ based روشن
 
 basic حمله تمرکز cost modifier
 
-
+اساساً
 
 
 basilisk پوست
 
 basket انفجار
 basket از crocs
-
+بسکتبال
 
 
 
@@ -3123,10 +3123,10 @@ bathed در نور
 bathed در خشم
 
 bathroom شکستن
+خمیر
 
 
-
-
+باتری
 نبرد
 نبرد هاله
 نبرد دوربین custom سواری
@@ -3253,7 +3253,7 @@ beak زمان‌سنج هاله
 پرتو به zelfrax
 پرتو بصری
 
-
+لوبیا
 خرس
 خرس animal
 خرس زره
@@ -3301,7 +3301,7 @@ beak زمان‌سنج هاله
 beast's نشان
 beastcaller پرتاب
 
-
+شکارچی جانوران
 
 beat یک مرده اسب
 beat پایین
@@ -3309,28 +3309,28 @@ beat من رکورد
 
 beating روشن heb'jin's drum
 beats من
-
+زیبا
 beautiful chalcedony گردنبند
 
 
 
 
-
+چون
 because از
 beckon از anachronos
 
 
 
-
+شدن
 become رئیس سایه
 become من spar buddy
 
 become stormwind harbor مدافع
 
-
-
-
-
+تخت‌خواب
+اتاق خواب
+زنبور
+گوشت گاو
 beehive وضعیت
 بوده
 بوده یک while
@@ -3347,7 +3347,7 @@ beer basted گراز ribs
 
 beer عینک
 
-
+سوسک
 
 
 
@@ -3356,7 +3356,7 @@ before patch
 
 befouled آب‌ها
 
-
+گیجی
 آغاز
 آغاز approach یک
 آغاز approach b
@@ -3370,29 +3370,29 @@ befouled آب‌ها
 آغاز korrah's tour
 
 
-
+فریفتن
 behemoth یورش
 
 behind روشن episodes
 behind pillar
 behind بار
 پشت سرت
-
+بژ
 
 
 
 
 bejeweled wizard's مچ‌بند
-
+آروغ
 belch انفجار
-
+باور داشتن
 believe در بهتر days
 believe در خودت
 believe آن یا نه
 believe من
 believe ما می‌تواند برد
-
-
+باور کرد
+باور دارد
 
 bell کانال
 
@@ -3402,7 +3402,7 @@ belly انفجار
 belly سد
 
 
-
+تعلق داشتن
 
 below یخ‌زدن
 below صفر
@@ -3422,15 +3422,15 @@ below صفر
 کمربند از بلند جاده
 کمربند از شب sky
 کمربند از titans
-
+نیمکت
 bench بازیکن
 
+نیمکت‌نشین
 
+دعای خیر
 
-
-
-
-
+منافع
+دیوانه‌وار
 berserk vo فعال‌سازی
 berserker هاله
 berserker رگبار
@@ -3441,7 +3441,7 @@ berserker خشم اثر
 berserker یورش
 
 berserker stance غیرفعال
-
+خشم جنون
 berserking یورش
 berserking صندوق
 berserking زوزه
@@ -3452,7 +3452,7 @@ berzerker شعله انفجار
 besalt bunny طلسم spawner
 beseech برکت
 
-
+محاصره کردن
 بهترین
 بهترین case scenario
 بهترین deals anywhere
@@ -3482,7 +3482,7 @@ bestial فریاد
 
 bestial غرش
 bestial غضب
-
+رفیق صمیمی
 
 bestow خون
 bestowal از angerforge
@@ -3493,8 +3493,8 @@ bestowal از ironstar
 bestowal از moltenfist
 bestowal از shadowforge
 bestowal از thaurissan
-
-
+شرط
+بتا
 
 bethekk's برکت
 bethod's شمشیر چالش
@@ -3529,9 +3529,9 @@ bfgc کامل
 
 bg reinforcements - ondeath فعال‌سازی هاله
 
+سوگیری
 
-
-
+پیشنهاد قیمت
 bidding طلا
 بزرگ
 بزرگ baby
@@ -3595,8 +3595,8 @@ bilgewater cartel پرچم
 bilgewater قهرمان
 
 bilious نوشیدنی نفس
-
-
+میلیارد
+قبض‌ها
 billy goat انفجار
 بستن
 بستن chapter 1
@@ -3641,9 +3641,9 @@ bindings از آذرخش reflexes
 bindings از submission
 
 bio شکستن
-
-
-
+زندگی‌نامه
+زیست‌شناسی
+زیست‌تابی
 
 bipsi's دستکش
 پرنده
@@ -3653,20 +3653,20 @@ bipsi's دستکش
 پرنده روح illusion
 پرنده swoop
 birds تمام
-
+تولد
 birth طلسم
 birth مرده بصری
 birth عروسک طلسم
-
+روز تولد
 
 birthday گروه
 birthing شعله
-
+بهترین تجهیزات
 bis تجهیزات
 
-
-
-
+غر زدن
+بدعنق
+بیت‌کوین
 گاز
 گاز knut
 گاز من
@@ -3675,7 +3675,7 @@ bis تجهیزات
 گاز hand آن feeds تو
 biting سرما
 biting سرد
-
+تلخ
 bitter انفجار
 bitter نوشیدنی
 bitter نوشیدنی هاله
@@ -3819,7 +3819,7 @@ blackhorn breaks آزاد
 blackhowl's خشم
 blackhowl's خواهد
 blackmouth روغن
-
+خاموشی سراسری
 blackout نوشیدنی
 blackout مست
 blackout فوری
@@ -3907,7 +3907,7 @@ blanche's boomer نوشیدنی قدرت نوار
 blanche's boomer نوشیدنی قدرت دکمه
 blanche's اکسیر از replenishment
 
-
+پتو
 انفجار
 انفجار nova
 انفجار از هوا
@@ -3918,8 +3918,8 @@ blanche's اکسیر از replenishment
 انفجار موج
 انفجار-brewed
 blastbarrel خدمه primer
-
-
+ترقه
+منفجرشده
 
 blasterboot پرش 01
 blasterboot پرش 02
@@ -3998,7 +3998,7 @@ bleeding گاز
 
 bleeding بیرون
 bleeding زخم
-
+اه
 متبرک
 متبرک anvil
 متبرک مچ‌بند
@@ -4023,7 +4023,7 @@ bleeding زخم
 متبرک trillium greaves
 متبرک سلاح coating
 متبرک wizard روغن
-
+سعادت
 برکت
 برکت از a'dal
 برکت از aessina
@@ -4133,7 +4133,7 @@ blew من expectations
 
 آفتخون infusion
 
-
+آفت‌زده
 
 blighted فریاد
 
@@ -4149,9 +4149,9 @@ blightguard remove تغییرقیافه
 کور spot
 کور ضربه
 کور whelp
-
+کور شده
 blinded توسط خشم
-
+چشم‌بند
 
 کورکننده dirt
 کورکننده گرد
@@ -4166,10 +4166,10 @@ blinded توسط خشم
 کورکننده سم
 کورکننده webs
 کورطرف
-
+غافلگیر شده
 
 blingtron موسیقی
-
+پلک زدن
 blink آماده‌سازی reduction
 blink برخورد
 blink ضربه
@@ -4185,16 +4185,16 @@ blistering زهر
 
 blistering tentacle سواری vehicle
 blistering زخم
-
+حمله برق‌آسا
 blitz احضار
 blitz احضار فعال‌سازی
 
 blitzkrieg initialize prevent طلسم 01
-
+کولاک
 blizzard سنگ
 
-
-
+نفخ
+باد کرده
 bloated پلیدی feign مرگ
 bloating نوشیدنی
 سد
@@ -4248,8 +4248,8 @@ bloating نوشیدنی
 سد2
 blockade انفجار bunny - آتش
 blockade انفجار bunny - آب
-
-
+مسدودشده
+مسدود کردن
 blonde سواری yak
 خون
 خون و رعد
@@ -4362,10 +4362,10 @@ blonde سواری yak
 خون ببر شانه‌ها
 خون worms
 خون-soaked invitation
-
+حمام خون
 bloodbath دکمه
 
-
+توت خونی
 
 خونصاعقه
 خونصاعقه splash
@@ -4422,9 +4422,9 @@ bloodhilt کشتن اعتبار
 خون‌آلود wyrmhide کلاه‌خود
 خون‌آلود wyrmhide پاها
 خون‌آلود wyrmhide شانه‌ها
-
+خون‌گیری
 bloodlord's هاله
-
+عطش خون
 bloodlust وضعیت
 خوندریدن brutebane stout
 خوندریدن buzz
@@ -4461,7 +4461,7 @@ bloodspore زهر
 خونسنگ band
 bloodstone انتقال
 خونطوفان
-
+موج خون
 bloodtalon بچه هاله
 
 
@@ -4548,7 +4548,7 @@ bloodthirst شفا
 
 
 
-
+زهر خون
 bloodvine چکمه
 bloodvine عینک
 bloodvine شلوار
@@ -4581,7 +4581,7 @@ bloodwash جعبه بصری
 خونین آب آرایشی
 شکوفه
 شکوفه moon lotus
-
+شکوفا
 شکوفه
 شکوفه targetting
 blossoming باستانی
@@ -4700,10 +4700,10 @@ bludgeoning ضربه
 آبی wyrmrest warden پرتو
 آبی2
 bluetip مدال
-
+بلوف
 bluff مأموریت اعتبار
 کند
-
+تاری
 blurred سرعت
 blurring برش
 
@@ -4727,13 +4727,13 @@ board rescue ساخت
 board بصری
 boarded rescue ساخت
 boarding sub کشتن اعتبار
-
+قایق
 boat آتش
 boat هدف‌گیری عروسک
 boat انتقال
 bobbing برای apples
 
-
+له‌شده
 
 بدن
 بدن و روح
@@ -4742,7 +4742,7 @@ bobbing برای apples
 بدن کشیدن
 بدن کوبیدن
 بدن switch
-
+ضربه به بدن
 bog گاز
 
 bogblossom پس‌زدن
@@ -4779,7 +4779,7 @@ boiling زهر صاعقه
 جسور serpent's چشم
 
 
-
+تقویت‌کنندگی
 
 صاعقه
 صاعقه یورش bramble
@@ -4818,13 +4818,13 @@ bolthorn's رون از شعله
 بمب tick sound
 بمب پرتاب
 bomb's دور
-
+بمباران کردن
 bombard محافظت
 
-
+بمباران
 bombay گربه
 bombed آن
-
+بمب‌افکن
 
 
 
@@ -4871,8 +4871,8 @@ bond از val'kyr
 bonechewer گاز
 
 استخوانسرد blizzard
-
-
+استخوان‌شکن
+استخوان‌سا
 bonereaver's لبه
 استخوان‌ها از bwonsamdi
 استخوان‌ها از bwonsamdi هاله
@@ -4880,14 +4880,14 @@ bonereaver's لبه
 
 bonescythe زره سینه
 bonescythe صندوق
-
+میخ استخوانی
 
 bonfire تغییرقیافه
 
 bonfire's برکت
 bonfire's برکت لغو
-
-
+ضربه آرام
+دیوانه
 پاداش
 پاداش burial trove کلید
 پاداش جاخالی
@@ -4898,7 +4898,7 @@ bonfire's برکت لغو
 پاداش تاس آزمایش
 پاداش runic قدرت
 bony زره
-
+سینه‌ها
 boogaloo بوم
 کتاب
 کتاب شیء باستانی
@@ -4910,9 +4910,9 @@ boogaloo بوم
 کتاب از stars
 کتاب از survival
 کتاب از ages
-
-
-
+رزرو
+نشانه‌گذاری‌شده
+کتاب‌فروشی
 بوم
 بوم چکمه
 بوم چکمه bunny هاله
@@ -4923,9 +4923,9 @@ boogaloo بوم
 بوم fuse
 بوم شلیک
 بوم بصری
-
+بومر
 boomer نوشیدنی ضربه
-
+بومرنگ
 boomerang آذرخش صاعقه
 
 boomshroom انفجار
@@ -4933,9 +4933,9 @@ boon از bwonsamdi
 boon از bwonsamdi - نیرو طلسم
 boon از زندگی
 boon از loa
-
-
-
+تقویت کردن
+تقویت شده
+تقویت‌کننده‌ها
 
 boot heel با scrollwork
 boot به head
@@ -4957,10 +4957,10 @@ boot پرتاب
 چکمه از wintry endurance
 
 booze تف
+زده شد
 
 
-
-
+خسته کردن
 borean زره کیت
 borean پرتو برخورد
 borean چرم
@@ -4969,7 +4969,7 @@ borean چرم
 bored از بازی
 
 
-
+قرض گرفتن
 
 borrowed زمان
 رئیس
@@ -5145,7 +5145,7 @@ borrowed زمان
 رئیس3
 
 
-
+هر دو
 both و
 
 botm - حباب نوشیدنی - pop
@@ -5161,7 +5161,7 @@ botm - flowery نوشیدنی - grow
 بطری از زهر
 بطری از wildfire
 بطری toad
-
+بطری‌شده
 bottled خشم
 پایین
 پایین fragging
@@ -5195,7 +5195,7 @@ bouncing صاعقه
 bouncing صاعقه bounced
 bouncing صاعقه فعال‌سازی
 bouncing یورش
-
+فنری
 بسته
 بسته شعله‌ها
 بسته servant
@@ -5212,22 +5212,22 @@ bountiful غذا
 bounty از harvest
 کمان
 کمان به من
-
-
+کاسه
+کاسه‌ها
 bowmen عروسک
 
 bowmen بلعیدن mantid
-
-
+کمان‌ها
+تیر کمان
 bowshot برخورد شعله patch
 جعبه
 جعبه از بمب‌ها
 boxed بوم بوم
+بوکس
+پسر
 
-
-
-
-
+دوست پسر
+پسرها
 
 bracelet از jade و coins
 مچ‌بند
@@ -5268,11 +5268,11 @@ braided eternium زنجیر
 bramble کشتن
 
 bramblescar رشد احضار
-
+عصای خاری
 bramblewood کمربند
 bramblewood چکمه
 bramblewood کلاه‌خود
-
+شاخه
 branch از nordrassil رئیس آرایشی
 branch از nordrassil برد آرایشی
 brand قبوله
@@ -5281,13 +5281,13 @@ brann پرواز مرحله نشانگر
 brann سلامت checker
 brann سیگنال به خود
 brann دگرگونی
-
+تظاهر به شجاعت
 
 brave's شعله
 brave's شعله اثر
 
 bravo company میدان کیت
-
+دعوا
 brawl رئیس برد ضد
 brawler انفجار
 brawler بخش‌ها 00
@@ -5309,8 +5309,8 @@ brazier آتش
 
 brazier از dancing شعله‌ها
 brazier دود
-
-
+برزیل
+برزیلی
 
 brb دو دقیقه
 breach زره
@@ -5367,7 +5367,7 @@ breaking بشکه
 
 breaking زنجیرها
 breaking rules
-
+وقفه‌ها
 breaks mold
 زره سینه از باستانی فولاد
 زره سینه از kings
@@ -5391,7 +5391,7 @@ breaks mold
 نفس از سیاه prince
 نفس از اژدها
 نفس از y'shaarj
-
+نفس کشیدن
 breathe عمیق
 
 breathing آتش
@@ -5493,7 +5493,7 @@ brewfest setup خدمه - گابلین
 brewfestive holiday مرکب
 
 نوشیدنیکلاه‌خود
-
+دم کردن
 brewing بصری
 brewmaiden ناپدید شدن کنترل هاله
 
@@ -5512,11 +5512,11 @@ brewmoon جشن انتقال
 
 
 brianna's experimental طلسم
-
+رشوه
 پل
 پل رویداد
 bridges سوخته
-
+افسار
 bridle کانال
 brief explanation لطفا
 brief گیج کردن
@@ -5540,7 +5540,7 @@ brightcloth ردا
 brightleaf's جوهر
 brightleaf's جوهر کانال
 brightly colored تخم
-
+درخشندگی
 brilliance هاله
 درخشان
 درخشان خون garnet
@@ -5587,7 +5587,7 @@ bring روشن hate
 
 
 bringing تو در
-
+می‌آورد
 brings عقب memories
 briny cutter نامرئی خود
 
@@ -5601,20 +5601,20 @@ brittle استخوان‌ها
 brittle roots رئیس حرکت
 brittle پوست
 brittle لمس
-
+داداش
 bro گرفتن
 bro گرفتن نه استفاده‌شده
 
 bro چه
 
 broadcast بلور message
-
+حمله از پهلو
 brogg's توتم
 
 broiled اژدها ضیافت
 broiled کوه trout
 broiling گدازه هاله
-
+ورشکسته
 broke رکورد
 شکسته
 شکسته به‌عنوان hell
@@ -5647,7 +5647,7 @@ broke رکورد
 شکسته wagon انفجار
 شکسته خواهد
 شکسته غضب اکسیر
-
+برنز
 bronze تبر
 bronze band از نیرو
 bronze نبرد تبر
@@ -5679,10 +5679,10 @@ brood از onyxia
 brood طاعون
 brood خشم
 broomstick تبدیل
+برادر
 
 
-
-
+آورد
 
 brown اژدها turtle
 
@@ -5703,15 +5703,15 @@ brown سواری yak
 brown skeletal اسب
 brown مار
 brown گرگ
-
+داداش جان
 bruh لحظه
-
+کبودی
 
 bruising ضربه
 brunnhildar تغییرقیافه
 
-
-
+برس
+آتش بوته‌زار
 brushfire سوزاندن هاله
 brushfire سوخته منطقه visualization
 brushfire بررسی valid location
@@ -5741,7 +5741,7 @@ brute کوبیدن
 
 brutusk زنجیر آذرخش
 brutusk احضار هاله
-
+راستی
 حباب
 حباب و abscess احضار - استاد
 حباب پرتو
@@ -5767,8 +5767,8 @@ brutusk احضار هاله
 حباب افشانه
 حباب تله مرگ هاله
 حباب بالا
-
-
+پرتو حباب
+حباب‌دار
 
 
 
@@ -5778,7 +5778,7 @@ bubbling نوشیدنی
 
 
 
-
+پرحباب
 
 buck چپ هشدار
 buck راست هشدار
@@ -5787,14 +5787,14 @@ buck راست هشدار
 سطل lands
 سطل فهرست
 سطل از meaty سگ غذا
-
+لگدپرانی
 budd عروسک 01
 budd پس‌زدن
 budd nedreck - پرتاب شیشه
 
 
 buddied بالا
-
+رفیق
 
 
 تقویت
@@ -5804,7 +5804,7 @@ buddied بالا
 تقویت حمله
 تقویت بالا
 تقویت2
-
+تقویت شده در بازی
 buffed بالا
 buffeting بادها از susurrus
 اشکال
@@ -5850,7 +5850,7 @@ buffeting بادها از susurrus
 ساختمان سرعت
 ساختمان سرعت اثر
 ساختمان سرعت فعال‌سازی
-
+ساخت‌ها
 
 bulging کیف از charms
 
@@ -5861,7 +5861,7 @@ bullet خشم
 bullet کنترلر دوره‌ای
 bullet کنترلر احضار اثر تاریک
 bullet احضار فعال‌سازی
-
+کله‌شق
 
 دژ
 دژ تغییرقیافه
@@ -5878,14 +5878,14 @@ bungie پرش 01
 
 bunny سواری vehicle
 
-
+شناور
 
 burd sticker برخورد
 burden از ابدیت
 burden از guilt
 burden از proof
 burden از تاج
-
+همبرگر
 burgy blackheart's handsome کلاه
 burgy blackheart's pirate کلاه
 burlap trail ambush کشیدن
@@ -6031,9 +6031,9 @@ burninate کشتن اعتبار
 سوزان زخم
 سوزان wounds
 سوزان غضب
-
+فرسودگی
 burnt درخت بصری
-
+آروغ زدن
 
 burrow حمله
 burrow دور
@@ -6045,7 +6045,7 @@ burrow اعتبار به استاد
 burrow در به domination نقطه
 
 burrow بصری
-
+نقب زدن
 انفجار
 انفجار در seams
 انفجار آسیب
@@ -6067,7 +6067,7 @@ burrow بصری
 انفجار از سرعت
 انفجار از سرعت - permanent
 انفجار شلیک
-
+ترکیدن
 
 
 buru دگرگونی
@@ -6075,13 +6075,13 @@ bury تیغه
 bury آویز
 
 bury hatchet
-
+اتوبوس
 bus توقف
+بوته
+کسب‌وکار
 
-
-
-
-
+خراب
+مشغول
 
 busy بعدا
 busy امروز
@@ -6092,9 +6092,9 @@ busy امروز
 butcher تخلیه
 
 
-
-
-
+باسن
+کره
+پروانه
 دکمه 1
 دکمه 10
 دکمه 2
@@ -6115,10 +6115,10 @@ buttress تله
 
 buying یک فرار کن
 
-
+خرید کامل
 
 buzzer نیروطلسم
-
+اره برقی
 
 
 bwonsamdi استخوان‌ها dot
@@ -6144,7 +6144,7 @@ c'est la vie بلند
 
 caber برخورد
 caber پرتاب
-
+قهقهه
 
 cackling زوزه
 
@@ -6152,11 +6152,11 @@ cadaver گیج کردن
 cadaver پرتاب
 
 
-
+کافه
 cage اسارت blackout هاله
 cage تله
 cage تله - احضار
-
+در قفس
 
 caimas فعال تخم
 caimas دوره‌ای
@@ -6166,12 +6166,12 @@ cairne pyre اعتبار
 caladis brightspear نامرئی
 
 calcinder آتش بصری
+محاسبه کردن
 
-
-
+حساب‌شده
 calculated شفا
-
-
+محاسبه
+ماشین حساب
 caledis's تغییرقیافه
 calen humanoid دگرگونی
 calico گربه
@@ -6355,7 +6355,7 @@ calico گربه
 فراخواندن wyrmrest vanquisher
 فراخواندن xink's shredder
 فراخواندن2
-
+صدا زد
 called آن
 
 calling برای هوا support
@@ -6370,8 +6370,8 @@ calling birds
 calling caravan
 calling wildhammer gryphon سوار
 calling نابودی
-
-
+بی‌رحمی
+تماس‌ها
 calls برای aid
 
 calm before طوفان
@@ -6384,8 +6384,8 @@ calm بازتاب
 calm طوفان
 calming پایین
 calming آواز از singer
-
-
+کالری
+آمد
 came از nowhere
 camel مجسمه طلسم اثر
 camel خرد کردن
@@ -6425,7 +6425,7 @@ camouflage retinal زره
 اردوگاه aparaje skybox
 اردوگاه pack
 اردوگاه receives communique
-
+کمپر
 
 camping graveyard
 
@@ -6479,7 +6479,7 @@ camping graveyard
 نمی‌تواند type سریع
 نمی‌تواند کار
 می‌تواند2
-
+کانادا
 لغو 85149
 لغو فعال‌سازی
 لغو agatha
@@ -6616,17 +6616,17 @@ camping graveyard
 لغو wrynn هاله
 لغو zazzo's auras
 لغو منطقه هاله
+لغوشده
 
 
-
-
+نامزد
 
 
 candle انفجار
 
 canh's گنج
 
-
+آدم‌خواری کردن
 cannibalize meat بصری
 cannibalize بصری
 توپ
@@ -6664,7 +6664,7 @@ cannibalize بصری
 گلوله spin
 cannoneer ظهور
 
-
+نمی‌توانم
 cannot handle بازی
 
 
@@ -6684,7 +6684,7 @@ canyon ettin ظهور طلسم
 سقف node
 سقف تو ضربه
 
-
+ظرفیت خازنی
 
 capacitor اضافه‌بار
 capacitor توتم
@@ -6739,11 +6739,11 @@ capper رئیس پرش
 اسیر توتم دوره‌ای
 اسیر وحشی camel
 اسیر yak
+در حال گرفتن
 
 
-
-
-
+ماشین
+پوسته سخت
 carapace از sun و سایه
 caravan هاله
 caravan cart شروع فعال‌سازی
@@ -6763,11 +6763,11 @@ caravan نگهبان هاله
 caravan آماده
 caravan بصری
 
-
-
+گازدار شدن
+کربوهیدرات
 carcanet از hundred magi
 cardboard قاتل
-
+ورزش هوازی
 
 
 careful نشانه

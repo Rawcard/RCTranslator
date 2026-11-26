@@ -101,15 +101,15 @@ bỏ rơi Bị trúng độc mind
 bỏ rơi thử thách
 bỏ rơi phương tiện
 bỏ rơi phương tiện trên đa
-
+bị bỏ rơi
 abandoned bloodwash thùng giết tín dụng
-
+sự lệch lạc
 kỹ năng
 
 ability bộ điều khiển
-
-
-
+bốc cháy
+sự tẩy rửa
+nghi thức tẩy rửa
 aboard krom'gar xe ngựa
 
 abom tín dụng
@@ -150,8 +150,8 @@ tuyệt đối
 tuyệt đối rinsed
 tuyệt đối choáng
 tuyệt đối stunning
-
-
+sự xá tội
+tha tội
 
 
 absorb máu
@@ -220,9 +220,9 @@ chấp nhận surrender
 được chấp nhận mời
 
 accepting tinh thần người chữa
-
+quyền truy cập
 access điều khiển bảng điều khiển
-
+sự thích nghi khí hậu
 
 theo
 theo đến
@@ -310,7 +310,7 @@ axit vết thương
 quả sồi
 quả sồi tăng trưởng
 quả sồi ném
-
+đã có được
 acquiring mục tiêu
 acrid bão
 
@@ -393,7 +393,7 @@ hoạt động buff
 hoạt động trò chuyện
 hoạt động ô
 
-
+nữ diễn viên
 thực tế
 thực tế sát thương
 thực tế dps
@@ -404,7 +404,7 @@ thực ra điên
 thực ra laughed
 Thật ra cũng không tệ
 thực ra2
-
+châm cứu
 
 
 adamantine vỏ
@@ -424,7 +424,7 @@ adamantite mài đá
 adamantite vũ khí xích
 adamantite trọng lượngđá
 
-
+sự thích ứng
 thích nghi
 thích nghi trang bị
 thích nghi bảo hộ
@@ -463,7 +463,7 @@ addicted đến này trò chơi
 addle nhân hình
 
 addon từ
-
+tiện ích bổ sung
 
 address vấn đề
 
@@ -486,12 +486,12 @@ adjunct sha xuất hiện hình ảnh
 điều chỉnh gears
 
 admiral's mũ
-
+ngưỡng mộ
 thừa nhận
 
 adopt một puppy
 
-
+được yêu mến
 adorned sceptre trùm emote
 adornment của shells
 
@@ -508,11 +508,11 @@ nâng cao mục tiêu dummy - sự kiện 003
 nâng cao mục tiêu dummy bị động
 nâng cao mục tiêu dummy xuất hiện hiệu ứng
 lợi thế
-
-
+các lợi thế
+phiêu lưu
 adventurer's đến
 adventurer's lao tới
-
+thích phiêu lưu
 adverse phản ứng
 lời khuyên
 lời khuyên phòng ngừa hào quang
@@ -550,23 +550,23 @@ aerialist's đá
 aerie quyết tâm
 aery linh hồn bị bắt
 aery linh hồn bị bắt tín dụng
-
+thẩm mỹ
 aetha giết tín dụng
 aether burst
 aether khiên
 aether tầm nhìn
-
+theo tôi biết
 Xác nhận
-
+phụ tố
 affixes này tuần
 affliction phù thủy
-
+đủ tiền
 vắng mặt
 vắng mặt check
 vắng mặt cày
 
 
-
+châu Phi
 
 after một nghìn cố gắng
 after tất cả
@@ -578,10 +578,10 @@ after kéo
 after bạn
 
 
-
+bộ đốt sau
 kiếp sau
 hậu quả
-
+buổi chiều
 
 
 lại
@@ -651,12 +651,12 @@ agogridon giết tín dụng
 đau đớn và tra tấn
 đau đớn của sa ngã kẻ sùng bái
 đồng ý
-
+đã đồng ý
 khiêu khích drones
 khiêu khích người bảo vệ
 khiêu khích người bảo vệ hào quang
 khiêu khích người bảo vệ script
-
+à
 À há
 
 
@@ -664,7 +664,7 @@ phía trước
 phía trước của của anh ấy time
 phía trước của curve
 phía trước của của bạn time
-
+ôi
 ahh ok
 ahn'kahet lò than hiệu ứng
 ahn'kahet lò than giết tín dụng
@@ -703,7 +703,7 @@ nhắm
 nhắm cho
 nhắm của sắt dwarves
 nhắm đến vết thương
-
+dùng hack ngắm
 
 không khí
 không khí vụ nổ
@@ -738,7 +738,7 @@ airborne độc tố
 airdrop một tu sĩ
 Máy bay
 máy bay da
-
+sân bay
 airport cờ trung lập nhấp
 khinh khí cầu đại bác
 khinh khí cầu va chạm 1
@@ -755,7 +755,7 @@ airy pale bia
 airy linh hồn
 aiyu hình ảnh hào quang
 
-
+còn gọi là
 akali's miễn nhiễm
 akali's ritual của hủy diệt
 akali's choáng
@@ -773,7 +773,7 @@ al'chukla tín dụng
 al'chukla sét quả bóng
 al'chukla sét tay
 alabaster khiên
-
+sự nhanh nhạy
 alacrity của nguyên tố
 báo động
 Chuông báo thức kêu rồi
@@ -824,11 +824,11 @@ alexstrasza's quà tia
 alexstrasza's quà hình ảnh
 alexstrasza's sự hiện diện
 alexstrasza's nước mắt
-
+tảo
 algalon sự kiện tia
 algalon sự kiện tia climax
 algar giết tín dụng
-
+thuật toán
 alicite mặt dây chuyền
 align đĩa aggro
 liên kết hoàn thành
@@ -875,7 +875,7 @@ tất cả cùng nhau
 tất cả cuối tuần
 tất cả2
 allergic phản ứng
-
+dị ứng
 liên minh
 liên minh đại sứ
 liên minh bóng bay
@@ -972,7 +972,7 @@ alpha đòn đánh
 cũng
 cũng làm
 cũng2
-
+nhân vật phụ
 alt tài khoản
 alt nhân vật
 alt thân thiện
@@ -1000,7 +1000,7 @@ thay đổi vạc độc tố
 thay đổi hình dạng
 alternate sức mạnh tăng
 alternating mạch nước phun
-
+hoặc là
 
 
 alumeth's tàn tích
@@ -1023,7 +1023,7 @@ là
 là tôi chết
 
 amakkar's túi thuốc
-
+hỗn hống
 amani trận chiến gấu
 amani rồngdiều hâu
 amani sức mạnh
@@ -1090,7 +1090,7 @@ amberfly thần tượng
 ambermill pháp sư biến đổi
 amberseed giết tín dụng
 amberstill phòng thủ tín dụng
-
+thuận cả hai tay
 môi trường xác chết neo xuất hiện
 môi trường xác chết nhện xuất hiện
 môi trường fx
@@ -1103,7 +1103,7 @@ phục kích nhiệm vụ tín dụng
 bị phục kích
 bị phục kích bởi thisalee
 bị phục kích trạng thái
-
+nước Mỹ
 thạch anh tím quá tải
 thạch anh tím petrification
 thạch anh tím hồ
@@ -1112,12 +1112,12 @@ ammen thung lũng lashling
 đạn dược
 đạn dược xe kéo rockets
 amnennar's cơn thịnh nộ
-
+mất trí nhớ
 
 đa tình
 đa tình rooster
-
-
+số lượng
+sự khuếch đại
 bộ khuếch đại
 khuếch đại sát thương
 khuếch đại ngọn lửa
@@ -1135,7 +1135,7 @@ anachronos thị giác khởi tạo
 anachronos thị giác nhạc
 Phân tích quá hóa tê liệt
 
-
+điều đáng ghét
 
 tổ tiên tàng hình
 tổ tiên hình ảnh
@@ -1163,7 +1163,7 @@ neo đây mới
 neo dây thừng
 neo đến skulls
 neo hình ảnh
-
+thả neo
 
 cổ đại
 cổ đại amber
@@ -1229,13 +1229,13 @@ anduin's vỡ chân
 hải quỳ hóa chất chiết xuất
 hải quỳ câu cá người bảo vệ
 hải quỳ mùi hương mây
-
-
-
+thuốc gây mê
+các thuốc gây tê
+thiên thần
 angel của cái chết
 angelic thành lũy
 angelic lông vũ
-
+các thiên thần
 cơn giận
 cơn giận tia
 cơn giận trại chìa khóa
@@ -1295,19 +1295,19 @@ mắt cá chân nứt
 anklet với vàng bells
 
 annihilate quỷ
-
+bị hủy diệt
 hủy diệt
+kẻ hủy diệt
 
-
-
+ngày kỷ niệm
 thông báo
 thông báo akkokoz xuất hiện
 thông báo shoxtik xuất hiện
 thông báo khủng bố xuất hiện
 thông báo zul'farrak zombie
 announcer điều khiển hào quang
-
-
+sự phiền toái
+bực mình
 khó chịu
 khó chịu buzz
 khó chịu tiểu quỷ
@@ -1325,11 +1325,11 @@ trả lời không sai
 trả lời vâng đúng
 trả lời vâng sai
 
-
-
+câu trả lời
+con kiến
 Nhân vật phản diện
 antechamber dịch chuyển
-
+bài ca
 anti phép thuật vỏ
 anti phép thuật zone
 anti-không khí đại bác
@@ -1351,8 +1351,8 @@ anti-personnel đại bác
 anti-cướp biển bom
 anti-nọc độc
 
-
-
+kháng sinh
+sự mong đợi
 anticipation của chiến tranh
 antimagic nhịp
 antlers của malorne
@@ -1369,7 +1369,7 @@ anveena năng lượng rút cạn
 anveena's nhà tù
 đe nhấp dummy
 
-
+lo lắng bồn chồn
 anxious lao tới
 bất kỳ
 bất kỳ dps
@@ -1381,7 +1381,7 @@ bất kỳ skips đây
 bất kỳ tanks
 bất kỳ tips cho này trùm
 bất kỳ tips cho này hầm ngục
-
+bất kỳ ai
 
 anyone một thợ rèn
 anyone sống
@@ -1394,15 +1394,15 @@ anyone đó
 Bất cứ thứ gì
 Bất cứ thứ gì có thể xảy ra
 Bất cứ thứ gì mới
-
+bất cứ lúc nào
 dù sao
 dù sao2
-
-
+dẫu sao
+bất cứ đâu
 
 aod đặc biệt
 aod đặc biệt - vegard
-
+sát thương diện rộng
 aoe giới hạn
 aoe sát thương
 aoe chữa lành
@@ -1416,8 +1416,8 @@ aoe triệu hồi người chơi máy quay bộ lạc
 
 aoe adds
 tách rời
-
-
+căn hộ
+sự thờ ơ
 apexis pha lê truyền
 
 apexis giác ngộ
@@ -1426,15 +1426,15 @@ apexis trả đũa
 apexis triệu hồi
 
 
-
+ngày tận thế
 apollo's dây xích
 
 apothecary's cháy nước
 
 apparatus của khaz'goroth
-
+hình như
 apparently họ nói
-
+bóng ma
 
 
 appearance - bộ lạc pháp sư
@@ -1446,7 +1446,7 @@ táo nghiền nát
 táo rơi đến mặt đất
 táo-berry hooch
 apples đến oranges
-
+người nộp đơn
 áp dụng
 áp dụng hải quỳ chemicals
 áp dụng argent ngựa con
@@ -1488,12 +1488,12 @@ apples đến oranges
 áp dụng quyến rũ gland
 áp dụng đến hội
 applying dụ
-
-
+cuộc hẹn
+thẩm định
 trân trọng
 trân trọng nó
 trân trọng mời
-
+bị bắt giữ
 học việc
 học việc nhà giả kim
 học việc archaeologist
@@ -1516,8 +1516,8 @@ học việc thợ may
 học việc yufi
 tiếp cận
 tiếp cận cautiously
-
-
+thích hợp
+xấp xỉ
 
 aqua bom
 aqua tia
@@ -1795,12 +1795,12 @@ bắn cung mục tiêu dummy cưỡi phương tiện
 bắn cung mục tiêu dummy phương tiện ghi
 archimonde lửa
 archimonde's bóng tối
-
+lưu trữ tài liệu
 archivist's biểu tượng
 
 đại pháp sư altaeric biến đổi
 đại pháp sư vargoth's ritual
-
+cổng vòm
 hình cung vụ nổ
 hình cung đốt
 hình cung năng lượng
@@ -1939,13 +1939,13 @@ cánh tay shado-pan gai bẫy
 cánh tay quét
 cánh tay chính bạn
 armadillo chó con
-
+ngày tận diệt
 armed và nguy hiểm
 vũ trang đất khai thác
 vũ trang hình ảnh cam
 vũ trang hình ảnh đỏ
 vũ trang hình ảnh vàng
-
+đình chiến
 armoire máy quay
 
 giáp
@@ -1974,8 +1974,8 @@ bọc giáp đỏ dragonhawk
 bọc giáp skyscreamer
 bọc giáp Có tuyết sư điểu
 bọc giáp titanium kính bảo hộ
-
-
+áo giáp
+thợ rèn giáp
 cánh tay
 cánh tay phía sau back
 cánh tay chiến binh
@@ -1989,14 +1989,14 @@ aronus tùy chỉnh cưỡi
 
 around ba mươi
 
-
+bắt giữ
 arrest kẻ sùng bái
 đến
 đến của naaru
+đến nơi
 
-
-
-
+sự kiêu ngạo
+kiêu ngạo
 mũi tên
 mũi tên tấn công
 mũi tên kênh nón test
@@ -2098,15 +2098,15 @@ Cũng như
 như bạn ước
 Càng sớm càng tốt
 asaq conversation tín dụng
-
+đi lên
 ascend đến thiên đường
-
+sự thống trị
 ascendant đòn đánh
 thăng thiên
 tro
 tro nguyên tố xuất hiện
 tro bão
-
+xấu hổ
 kẻ mang tro
 kẻ mang tro buzzsaw
 kẻ mang tro vo
@@ -2174,8 +2174,8 @@ khía cạnh của thekal
 khía cạnh của venoxis
 khía cạnh giai đoạn phép thuật
 khía cạnh
-
-
+làm ngạt thở
+sự ngạt thở
 mông
 mông chú hề
 kẻ tấn công phát bắn
@@ -2224,12 +2224,12 @@ Nhiệm vụ được giao
 hỗ trợ
 hỗ trợ nhà vô địch
 hỗ trợ tank
-
+trợ lý
 
 Giả sử rằng
-
-
-
+tiểu hành tinh
+hen suyễn
+đáng kinh ngạc
 astral liên kết
 astral giáp
 astral giáp hình ảnh
@@ -2290,13 +2290,13 @@ atal'ai xác chết ăn
 atal'ai bộ xương vật tổ
 đã ăn
 đã ăn và trái không crumbs
-
+điền kinh
 atiesh hình ảnh
-
-
+máy ATM
+sự chuộc tội
 atrophic cú đánh
 
-
+teo cơ
 gắn pin 1
 gắn pin 2
 gắn đại bác quả bóng 1
@@ -2468,7 +2468,7 @@ attacked người chơi
 kẻ tấn công chữa lành absorb lỗi
 kẻ tấn công chỉ trái
 kẻ tấn công trên tôi
-
+đang tấn công
 attacking người chơi
 thử
 
@@ -2477,8 +2477,8 @@ chú ý
 chú ý khoảng
 chú ý khoảng mất mát
 chú ý khoảng lost
-
-
+làm suy giảm
+sự suy giảm
 thái độ
 thu hút
 thu hút eel
@@ -2498,12 +2498,12 @@ hòa hợp đến thiên nhiên 10 dose giảm
 hòa hợp đến thiên nhiên 2 dose giảm
 hòa hợp đến thiên nhiên 25 dose giảm
 hòa hợp đến lõi
-
+đang hòa hợp
 Tạm biệt
 
 auction nhà
-
-
+sách nói
+ặc
 tăng cường đau
 tăng cường rune
 tăng cường tầm nhìn
@@ -2587,8 +2587,8 @@ Dịch tự động
 tự động đũa phép
 tự động-sửa
 Tự truyện
-
-
+pháo tự động
+tự động sửa lỗi
 Tại tính năng tự sửa
 autokill diều hâu
 automated máy nghiền cái chết notify
@@ -2601,13 +2601,13 @@ mùa thu
 mùa thu hoa nở sapling hình ảnh
 mùa thu hoa pháo hoa
 av nhiệm vụ invis loại một
-
-
+tuyết lở
+hình đại diện
 avatar của tuyệt vọng
 avatar của ngọn lửa
 avatar của hakkar là được triệu hồi
 avatar của jade
-
+báo thù
 kẻ báo thù phán xét bonus
 của kẻ báo thù khiên
 của kẻ báo thù trillium giáp chân
@@ -2625,7 +2625,7 @@ tránh nó
 tránh tia
 tránh tia
 tránh thợ máy
-
+có thể tránh được
 
 avoidance của rắn
 avruu's quả cầu
@@ -2673,7 +2673,7 @@ giải thưởng dũng cảm 100
 giải thưởng dũng cảm 1000
 giải thưởng dũng cảm 500
 giải thưởng ysondre giết tín dụng
-
+nhận biết
 Tránh xa
 away từ trùm
 tuyệt vời
@@ -2682,7 +2682,7 @@ tuyệt vời thuốc
 tuyệt vời2
 tồi tệ
 Ngại quá
-
+đã thức tỉnh
 
 rìu
 rìu cú đánh
@@ -2699,12 +2699,12 @@ axis model - rương máu back
 aynasha's mũi tên
 aynasha's cung
 
-
+yo
 aysa chúc mừng đồng hồ
 aysa đã sập tàu người bảo vệ hào quang
 aysa người bảo vệ hào quang
 aysa gió chamber người bảo vệ hào quang
-
+ây
 
 azeroth cháy
 azil hình ảnh
@@ -2789,25 +2789,25 @@ back đến chính điểm cụm từ
 back đến điểm
 Mai quay lại
 back lên
-
-
-
+đau lưng
+kẻ bẻ lưng
+lửa phản ngược
 phản tác dụng
 background hào quang
 
 
-
+phản ứng dữ dội
 ba lô
 ba lô trạng thái
 ba lô hình ảnh
 
 backslash nhắm mục tiêu
-
+đâm sau lưng
 dự phòng
 dự phòng kẻ đột kích
 
 
-
+vi khuẩn
 xấu
 xấu mông
 xấu thái độ
@@ -2839,13 +2839,13 @@ xấu thời tiết
 xấu winner
 xấu2
 xấu3
-
+kẻ xấu
 huy hiệu của kypari zar
 huy hiệu của người bảo vệ
 huy hiệu của swarmguard
 badger huy chương
 
-
+tệ hại
 
 bael'gar's rực lửa tinh chất
 
@@ -2862,8 +2862,8 @@ mồi nó đây
 mồi orca
 mồi trùm
 mồi họ
-
-
+nhử mồi
+nướng
 bake mulgore gia vị bánh mì
 nướng manta tia
 nướng rockfish
@@ -2890,7 +2890,7 @@ cân bằng tiên tộc peridot
 cân bằng trillium thỏi
 cân bằng trillium thỏi và của nó uses
 cân bằng hoang dã jade
-
+chuyện tào lao
 bale đòn đánh
 baleful đòn đánh
 baleroc biến đổi
@@ -2916,12 +2916,12 @@ ballista lửa - cảnh
 bóng bay xe kéo contents
 bóng bay giết tín dụng
 bóng bay dây
-
+quả bóng
 balnazzar biến đổi
 balnazzar biến đổi choáng
 
 bambina's báo thù
-
+bị lừa
 
 ban nó
 ban taunts một mogu
@@ -2949,8 +2949,8 @@ dải của vĩnh cửu restorer
 dải của vĩnh cửu sage
 dải của dũng cảm
 băng gạc
-
-
+được băng bó
+băng bó
 dảinó là guile
 bandit's phù hiệu
 tai ương
@@ -2974,7 +2974,7 @@ trục xuất bản thân
 trục xuất trạng thái lớn vàng
 trục xuất trạng thái nhỏ vàng
 trục xuất thundering lưu đày
-
+bị trục xuất
 banished từ shattrath city
 trục xuất
 trục xuất của vảy
@@ -3005,7 +3005,7 @@ banshee mối đe dọa
 
 banshee's phép thuật gương
 banshee's khiên
-
+nói đùa
 thanh
 baradin chữa lành thuốc
 baradin giữ closure cảnh báo
@@ -3031,7 +3031,7 @@ có ngạnh kim
 có ngạnh lưới
 có ngạnh shot
 có ngạnh chích
-
+gai nhọn
 
 barely sống
 Suýt không kịp
@@ -3039,7 +3039,7 @@ barely chơi được
 vỏ cây của diệt vong
 vỏ cây của kẻ đi bộ
 barking lên sai cây
-
+vỏ cây
 barkskin duration tăng
 
 barnacle phi hành đoàn despawn
@@ -3070,9 +3070,9 @@ barrel của câu cá trên back
 barrel tắt
 barrel nhắm mục tiêu
 barrel ném
-
+lao vút
 barreled điều khiển hào quang
-
+thùng
 vùng hoang nở
 vùng hoang nhanh nhẹn
 vùng hoang toughness
@@ -3082,13 +3082,13 @@ rào cản kênh
 rào cản của ánh sáng
 rào cản tư thế
 barrrage của lửa
-
+trao đổi hàng
 
 
 base trại dấu
 base tàng hình
 base hình ảnh
-
+bóng chày
 dựa trên
 dựa trên và redpilled
 dựa trên trên
@@ -3107,7 +3107,7 @@ basilisk da
 basilisk dấu vết
 giỏ vụ nổ
 giỏ của crocs
-
+bóng rổ
 bassgut thở
 
 đồ khốn
@@ -3121,9 +3121,9 @@ dơi lưới
 bataari đuốc
 bathed trong ánh sáng
 bathed trong cơn giận
-
+phòng tắm
 bathroom phá
-
+bột nhão
 
 battering cừu đực
 pin
@@ -3253,7 +3253,7 @@ tia test
 tia đến zelfrax
 tia hình ảnh
 beaming earthsiege kim cương
-
+đậu
 gấu
 gấu animal
 gấu giáp
@@ -3301,7 +3301,7 @@ quái thú theo dõi
 beast's dấu
 beastcaller ném
 quái thú bộ bài
-
+kẻ diệt thú
 đánh bại
 đánh bại một chết ngựa
 đánh bại xuống
@@ -3319,7 +3319,7 @@ vì
 vì của
 beckon của anachronos
 beckon gà tây
-
+vẫy gọi
 
 trở thành
 trở thành trùm bóng tối
@@ -3328,9 +3328,9 @@ trở thành stormhoof
 trở thành stormwind harbor người phòng thủ
 trở thành2
 giường
-
-
-
+phòng ngủ
+con ong
+thịt bò
 beehive trạng thái
 đã
 đã một trong khi
@@ -3347,7 +3347,7 @@ bia basted lợn rừng xương sườn
 bia giao hàng
 bia kính bảo hộ
 bia-basted cá sấu
-
+bọ cánh cứng
 
 
 
@@ -3356,7 +3356,7 @@ before bản vá
 
 befouled nước
 befriend xanh da trời whelping
-
+sự bối rối
 bắt đầu
 bắt đầu tiếp cận một
 bắt đầu tiếp cận b
@@ -3370,14 +3370,14 @@ bắt đầu sương giá hơi thở tấn công
 bắt đầu korrah's tour
 beginner thân thiện
 khởi đầu
-
+mê hoặc
 behemoth xung phong
 phía sau
 phía sau trên episodes
 Sau cây cột
 Lỗi thời rồi
 phía sau bạn
-
+màu be
 
 
 
@@ -3385,14 +3385,14 @@ phía sau bạn
 bejeweled wizard's bọc tay
 ợ
 ợ vụ nổ
-
+tin
 believe trong tốt hơn ngày
 Hãy tin vào bản thân
 believe nó hoặc không
 believe tôi
 believe chúng tôi có thể thắng
-
-
+đã tin
+tin rằng
 chuông
 chuông kênh
 chuông lắc
@@ -3425,11 +3425,11 @@ belt của titan
 ghế dài
 ghế dài người chơi
 ghế dài warmer
+bị cho ngồi dự bị
 
+lời chúc phúc
 
-
-
-
+các phúc lợi
 cuồng loạn
 cuồng loạn vo kích hoạt
 berserker hào quang
@@ -3452,7 +3452,7 @@ berzerker ngọn lửa vụ nổ
 besalt thỏ phép thuật nguồn sinh
 beseech phước lành
 
-
+bao vây
 tốt nhất
 tốt nhất trường hợp kịch bản
 tốt nhất deals anywhere
@@ -3493,8 +3493,8 @@ ban tặng của ironstar
 ban tặng của moltenfist
 ban tặng của shadowforge
 ban tặng của thaurissan
-
-
+cá cược
+bản beta
 beta nam
 bethekk's phước lành
 bethod's kiếm thử thách
@@ -3529,9 +3529,9 @@ bfgc dọn dẹp
 bg bật
 bg quân tiếp viện - ondeath proc hào quang
 
+thiên vị
 
-
-
+giá thầu
 bidding vàng
 to
 lớn em bé
@@ -3641,9 +3641,9 @@ xiềng xích của sét reflexes
 xiềng xích của phục tùng
 binge đang xem
 bio phá
+tiểu sử
 
-
-
+phát quang sinh học
 
 
 chim
@@ -3661,10 +3661,10 @@ sinh nhật
 sinh nhật bánh
 Tiệc sinh nhật
 birthing ngọn lửa
-
+đồ tốt nhất
 bis trang bị
 con điếm
-
+cằn nhằn
 
 
 cắn
@@ -3819,7 +3819,7 @@ blackhorn nghỉ tự do
 blackhowl's cơn giận
 blackhowl's sẽ
 đenmiệng oil
-
+mất điện
 blackout đồ uống
 blackout say
 blackout tức thời
@@ -3907,7 +3907,7 @@ blanche's boomer đồ uống sức mạnh thanh
 blanche's boomer đồ uống sức mạnh nút
 blanche's thuốc tiên của replenishment
 blanched kim nấm
-
+chăn
 vụ nổ
 vụ nổ nova
 vụ nổ của không khí
@@ -3918,8 +3918,8 @@ vụ nổ tape
 vụ nổ sóng
 vụ nổ-brewed
 blastbarrel phi hành đoàn lớp lót
-
-
+pháo nổ
+bị nổ tung
 blasted hạ cánh
 blasterboot nhảy 01
 blasterboot nhảy 02
@@ -3998,7 +3998,7 @@ chảy máu cắn
 chảy máu tim
 chảy máu ra
 chảy máu vết thương
-
+ôi chao
 ban phước
 ban phước đe
 ban phước bọc tay
@@ -4023,7 +4023,7 @@ ban phước trillium belt
 ban phước trillium greaves
 ban phước vũ khí coating
 ban phước phù thủy oil
-
+phúc lành
 phước lành
 phước lành của a'dal
 phước lành của aessina
@@ -4149,9 +4149,9 @@ mù lính gác
 mù điểm
 mù đòn đánh
 mù rồng con
-
+bị mù
 blinded bởi cơn giận
-
+bịt mắt
 blindfold hình ảnh
 chói mắt bụi bẩn
 chói mắt bụi
@@ -4166,7 +4166,7 @@ chói mắt bầy đàn
 chói mắt độc tố
 chói mắt mạng nhện
 mùbên
-
+bị bất ngờ
 
 blingtron nhạc
 chớp
@@ -4185,7 +4185,7 @@ phồng rộp poison
 phồng rộp thối rữa
 phồng rộp xúc tu cưỡi phương tiện
 phồng rộp vết thương
-
+tấn công chớp nhoáng
 blitz triệu hồi
 blitz triệu hồi kích hoạt
 blitzkrieg khởi tạo
@@ -4248,8 +4248,8 @@ block giá trị 93
 
 blockade vụ nổ thỏ - lửa
 blockade vụ nổ thỏ - nước
-
-
+bị chặn
+đỡ đòn
 blonde riding bò tây tạng
 máu
 máu và sấm
@@ -4362,10 +4362,10 @@ máu hổ giáp ngực
 máu hổ vai
 máu giun
 máu-soaked invitation
-
+cuộc tắm máu
 bloodbath nút
 bloodbathed frostbrood kẻ chinh phục
-
+quả mọng máu
 máuđun sôi
 máutia sét
 bloodbolt bắn tóe
@@ -4422,7 +4422,7 @@ bloodhilt giết tín dụng
 đẫm máu wyrmhide mũ giáp
 đẫm máu wyrmhide chân
 đẫm máu wyrmhide vai
-
+trích máu
 bloodlord's hào quang
 khát máu
 khát máu trạng thái
@@ -4461,7 +4461,7 @@ máuđá
 bloodstone dải
 bloodstone dịch chuyển
 máubão
-
+dâng máu
 bloodtalon con non hào quang
 bloodtalon còi
 
@@ -4548,7 +4548,7 @@ bloodthirsty wyrmhide vai
 
 
 
-
+nọc máu
 
 bloodvine kính bảo hộ
 bloodvine quần
@@ -4581,7 +4581,7 @@ máugiun
 đẫm máu nước trang trí
 nở
 nở mặt trăng hoa sen
-
+nở hoa
 hoa nở
 hoa nở targetting
 nở rộ cổ đại
@@ -4612,7 +4612,7 @@ thổi lên quân đoàn antenna
 thổi bay chướng ngại
 thổi bay cổng
 
-
+dùi cui
 bludgeoning đòn đánh
 xanh dương
 xanh dương hào quang
@@ -4703,7 +4703,7 @@ bluetip huy chương
 lừa gạt
 lừa gạt nhiệm vụ tín dụng
 Thẳng thừng
-
+mờ nhòe
 blurred tốc độ
 blurring chém
 blushleaf cặn
@@ -4733,7 +4733,7 @@ thuyền nhắm mục tiêu dummy
 thuyền dịch chuyển
 bobbing cho apples
 bodacious cửa knocker
-
+bị đánh bẹp
 bodily thanh trừng
 cơ thể
 cơ thể và linh hồn
@@ -4742,7 +4742,7 @@ cơ thể của đá
 cơ thể kéo
 cơ thể đập mạnh
 cơ thể đổi
-
+đấm vào thân
 
 bog quất
 bogblossom đẩy lùi
@@ -4777,9 +4777,9 @@ táo bạo primordial ruby
 táo bạo của nữ hoàng ngọc hồng lựu
 táo bạo đỏ tươi ruby
 táo bạo của rắn mắt
+được củng cố
 
-
-
+củng cố
 bolstering sự hiện diện
 tia sét
 tia sét xung phong bụi gai
@@ -4871,8 +4871,8 @@ xương-trắng nguyên thủy raptor
 bonechewer cắn
 bonechewer thối rữa
 bonechilling bão tuyết
-
-
+kẻ bẻ xương
+máy nghiền xương
 bonereaver's cạnh
 xương của bwonsamdi
 xương của bwonsamdi hào quang
@@ -4880,14 +4880,14 @@ xương của biến hình
 
 bonescythe giáp ngực
 bonescythe rương
-
+gai xương
 
 lửa trại ngụy trang
 lửa trại superbuff
 bonfire's phước lành
 bonfire's phước lành hủy
-
-
+cốc đầu
+điên rồ
 
 bonus burial trove chìa khóa
 
@@ -4910,8 +4910,8 @@ sách của glyph tinh thông
 sách của ngôi sao
 sách của sinh tồn
 sách của ages
-
-
+đặt chỗ
+đã đánh dấu
 sáchcửa hàng
 bùng nổ
 bùng nổ boots
@@ -4935,7 +4935,7 @@ boomshroom vụ nổ
 ân huệ của loa
 tăng
 
-
+thuốc tăng lực
 boosting dịch vụ
 ủng heel với scrollwork
 ủng đến đầu
@@ -4957,7 +4957,7 @@ boots của thốt ra bóng tối
 boots của wintry sức bền
 
 booze nhổ
-
+bị đánh
 
 borderline khả thi
 làm chán
@@ -4969,7 +4969,7 @@ chán
 chán của trò chơi
 borer khoan
 
-
+mượn
 đã mượn chổi
 đã mượn time
 trùm
@@ -5195,7 +5195,7 @@ nảy tia sét
 nảy tia sét bounced
 nảy tia sét kích hoạt
 nảy xung phong
-
+nảy tưng
 bị trói
 bị trói ngọn lửa
 bị trói servant
@@ -5213,22 +5213,22 @@ bounty của thu hoạch
 cung
 cung đến tôi
 bát
-
+những cái bát
 
 
 bowmen nhấn chìm bọ ngựa
-
+cung tên
 phát bắn
 phát bắn tác động ngọn lửa bản vá
 hộp
 hộp của bom
 boxed bùng nổ bùng nổ
 Quyền anh
+cậu bé
 
-
-
-
-
+bạn trai
+các chàng trai
+đồ ngốc
 bracelet của jade và coins
 bọc tay
 bọc tay của tàn phá sức mạnh
@@ -5268,7 +5268,7 @@ braised rùa
 bụi gai giết
 bụi gai snatch
 bramblescar tăng trưởng triệu hồi
-
+gậy gai
 
 
 bramblewood mũ giáp
@@ -5281,13 +5281,13 @@ brann chuyến bay giai đoạn điểm đánh dấu
 brann sức khỏe người kiểm tra
 brann tín hiệu đến bản thân
 brann biến đổi
-
+sự khoác lác
 dũng cảm
 brave's pháo sáng
 brave's pháo sáng hiệu ứng
 bravo đại đội phát sóng
 bravo đại đội cánh đồng bộ dụng cụ
-
+ẩu đả
 brawl trùm thắng phản đòn
 đấu sĩ vụ nổ
 đấu sĩ bộ phận 00
@@ -5310,7 +5310,7 @@ lò than lit
 lò than của nhảy múa ngọn lửa
 lò than khói
 Brazil
-
+người Brazil
 chờ tí
 chờ tí hai phút
 lỗ hổng giáp
@@ -5391,7 +5391,7 @@ hơi thở của sargeras
 hơi thở của đen hoàng tử
 hơi thở của rồng
 hơi thở của y'shaarj
-
+thở
 breathe sâu
 thở Tập thể dục
 thở lửa
@@ -5493,7 +5493,7 @@ brewfest bánh mì nướng
 brewfestive kỳ nghỉ thú cưỡi
 
 đồ uốngmũ giáp
-
+ủ bia
 brewing hình ảnh
 brewmaiden despawn điều khiển hào quang
 
@@ -5512,7 +5512,7 @@ brewmoon Lễ hội dịch chuyển
 
 
 brianna's experimental phép thuật
-
+hối lộ
 cầu
 cầu sự kiện
 bridges cháy
@@ -5608,13 +5608,13 @@ anh bạn tin tưởng
 anh bạn gì
 anh bạn2
 phát sóng pha lê tin nhắn
-
+loạt đạn mạn tàu
 brogg's vật tổ
 nướng bloodfin
 nướng rồng tiệc
 nướng núi trout
 broiling lava hào quang
-
+cháy túi
 broke ghi
 vỡ
 vỡ như địa ngục
@@ -5679,10 +5679,10 @@ bầy của onyxia
 bầy bệnh dịch
 bầy cơn giận
 broomstick biến hình
+anh trai
 
 
-
-
+đã mang
 nâu
 nâu rồng rùa
 nâu elekk
@@ -5703,14 +5703,14 @@ nâu riding bò tây tạng
 nâu bộ xương ngựa
 nâu rắn
 nâu sói
-
+trời ạ
 bruh khoảnh khắc
-
+vết bầm
 bruiser ngủ
 bruising cú đánh
 brunnhildar ngụy trang
 brunnhildar pre-đẩy ra
-
+bàn chải
 cháy rừng
 cháy rừng đốt hào quang
 cháy rừng cháy area visualization
@@ -5741,7 +5741,7 @@ kẻ tàn bạo đập mạnh
 brutusk phát bắn
 brutusk xích sét
 brutusk triệu hồi hào quang
-
+nhân tiện
 bong bóng
 bong bóng và abscess triệu hồi - bậc thầy
 bong bóng tia
@@ -5767,8 +5767,8 @@ bong bóng khiên hào quang canceller
 bong bóng phun
 bong bóng bẫy cái chết hào quang
 bong bóng lên
-
-
+tia bong bóng
+được bọc bong bóng
 bong bóng
 sủi bọt
 sủi bọt amber
@@ -5787,7 +5787,7 @@ bucket đầu
 bucket hạ cánh
 bucket danh sách
 bucket của meaty chó thức ăn
-
+chồm lên
 
 budd đẩy lùi
 budd nedreck - ném lọ
@@ -5850,8 +5850,8 @@ tòa nhà lửa
 tòa nhà tốc độ
 tòa nhà tốc độ hiệu ứng
 tòa nhà tốc độ kích hoạt
-
-
+bản build
+đã xây dựng
 bulging túi của charms
 bulging của đấu sĩ purse
 bull lao tới
@@ -5861,7 +5861,7 @@ bulldozer trừ tà giết tín dụng
 đạn bộ điều khiển periodic
 đạn bộ điều khiển triệu hồi hiệu ứng tối
 đạn triệu hồi kích hoạt
-
+cứng đầu
 vớ vẩn
 thành lũy
 thành lũy ngụy trang
@@ -5878,7 +5878,7 @@ bungie nhảy 01
 thỏ thiêu đốt
 thỏ cưỡi phương tiện
 
-
+phao
 
 burd sticker tác động
 gánh nặng của vĩnh cửu
@@ -6045,7 +6045,7 @@ burrow tín dụng đến bậc thầy
 burrow trong đến thống trị điểm
 burrow chuẩn bị
 burrow hình ảnh
-
+đào hang
 
 burst tại seams
 burst sát thương
@@ -6075,12 +6075,12 @@ chôn lưỡi kiếm
 chôn mặt dây chuyền
 chôn samuel's tàn tích
 chôn hatchet
-
+xe buýt
 bus dừng
-
-
-
-
+bụi cây
+kinh doanh
+đỉnh của chóp
+bị bắt quả tang
 bận
 bận bận
 bận sau
@@ -6093,8 +6093,8 @@ butcher rút cạn
 
 
 
-
-
+bơ
+con bướm
 nút 1
 nút 10
 nút 2
@@ -6115,10 +6115,10 @@ mua2
 
 buying một chạy
 
-
+mua đứt
 buzzard vết cắn
 buzzer lựctung
-
+cưa máy
 bwemba phát sóng
 bwemba's trợ giúp
 bwonsamdi xương dot
@@ -6144,7 +6144,7 @@ c'est la vie dài
 
 caber tác động
 caber ném
-
+cười khúc khích
 
 cackling tru
 tử thi collage hover
@@ -6152,11 +6152,11 @@ tử thi choáng
 tử thi ném
 tử thi giun
 
-
+quán cà phê
 lồng chiếm blackout hào quang
 lồng bẫy
 lồng bẫy - triệu hồi
-
+bị nhốt
 
 caimas kích hoạt trứng
 
@@ -6166,12 +6166,12 @@ bánh
 caladis brightspear tàng hình
 
 calcinder lửa hình ảnh
+tính toán
 
-
-
+có tính toán
 calculated chữa lành
-
-
+phép tính
+máy tính bỏ túi
 caledis's ngụy trang
 calen nhân hình biến đổi
 calico mèo
@@ -6355,7 +6355,7 @@ call wintergarde sư điểu
 call wyrmrest kẻ chinh phục
 call xink's máy nghiền
 
-
+đã gọi
 Đã bảo mà
 tiếng gọi blaithe
 tiếng gọi cho không khí hỗ trợ
@@ -6370,7 +6370,7 @@ tiếng gọi chim
 tiếng gọi đoàn lữ hành
 tiếng gọi wildhammer sư điểu kỵ sĩ
 tiếng gọi xóa
-
+sự nhẫn tâm
 cuộc gọi
 cuộc gọi cho trợ giúp
 bình tĩnh
@@ -6384,7 +6384,7 @@ bình tĩnh phản chiếu
 bình tĩnh bão
 calming xuống
 calming bài hát của ca sĩ
-
+calo
 
 came từ không đâu
 lạc đà tượng nhỏ phép thuật hiệu ứng
@@ -6425,7 +6425,7 @@ trại
 trại aparaje skybox
 trại bầy
 trại receives communique
-
+người cắm trại
 
 camping nghĩa địa
 camping chuyến đi
@@ -6616,7 +6616,7 @@ hủy whirly-gió người bảo vệ hào quang
 hủy wrynn hào quang
 hủy zazzo's auras
 hủy zone hào quang
-
+đã hủy
 
 
 
@@ -6626,7 +6626,7 @@ nến vụ nổ
 
 canh's kho báu
 canned nhiệt
-
+ăn thịt đồng loại
 cannibalize thịt hình ảnh
 cannibalize hình ảnh
 đại bác
@@ -6684,7 +6684,7 @@ giới hạn flag
 giới hạn nút
 giới hạn của bạn hit
 
-
+điện dung
 tụ điện phóng
 tụ điện quá tải
 tụ điện vật tổ
@@ -6739,7 +6739,7 @@ bị bắt vật tổ tín dụng bậc thầy
 bị bắt vật tổ periodic
 bị bắt hoang dã lạc đà
 bị bắt bò tây tạng
-
+đang bắt giữ
 
 
 xe hơi
@@ -6763,7 +6763,7 @@ mai của mặt trời và bóng tối
 đoàn lữ hành sẵn sàng
 đoàn lữ hành hình ảnh
 
-
+sự sục khí
 Tinh bột
 carcanet của trăm magi
 

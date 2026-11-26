@@ -101,15 +101,15 @@ abacus של violent odds
 נטישה ניסיון
 נטישה vehicle
 נטישה vehicle דלוק poly
-
+נטוש
 abandoned bloodwash ארגז הרוג קרדיט
-
+סטייה
 יכולות
 יכולת
 יכולת בקר
 
-
-
+רחצה
+טבילות
 aboard ה krom'gar wagon
 abolish רעל
 abom קרדיט
@@ -131,7 +131,7 @@ abort משימה
 מעל מים
 מעל אפס
 
-
+נעדר
 
 
 
@@ -150,7 +150,7 @@ absolute אפס
 
 absolutely מוהלם
 
-
+מחילה
 
 ספיגה
 ספיגה anima
@@ -183,7 +183,7 @@ absolutely מוהלם
 absorbed דם
 ספיגה
 ספיגה מגן
-
+אבסורדי
 
 תהומי תיק
 תהומי clam
@@ -201,14 +201,14 @@ absorbed דם
 תהומי מכה
 תהומי זרוק
 תהומי טרנספורמציה
-
-
+להאיץ
+מואץ
 
 accelerated שמימי בד
 accelerated hardened magnificent להסתתר
 
 
-
+תאוצה
 
 לקבל
 לקבל it
@@ -216,20 +216,20 @@ accelerated hardened magnificent להסתתר
 לקבל תור
 לקבל לחשים
 לקבל surrender
-
+התקבל
 accepted ה להזמין
 accepting תחיה
 accepting רוח מרפא
-
+גישה
 access שליטה console
+התאקלמות
 
-
-
+לפי
 according ל
 according ל ה guide
 
 
-
+דיוק
 
 
 
@@ -307,7 +307,7 @@ aching עצמות
 חומצי מכה
 חומצי sweat
 חומצי פצע
-
+בלוט
 
 acorn זרוק
 
@@ -315,13 +315,13 @@ acquiring מטרה
 acrid סערה
 
 across transborea השלם
-
+לפעול
 act עכשיו
 act דלוק שלי קרא
 act שלך age
 
 acting like אחד clown
-
+פעולה
 
 
 actions יש consequences
@@ -393,19 +393,19 @@ activating ה beacon
 פעיל שיחה
 פעיל tile
 
-
-
+שחקנית
+ממשי
 actual נזק
 actual נזק
 actual ריפוי
-
+בעצם
 
 
 
 actually לא רע
 
-
-
+דיקור
+פרסומת
 adam מבחן
 
 
@@ -423,9 +423,9 @@ adamantite שריון כפפות
 adamantite sharpening אבן
 adamantite נשק שרשרת
 
+להסתגל
 
-
-
+מסתגל
 adaptive ציוד
 adaptive הגנה
 adarrah בועה
@@ -463,8 +463,8 @@ addicted ל זה משחק
 
 תוסף
 תוסף word
-
-
+תוספים
+כתובת
 address ה issue
 
 adds מגיע
@@ -481,40 +481,40 @@ adept's שיקוי
 
 adjules chow זמן
 adjunct sha הופעה חזותי
-
+לכוונן
 
 adjust ה gears
 
 admiral's כובע
-
-
+להעריץ
+להודות
 
 adopt אחד puppy
-
-
+מקסים
+נערץ
 adorned sceptre בוס emote
 adornment של shells
-
+אדרנלין
 adrenaline פצצה
 adrenaline הסתערות
-
+מבוגר
 
 advance ל step 3
-
+מתקדם
 advanced deepdive קסדה
 
 advanced מטרה בובה
 advanced מטרה בובה - אירוע 003
 advanced מטרה בובה סביל
 advanced מטרה בובה הופעה אפקט
-
-
-
+יתרון
+יתרונות
+הרפתקה
 
 adventurer's הסתערות
+הרפתקן
 
-
-
+עצה
 advice prevention הילה
 ae קמע
 ae mirror פריט רמה
@@ -540,7 +540,7 @@ aeonaxx נפילה animation
 aeonaxx whelp נזק reduction הילה
 aeonaxx whelp זימון
 aeosera הרוג קרדיט
-
+אווירי
 aerial מתקפה auto-load
 
 aerial זינוק
@@ -550,23 +550,23 @@ aerialist's לבעוט
 
 aery נשמה נלכד
 aery נשמה נלכד קרדיט
-
+אסתטי
 aetha הרוג קרדיט
 aether פיצוץ
 aether מגן
 
-
-
+עד כמה שידוע לי
+חיובי
 
 affixes זה שבוע
 affliction מכשף
-
+להרשות לעצמי
 לא כאן
 לא כאן בדיקה
 לא כאן farming
 
-
-
+מפחד
+אפריקה
 אחרי
 אחרי אחד אלף tries
 אחרי כולם
@@ -578,10 +578,10 @@ affliction מכשף
 אחרי אתה
 אחרי-market burners
 אחרישריפה
-
+מבערים
 אחריחיים
 
-
+אחר הצהריים
 אחריהלם
 
 שוב
@@ -593,7 +593,7 @@ affliction מכשף
 agamaggan's זריזות
 agamaggan's כוח
 
-
+גיל
 age של
 aged dalaran חד wheel
 agent townsley קרדיט
@@ -601,7 +601,7 @@ aggra הטענה
 aggra שיגור
 
 aggresive זינוק
-
+תוקפני
 
 aggressive רעל
 תוקפנות
@@ -624,7 +624,7 @@ aggressive רעל
 תוקפנות thrall
 תוקפנות זבל
 
-
+זריז
 
 agile ריכוז
 agile קדמוני diamond
@@ -650,21 +650,21 @@ agonizing מכה
 agony ו anima
 agony ו torment
 agony של ה נפול cultist
-
-
+מסכים
+מוסכם
 
 
 agro protectors הילה
 
-
-
+אה
+אהה
 
 
 קדימה
 קדימה של שלו זמן
 קדימה של ה curve
 קדימה של שלך זמן
-
+אחח
 ahh בסדר
 ahn'kahet brazier אפקט
 ahn'kahet brazier הרוג קרדיט
@@ -703,7 +703,7 @@ aid של ה frostwolf מצלמה
 כוון בשביל
 כוון של ה ברזל dwarves
 כוון ל פצע
-
+שימוש באיימבוט
 aimed ירייה
 אוויר
 אוויר פיצוץ
@@ -732,13 +732,13 @@ aimed ירייה
 אוויר vent
 אוויר קמע
 אוויר-ל-אוויר rockets
-
+איירביאנבי
 
 airborne רעלן
 airdrop אחד כוהן
-
+מטוס
 airplane עור
-
+שדה תעופה
 airport דגל neutral click
 airship תותח
 
@@ -755,7 +755,7 @@ airship שיגור
 airy נשמה
 aiyu חזותי הילה
 ak מבחן
-
+המכונה
 akali's חסינות
 akali's ritual של annihilation
 akali's הלם
@@ -775,7 +775,7 @@ al'chukla ברק יד
 alabaster מגן
 
 alacrity של ה elements
-
+אזעקה
 alarm went כבוי
 
 albatross מטען
@@ -784,7 +784,7 @@ albino דרקון
 albino רכיבה crane
 albino נחש
 
-
+אלבום
 
 alcaz survey הילה
 alcaz survey קרדיט
@@ -824,11 +824,11 @@ alexstrasza's מתנה קרן
 alexstrasza's מתנה חזותי
 
 
-
+אצות
 algalon אירוע קרן
 algalon אירוע קרן climax
 algar הרוג קרדיט
-
+אלגוריתם
 
 align disk תוקפנות
 alignment השלמה
@@ -875,7 +875,7 @@ alignment skybox אפקט
 כולם weekend
 כולם2
 
-
+אלרגיות
 הברית
 הברית ambassador
 הברית balloon
@@ -931,8 +931,8 @@ alignment skybox אפקט
 הברית חזותי
 הברית wins
 בעלי ברית
-
-
+לאפשר
+מפתה
 alluring הילה
 
 alluring perfume תרסיס
@@ -953,16 +953,16 @@ alluring perfume תרסיס
 כמעט שם
 כמעט worked
 כמעט2
+לבד
 
 
-
-
+אלפא
 alpha קרניים
 alpha fade בחוץ
 
 alpha עצמי
 alpha מכה
-
+כבר
 already גמור
 already invested אז הרבה
 already שם
@@ -972,7 +972,7 @@ alright אז
 גם
 גם לעשות
 גם2
-
+דמות משנית
 
 alt דמות
 
@@ -1000,9 +1000,9 @@ altered cauldron רעלן
 altered צורה
 alternate כוח increase
 
+לחלופין
 
-
-
+למרות ש
 
 תמיד
 תמיד כאן
@@ -1090,35 +1090,35 @@ amberfly אליל
 ambermill קוסם שינוי
 amberseed הרוג קרדיט
 amberstill defense קרדיט
-
+דו-ידיות
 ambient גופה anchor הופעה
 ambient גופה עכביש הופעה
 
-
-
+שאפתן
+מארב
 ambush נקי-למעלה היעלמות
 ambush אירוע הפעל
 ambush override הילה
 ambush משימה קרדיט
-
+הותקף ממארב
 ambushed על ידי thisalee
 ambushed מצב
-
+אמריקה
 amethyst עומס יתר
 
 
 
 
-
+תחמושת
 
 amnennar's חמה
-
+שכחה
 בין
+מאוהב
 
-
-
-
-
+כמות
+הגברה
+מגבר
 amplify נזק
 amplify להבות
 amplify קסם
@@ -1134,8 +1134,8 @@ amulet של truesight
 
 
 
-
-
+לנתח
+חרם
 anatomical בובה
 ancestor היעלמות
 ancestor חזותי
@@ -1163,7 +1163,7 @@ anchor כאן חדש
 
 anchor ל skulls
 anchor חזותי
-
+מעוגן
 
 עתיק
 עתיק amber
@@ -1229,13 +1229,13 @@ anduin's שבור רגל
 
 anemone דג שומר
 anemone scent ענן
-
-
-
+חומר הרדמה
+חומרי הרדמה
+מלאך
 angel של מוות
 angelic מבצר
 
-
+מלאכים
 כעס
 כעס קרן
 כעס מחנה מפתח
@@ -1263,7 +1263,7 @@ anglers דיג raft
 כועס הלם
 כועס turkey
 כועס2
-
+ייסורים
 anim ערכה - injured אורק
 anim ערכה מת
 anim ערכה replacement
@@ -1284,38 +1284,38 @@ animal pillar נשק
 animate עצמות
 
 
-
+מונפש
 
 animated מכה
 animation בטל
-
+אנימה
 
 ankle נשיכה
 
 anklet עם golden bells
-
+להשמיד
 annihilate שדים
 
+השמדה
+משמיד
 
-
-
-
+יום נישואין
 
 announce akkokoz הופעה
 announce shoxtik הופעה
 announce טרור הופעה
 announce zul'farrak זומבי
 announcer שליטה הילה
+מטרד
+מעוצבן
+מעצבן
 
 
 
 
-
-
-
-
+אנומליה
 anomaly חזותי
-
+עוד אחד
 another אחד
 
 
@@ -1325,11 +1325,11 @@ answer לא incorrect
 answer כן correct
 answer כן incorrect
 
-
-
-
+תשובות
+נמלה
+אנטגוניסט
 antechamber שיגור
-
+המנון
 anti קסם shell
 anti קסם אזור
 anti-אוויר תותח
@@ -1351,8 +1351,8 @@ anti-personnel תותח
 anti-pirate פצצה
 anti-ארס
 
-
-
+אנטיביוטיקה
+ציפייה
 anticipation של מלחמה
 antimagic פעימה
 antlers של malorne
@@ -1368,8 +1368,8 @@ anuniaq's רשת
 anveena אנרגיה ניקוז
 
 anvil click בובה
-
-
+חרדה
+חרד
 anxious הסתערות
 כל
 כל נזק
@@ -1391,18 +1391,18 @@ anxious הסתערות
 מישהו שחרר
 מישהו online
 מישהו שם
-
+כל דבר
 
 anything חדש
+בכל עת
+בכל אופן
+
+בכל מקרה
+בכל מקום
 
 
 
-
-
-
-
-
-
+נזק אזורי
 
 aoe נזק
 aoe ריפוי
@@ -1415,9 +1415,9 @@ aoe זימון שחקן מצלמה
 aoe זימון שחקן מצלמה ההורד
 aoe מבחן
 aoe ה adds
-
-
-
+בנפרד
+דירה
+אדישות
 apexis גביש infusion
 
 
@@ -1426,16 +1426,16 @@ apexis mob faction בדיקה
 apexis זימון
 
 
-
+אפוקליפסה
 
 
 apothecary's בוער מים
 apothecary's רעל
 apparatus של khaz'goroth
-
+כנראה
 apparently הם לומר
-
-
+רוחות רפאים
+להופיע
 
 appearance - ההורד מטיל
 appearance - ההורד קרבי
@@ -1446,7 +1446,7 @@ appearance - ההורד טנק
 תפוח falls ל קרקע
 תפוח-berry hooch
 apples ל oranges
-
+מועמד לעבודה
 החל
 החל anemone chemicals
 החל argent pony
@@ -1488,9 +1488,9 @@ apples ל oranges
 החל seduction gland
 החל ל גילד
 applying ה lure
-
-
-
+פגישה
+שומה
+להעריך
 
 appreciate ה להזמין
 
@@ -1514,7 +1514,7 @@ appreciate ה להזמין
 שוליה skinner
 שוליה tailor
 שוליה yufi
-
+לגשת
 
 
 
@@ -1780,7 +1780,7 @@ arcanum של vicious אינטלקט
 arcanum של vicious כוח
 
 archaeology ארגז
-
+מלאך עליון
 archeology נקה
 archeology distance - קר
 archeology distance - חם
@@ -1795,12 +1795,12 @@ archery מטרה בובה רכיבה vehicle
 archery מטרה בובה vehicle רשומה
 archimonde אש
 archimonde's חושך
-
+ארכיוני
 archivist's סמל
 
 archmage altaeric שינוי
 
-
+קשת כניסה
 arcing פיצוץ
 arcing שרוף
 arcing אנרגיה
@@ -1922,13 +1922,13 @@ argent vanguard chapter אני
 arguably טוב יותר
 arguably ה הטוב ביותר
 arguably ה הגרוע ביותר
-
-
+להתווכח
+טיעון
 argus צל קוסם שינוי
 
 
 aria של רע luckydo
-
+לקום
 arlokk שינוי
 זרוע
 זרוע מת נזק kologarn
@@ -1939,13 +1939,13 @@ arlokk שינוי
 זרוע סחיפה
 זרוע עצמך
 
-
+ארמגדון
 armed ו dangerous
 arming land מוקש
 arming חזותי כתום
 arming חזותי אדום
 arming חזותי צהוב
-
+שביתת נשק
 armoire מצלמה
 armoire נעלם
 שריון
@@ -1963,7 +1963,7 @@ armoire נעלם
 שריון ערך
 שריון2
 armore מצלמה
-
+משוריין
 
 armored כחול dragonhawk
 armored כחול רוח רוכב
@@ -1974,8 +1974,8 @@ armored אדום dragonhawk
 
 
 
-
-
+שריונות
+שריונר
 זרועות
 זרועות מאחורי אחורה
 זרועות לוחם
@@ -1988,15 +1988,15 @@ arngrim's שן
 aronus custom רכיבה
 סביב
 סביב thirty
+לסדר
+מעצר
 
-
-
-
+הגעה
 arrival של ה naaru
 
 
-
-
+יהירות
+יהיר
 
 arrow מתקפה
 arrow ערוץ חרוט מבחן
@@ -2063,7 +2063,7 @@ artillery מכה
 אומן scribe
 אומן skinner
 אומן tailor
-
+אמן
 artist הרוג קרדיט
 arugal ערוץ
 arugal אירוע ערוץ
@@ -2096,17 +2096,17 @@ aryna שיגור
 כ באר
 כ באר כ
 כ אתה wish
-
+בהקדם האפשרי
 asaq conversation קרדיט
-
+לעלות
 ascend ל ה heavens
-
+עליונות
 ascendant מכה
-
+התעלות
 
 ash יסודי הופעה
 ash סערה
-
+מתבייש
 
 
 
@@ -2140,7 +2140,7 @@ ashtongue גל b
 
 
 
-
+אסיה
 
 asira דרקון כוח asira ל dismount
 שאל
@@ -2173,8 +2173,8 @@ aspect של ה רוח צייד
 aspect של thekal
 aspect של venoxis
 aspect שלב לחש
-
-
+היבטים
+לחנוק
 
 תחת
 תחת clown
@@ -2194,9 +2194,9 @@ assassin's serpent's עין
 
 assassin's sight קוסמטי
 
+להתנקש
 
-
-
+התנקשות
 assassination אירוע initialize
 assassination פיצוץ
 assassination הרוג קרדיט ו הדיפה
@@ -2220,15 +2220,15 @@ assign geist הרוג קרדיט ל אדון
 assign רוח רפאים הרוג קרדיט ל אדון
 assign הרוג קרדיט ל אדון
 assign שלד הרוג קרדיט ל אדון
-
+מטלה
 
 assist אלוף
 assist ה טנק
-
+עוזר
 
 assuming זה
-
-
+אסטרואיד
+אסטמה
 
 
 astral שריון
@@ -2288,15 +2288,15 @@ atal'ai גופה לאכול
 atal'ai רעל
 
 atal'ai שלד טוטם
-
+אכל
 ate ו שמאל לא crumbs
-
+אתלטיקה
 atiesh חזותי
-
-
+כספומט
+כפרה
 atrophic מכה
 atrophic רעל
-
+ניוון
 
 
 attach תותח כדור 1
@@ -2468,26 +2468,26 @@ attacked שחקן
 תוקף ריפוי ספיגה באג
 תוקף רק שמאל
 תוקף דלוק אותי
-
+תוקף
 attacking שחקנים
 
 
 
-
+תשומת לב
 
 
 attention span אבוד
-
-
-
+מחליש
+החלשה
+גישה נפשית
 
 
 attract זועם kodo
 attract רוח רפאים
 attract קסם
 attract rift הופעה
-
-
+אטרקציה
+לכוונן אנרגיה
 
 attune ל kypari vos
 
@@ -2498,18 +2498,18 @@ attuned ל טבע 10 dose reduction
 attuned ל טבע 2 dose reduction
 attuned ל טבע 25 dose reduction
 attunement ל ה ליבה
-
+מתכוונן
 
 מכירה פומבית
 מכירה פומבית בית
-
-
+ספר שמע
+אוף
 
 augment רון
 
 
 
-
+דודה
 auntie stormstout קוסמטי
 הילה
 הילה קרן מבחן
@@ -2575,7 +2575,7 @@ aural הלם
 
 austere קדמוני diamond
 austere צלרוח diamond
-
+אוסטרליה
 
 auto התקפה
 auto אש
@@ -2586,14 +2586,14 @@ auto מהירות boost
 
 auto שרביט קסמים
 auto-תקן
-
-
-
+אוטוביוגרפיה
+תותח אוטומטי
+תיקון אוטומטי
 autocorrect קיבל אותי
 
 automated shredder מוות notify
 automatic תקן קרן
-
+אוטומציה
 automation עשה friendlies כתום
 automation mechanic חסינות
 automation שורש לחש
@@ -2601,13 +2601,13 @@ automation שורש לחש
 סתיו פריחה sapling חזותי
 סתיו פרח firework
 av משימה נעלם type אחד
-
-
+מפולת שלגים
+אווטאר
 avatar של ייאוש
 avatar של להבה
 avatar של hakkar הוא summoned
 avatar של jade
-
+לנקום
 
 avenger's מגן
 
@@ -2616,16 +2616,16 @@ avenging זעם
 avenging זעם
 avenging רוחות
 avenging חמה
-
+ממוצע
 
 
 aviana's יהיה
-
+להימנע
 
 avoid ה קרן
 avoid ה קרניים
 avoid ה mechanic
-
+נמנע
 
 avoidance של ה נחש
 avruu's כדור
@@ -2673,7 +2673,7 @@ awaken ymirjar נפול
 פרס valor 1000
 פרס valor 500
 פרס ysondre הרוג קרדיט
-
+מודע ל
 רחוק מ
 רחוק מ ה בוס
 מדהים
@@ -2681,7 +2681,7 @@ awaken ymirjar נפול
 מדהים קסם שתייה
 מדהים2
 
-
+מביך
 
 
 גרזן
@@ -2699,12 +2699,12 @@ axis model - תיבה דם אחורה
 
 aynasha's קשת
 aynasha's שורש
-
+יו
 aysa מזל טוב טיימר
 aysa crashed ship שומר הילה
 aysa שומר הילה
 aysa רוח chamber שומר הילה
-
+איי
 
 azeroth בוער
 azil חזותי
@@ -2739,7 +2739,7 @@ azure מים strider
 ba-bam רקטה
 babam חבית הילה
 babam powder kegs הילה
-
+תינוק
 baby אחורה
 baby blizzard דב
 baby elephant takes אחד bath
@@ -2789,25 +2789,25 @@ baby murloc סביל
 אחורה ל ה נקודה
 אחורה מחר
 אחורה למעלה
-
-
-
+כאב גב
+שובר גב
+התלקחות חוזרת
 אחורהאש
 background הילה
 אחורהיד
 
-
-
+תגובת נגד
+תרמיל
 backpack מצב
 backpack חזותי
 אחורהחתך
 backslash כיוון
+דקירה בגב
 
 
+לאחור
 
-
-
-
+חיידקים
 רע
 רע תחת
 רע attitude
@@ -2839,13 +2839,13 @@ backslash כיוון
 רע winner
 רע2
 רע3
-
+רע מעללים
 תג של kypari zar
 תג של ה מגן
 תג של ה swarmguard
 badger מדליון
 
-
+גרוע
 
 bael'gar's לוהט מהות
 baelog's valhalla ירייה
@@ -2862,8 +2862,8 @@ bait it כאן
 
 bait ה בוס
 bait אותם
-
-
+פיתיון
+לאפות
 bake mulgore spice לחם
 baked manta קרן
 baked סלעדג
@@ -2884,7 +2884,7 @@ balance pole יציאה לקפוץ
 balance pole יציאה אותי הילה
 balance pole landing פגיעה
 balance pole חזותי
-
+מאוזן
 
 
 
@@ -2916,17 +2916,17 @@ ballista אש - scene
 
 balloon הרוג קרדיט
 
-
+כדורים
 balnazzar שינוי
 balnazzar שינוי הלם
+באם
 
-
-
+רומה
 לחסום
 לחסום it
 לחסום taunts אחד mogu
 ban's פצצה
-
+בננה
 banana סרגל
 banana סרגל remove
 banana מטח
@@ -2936,7 +2936,7 @@ banana מטח
 banana זרוק
 
 
-
+בננות
 Hate Dummy
 
 
@@ -2949,8 +2949,8 @@ band של ה נצחי restorer
 band של ה נצחי sage
 band של valor
 
-
-
+חבוש
+חבישה
 
 bandit's סמל
 
@@ -2974,7 +2974,7 @@ banging ה gong
 גירוש מצב גדול צהוב
 גירוש מצב קטן צהוב
 גירוש thundering exile
-
+גורש
 banished מ shattrath עיר
 
 banishment של קשקש
@@ -3005,7 +3005,7 @@ banshee איום
 
 banshee's קסם mirror
 banshee's מגן
-
+התבדחות
 סרגל
 baradin ריפוי קסם שתייה
 baradin החזק closure אזהרה
@@ -3031,15 +3031,15 @@ barbecued buzzard כנף
 barbed רשת
 barbed ירייה
 
-
-
+עוקצים
+בקושי
 barely חי
 
 
 bark של doom
 bark של ה walkers
 barking למעלה ה wrong עץ
-
+קליפת עץ
 Berserk Duration Increase
 
 barnacle צוות היעלמות
@@ -3070,9 +3070,9 @@ baroque חרב scabbard
 חבית כבוי
 חבית כיוון
 חבית זרוק
-
+דהר
 barreled שליטה הילה
-
+חביות
 barrens פריחה
 
 
@@ -3082,14 +3082,14 @@ barricade פיצוץ
 מחסום של אור
 מחסום stance
 barrrage של אש
-
+סחר חליפין
 
 
 base מחנה סימון
 base הסתרה
 base חזותי
-
-
+בייסבול
+מבוסס
 based ו redpilled
 based דלוק
 
@@ -3100,14 +3100,14 @@ based דלוק
 
 basic התקפה ריכוז cost modifier
 basic זונה
-
+בעיקרון
 
 
 basilisk עור
 
 basket פיצוץ
 basket של crocs
-
+כדורסל
 
 
 ממזר
@@ -3123,10 +3123,10 @@ bathed ב אור
 bathed ב זעם
 
 bathroom שבור
+בלילה
 
 
-
-
+סוללה
 קרב
 קרב הילה
 קרב מצלמה custom רכיבה
@@ -3253,7 +3253,7 @@ beak טיימר הילה
 קרן ל zelfrax
 קרן חזותי
 
-
+שעועית
 דב
 דב animal
 דב שריון
@@ -3301,7 +3301,7 @@ beak טיימר הילה
 beast's סימון
 beastcaller זרוק
 
-
+צייד חיות
 
 beat אחד מת סוס
 beat למטה
@@ -3315,22 +3315,22 @@ beautiful chalcedony שרשרת
 
 
 
-
+כי
 because של
 beckon של anachronos
 
+קרא לבוא
 
-
-
+להפוך ל
 become בוס צל
 become שלי spar buddy
 
 become stormwind harbor מגן
 
-
-
-
-
+מיטה
+חדר שינה
+דבורה
+בשר בקר
 beehive מצב
 היה
 היה אחד while
@@ -3347,7 +3347,7 @@ beehive מצב
 
 
 
-
+חיפושית
 
 
 לפני
@@ -3356,7 +3356,7 @@ beehive מצב
 לפני2
 befouled מים
 
-
+בלבול
 התחל
 התחל approach אחד
 התחל approach b
@@ -3369,30 +3369,30 @@ befouled מים
 התחל כפור נשימה התקפה
 התחל korrah's tour
 
-
-
+התחלה
+לפתות
 behemoth מטען
 מאחורי
 מאחורי דלוק episodes
 מאחורי ה pillar
 מאחורי ה פעמים
 מאחורי אתה
-
-
+בז'
+ישות
 
 
 
 bejeweled wizard's צמידים
-
+גיהוק
 belch פיצוץ
-
+להאמין
 believe ב טוב יותר ימים
 believe ב עצמך
 believe it או לא
 believe אותי
 believe אנחנו can ניצחון
-
-
+האמין
+מאמין ש
 
 bell ערוץ
 
@@ -3402,7 +3402,7 @@ belly פיצוץ
 belly חסום
 
 
-
+להשתייך
 
 below מקפיא
 below אפס
@@ -3422,14 +3422,14 @@ below אפס
 חגורה של ה ארוך כביש
 חגורה של ה לילה שמיים
 חגורה של ה titans
-
+ספסל
 bench ה שחקן
 
+ישב על הספסל
 
 
 
-
-
+הטבות
 
 berserk vo הפעל
 berserker הילה
@@ -3441,7 +3441,7 @@ berserker זעם אפקט
 berserker הסתערות
 
 berserker stance סביל
-
+השתוללות
 berserking מטען
 berserking תיבה
 berserking יללה
@@ -3452,7 +3452,7 @@ berzerker להבה פיצוץ
 besalt bunny לחש spawner
 beseech ברכה
 
-
+לכתר
 הטוב ביותר
 הטוב ביותר case scenario
 הטוב ביותר deals anywhere
@@ -3482,7 +3482,7 @@ bestial צעקה
 
 bestial שאגה
 bestial חמה
-
+חבר הכי טוב
 
 bestow דם
 bestowal של angerforge
@@ -3493,8 +3493,8 @@ bestowal של ironstar
 bestowal של moltenfist
 bestowal של shadowforge
 bestowal של thaurissan
-
-
+הימור
+בטא
 
 bethekk's ברכה
 bethod's חרב אתגר
@@ -3529,9 +3529,9 @@ bfgc השלם
 
 bg reinforcements - ondeath proc הילה
 
+הטיה
 
-
-
+הצעת מחיר
 bidding זהב
 גדול
 גדול baby
@@ -3595,7 +3595,7 @@ bilgewater cartel דגל
 bilgewater אלוף
 
 bilious משקה נשימה
-
+מיליארד
 
 billy goat פיצוץ
 כבול
@@ -3641,9 +3641,9 @@ bindings של ברק reflexes
 bindings של submission
 
 bio שבור
-
-
-
+ביוגרפיה
+ביולוגיה
+הארה ביולוגית
 
 bipsi's כפפות
 ציפור
@@ -3653,20 +3653,20 @@ bipsi's כפפות
 ציפור רוח illusion
 ציפור swoop
 birds גמור
-
+לידה
 birth הטל
 birth מת חזותי
 birth בובה הטל
-
+יום הולדת
 
 birthday חבורה
 birthing להבה
-
+הציוד הטוב ביותר
 bis ציוד
 זונה
-
-
-
+קיטורים
+עצבני
+ביטקוין
 נשיכה
 נשיכה knut
 נשיכה אותי
@@ -3675,7 +3675,7 @@ bis ציוד
 נשיכה ה יד זה feeds אתה
 biting צינה
 biting קר
-
+מר
 bitter פיצוץ
 bitter משקה
 bitter משקה הילה
@@ -3819,7 +3819,7 @@ blackhorn breaks שחרר
 blackhowl's זעם
 blackhowl's יהיה
 blackmouth שמן
-
+הפסקת חשמל
 blackout משקה
 
 blackout מיידי
@@ -3907,7 +3907,7 @@ blanche's boomer משקה כוח סרגל
 blanche's boomer משקה כוח כפתור
 blanche's שיקוי של replenishment
 
-
+שמיכה
 פיצוץ
 פיצוץ nova
 פיצוץ של אוויר
@@ -3918,8 +3918,8 @@ blanche's שיקוי של replenishment
 פיצוץ גל
 פיצוץ-brewed
 blastbarrel צוות primer
-
-
+זיקוקים
+מפוצץ
 
 blasterboot לקפוץ 01
 blasterboot לקפוץ 02
@@ -3998,7 +3998,7 @@ bleeding נשיכה
 bleeding לב
 bleeding בחוץ
 bleeding פצע
-
+איכס
 מבורך
 מבורך anvil
 מבורך צמידים
@@ -4133,7 +4133,7 @@ blew שלי expectations
 
 כימשוןדם infusion
 
-
+מוכה פגע
 
 blighted צרחה
 
@@ -4149,9 +4149,9 @@ blighted צרחה
 עיוור spot
 עיוור מכה
 עיוור whelp
-
+מסונוור
 blinded על ידי זעם
-
+כיסוי עיניים
 
 מסנוור dirt
 מסנוור אבק
@@ -4166,10 +4166,10 @@ blinded על ידי זעם
 מסנוור רעלן
 מסנוור webs
 עיוורצד
+הופתע
 
 
-
-
+מצמוץ
 blink התקררות reduction
 blink פגיעה
 blink מכה
@@ -4185,16 +4185,16 @@ blistering רעל
 
 blistering tentacle רכיבה vehicle
 blistering פצע
-
+בליץ
 blitz זימון
 blitz זימון הפעל
 
 blitzkrieg initialize prevent לחש 01
-
+סופת שלגים
 blizzard אבן
 
-
-
+נפיחות
+נפוח
 bloated תועבה feign מוות
 bloating משקה
 לחסום
@@ -4249,7 +4249,7 @@ bloating משקה
 blockade פיצוץ bunny - אש
 blockade פיצוץ bunny - מים
 
-
+חוסם
 blonde רכיבה yak
 דם
 דם ו רעם
@@ -4362,10 +4362,10 @@ blonde רכיבה yak
 דם נמר כתפיים
 דם worms
 דם-soaked invitation
-
+מרחץ דמים
 bloodbath כפתור
 
-
+פטל דם
 
 דםברק
 דםברק splash
@@ -4422,9 +4422,9 @@ bloodhilt הרוג קרדיט
 מגואל בדם wyrmhide קסדה
 מגואל בדם wyrmhide רגליים
 מגואל בדם wyrmhide כתפיים
-
+הקזת דם
 bloodlord's הילה
-
+תאוות דם
 bloodlust מצב
 דםריסוק brutebane stout
 דםריסוק buzz
@@ -4461,7 +4461,7 @@ bloodspore רעל
 דםאבן band
 bloodstone שיגור
 דםסערה
-
+נחשול דם
 bloodtalon גור הילה
 
 
@@ -4548,7 +4548,7 @@ bloodthirst ריפוי
 
 
 
-
+ארס דם
 bloodvine מגפיים
 
 bloodvine מכנסיים
@@ -4581,7 +4581,7 @@ bloodwash ארגז חזותי
 עקוב מדם מים קוסמטי
 פריחה
 פריחה ירח lotus
-
+פורח
 פריחה
 פריחה targetting
 blossoming עתיק
@@ -4700,10 +4700,10 @@ bludgeoning מכה
 כחול wyrmrest warden קרן
 כחול2
 bluetip מדליון
-
+בלוף
 bluff משימה קרדיט
 קהה
-
+טשטוש
 blurred מהירות
 blurring חתך
 
@@ -4727,13 +4727,13 @@ board rescue מלאכה
 board חזותי
 boarded rescue מלאכה
 boarding sub הרוג קרדיט
-
+סירה
 boat אש
 boat כיוון בובה
 boat שיגור
 bobbing בשביל apples
 
-
+נמחץ
 
 גוף
 גוף ו נשמה
@@ -4742,7 +4742,7 @@ bobbing בשביל apples
 גוף משוך
 גוף טריקה
 גוף switch
-
+מכה לגוף
 
 
 bogblossom הדיפה
@@ -4777,7 +4777,7 @@ bold dragon's עין
 
 
 bold serpent's עין
-
+מחוזק
 
 
 
@@ -4818,13 +4818,13 @@ bolthorn's רון של להבה
 פצצה tick sound
 פצצה זרוק
 bomb's רחוק
-
+להפציץ
 bombard הגנה
 
-
+הפצצה
 bombay חתול
 
-
+מפציץ
 
 bomber נהרג
 
@@ -4871,8 +4871,8 @@ bond של ה val'kyr
 bonechewer נשיכה
 
 עצםמצמרר blizzard
-
-
+שובר עצמות
+טוחן עצמות
 bonereaver's קצה
 עצמות של bwonsamdi
 עצמות של bwonsamdi הילה
@@ -4880,14 +4880,14 @@ bonereaver's קצה
 
 bonescythe שריון חזה
 bonescythe תיבה
-
+קוץ עצם
 
 
 
 bonfire's ברכה
 bonfire's ברכה בטל
-
-
+בונק
+מטורף
 
 bonus burial trove מפתח
 bonus התחמקות
@@ -4898,7 +4898,7 @@ bonus מטרה
 bonus roll מבחן
 bonus runic כוח
 bony שריון
-
+ציצים
 boogaloo בום
 ספר
 ספר חפץ
@@ -4911,8 +4911,8 @@ boogaloo בום
 ספר של survival
 ספר של ה ages
 
-
-
+סומן
+חנות ספרים
 בום
 בום מגפיים
 בום מגפיים bunny הילה
@@ -4923,9 +4923,9 @@ boogaloo בום
 בום fuse
 בום ירייה
 בום חזותי
-
+בומר
 boomer משקה מכה
-
+בומרנג
 boomerang ברק ברק
 
 boomshroom פיצוץ
@@ -4933,9 +4933,9 @@ boon של bwonsamdi
 boon של bwonsamdi - כוח הטל
 boon של חיים
 boon של ה loa
-
-
-
+דחיפה
+קיבל דחיפה
+מגברים
 
 boot heel עם scrollwork
 boot ל ה ראש
@@ -4957,10 +4957,10 @@ boot זרוק
 מגפיים של wintry endurance
 
 booze יריקה
+חטף
 
 
-
-
+לשעמם
 borean שריון ערכה
 borean קרן פגיעה
 borean עור
@@ -4969,7 +4969,7 @@ borean עור
 משועמם של משחק
 
 
-
+ללוות
 
 borrowed זמן
 בוס
@@ -5144,8 +5144,8 @@ borrowed זמן
 בוס
 בוס3
 בוסים
-
-
+בוט
+שניהם
 both ו
 
 botm - בועה משקה - pop
@@ -5161,7 +5161,7 @@ botm - flowery משקה - grow
 בקבוק של רעל
 בקבוק של wildfire
 בקבוק toad
-
+בבקבוק
 bottled כעס
 תחתון
 תחתון fragging
@@ -5169,7 +5169,7 @@ bottled כעס
 תחתון tier
 bottomless תיק
 תחתוןפחות pit
-
+קנה
 bought ה account
 
 boulder מתקפה
@@ -5195,7 +5195,7 @@ bouncing ברק
 bouncing ברק bounced
 bouncing ברק הפעל
 bouncing מטען
-
+קופצני
 כבול
 כבול להבות
 כבול servant
@@ -5212,13 +5212,13 @@ bountiful אוכל
 bounty של ה harvest
 קשת
 קשת ל אותי
-
-
+קערה
+קערות
 bowmen בובה
 
 bowmen בולע mantid
-
-
+קשתות
+ירייה בקשת
 bowshot פגיעה להבה עדכון
 קופסה
 קופסה של פצצות
@@ -5228,7 +5228,7 @@ boxed בום בום
 
 
 
-
+טמבל
 bracelet של jade ו coins
 צמידים
 צמידים של הרסני כוח
@@ -5268,11 +5268,11 @@ braided eternium שרשרת
 bramble הרוג
 
 bramblescar growth זימון
-
+מטה קוצים
 bramblewood חגורה
 bramblewood מגפיים
 bramblewood קסדה
-
+ענף
 branch של nordrassil בוס קוסמטי
 branch של nordrassil ניצחון קוסמטי
 
@@ -5281,13 +5281,13 @@ brann מעוף שלב סמן
 brann בריאות checker
 brann אות ל עצמי
 brann שינוי
-
+רברבנות
 אמיץ
 brave's זיקוק
 brave's זיקוק אפקט
 
 bravo company שדה ערכה
-
+קטטה
 brawl בוס ניצחון נגד
 brawler פיצוץ
 brawler חלקים 00
@@ -5309,8 +5309,8 @@ brazier אש
 
 brazier של dancing להבות
 brazier עשן
-
-
+ברזיל
+ברזילאי
 חוזר עוד רגע
 חוזר עוד רגע שניים דקות
 breach שריון
@@ -5361,13 +5361,13 @@ breadth של כפור הפעל
 שבורלמטה
 שבורמהיר
 
-
+שבירה
 breaking ו entering
 breaking חבית
 
 breaking ה שרשראות
 breaking ה rules
-
+הפסקות
 breaks ה mold
 שריון חזה של עתיק פלדה
 שריון חזה של kings
@@ -5391,7 +5391,7 @@ breaks ה mold
 נשימה של ה שחור נסיך
 נשימה של ה דרקון
 נשימה של y'shaarj
-
+לנשום
 breathe עמוק
 
 breathing אש
@@ -5493,7 +5493,7 @@ brewfest setup צוות - גובלין
 brewfestive holiday רכב
 
 משקהקסדה
-
+מבשל בירה
 brewing חזותי
 brewmaiden היעלמות שליטה הילה
 
@@ -5512,11 +5512,11 @@ brewmoon festival שיגור
 
 
 brianna's experimental לחש
-
+שוחד
 גשר
 גשר אירוע
 bridges שרוף
-
+רסן
 Bridle Channe
 brief explanation בבקשה
 brief הלם
@@ -5579,7 +5579,7 @@ brilliance הילה
 מבריק titansteel treads
 מבריק wizard שמן
 brinescale ארס
-
+להביא
 bring ב ה sub
 
 bring דלוק ה hate
@@ -5608,13 +5608,13 @@ bro תפוס לא בשימוש
 bro מה
 
 broadcast גביש הודעה
-
+מטח צד
 brogg's טוטם
 
 broiled דרקון feast
 broiled הר trout
 broiling lava הילה
-
+מרושש
 broke ה רשומה
 שבור
 שבור כ גיהינום
@@ -5647,7 +5647,7 @@ broke ה רשומה
 שבור wagon פיצוץ
 שבור יהיה
 שבור חמה שיקוי
-
+ארד
 bronze גרזן
 bronze band של כוח
 bronze קרב גרזן
@@ -5679,10 +5679,10 @@ brood של onyxia
 brood מגפה
 brood זעם
 broomstick טרנספורמציה
+אח
 
 
-
-
+הביא
 חום
 חום דרקון turtle
 חום elekk
@@ -5703,15 +5703,15 @@ broomstick טרנספורמציה
 חום skeletal סוס
 חום נחש
 חום זאב
-
+אחי שלי
 bruh רגע
 
 
 bruising מכה
 
 
-
-
+מברשת
+שריפת שיחים
 brushfire שרוף הילה
 brushfire שרוף אזור visualization
 brushfire בדיקה valid location
@@ -5741,7 +5741,7 @@ brute טריקה
 
 brutusk שרשרת ברק
 brutusk זימון הילה
-
+אגב
 בועה
 בועה ו abscess זימון - אדון
 בועה קרן
@@ -5767,8 +5767,8 @@ brutusk זימון הילה
 בועה תרסיס
 בועה מלכודת מוות הילה
 בועה למעלה
-
-
+קרן בועות
+עטוף בבועה
 
 
 
@@ -5778,7 +5778,7 @@ bubbling משקה
 
 
 
-
+תוסס
 
 buck שמאל אזהרה
 buck ימין אזהרה
@@ -5787,15 +5787,15 @@ buck ימין אזהרה
 דלי lands
 דלי רשימה
 דלי של meaty כלב אוכל
-
+מתפרע
 budd בובה 01
 budd הדיפה
 budd nedreck - זרוק בקבוקון
 
 
 buddied למעלה
-
-
+חבר טוב
+תקציב
 
 חיזוק
 חיזוק אוכל
@@ -5804,7 +5804,7 @@ buddied למעלה
 חיזוק ה פשיטה
 חיזוק למעלה
 חיזוק2
-
+חוזק
 buffed למעלה
 buffeting רוחות של susurrus
 באג
@@ -5850,7 +5850,7 @@ buffeting רוחות של susurrus
 בניין מהירות
 בניין מהירות אפקט
 בניין מהירות הפעל
-
+בילדים
 
 bulging תיק של charms
 
@@ -5861,7 +5861,7 @@ bullet תוקפנות
 bullet בקר מחזורי
 bullet בקר זימון אפקט אפל
 bullet זימון הפעל
-
+עקשן
 שטויות
 מבצר
 מבצר disguise
@@ -5878,14 +5878,14 @@ bungie לקפוץ 01
 
 bunny רכיבה vehicle
 
-
+מצוף
 
 burd sticker פגיעה
 burden של נצח
 burden של guilt
 burden של proof
 burden של ה crown
-
+המבורגר
 burgy blackheart's handsome כובע
 burgy blackheart's pirate כובע
 burlap trail ambush משוך
@@ -6031,9 +6031,9 @@ burninate הרוג קרדיט
 בוער פצע
 בוער wounds
 בוער חמה
-
+שחיקה
 burnt עץ חזותי
-
+גרעפס
 
 burrow התקפה
 burrow רחוק
@@ -6045,7 +6045,7 @@ burrow קרדיט ל אדון
 burrow ב ל domination נקודה
 
 burrow חזותי
-
+חופר
 פיצוץ
 פיצוץ ב ה seams
 פיצוץ נזק
@@ -6067,7 +6067,7 @@ burrow חזותי
 פיצוץ של מהירות
 פיצוץ של מהירות - permanent
 פיצוץ ירה
-
+מתפקע
 
 
 buru שינוי
@@ -6075,13 +6075,13 @@ bury להב
 
 
 bury ה hatchet
-
+אוטובוס
 bus עצור
+שיח
+עסק
+מטורף לגמרי
 
-
-
-
-
+עסוק
 
 busy מאוחר יותר
 busy היום
@@ -6092,9 +6092,9 @@ busy היום
 butcher ניקוז
 
 
-
-
-
+ישבן
+חמאה
+פרפר
 כפתור 1
 כפתור 10
 כפתור 2
@@ -6115,10 +6115,10 @@ buttress מלכודת
 קונה
 קונה אחד לרוץ
 קונה materials
-
+רכישה מלאה
 
 buzzer כוחלזרוק
-
+מסור עגול
 
 
 bwonsamdi עצמות dot
@@ -6144,7 +6144,7 @@ c'est la vie ארוך
 
 caber פגיעה
 caber זרוק
-
+צחקוק
 
 cackling יללה
 
@@ -6152,11 +6152,11 @@ cadaver הלם
 cadaver זרוק
 
 
-
+בית קפה
 cage לכוד blackout הילה
 cage מלכודת
 cage מלכודת - זימון
-
+כלוא
 
 caimas הפעל ביצה
 caimas מחזורי
@@ -6166,12 +6166,12 @@ cairne pyre קרדיט
 caladis brightspear היעלמות
 
 calcinder אש חזותי
+לחשב
 
-
-
+מחושב
 calculated ריפוי
-
-
+חישוב
+מחשבון
 
 calen humanoid שינוי
 calico חתול
@@ -6355,7 +6355,7 @@ calico חתול
 קרא wyrmrest vanquisher
 קרא xink's shredder
 קרא2
-
+נקרא
 
 
 calling בשביל אוויר תמיכה
@@ -6370,7 +6370,7 @@ calling ה birds
 calling ה caravan
 calling wildhammer gryphon רוכב
 calling נגב
-
+אכזריות
 
 calls בשביל aid
 רגוע
@@ -6384,7 +6384,7 @@ calls בשביל aid
 רגוע ה סערה
 calming למטה
 calming song של ה singer
-
+קלוריות
 
 came מ nowhere
 camel figurine לחש אפקט
@@ -6425,7 +6425,7 @@ camouflage retinal שריון
 מחנה aparaje skybox
 מחנה pack
 מחנה receives communique
-
+קמפר
 
 camping ה graveyard
 
@@ -6479,7 +6479,7 @@ can't עצור laughing
 can't type מהיר
 
 
-
+קנדה
 בטל 85149
 בטל הפעלה
 בטל agatha
@@ -6616,17 +6616,17 @@ can't type מהיר
 בטל wrynn הילה
 בטל zazzo's auras
 בטל אזור הילה
+בוטל
 
 
-
-
+מועמד בבחירות
 candied sweet תפוח אדמה
 
 candle פיצוץ
 
 canh's אוצר
 
-
+לקניבל
 cannibalize בשר חזותי
 cannibalize חזותי
 תותח
@@ -6664,7 +6664,7 @@ cannibalize חזותי
 פגז spin
 cannoneer הופעה
 
-
+לא יכול
 cannot handle ה משחק
 
 
@@ -6684,7 +6684,7 @@ cap ה דגל
 cap ה node
 cap שלך פגיעה
 
-
+קיבול
 
 capacitor עומס יתר
 capacitor טוטם
@@ -6739,11 +6739,11 @@ capper בוס לקפוץ
 נלכד טוטם מחזורי
 נלכד פראי camel
 נלכד yak
+לוכד
 
 
-
-
-
+מכונית
+שריון גב
 carapace של שמש ו צל
 caravan הילה
 caravan cart התחל הפעל
@@ -6763,11 +6763,11 @@ caravan שומר הילה
 caravan מוכן
 caravan חזותי
 
-
-
+המסה של גז
+פחמימות
 carcanet של ה מאה magi
 cardboard מתנקש
-
+אירובי
 
 
 careful כוון

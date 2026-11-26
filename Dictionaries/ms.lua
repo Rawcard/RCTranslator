@@ -109,7 +109,7 @@ kemampuan
 kemampuan pengendali
 terbakar
 wudu
-
+bersuci
 aboard krom'gar gerobak
 abolish racun
 abom kredit
@@ -478,7 +478,7 @@ mahir harimau opal
 mahir vermilion onyx
 adept's ramuan
 adherent's tekad
-
+dadah
 adjules chow waktu
 tambahan sha muncul visual
 sesuaikan
@@ -555,7 +555,7 @@ aetha bunuh kredit
 aether ledakan
 aether perisai
 aether penglihatan
-
+setahu saya
 Disahkan
 imbuhan
 imbuhan ini minggu
@@ -703,7 +703,7 @@ bidik
 bidik untuk
 bidik dari besi dwarves
 bidik ke luka
-
+pakai aimbot
 aimed tembakan
 udara
 udara ledakan
@@ -755,7 +755,7 @@ airy pale bir
 airy jiwa
 aiyu visual aura
 ak uji
-
+alias
 akali's kekebalan
 akali's ritual dari pemusnahan
 akali's pingsan
@@ -972,7 +972,7 @@ baiklah lalu
 juga
 juga lakukan
 juga2
-
+karakter alt
 alt akun
 alt karakter
 alt ramah
@@ -1326,7 +1326,7 @@ jawab ya benar
 jawab ya salah
 menjawab
 jawaban
-
+semut
 Antagonis
 antechamber teleportasi
 lagu kebangsaan
@@ -1402,7 +1402,7 @@ di mana saja
 
 aod khusus
 aod khusus - Vegard
-
+serangan area
 aoe batas
 aoe kerusakan
 aoe sembuh
@@ -1939,7 +1939,7 @@ lengan shado-pan paku jebakan
 lengan sapu
 lengan dirimu
 armadillo anak anjing
-
+armagedon
 armed dan berbahaya
 mempersenjatai tanah tambang
 mempersenjatai visual jingga
@@ -2503,7 +2503,7 @@ Selamat tinggal
 lelang
 auction rumah
 buku audio
-
+ugh
 tingkatkan sakit
 tingkatkan rune
 tingkatkan penglihatan
@@ -2699,7 +2699,7 @@ poros model - peti darah kembali
 aynasha's panah
 aynasha's busur
 aynasha's akar
-
+yo
 Aysa selamat pengatur waktu
 Aysa macet kapal penjaga aura
 aysa penjaga aura
@@ -2921,7 +2921,7 @@ balnazzar ubah
 balnazzar ubah pingsan
 
 bambina's balas dendam
-
+tertipu
 
 larang itu
 ban taunts mogu
@@ -3031,7 +3031,7 @@ berduri jarum
 berduri jaring
 berduri tembakan
 berduri sengat
-
+duri
 nyaris
 nyaris hidup
 Nyaris tak sempat
@@ -3301,7 +3301,7 @@ binatang pelacakan
 beast's tanda
 beastcaller lempar
 binatang dek
-
+pembantai binatang
 kalahkan
 kalahkan a mati kuda
 kalahkan turun
@@ -3425,7 +3425,7 @@ sabuk dari raksasa
 bangku
 bangku pemain
 bangku lebih hangat
-
+dicadangkan
 
 berkat
 manfaat
@@ -3643,7 +3643,7 @@ berlebihan menonton
 bio pecah
 biografi
 biologi
-
+bioluminesensi
 
 bipsi's sarung tangan
 burung
@@ -3661,11 +3661,11 @@ ulang tahun
 ulang tahun kue
 Parti hari jadi
 birthing nyala
-
+perlengkapan terbaik
 bis perlengkapan
 pelacur
-
-
+menggerutu
+judes
 
 gigit
 gigit knut
@@ -3819,7 +3819,7 @@ blackhorn pecah bebas
 blackhowl's amarah
 blackhowl's akan
 blackmouth minyak
-
+pemadaman listrik
 blackout minuman
 blackout mabuk
 padam instan
@@ -3919,7 +3919,7 @@ ledakan gelombang
 ledakan-brewed
 blastbarrel awak dasar
 
-
+diledakkan
 terkutuk tanah
 blasterboot lompat 01
 blasterboot lompat 02
@@ -4149,9 +4149,9 @@ buta penjaga
 buta tempat
 buta pukulan
 buta anak naga
-
+dibutakan
 blinded oleh amarah
-
+penutup mata
 blindfold gambar
 menyilaukan kotoran
 menyilaukan debu
@@ -4185,7 +4185,7 @@ melepuh racun
 melepuh busuk
 melepuh tentakel tunggang kendaraan
 melepuh luka
-
+serangan kilat
 blitz panggil
 blitz panggil pemicu
 blitzkrieg inisialisasi
@@ -4248,8 +4248,8 @@ halau nilai 93
 halau2
 blokade ledakan kelinci - api
 blokade ledakan kelinci - air
-
-
+diblokir
+memblokir
 blonde riding yak
 darah
 darah dan guntur
@@ -4362,10 +4362,10 @@ darah harimau breastplate
 darah harimau bahu
 darah cacing
 darah-soaked invitation
-
+pertumpahan darah
 bloodbath tombol
 bloodbathed bekuanakan vanquisher
-
+beri darah
 darahrebus
 darahpetir
 bloodbolt cipratan
@@ -4422,7 +4422,7 @@ berdarah wyrmhide sarung tangan
 berdarah wyrmhide helm
 berdarah wyrmhide kaki
 berdarah wyrmhide bahu
-
+pengeluaran darah
 bloodlord's aura
 nafsu darah
 nafsu darah keadaan
@@ -4461,7 +4461,7 @@ darahbatu
 bloodstone pita
 bloodstone teleportasi
 darahbadai
-
+lonjakan darah
 bloodtalon tetasan aura
 bloodtalon peluit
 
@@ -4548,7 +4548,7 @@ haus darah wyrmhide bahu
 duri darah
 duri darah withdrawal
 
-
+racun darah
 bloodvine sepatu bot
 bloodvine kacamata
 bloodvine celana
@@ -4703,7 +4703,7 @@ bluetip medali
 gertak
 gertak misi kredit
 Berterus-terang
-
+buram
 blurred kecepatan
 blurring tebas
 blushleaf sisa
@@ -4733,7 +4733,7 @@ perahu penargetan boneka
 perahu teleportasi
 bobbing untuk apples
 bodacious pintu knocker
-
+dihajar
 bodily bersihkan
 tubuh
 tubuh dan jiwa
@@ -4742,7 +4742,7 @@ tubuh dari batu
 tubuh tarik
 tubuh hantam
 tubuh ganti
-
+pukulan badan
 bog gas
 bog cambuk
 bogblossom dorongan
@@ -4779,7 +4779,7 @@ berani merah tua ruby
 berani serpent's mata
 diperkuat
 diperkuat ego
-
+memperkuat
 bolstering kehadiran
 petir
 petir serbuan semak
@@ -4871,8 +4871,8 @@ tulang-putih purba raptor
 bonechewer gigit
 bonechewer busuk
 tulangmendinginkan blizzard
-
-
+pematah tulang
+penggiling tulang
 bonereaver's tepi
 tulang dari bwonsamdi
 tulang dari bwonsamdi aura
@@ -4880,14 +4880,14 @@ tulang dari transformasi
 sabit tulang bracer
 sabit tulang zirah dada
 bonescythe peti
-
+duri tulang
 
 api unggun samaran
 api unggun superbuff
 bonfire's berkat
 bonfire's berkat batal
-
-
+jitak
+gila-gilaan
 bonus
 bonus burial trove kunci
 bonus hindar
@@ -4910,7 +4910,7 @@ buku dari glif penguasaan
 buku dari bintang
 buku dari kelangsungan hidup
 buku dari ages
-
+pemesanan
 
 bukutoko
 ledakan
@@ -4934,8 +4934,8 @@ anugerah dari Bwonsamdi - kekuatan lempar
 anugerah dari hidup
 anugerah dari loa
 dorong
-
-
+di-boost
+penguat performa
 mendorong layanan
 sepatu bot heel dengan scrollwork
 sepatu bot ke kepala
@@ -4957,7 +4957,7 @@ sepatu bot dari ucap kegelapan
 sepatu bot dari wintry daya tahan
 
 booze ludah
-
+dipukul
 
 batas layak
 bosan
@@ -5195,7 +5195,7 @@ memantul petir
 memantul petir bounced
 memantul petir pemicu
 memantul serbuan
-
+kenyal
 terikat
 terikat nyala
 terikat servant
@@ -5213,7 +5213,7 @@ bounty dari panen
 busur
 busur ke saya
 mangkuk
-
+mangkuk-mangkuk
 bowmen boneka
 bowmen serang
 bowmen melahap mantid
@@ -5226,8 +5226,8 @@ boxed ledakan ledakan
 Tinju
 anak laki-laki
 anak laki-laki2
-
-
+pacar
+cowok-cowok
 
 bracelet dari jade dan coins
 pelindung
@@ -5268,7 +5268,7 @@ braised kura-kura
 semak bunuh
 semak snatch
 bramblescar pertumbuhan panggil
-
+tongkat duri
 bramblewood sabuk
 bramblewood sepatu bot
 bramblewood helm
@@ -5281,13 +5281,13 @@ brann penerbangan fase penanda
 brann kesehatan pemeriksa
 brann sinyal ke diri
 brann ubah
-
+keberanian palsu
 berani
 brave's suar
 brave's suar efek
 bravo perusahaan siaran
 bravo perusahaan lapangan peralatan
-
+perkelahian
 brawl bos menang lawan
 petarung ledakan
 petarung bagian 00
@@ -5310,7 +5310,7 @@ anglo lit
 anglo dari menari nyala
 anglo asap
 Brazil
-
+orang Brasil
 kejap balik
 kejap balik dua menit
 pelanggaran baju besi
@@ -5391,7 +5391,7 @@ napas dari sargeras
 napas dari hitam putera
 napas dari naga
 napas dari y'shaarj
-
+bernapas
 breathe dalam
 bernapas latihan
 bernapas api
@@ -5493,7 +5493,7 @@ brewfest roti panggang
 brewfestive liburan tunggangan
 
 minumanhelm
-
+menyeduh
 brewing visual
 brewmaiden hilang kendali aura
 
@@ -5608,7 +5608,7 @@ bro percaya
 bro apa
 bro2
 siaran kristal pesan
-
+tembakan samping
 brogg's totem
 panggang bloodfin
 panggang naga pesta
@@ -5682,7 +5682,7 @@ broomstick transformasi
 saudara
 saudara2
 saudara3
-
+membawa serta
 cokelat
 cokelat naga kura-kura
 cokelat elekk
@@ -5703,15 +5703,15 @@ cokelat riding yak
 cokelat kerangka kuda
 cokelat ular
 cokelat serigala
-
+astaga
 bro saat
 memar
 bruiser tidur
 bruising pukulan
 brunnhildar samaran
 brunnhildar pre-pengeluaran
-
-
+sikat
+kebakaran semak
 brushfire bakar aura
 api semak terbakar area visualisasi
 api semak periksa sah lokasi
@@ -5741,7 +5741,7 @@ kejam hantam
 brutusk tembakan panah
 brutusk rantai petir
 brutusk panggil aura
-
+ngomong-ngomong
 gelembung
 gelembung dan bisul panggil - tuan
 gelembung sinar
@@ -5767,8 +5767,8 @@ gelembung perisai aura pembatal
 gelembung semprot
 gelembung jebakan kematian aura
 gelembung naik
-
-
+sinar gelembung
+bergelembung
 gelembung
 menggelegak
 menggelegak amber
@@ -5778,7 +5778,7 @@ menggelegak minuman
 menggelegak campuran
 menggelegak lendir
 menggelegak pus
-
+bersoda
 bubbly penyegaran
 rusa kiri peringatan
 rusa kanan peringatan
@@ -5787,7 +5787,7 @@ ember kepala
 ember mendarat
 ember daftar
 ember dari meaty anjing makanan
-
+menendang-nendang
 budd boneka 01
 budd dorongan
 budd nedreck - lempar botol
@@ -5850,7 +5850,7 @@ bangunan api
 bangunan kecepatan
 bangunan kecepatan efek
 bangunan kecepatan pemicu
-
+build
 
 bulging tas dari charms
 
@@ -5861,7 +5861,7 @@ peluru aggro
 peluru pengontrol berkala
 peluru pengontrol panggil efek gelap
 peluru panggil pemicu
-
+keras kepala
 omong kosong
 benteng
 benteng samaran
@@ -6033,7 +6033,7 @@ terbakar luka
 terbakar murka
 
 burnt pohon visual
-
+bersendawa
 liang
 liang serangan
 liang pergi
@@ -6045,7 +6045,7 @@ liang kredit ke tuan
 liang di ke dominasi titik
 liang persiapan
 liang visual
-
+menggali liang
 ledakan
 ledakan di seams
 ledakan kerusakan
@@ -6077,10 +6077,10 @@ kubur samuel's sisa
 kubur kapak
 
 bus berhenti
+semak
 
-
-
-
+keren banget
+ketahuan
 sibuk
 sibuk sibuk
 sibuk nanti
@@ -6092,8 +6092,8 @@ butcher tebasan
 butcher kuras
 butcherbot pembantaian
 butchering hewan
-
-
+pantat
+mentega
 kupu-kupu
 tombol 1
 tombol 10
@@ -6115,7 +6115,7 @@ beli2
 membeli
 membeli a lari
 membeli bahan
-
+beli putus
 buzzard gigitan
 bel paksa lempar
 gergaji mesin
@@ -6144,7 +6144,7 @@ c'est la vie panjang
 c-14 gauss senapan
 caber dampak
 caber lempar
-
+terkekeh
 
 cackling lolong
 mayat collage hover
@@ -6152,11 +6152,11 @@ mayat pingsan
 mayat lempar
 mayat cacing
 
-
+kafe
 kandang tangkap padam aura
 kandang jebakan
 kandang jebakan - panggil
-
+dikurung
 
 caimas aktifkan telur
 caimas berkala
@@ -6168,10 +6168,10 @@ bencana
 calcinder api visual
 hitung
 hitung seismic readings
-
+diperhitungkan
 calculated sembuhkan
-
-
+perhitungan
+kalkulator
 caledis's samaran
 calen humanoid ubah
 calico kucing
@@ -6355,7 +6355,7 @@ panggil workers
 panggil wyrmrest vanquisher
 panggil xink's shredder
 panggil2
-
+dipanggil
 Dah cakap dah
 memanggil blaithe
 memanggil untuk udara dukungan
@@ -6370,7 +6370,7 @@ memanggil burung
 memanggil karavan
 memanggil Wildhammer griffin penunggang
 memanggil tumpas
-
+ketidakpedulian
 panggilan
 panggilan untuk bantuan
 tenang
@@ -6384,7 +6384,7 @@ tenang pantulan
 tenang badai
 calming turun
 calming lagu dari penyanyi
-
+kalori
 
 datang dari antah berantah
 unta patung mantra efek
@@ -6425,7 +6425,7 @@ kemah
 kemah aparaje skybox
 kemah kawanan
 kemah receives communique
-
+pekemah
 berkemah
 berkemah kuburan
 berkemah perjalanan
@@ -6479,7 +6479,7 @@ tidak bisa berhenti tertawa
 tidak bisa tipe cepat
 tidak bisa kerja
 bisa2
-
+Kanada
 batal 85149
 batal aktivasi
 batal agatha
@@ -6626,7 +6626,7 @@ lilin ledakan
 
 canh's harta
 canned panas
-
+kanibal
 cannibalize daging visual
 cannibalize visual
 meriam
@@ -6684,7 +6684,7 @@ batas bendera
 batas simpul
 batas milikmu pukul
 
-
+kapasitansi
 capacitor lepaskan
 capacitor kelebihan beban
 capacitor totem
@@ -6763,11 +6763,11 @@ karavan penjaga aura
 karavan siap
 karavan visual
 karbon jejak
-
+karbonasi
 Karbohidrat
 carcanet dari seratus magi
 cardboard pembunuh
-
+kardio
 peduli
 hati-hati
 hati-hati bidik

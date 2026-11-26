@@ -101,15 +101,15 @@ abacus का violent odds
 त्याग परीक्षा
 त्याग वाहन
 त्याग वाहन चालू poly
-
+परित्यक्त
 abandoned bloodwash पेटी मारो श्रेय
-
+विचलन
 क्षमताएँ
 क्षमता
 क्षमता नियंत्रक
 
-
-
+स्नान शुद्धि
+प्रक्षालन
 aboard वह krom'gar wagon
 abolish विष
 abom श्रेय
@@ -150,8 +150,8 @@ absolute शून्य
 
 
 
-
-
+पाप मुक्ति
+क्षमा करना
 अवशोषित
 अवशोषित anima
 अवशोषित रक्त
@@ -183,7 +183,7 @@ absolute शून्य
 absorbed रक्त
 
 absorption ढाल
-
+बेतुका
 abuse यह
 अथाह थैला
 अथाह clam
@@ -201,14 +201,14 @@ abuse यह
 अथाह प्रहार
 अथाह उछालो
 अथाह रूपांतरण
-
-
+गति बढ़ाना
+त्वरित
 
 accelerated आकाशीय कपड़ा
 accelerated hardened magnificent छुपना
 
 
-
+त्वरण
 
 स्वीकार करना
 स्वीकार करना यह
@@ -216,20 +216,20 @@ accelerated hardened magnificent छुपना
 स्वीकार करना कतार
 स्वीकार करना मंत्र
 स्वीकार करना surrender
-
+स्वीकृत
 accepted वह आमंत्रण
 accepting पुनर्जीवित
 accepting आत्मा चिकित्सक
-
+पहुँच
 access नियंत्रण console
+अनुकूलन प्रक्रिया
 
-
-
+के अनुसार
 according को
 according को वह guide
 
 
-
+सटीकता
 
 
 
@@ -307,21 +307,21 @@ aching हड्डियाँ
 अम्लीय प्रहार
 अम्लीय sweat
 अम्लीय घाव
-
+बलूत का फल
 
 acorn उछालो
-
+अर्जित
 acquiring लक्ष्य
 acrid तूफ़ान
 
 across transborea पूर्ण
-
+अभिनय करना
 act अभी
 act चालू मेरा बुलाओ
 act आपका age
 
 acting जैसा एक clown
-
+कार्रवाई
 
 
 actions रखना consequences
@@ -393,18 +393,18 @@ activating वह प्रकाशस्तंभ
 सक्रिय बातचीत
 सक्रिय tile
 
-
-
+अभिनेत्री
+वास्तविक
 actual नुकसान
 actual हमला
 actual उपचार
-
+असल में
 
 actually पागल
 
 actually नहीं बुरा
 
-
+एक्यूपंक्चर
 
 adam परीक्षण
 adamantine खोल
@@ -423,9 +423,9 @@ adamantite कवच दस्ताने
 adamantite sharpening पत्थर
 adamantite हथियार ज़ंजीर
 
+ढलना
 
-
-
+अनुकूली
 adaptive उपकरण
 adaptive रक्षक
 adarrah बुलबुला
@@ -463,7 +463,7 @@ addicted को यह खेल
 
 ऐड-ऑन
 ऐड-ऑन शब्द
-
+ऐडऑन
 
 address वह समस्या
 सहायक
@@ -481,26 +481,26 @@ adept's रसायन
 
 adjules chow समय
 adjunct sha प्रकट दृश्य
-
+समायोजित करना
 
 adjust वह gears
 
 admiral's टोपी
-
+प्रशंसा करना
 
 
 adopt एक puppy
-
-
+प्यारा
+पूजित
 adorned sceptre बॉस emote
 adornment का shells
-
+एड्रेनालाईन
 adrenaline बम
 adrenaline झपट
 
 
 advance को step 3
-
+उन्नत
 advanced deepdive शिरस्त्राण
 
 advanced लक्ष्य पुतला
@@ -508,13 +508,13 @@ advanced लक्ष्य पुतला - आयोजन 003
 advanced लक्ष्य पुतला निष्क्रिय
 advanced लक्ष्य पुतला प्रकट प्रभाव
 
-
-
+फ़ायदे
+साहसिक कार्य
 
 adventurer's झपट
 
 
-
+सलाह
 advice prevention आभा
 ae तावीज़
 ae mirror वस्तु स्तर
@@ -540,7 +540,7 @@ aeonaxx गिरो animation
 aeonaxx whelp नुकसान कमी आभा
 aeonaxx whelp आह्वान
 aeosera मारो श्रेय
-
+हवाई
 aerial हमला auto-load
 
 aerial छलांग
@@ -550,23 +550,23 @@ aerialist's बाहर करना
 
 aery आत्मा बंदी
 aery आत्मा बंदी श्रेय
-
+सौंदर्यपरक
 aetha मारो श्रेय
 aether विस्फोट
 aether ढाल
 aether दृष्टि
-
-
-
+जहाँ तक मुझे पता है
+सकारात्मक
+प्रत्यय
 affixes यह सप्ताह
 affliction काला जादूगर
-
+खर्च उठाना
 अनुपस्थित
 अनुपस्थित जाँच
 अनुपस्थित खेती
 
 
-
+अफ़्रीका
 के बाद
 के बाद एक हज़ार tries
 के बाद सभी
@@ -578,10 +578,10 @@ affliction काला जादूगर
 के बाद तुम
 के बाद-market burners
 के बादजलाओ
-
+आफ़्टरबर्नर
 के बादज़िंदगी
 
-
+दोपहर
 के बादझटका
 
 फिर से
@@ -593,7 +593,7 @@ affliction काला जादूगर
 agamaggan's फुर्ती
 agamaggan's ताकत
 
-
+उम्र
 age का
 aged dalaran तेज़ wheel
 agent townsley श्रेय
@@ -601,7 +601,7 @@ agent townsley श्रेय
 aggra टेलीपोर्ट
 
 aggresive छलांग
-
+आक्रामक
 
 aggressive विष
 आक्रोश
@@ -624,7 +624,7 @@ aggressive विष
 आक्रोश thrall
 आक्रोश कचरा
 
-
+फुर्तीला
 
 agile एकाग्रता
 agile आदिम हीरा
@@ -650,21 +650,21 @@ agonizing प्रहार
 वेदना और anima
 वेदना और यातना
 वेदना का वह गिरा cultist
-
-
+सहमत
+सहमति हुई
 
 
 agro protectors आभा
 
-
-
+आह
+अहा
 
 
 आगे
 आगे का उसका समय
 आगे का वह curve
 आगे का आपका समय
-
+आहह
 ahh ठीक है
 ahn'kahet brazier प्रभाव
 ahn'kahet brazier मारो श्रेय
@@ -703,7 +703,7 @@ aid का वह frostwolf कैमरा
 निशाना के लिए
 निशाना का वह लोहा dwarves
 निशाना को घाव
-
+एमबॉट करना
 aimed गोली
 वायु
 वायु धमाका
@@ -732,13 +732,13 @@ aimed गोली
 वायु vent
 वायु कवच
 वायु-को-वायु rockets
-
+एयरबीएनबी
 
 airborne विष
 airdrop एक पुजारी
-
+हवाई जहाज़
 airplane त्वचा
-
+हवाई अड्डा
 airport ध्वज neutral click
 airship तोप
 
@@ -755,7 +755,7 @@ airy pale मदिरा
 airy आत्मा
 aiyu दृश्य आभा
 ak परीक्षण
-
+उर्फ़
 akali's प्रतिरक्षा
 akali's अनुष्ठान का annihilation
 akali's स्तब्ध
@@ -773,9 +773,9 @@ al'chukla श्रेय
 al'chukla बिजली गेंद
 al'chukla बिजली हाथ
 alabaster ढाल
-
+तत्परता
 alacrity का वह elements
-
+अलार्म
 alarm went बंद
 
 albatross धावा
@@ -824,11 +824,11 @@ alexstrasza's उपहार किरण
 alexstrasza's उपहार दृश्य
 
 
-
+शैवाल
 algalon आयोजन किरण
 algalon आयोजन किरण climax
 algar मारो श्रेय
-
+एल्गोरिदम
 
 align disk आक्रोश
 alignment पूर्णता
@@ -875,7 +875,7 @@ alignment skybox प्रभाव
 सभी weekend
 सभी2
 
-
+एलर्जी
 गठबंधन
 गठबंधन ambassador
 गठबंधन balloon
@@ -931,8 +931,8 @@ alignment skybox प्रभाव
 गठबंधन दृश्य
 गठबंधन wins
 मित्र
-
-
+अनुमति देना
+लुभावना
 alluring आभा
 
 alluring perfume छिड़काव
@@ -956,13 +956,13 @@ alluring perfume छिड़काव
 
 
 
-
+अल्फ़ा
 
 alpha fade बाहर
 
 alpha स्वयं
 alpha प्रहार
-
+पहले से
 already हो गया
 already invested तो बहुत
 already वहाँ
@@ -972,7 +972,7 @@ alright तो
 भी
 भी करना
 भी2
-
+दूसरा किरदार
 
 alt चरित्र
 
@@ -1000,9 +1000,9 @@ altered cauldron विष
 altered रूप
 alternate शक्ति increase
 alternating फव्वारा
+वैकल्पिक रूप से
 
-
-
+हालाँकि
 
 हमेशा
 हमेशा यहाँ
@@ -1019,11 +1019,11 @@ alysrazor सजावट अंडा xplosion
 alysrazor ऊर्जा भरा
 alysrazor दौड़ना loop
 alysrazor शुरू मंत्र
-
+हूँ
 am मैं मृत
 amakkar's kidney गोली
 amakkar's pocket औषधि
-
+मिश्रधातु
 amani लड़ाई भालू
 
 amani शक्ति
@@ -1090,35 +1090,35 @@ amberfly मूर्ति
 ambermill जादूगर रूपांतर
 amberseed मारो श्रेय
 amberstill रक्षा श्रेय
-
+दोनों हाथों की निपुणता
 ambient लाश लंगर प्रकट
 ambient लाश मकड़ी प्रकट
 
-
-
+महत्वाकांक्षी
+घात
 ambush साफ़-ऊपर गायब
 ambush आयोजन चालू
 ambush override आभा
 ambush खोज श्रेय
-
+घात में फँसा
 ambushed द्वारा thisalee
 ambushed स्थिति
-
+अमेरिका
 amethyst अतिभार
 
 amethyst कुंड
 
 ammen घाटी lashling
-
+गोला-बारूद
 ammo गाड़ी rockets
 amnennar's प्रकोप
+स्मृतिलोप
 
+प्रेमासक्त
 
-
-
-
-
-
+मात्रा
+प्रवर्धन
+एम्पलीफ़ायर
 amplify नुकसान
 amplify ज्वालाएँ
 amplify जादू
@@ -1134,8 +1134,8 @@ amulet अनुष्ठान
 anachronos दृष्टि initialize
 anachronos दृष्टि संगीत
 
-
-
+विश्लेषण करना
+अभिशाप
 anatomical पुतला
 ancestor अदृश्यता
 ancestor दृश्य
@@ -1163,7 +1163,7 @@ ancestor's प्रतिशोध
 लंगर रस्सी
 लंगर को skulls
 लंगर दृश्य
-
+लंगर डाला
 
 प्राचीन
 प्राचीन amber
@@ -1229,13 +1229,13 @@ anduin's टूटा टाँग
 
 anemone मछली संरक्षक
 anemone scent बादल
-
-
-
+निश्चेतक
+बेहोशी की दवाएँ
+फ़रिश्ता
 angel का मौत
 angelic किला
 
-
+फ़रिश्ते
 क्रोध
 क्रोध किरण
 क्रोध शिविर चाबी
@@ -1284,38 +1284,38 @@ animal स्तंभ हथियार
 animate हड्डियाँ
 
 
-
+सजीव
 
 animated प्रहार
 animation रद्द
-
+एनीमे
 
 ankle काटो
 
 anklet के साथ golden bells
-
+सर्वनाश करना
 annihilate राक्षस
+नष्ट किया गया
 
+विनाशक
 
-
-
-
+वर्षगाँठ
 
 announce akkokoz प्रकट
 announce shoxtik प्रकट
 announce आतंक प्रकट
 
 announcer नियंत्रण आभा
+झुंझलाहट
+नाराज़
+परेशान करने वाला
 
 
 
 
-
-
-
-
+विसंगति
 anomaly दृश्य
-
+एक और
 another एक
 
 anson's अनुष्ठान
@@ -1324,12 +1324,12 @@ anson's अनुष्ठान
 उत्तर नहीं incorrect
 उत्तर हां correct
 उत्तर हां incorrect
+उत्तर दिया
 
-
-
-
+चींटी
+खलनायक
 antechamber टेलीपोर्ट
-
+गान
 विरोधी जादू खोल
 विरोधी जादू क्षेत्र
 विरोधी-वायु तोप
@@ -1351,8 +1351,8 @@ antechamber टेलीपोर्ट
 विरोधी-pirate बम
 विरोधी-विष
 विरोधी-zerg cantrip
-
-
+एंटीबायोटिक
+प्रत्याशा
 anticipation का युद्ध
 antimagic स्पंदन
 antlers का malorne
@@ -1381,7 +1381,7 @@ anxious झपट
 कोई tanks
 कोई tips के लिए यह बॉस
 कोई tips के लिए यह कालकोठरी
-
+कोई भी
 कोई
 कोई एक लोहार
 कोई जीवित
@@ -1391,18 +1391,18 @@ anxious झपट
 कोई मुक्त
 कोई online
 कोई वहाँ
-
+कुछ भी
 anything सकता happen
 anything नया
+कभी भी
+वैसे भी
+
+खैर
+कहीं भी
 
 
 
-
-
-
-
-
-
+क्षेत्र प्रभाव
 aoe सीमा
 aoe नुकसान
 aoe चंगा
@@ -1416,8 +1416,8 @@ aoe आह्वान खिलाड़ी कैमरा भीड़
 aoe परीक्षण
 aoe वह सहायक
 
-
-
+अपार्टमेंट
+उदासीनता
 apexis क्रिस्टल infusion
 
 
@@ -1426,16 +1426,16 @@ apexis mob faction जाँच
 
 
 
-
+प्रलय
 
 
 apothecary's जलता जल
 apothecary's विष
 apparatus का khaz'goroth
-
+ज़ाहिर तौर पर
 apparently वे कहना
-
-
+प्रेत
+प्रकट होना
 
 appearance - भीड़ मंत्री
 appearance - भीड़ निकट
@@ -1446,7 +1446,7 @@ appearance - भीड़ टैंक
 सेब falls को भूमि
 सेब-berry hooch
 apples को oranges
-
+आवेदक
 लगाओ
 लगाओ anemone chemicals
 लगाओ argent pony
@@ -1488,9 +1488,9 @@ apples को oranges
 लगाओ seduction gland
 लगाओ को गिल्ड
 applying वह lure
+मुलाक़ात
 
-
-
+सराहना करना
 appreciate यह
 appreciate वह आमंत्रण
 
@@ -1514,7 +1514,7 @@ appreciate वह आमंत्रण
 शिष्य skinner
 शिष्य tailor
 शिष्य yufi
-
+पास जाना
 
 
 
@@ -1780,7 +1780,7 @@ arcanum का vicious बुद्धिमत्ता
 arcanum का vicious ताकत
 
 archaeology पेटी
-
+प्रधान फ़रिश्ता
 archeology साफ़
 archeology distance - ठंडा
 archeology distance - गर्म
@@ -1795,12 +1795,12 @@ archer's कृपा
 तीरंदाज़ी लक्ष्य पुतला वाहन अभिलेख
 archimonde आग
 archimonde's अँधेरा
-
+अभिलेखीय
 archivist's प्रतीक
 
 archmage altaeric रूपांतर
 archmage vargoth's अनुष्ठान
-
+मेहराब
 arcing धमाका
 arcing जलाओ
 arcing ऊर्जा
@@ -1922,13 +1922,13 @@ argent ज्ञान
 arguably बेहतर
 arguably वह सर्वश्रेष्ठ
 arguably वह सबसे बुरा
-
+बहस करना
 
 argus छाया जादूगर रूपांतर
 
 
 aria का बुरा luckydo
-
+उठना
 arlokk रूपांतर
 बाँह
 बाँह मृत नुकसान kologarn
@@ -1939,13 +1939,13 @@ arlokk रूपांतर
 बाँह बुहारना
 बाँह स्वयं
 
-
+आर्मागेडन
 armed और dangerous
 arming भूमि बारूदी
 arming दृश्य नारंगी
 arming दृश्य लाल
 arming दृश्य पीला
-
+युद्धविराम
 armoire कैमरा
 armoire अदृश्य
 कवच
@@ -1963,7 +1963,7 @@ armoire अदृश्य
 कवच मूल्य
 कवच2
 armore कैमरा
-
+बख़्तरबंद
 
 armored नीला dragonhawk
 armored नीला हवा सवार
@@ -1975,7 +1975,7 @@ armored लाल dragonhawk
 
 
 
-
+कवचकार
 बाँहें
 बाँहें पीछे पीछे
 बाँहें योद्धा
@@ -1988,15 +1988,15 @@ arngrim's दाँत
 aronus custom सवारी
 के आसपास
 के आसपास thirty
+व्यवस्था करना
+गिरफ़्तारी
 
-
-
-
+आगमन होना
 arrival का वह naaru
+पहुँचना
 
-
-
-
+अहंकार
+घमंडी
 तीर
 तीर हमला
 तीर प्रवाह शंकु परीक्षण
@@ -2096,17 +2096,17 @@ aryna टेलीपोर्ट
 रूप कुआँ
 रूप कुआँ रूप
 रूप तुम wish
-
+जल्द से जल्द
 asaq conversation श्रेय
-
+ऊपर चढ़ना
 ascend को वह heavens
-
+प्रभुत्व
 ascendant प्रहार
-
+स्वर्गारोहण
 राख
 राख तात्विक प्रकट
 राख तूफ़ान
-
+शर्मिंदा
 
 
 
@@ -2140,7 +2140,7 @@ ashtongue लहर b
 ashweb जाल
 
 
-
+एशिया
 
 asira ड्रैक बल asira को dismount
 
@@ -2152,8 +2152,8 @@ ask hakmud को छोड़ो
 ask mojodishu को छोड़ो
 ask mystic birdhat को छोड़ो
 
-
-
+पूछा
+पूछता है
 asleep चालू वह job
 पहलू
 पहलू का arlokk
@@ -2174,7 +2174,7 @@ asleep चालू वह job
 पहलू का venoxis
 पहलू चरण मंत्र
 
-
+दम घोंटना
 
 गाँड
 गाँड clown
@@ -2194,7 +2194,7 @@ assassin's आवरण
 assassin's दृष्टि
 assassin's दृष्टि सजावट
 
-
+हत्या करना
 
 
 assassination आयोजन initialize
@@ -2220,15 +2220,15 @@ assign geist मारो श्रेय को स्वामी
 assign पिशाच मारो श्रेय को स्वामी
 assign मारो श्रेय को स्वामी
 assign skeleton मारो श्रेय को स्वामी
-
+कार्यभार
 
 assist चैंपियन
 assist वह टैंक
 
 
 assuming वह
-
-
+क्षुद्रग्रह
+दमा
 
 
 astral कवच
@@ -2288,15 +2288,15 @@ atal'ai लाश खाना
 atal'ai विष
 
 atal'ai skeleton टोटम
-
+खाया
 ate और बाएं नहीं crumbs
-
+एथलेटिक्स
 atiesh दृश्य
-
-
+एटीएम
+प्रायश्चित
 atrophic प्रहार
 atrophic विष
-
+क्षय
 
 
 attach तोप गेंद 1
@@ -2468,26 +2468,26 @@ attacked खिलाड़ी
 attacker चंगा अवशोषित बग
 attacker बस बाएं
 attacker चालू मुझे
-
+हमला करते हुए
 attacking खिलाड़ी
 
 
 
-
+ध्यान
 
 
 attention span खोया हुआ
-
-
-
-
+क्षीण करने वाला
+क्षीणन
+रवैया
+आकर्षित करना
 
 attract क्रुद्ध kodo
 attract पिशाच
 attract जादू
 attract rift प्रकट
-
-
+आकर्षण
+सुर मिलाना
 
 attune को kypari vos
 
@@ -2498,18 +2498,18 @@ attuned को प्रकृति 10 dose कमी
 attuned को प्रकृति 2 dose कमी
 attuned को प्रकृति 25 dose कमी
 attunement को वह केंद्र
-
+सुर मिलाते हुए
 
 नीलामी
 नीलामी घर
-
-
+ऑडियोबुक
+उफ़
 augment पीड़ा
 augment रून
 augment दृष्टि
 
 
-
+चाची
 auntie stormstout सजावट
 आभा
 आभा किरण परीक्षण
@@ -2575,7 +2575,7 @@ aural झटका
 austere earthsiege हीरा
 austere आदिम हीरा
 austere shadowspirit हीरा
-
+ऑस्ट्रेलिया
 
 auto हमला
 auto आग
@@ -2586,14 +2586,14 @@ auto गति boost
 
 auto जादू की छड़ी
 auto-मरम्मत
-
-
-
+आत्मकथा
+स्वचालित तोप
+ऑटोकरेक्ट
 autocorrect मिला मुझे
 
 automated shredder मौत notify
 automatic मरम्मत किरण
-
+स्वचालन
 automation बनाओ friendlies नारंगी
 automation mechanic प्रतिरक्षा
 automation जकड़न मंत्र
@@ -2601,13 +2601,13 @@ automation जकड़न मंत्र
 पतझड़ फूल sapling दृश्य
 पतझड़ फूल firework
 av खोज अदृश्य type एक
-
-
+हिमस्खलन
+अवतार
 avatar का निराशा
 avatar का ज्वाला
 avatar का hakkar है summoned
 avatar का jade
-
+बदला लेना
 avenger न्याय बोनस
 avenger's ढाल
 
@@ -2616,16 +2616,16 @@ avenging क्रोध
 avenging क्रोध
 avenging आत्माएँ
 avenging प्रकोप
-
+औसत
 
 
 aviana's होगा
-
+बचना
 avoid यह
 avoid वह किरण
 avoid वह beams
 avoid वह mechanic
-
+टाला जा सकने वाला
 
 avoidance का वह साँप
 avruu's गोला
@@ -2673,16 +2673,16 @@ awakening छड़
 पुरस्कार valor 1000
 पुरस्कार valor 500
 पुरस्कार ysondre मारो श्रेय
-
+जागरूक
 दूर से
 दूर से वह बॉस
 शानदार
 शानदार दल ensemble
 शानदार औषधि
 शानदार2
+भयानक
 
-
-
+जागृत
 
 कुल्हाड़ी
 कुल्हाड़ी प्रहार
@@ -2699,12 +2699,12 @@ axis model - संदूक रक्त पीछे
 aynasha's तीर
 aynasha's धनुष
 aynasha's जकड़न
-
+यो
 aysa बधाई टाइमर
 aysa crashed ship संरक्षक आभा
 aysa संरक्षक आभा
 aysa हवा chamber संरक्षक आभा
-
+अय्य
 
 azeroth जलता
 azil दृश्य
@@ -2752,7 +2752,7 @@ baby murloc निष्क्रिय
 
 
 
-
+कुंवारे
 पीछे
 पीछे और forth
 पीछे पर वह शुरू फिर से
@@ -2789,25 +2789,25 @@ baby murloc निष्क्रिय
 पीछे को वह बिंदु
 पीछे कल
 पीछे ऊपर
-
-
-
+पीठ दर्द
+पीठ तोड़ने वाला
+पलटवार ज्वाला
 पीछेआग
 background आभा
 पीछेहाथ
 
-
-
+प्रतिक्रिया
+बस्ता
 backpack स्थिति
 backpack दृश्य
 पीछेवार
 पीछेवार targeting
+पीठ में छुरा
+बैकअप
 
+पीछे की ओर
 
-
-
-
-
+जीवाणु
 बुरा
 बुरा गाँड
 बुरा attitude
@@ -2839,13 +2839,13 @@ backpack दृश्य
 बुरा winner
 बुरा2
 बुरा3
-
+बदमाश
 बिल्ला का kypari zar
 बिल्ला का वह protector
 बिल्ला का वह swarmguard
 badger पदक
 
-
+बुरी तरह
 
 bael'gar's उग्र सार
 baelog's valhalla गोली
@@ -2862,8 +2862,8 @@ bait यह यहाँ
 
 bait वह बॉस
 bait उन्हें
-
-
+चारा डालना
+सेंकना
 bake mulgore spice रोटी
 baked manta किरण
 baked पत्थरमछली
@@ -2884,7 +2884,7 @@ baker टीम broadcast स्वामी
 संतुलन खंभा निकास मुझे आभा
 संतुलन खंभा landing टक्कर
 संतुलन खंभा दृश्य
-
+संतुलित
 
 
 
@@ -2916,17 +2916,17 @@ ballista आग - scene
 balloon गाड़ी contents
 balloon मारो श्रेय
 
-
+गेंदें
 balnazzar रूपांतर
 balnazzar रूपांतर स्तब्ध
-
+धम
 bambina's प्रतिशोध
-
+बेवकूफ़ बनाया
 प्रतिबंध
 प्रतिबंध यह
 प्रतिबंध taunts एक mogu
 ban's बम
-
+केला
 banana पट्टी
 banana पट्टी remove
 banana बौछार
@@ -2936,7 +2936,7 @@ banana बौछार
 banana उछालो
 
 
-
+केले
 Hate Dummy
 
 पट्टी
@@ -2949,11 +2949,11 @@ Hate Dummy
 पट्टी का वह शाश्वत sage
 पट्टी का valor
 
-
-
+पट्टी बंधा
+पट्टी बाँधना
 पट्टीयह guile
 bandit's चिह्न
-
+अभिशाप बना
 bane का कयामत
 bane का infinity
 bane का treachery
@@ -2974,9 +2974,9 @@ banging वह gong
 निष्कासन स्थिति बड़ा पीला
 निष्कासन स्थिति छोटा पीला
 निष्कासन thundering exile
-
+निर्वासित
 banished से shattrath शहर
-
+निर्वासन
 banishment का शल्क
 बैंक
 बैंक errand
@@ -3005,7 +3005,7 @@ banshee ख़तरा
 
 banshee's जादू mirror
 banshee's ढाल
-
+हँसी-मज़ाक
 पट्टी
 baradin उपचार औषधि
 baradin थामो closure चेतावनी
@@ -3031,15 +3031,15 @@ barbecued buzzard पंख
 barbed जाल
 barbed गोली
 
-
-
+काँटे
+मुश्किल से
 barely जीवित
 barely made यह
 
 bark का कयामत
 bark का वह walkers
 barking ऊपर वह wrong पेड़
-
+पेड़ की छाल
 Berserk Duration Increase
 
 barnacle दल गायब
@@ -3070,9 +3070,9 @@ baroque तलवार scabbard
 पीपा बंद
 पीपा targeting
 पीपा उछालो
-
+तेज़ी से निकला
 barreled नियंत्रण आभा
-
+बैरल
 barrens खिलना
 
 
@@ -3082,14 +3082,14 @@ barricade विस्फोट
 अवरोध का प्रकाश
 अवरोध stance
 barrrage का आग
-
+वस्तु विनिमय
 
 आधार
 आधार शिविर चिह्न
 आधार गुप्त
 आधार दृश्य
-
-
+बेसबॉल
+आधारित
 based और redpilled
 based चालू
 
@@ -3107,7 +3107,7 @@ basilisk त्वचा
 
 basket विस्फोट
 basket का crocs
-
+बास्केटबॉल
 
 
 हरामी
@@ -3121,12 +3121,12 @@ bat जाल
 bataari मशाल
 bathed में प्रकाश
 bathed में क्रोध
-
+बाथरूम
 bathroom तोड़ो
+घोल
 
 
-
-
+बैटरी
 लड़ाई
 लड़ाई आभा
 लड़ाई कैमरा custom सवारी
@@ -3253,7 +3253,7 @@ beak टाइमर आभा
 किरण को zelfrax
 किरण दृश्य
 beaming earthsiege हीरा
-
+फलियाँ
 भालू
 भालू animal
 भालू कवच
@@ -3301,7 +3301,7 @@ beaming earthsiege हीरा
 beast's चिह्न
 beastcaller फेंको
 
-
+पशु संहारक
 धड़कन
 धड़कन एक मृत घोड़ा
 धड़कन नीचे
@@ -3315,22 +3315,22 @@ beautiful chalcedony हार
 
 
 
-
+क्योंकि
 because का
 beckon का anachronos
 
+इशारे से बुलाया
 
-
-
+बनना
 become बॉस छाया
 become मेरा spar buddy
 
 become stormwind harbor रक्षक
 
-
-
-
-
+बिस्तर पर
+शयनकक्ष
+मधुमक्खी
+गोमांस
 beehive स्थिति
 रहा
 रहा एक while
@@ -3347,7 +3347,7 @@ beehive स्थिति
 बियर वितरण
 बियर goggles
 बियर-basted crocolisk
-
+भृंग
 beetle बिल
 
 से पहले
@@ -3356,7 +3356,7 @@ beetle बिल
 से पहले2
 befouled जल
 
-
+भ्रम
 आरंभ
 आरंभ approach एक
 आरंभ approach b
@@ -3369,21 +3369,21 @@ befouled जल
 आरंभ तुषार साँस हमला
 आरंभ korrah's tour
 
-
-
+शुरुआत
+बहकाना
 behemoth धावा
 पीछे
 पीछे चालू episodes
 पीछे वह स्तंभ
 पीछे वह बार
 पीछे तुम
-
+हल्का भूरा
 
 
 
 
 bejeweled wizard's कलाईबंद
-
+डकार
 belch धमाका
 
 believe में बेहतर दिन
@@ -3391,8 +3391,8 @@ believe में स्वयं
 believe यह या नहीं
 believe मुझे
 believe हम सकता जीत
-
-
+विश्वास किया
+मानता है
 घंटी
 घंटी प्रवाह
 घंटी shake
@@ -3422,14 +3422,14 @@ below शून्य
 बेल्ट का वह लंबा सड़क
 बेल्ट का वह रात आकाश
 बेल्ट का वह titans
-
+बेंच
 bench वह खिलाड़ी
 
+बेंच पर बैठाया
 
-
-
-
-
+आशीर्वचन
+फ़ायदा
+लाभ उठाने
 
 berserk vo चालू
 berserker आभा
@@ -3452,7 +3452,7 @@ berzerker blaze विस्फोट
 besalt खरगोश मंत्र spawner
 beseech आशीर्वाद
 
-
+घेराबंदी करना
 सर्वश्रेष्ठ
 सर्वश्रेष्ठ case scenario
 सर्वश्रेष्ठ deals anywhere
@@ -3482,7 +3482,7 @@ bestial रोना
 bestial गर्व
 bestial दहाड़
 bestial प्रकोप
-
+पक्का दोस्त
 
 bestow रक्त
 bestowal का angerforge
@@ -3493,8 +3493,8 @@ bestowal का ironstar
 bestowal का moltenfist
 bestowal का shadowforge
 bestowal का thaurissan
-
-
+शर्त
+बीटा
 
 bethekk's आशीर्वाद
 bethod's तलवार चुनौती
@@ -3529,9 +3529,9 @@ bfgc पूर्ण
 
 bg reinforcements - ondeath सक्रियण आभा
 भाई
+पूर्वाग्रह
 
-
-
+बोली
 bidding सोना
 बड़ा
 बड़ा baby
@@ -3595,7 +3595,7 @@ bilgewater cartel ध्वज
 bilgewater चैंपियन
 
 bilious काढ़ा साँस
-
+अरब
 
 billy goat धमाका
 बाँधो
@@ -3641,9 +3641,9 @@ bindings का बिजली reflexes
 bindings का submission
 
 bio तोड़ो
-
-
-
+जीवनी
+जीव विज्ञान
+जैवदीप्ति
 
 bipsi's दस्ताने
 पक्षी
@@ -3653,20 +3653,20 @@ bipsi's दस्ताने
 पक्षी आत्मा illusion
 पक्षी झपट्टा
 
-
+जन्म
 birth मंत्र
 birth मृत दृश्य
 birth पुतला मंत्र
-
+जन्मदिन
 birthday केक
 birthday दल
 birthing ज्वाला
-
+सबसे अच्छा गियर
 bis उपकरण
 कुतिया
 
-
-
+चिड़चिड़ा
+बिटकॉइन
 काटो
 काटो knut
 काटो मुझे
@@ -3675,7 +3675,7 @@ bis उपकरण
 काटो वह हाथ वह feeds तुम
 biting ठंड
 biting ठंडा
-
+कड़वा
 bitter धमाका
 bitter काढ़ा
 bitter काढ़ा आभा
@@ -3819,7 +3819,7 @@ blackhorn breaks मुक्त
 blackhowl's क्रोध
 blackhowl's होगा
 blackmouth तेल
-
+बिजली गुल
 blackout काढ़ा
 
 blackout तत्काल
@@ -3907,7 +3907,7 @@ blanche's boomer काढ़ा शक्ति पट्टी
 blanche's boomer काढ़ा शक्ति बटन
 blanche's रसायन का replenishment
 blanched needle कुकुरमुत्ता
-
+कंबल
 विस्फोट
 धमाका नोवा
 धमाका का वायु
@@ -3918,8 +3918,8 @@ blanched needle कुकुरमुत्ता
 धमाका लहर
 धमाका-brewed
 blastbarrel दल primer
-
-
+पटाखे
+उड़ा दिया
 
 blasterboot कूदना 01
 blasterboot कूदना 02
@@ -3998,7 +3998,7 @@ bleeding काटो
 bleeding दिल
 bleeding बाहर
 bleeding घाव
-
+उफ़्फ़
 धन्य
 धन्य निहाई
 धन्य कलाईबंद
@@ -4023,7 +4023,7 @@ bleeding घाव
 धन्य trillium greaves
 धन्य हथियार coating
 धन्य जादूगर तेल
-
+धन्यता
 आशीर्वाद
 आशीर्वाद का a'dal
 आशीर्वाद का aessina
@@ -4133,7 +4133,7 @@ blew मेरा expectations
 
 झुलसाखून infusion
 
-
+संक्रमित भूमि
 blighted तीर
 blighted चीख
 blighted बीजाणु
@@ -4149,9 +4149,9 @@ blightguard remove भेस
 अंधा spot
 अंधा प्रहार
 अंधा whelp
-
+अंधा किया
 blinded द्वारा क्रोध
-
+आँखों की पट्टी
 
 अंधा करने वाला dirt
 अंधा करने वाला धूल
@@ -4166,10 +4166,10 @@ blinded द्वारा क्रोध
 अंधा करने वाला विष
 अंधा करने वाला webs
 अंधाओर
-
+अचानक घिरा
 
 blingtron संगीत
-
+पलक झपकाना
 blink कूलडाउन कमी
 blink टक्कर
 blink प्रहार
@@ -4185,16 +4185,16 @@ blistering विष
 
 blistering tentacle सवारी वाहन
 blistering घाव
-
+बिजली हमला
 blitz आह्वान
 blitz आह्वान चालू
 
 blitzkrieg initialize prevent मंत्र 01
-
+बर्फ़ीला तूफ़ान
 blizzard पत्थर
 
-
-
+फूलना
+फूला हुआ
 bloated वीभत्स feign मौत
 bloating काढ़ा
 रोकना
@@ -4248,8 +4248,8 @@ bloating काढ़ा
 अवरोध2
 blockade विस्फोट खरगोश - आग
 blockade विस्फोट खरगोश - जल
-
-
+अवरुद्ध
+अवरोधन
 blonde सवारी yak
 खून
 रक्त और गर्जन
@@ -4362,10 +4362,10 @@ blonde सवारी yak
 रक्त बाघ कंधे
 रक्त worms
 रक्त-soaked invitation
-
+ख़ूनख़राबा
 bloodbath बटन
 
-
+रक्त बेरी
 खूनउबालो
 खूनबिजली
 bloodbolt छपाक
@@ -4422,9 +4422,9 @@ bloodhilt मारो श्रेय
 लहूलुहान wyrmhide शिरस्त्राण
 लहूलुहान wyrmhide टाँगें
 लहूलुहान wyrmhide कंधे
-
+रक्तस्राव कराना
 bloodlord's आभा
-
+रक्त पिपासा
 bloodlust स्थिति
 खूनकुचलना brutebane stout
 खूनकुचलना buzz
@@ -4461,7 +4461,7 @@ bloodspore विष
 bloodstone पट्टी
 bloodstone टेलीपोर्ट
 खूनतूफान
-
+रक्त उछाल
 bloodtalon शिशु आभा
 
 रक्तपिपासा
@@ -4548,7 +4548,7 @@ bloodtalon शिशु आभा
 
 
 
-
+रक्त विष
 bloodvine जूते
 
 bloodvine पायजामा
@@ -4581,7 +4581,7 @@ bloodwash पेटी दृश्य
 खूनी जल सजावट
 खिलना
 खिलना चाँद lotus
-
+खिलता हुआ
 फूल
 फूल targetting
 blossoming प्राचीन
@@ -4612,7 +4612,7 @@ blowing ऊपर legion antenna
 
 blown पोर्टल
 
-
+मुगदर
 bludgeoning प्रहार
 नीला
 नीला आभा
@@ -4700,10 +4700,10 @@ bludgeoning प्रहार
 नीला wyrmrest warden किरण
 नीला2
 bluetip पदक
-
+झाँसा
 bluff खोज श्रेय
 कुंद
-
+धुंधलापन
 blurred गति
 blurring वार
 
@@ -4727,13 +4727,13 @@ board बचाव शिल्प
 board दृश्य
 boarded बचाव शिल्प
 boarding sub मारो श्रेय
-
+नाव
 boat आग
 boat targeting पुतला
 boat टेलीपोर्ट
 bobbing के लिए apples
 bodacious दरवाज़ा knocker
-
+धो डाला
 
 शरीर
 शरीर और आत्मा
@@ -4742,7 +4742,7 @@ bodacious दरवाज़ा knocker
 शरीर खींचो
 शरीर पटक
 शरीर switch
-
+शरीर पर वार
 bog गैस
 bog कोड़ा
 bogblossom धक्का
@@ -4777,9 +4777,9 @@ bold dragon's आँख
 
 
 bold serpent's आँख
+सुदृढ़
 
-
-
+मज़बूती देना
 
 बिजली
 बिजली धावा bramble
@@ -4818,13 +4818,13 @@ bolthorn's रून का ज्वाला
 बम tick ध्वनि
 बम उछालो
 bomb's दूर
-
+बमबारी करना
 bombard सुरक्षा
 
-
+बमबारी
 bombay बिल्ली
 bombed यह
-
+बमवर्षक
 
 bomber मारा
 
@@ -4871,8 +4871,8 @@ bond का वह val'kyr
 bonechewer काटो
 
 हड्डीठिठुरन blizzard
-
-
+हड्डी तोड़
+हड्डी पीसने वाला
 bonereaver's धार
 हड्डियाँ का bwonsamdi
 हड्डियाँ का bwonsamdi आभा
@@ -4880,14 +4880,14 @@ bonereaver's धार
 bonescythe कलाईबंद
 bonescythe कवच
 bonescythe संदूक
-
+हड्डी काँटा
 
 bonfire भेस
 
 bonfire's आशीर्वाद
 bonfire's आशीर्वाद रद्द
-
-
+टपली
+पागलपन भरा
 बोनस
 बोनस burial trove चाबी
 बोनस चकमा
@@ -4910,9 +4910,9 @@ boogaloo धमाका
 पुस्तक का stars
 पुस्तक का survival
 पुस्तक का वह ages
-
-
-
+बुकिंग
+बुकमार्क किया
+किताबों की दुकान
 धमाका
 धमाका जूते
 धमाका जूते खरगोश आभा
@@ -4923,9 +4923,9 @@ boogaloo धमाका
 धमाका fuse
 धमाका गोली
 धमाका दृश्य
-
+बूमर
 boomer काढ़ा प्रहार
-
+बूमरैंग
 boomerang बिजली बिजली
 booming आवाज़
 boomshroom विस्फोट
@@ -4934,8 +4934,8 @@ boon का bwonsamdi - बल मंत्र
 boon का ज़िंदगी
 boon का वह loa
 
-
-
+बूस्ट किया गया
+बूस्टर
 
 boot heel के साथ scrollwork
 boot को वह सिर
@@ -4957,10 +4957,10 @@ boot उछालो
 जूते का wintry endurance
 
 booze थूक
+टपला गया
+सरहद
 
-
-
-
+ऊबाना
 borean कवच किट
 borean किरण टक्कर
 borean चमड़ा
@@ -4969,7 +4969,7 @@ borean चमड़ा
 बोर का खेल
 
 
-
+उधार लेना
 
 borrowed समय
 बॉस
@@ -5144,8 +5144,8 @@ borrowed समय
 बॉस
 बॉस3
 
-
-
+बॉट
+दोनों
 both और
 
 botm - बुलबुला काढ़ा - pop
@@ -5161,7 +5161,7 @@ botm - flowery काढ़ा - grow
 बोतल का विष
 बोतल का wildfire
 बोतल toad
-
+बोतलबंद
 bottled क्रोध
 नीचे
 नीचे fragging
@@ -5169,7 +5169,7 @@ bottled क्रोध
 नीचे tier
 bottomless थैला
 नीचेकम pit
-
+ख़रीदा
 bought वह account
 शिलाखंड
 शिलाखंड हमला
@@ -5195,7 +5195,7 @@ bouncing बिजली
 bouncing बिजली bounced
 bouncing बिजली चालू
 bouncing धावा
-
+उछलने वाला
 बँधा
 बँधा ज्वालाएँ
 बँधा servant
@@ -5212,23 +5212,23 @@ bountiful खाना
 bounty का वह फ़सल
 धनुष
 धनुष को मुझे
-
-
+कटोरा
+कटोरे
 bowmen पुतला
 
 bowmen निगलना mantid
 
-
+धनुष प्रहार
 bowshot टक्कर ज्वाला अपडेट
 डिब्बा
 डिब्बा का बम
 boxed धमाका धमाका
+मुक्केबाज़ी
+लड़का
 
-
-
-
-
-
+प्रेमी लड़का
+लड़के
+बेवकूफ़
 bracelet का jade और coins
 कलाईबंद
 कलाईबंद का विनाशकारी ताकत
@@ -5268,11 +5268,11 @@ braided eternium ज़ंजीर
 bramble मारो
 
 bramblescar growth आह्वान
-
+काँटेदार छड़ी
 bramblewood बेल्ट
 bramblewood जूते
 bramblewood शिरस्त्राण
-
+शाखा
 branch का nordrassil बॉस सजावट
 branch का nordrassil जीत सजावट
 
@@ -5281,13 +5281,13 @@ brann उड़ान चरण चिह्न
 brann स्वास्थ्य checker
 brann संकेत को स्वयं
 brann रूपांतर
-
+शेखी
 बहादुर
 brave's भड़क
 brave's भड़क प्रभाव
 
 bravo company क्षेत्र किट
-
+झगड़ा
 brawl बॉस जीत जवाबी
 brawler विस्फोट
 brawler भाग 00
@@ -5309,8 +5309,8 @@ brazier आग
 
 brazier का नृत्य ज्वालाएँ
 brazier धुआँ
-
-
+ब्राज़ील
+ब्राज़ीलियाई
 अभी आता हूँ
 अभी आता हूँ दो मिनट
 breach कवच
@@ -5361,13 +5361,13 @@ breadth का तुषार चालू
 तोड़ोनीचे
 तोड़ोतेज़
 breakin' सामान
-
+टूटना
 breaking और entering
 breaking पीपा
 
 breaking वह ज़ंजीरें
 breaking वह नियम
-
+ब्रेक
 breaks वह mold
 कवच का प्राचीन steel
 कवच का राजा
@@ -5391,7 +5391,7 @@ breaks वह mold
 साँस का वह काला राजकुमार
 साँस का वह ड्रैगन
 साँस का y'shaarj
-
+साँस लेना
 breathe गहरा
 
 breathing आग
@@ -5493,7 +5493,7 @@ brewfest setup दल - गोबलिन
 brewfestive holiday सवारी
 
 काढ़ाशिरस्त्राण
-
+शराब बनाना
 brewing दृश्य
 brewmaiden गायब नियंत्रण आभा
 
@@ -5512,11 +5512,11 @@ brewmoon festival टेलीपोर्ट
 
 
 brianna's experimental मंत्र
-
+रिश्वत
 पुल
 पुल आयोजन
 bridges जला
-
+लगाम
 Bridle Channe
 brief explanation कृपया
 brief स्तब्ध
@@ -5579,7 +5579,7 @@ brilliance आभा
 देदीप्यमान titansteel treads
 देदीप्यमान जादूगर तेल
 brinescale विष
-
+लाना
 bring में वह sub
 bring यह
 bring चालू वह घृणा
@@ -5587,7 +5587,7 @@ bring पीड़ा
 
 
 bringing तुम में
-
+लाता है
 brings पीछे memories
 briny cutter अदृश्य स्वयं
 
@@ -5608,13 +5608,13 @@ bro पकड़ो नहीं इस्तेमाल
 bro क्या
 
 broadcast क्रिस्टल संदेश
-
+एक साथ गोलाबारी
 brogg's टोटम
 
 broiled ड्रैगन दावत
 broiled पहाड़ trout
 broiling लावा आभा
-
+कंगाल
 broke वह अभिलेख
 टूटा
 टूटा रूप नर्क
@@ -5647,7 +5647,7 @@ broke वह अभिलेख
 टूटा wagon विस्फोट
 टूटा होगा
 टूटा प्रकोप रसायन
-
+कांस्य
 bronze कुल्हाड़ी
 bronze पट्टी का बल
 bronze लड़ाई कुल्हाड़ी
@@ -5679,10 +5679,10 @@ brood का onyxia
 brood महामारी
 brood क्रोध
 broomstick रूपांतरण
+भाई साहब
 
 
-
-
+लाया
 भूरा
 भूरा ड्रैगन turtle
 भूरा elekk
@@ -5703,15 +5703,15 @@ broomstick रूपांतरण
 भूरा skeletal घोड़ा
 भूरा साँप
 भूरा भेड़िया
-
+अरे यार
 bruh क्षण
-
+चोट का निशान
 
 bruising प्रहार
 brunnhildar भेस
 
-
-
+ब्रश
+झाड़ी की आग
 brushfire जलाओ आभा
 brushfire जला क्षेत्र visualization
 brushfire जाँच valid location
@@ -5741,7 +5741,7 @@ brute पटक
 
 brutusk ज़ंजीर बिजली
 brutusk आह्वान आभा
-
+वैसे
 बुलबुला
 बुलबुला और abscess आह्वान - स्वामी
 बुलबुला किरण
@@ -5768,7 +5768,7 @@ brutusk आह्वान आभा
 बुलबुला जाल मौत आभा
 बुलबुला ऊपर
 
-
+बुलबुले में
 बुलबुले
 
 
@@ -5778,7 +5778,7 @@ bubbling काढ़ा
 
 
 
-
+बुलबुलेदार
 
 buck बाएं चेतावनी
 buck दाएं चेतावनी
@@ -5787,7 +5787,7 @@ buck दाएं चेतावनी
 बाल्टी lands
 बाल्टी सूची
 बाल्टी का meaty कुत्ता खाना
-
+उछल-कूद
 budd पुतला 01
 budd धक्का
 budd nedreck - फेंको शीशी
@@ -5795,7 +5795,7 @@ budd nedreck - फेंको शीशी
 
 buddied ऊपर
 
-
+बजट
 
 बढ़ावा
 बढ़ावा खाना
@@ -5804,7 +5804,7 @@ buddied ऊपर
 बढ़ावा वह छापा
 बढ़ावा ऊपर
 बढ़ावा2
-
+बफ़ किया गया
 buffed ऊपर
 buffeting हवाएँ का susurrus
 बग
@@ -5850,8 +5850,8 @@ building आग
 building गति
 building गति प्रभाव
 building गति चालू
-
-
+बिल्ड
+निर्मित हुआ
 bulging थैला का charms
 
 bull झपट
@@ -5861,7 +5861,7 @@ bulldozer exorcism मारो श्रेय
 गोली नियंत्रक आवधिक
 गोली नियंत्रक आह्वान प्रभाव अंधकार
 गोली आह्वान चालू
-
+ज़िद्दी
 बकवास
 किला
 किला भेस
@@ -5878,14 +5878,14 @@ bungie कूदना 01
 खरगोश immolation
 खरगोश सवारी वाहन
 
-
+बोया
 
 burd sticker टक्कर
 burden का अनंतता
 burden का guilt
 burden का proof
 burden का वह मुकुट
-
+बर्गर
 burgy blackheart's handsome टोपी
 burgy blackheart's pirate टोपी
 burlap trail ambush खींचो
@@ -6031,9 +6031,9 @@ burninate मारो श्रेय
 जलता घाव
 जलता wounds
 जलता प्रकोप
-
+थकान
 burnt पेड़ दृश्य
-
+डकारना
 बिल
 बिल हमला
 बिल दूर
@@ -6045,7 +6045,7 @@ burnt पेड़ दृश्य
 बिल में को domination बिंदु
 बिल prep
 बिल दृश्य
-
+बिल खोदना
 विस्फोट
 विस्फोट पर वह seams
 विस्फोट नुकसान
@@ -6067,7 +6067,7 @@ burnt पेड़ दृश्य
 विस्फोट का गति
 विस्फोट का गति - permanent
 विस्फोट गोली
-
+फटना
 bursting गर्व
 bursting बीज
 buru रूपांतर
@@ -6077,11 +6077,11 @@ bury फलक
 bury वह hatchet
 
 bus रुको
+झाड़ी
 
 
-
-
-
+पकड़ा गया हुआ
+व्यस्त
 
 busy बाद में
 busy आज
@@ -6092,9 +6092,9 @@ butcher चीरो
 butcher सोखना
 
 
-
-
-
+नितंब
+मक्खन
+तितली
 बटन 1
 बटन 10
 बटन 2
@@ -6115,10 +6115,10 @@ buttress जाल
 खरीद रहा हूँ
 खरीद रहा हूँ एक दौड़ना
 खरीद रहा हूँ materials
-
+पूरी ख़रीद
 
 buzzer बलढालना
-
+गोलाकार आरी
 
 
 bwonsamdi हड्डियाँ dot
@@ -6144,7 +6144,7 @@ c'est la vie लंबा
 
 caber टक्कर
 caber उछालो
-
+ठहाका
 
 cackling चीख
 
@@ -6152,11 +6152,11 @@ cadaver स्तब्ध
 cadaver उछालो
 
 
-
+कैफ़े
 पिंजरा कब्ज़ा blackout आभा
 पिंजरा जाल
 पिंजरा जाल - आह्वान
-
+पिंजरे में बंद
 
 caimas सक्रिय अंडा
 caimas आवधिक
@@ -6166,12 +6166,12 @@ cairne pyre श्रेय
 caladis brightspear अदृश्यता
 
 calcinder आग दृश्य
+गणना करना
 
-
-
+सोचा-समझा
 calculated चंगा
-
-
+गणना
+कैलकुलेटर
 caledis's भेस
 calen humanoid रूपांतर
 calico बिल्ली
@@ -6355,7 +6355,7 @@ calico बिल्ली
 बुलाओ wyrmrest vanquisher
 बुलाओ xink's shredder
 बुलाओ2
-
+बुलाया
 called यह
 पुकार blaithe
 पुकार के लिए वायु सहायता
@@ -6370,8 +6370,8 @@ called यह
 पुकार वह कारवाँ
 पुकार wildhammer gryphon सवार
 पुकार सफाया
-
-
+निर्दयता
+कॉल
 calls के लिए aid
 शांत
 शांत से पहले वह तूफ़ान
@@ -6384,8 +6384,8 @@ calls के लिए aid
 शांत वह तूफ़ान
 calming नीचे
 calming गीत का वह singer
-
-
+कैलोरी
+आया
 came से nowhere
 camel मूर्ति मंत्र प्रभाव
 camel कुचलो
@@ -6425,7 +6425,7 @@ Camoflague Impact
 शिविर aparaje skybox
 शिविर झुंड
 शिविर receives communique
-
+कैंपर
 
 camping वह कब्रिस्तान
 
@@ -6479,7 +6479,7 @@ camping वह कब्रिस्तान
 नहीं सकता type तेज़
 नहीं सकता काम
 सकता2
-
+कनाडा
 रद्द 85149
 रद्द सक्रियण
 रद्द agatha
@@ -6616,7 +6616,7 @@ camping वह कब्रिस्तान
 रद्द wrynn आभा
 रद्द zazzo's auras
 रद्द क्षेत्र आभा
-
+रद्द किया गया
 
 
 
@@ -6626,7 +6626,7 @@ candied sweet आलू
 
 canh's खज़ाना
 canned गर्मी
-
+स्वजाति भक्षण
 cannibalize मांस दृश्य
 cannibalize दृश्य
 तोप
@@ -6664,7 +6664,7 @@ cannibalize दृश्य
 तोप का गोला spin
 cannoneer प्रकट
 cannoneer's मशाल
-
+नहीं कर सकता
 cannot handle वह खेल
 
 
@@ -6684,7 +6684,7 @@ canyon ettin प्रकट मंत्र
 सीमा वह node
 सीमा आपका मारो
 
-
+धारिता
 capacitor निर्वहन
 capacitor अतिभार
 capacitor टोटम
@@ -6742,8 +6742,8 @@ capper बॉस कूदना
 
 
 
-
-
+कार
+कठोर खोल
 carapace का सूरज और छाया
 कारवाँ आभा
 कारवाँ गाड़ी शुरू चालू
@@ -6763,11 +6763,11 @@ carapace का सूरज और छाया
 कारवाँ तैयार
 कारवाँ दृश्य
 
-
-
+कार्बोनेशन
+कार्ब्स
 carcanet का वह सौ magi
 cardboard हत्यारा
-
+कार्डियो
 
 
 careful निशाना

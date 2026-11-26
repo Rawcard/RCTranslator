@@ -101,15 +101,15 @@ abacus من violent odds
 تخلٍ تجربة
 تخلٍ vehicle
 تخلٍ vehicle تشغيل poly
-
+مهجور
 abandoned bloodwash صندوق قتل رصيد
-
+انحراف
 قدرات
 قدرة
 قدرة متحكم
 
-
-
+وضوء
+اغتسال
 aboard ال krom'gar wagon
 abolish سم
 abom رصيد
@@ -150,8 +150,8 @@ absolute صفر
 
 absolutely مصعوق
 
-
-
+غفران
+يغفر
 امتصاص
 امتصاص anima
 امتصاص دم
@@ -201,8 +201,8 @@ absorbed دم
 سحيق ضربة
 سحيق رمي
 سحيق تحول
-
-
+يسرع
+متسارع
 
 accelerated سماوي قماش
 accelerated hardened magnificent يختبئ
@@ -222,9 +222,9 @@ accepting إحياء
 accepting روح معالج
 
 access تحكم console
+تأقلم
 
-
-
+وفقا ل
 according إلى
 according إلى ال guide
 
@@ -307,10 +307,10 @@ aching عظام
 حمضي ضربة
 حمضي sweat
 حمضي جرح
-
+بلوطة
 
 acorn رمي
-
+مكتسب
 acquiring هدف
 acrid عاصفة
 عبر
@@ -393,8 +393,8 @@ activating ال beacon
 نشط دردشة
 نشط tile
 
-
-
+ممثلة
+فعلي
 actual ضرر
 actual هجوم
 actual شفاء
@@ -404,7 +404,7 @@ actual شفاء
 
 actually لا سيء
 
-
+وخز بالإبر
 
 adam اختبار
 
@@ -423,9 +423,9 @@ adamantite درع قفازات
 adamantite sharpening حجر
 adamantite سلاح سلسلة
 
-
-
-
+يتكيف
+تكيف
+تكيفي
 adaptive معدات
 adaptive حماية
 adarrah فقاعة
@@ -459,12 +459,12 @@ adarrah's نفس
 أضف استدعاء مرئي
 أضف إلى participating percentage
 addicted إلى هذا لعبة
-
+إضافي
 
 وظيفة إضافية
 وظيفة إضافية word
-
-
+إضافات
+عنوان
 address ال issue
 
 adds قادم
@@ -478,43 +478,43 @@ adept نمر opal
 
 adept's إكسير
 
-
+وداعا
 adjules chow وقت
 adjunct sha ظهور مرئي
-
+يضبط
 
 adjust ال gears
 
 admiral's قبعة
-
-
+يعجب
+يعترف
 
 adopt أحد puppy
-
-
+لطيف
+معشوق
 adorned sceptre زعيم إيماءة
 adornment من shells
-
+أدرينالين
 adrenaline قنبلة
 adrenaline اندفاع
-
+بالغ
 
 advance إلى step 3
-
+متقدم
 advanced deepdive خوذة
 
 advanced هدف دمية
 advanced هدف دمية - حدث 003
 advanced هدف دمية سلبي
 advanced هدف دمية ظهور تأثير
-
-
+ميزة
+مزايا
 
 
 adventurer's اندفاع
+مغامر
 
-
-
+نصيحة
 advice prevention هالة
 ae تعويذة
 ae mirror عنصر مستوى
@@ -540,7 +540,7 @@ aeonaxx سقوط animation
 aeonaxx whelp ضرر reduction هالة
 aeonaxx whelp استدعاء
 aeosera قتل رصيد
-
+جوي
 aerial هجوم auto-load
 
 aerial قفزة
@@ -550,23 +550,23 @@ aerialist's يطرد
 
 aery روح مأسور
 aery روح مأسور رصيد
-
+جمالي
 aetha قتل رصيد
 aether انفجار
 aether درع
 
-
-
-
+على حد علمي
+إيجابي
+لاحقة
 affixes هذا أسبوع
 affliction معالج أسود
-
+يتحمل تكلفة
 غائب
 غائب فحص
 غائب farming
 
 
-
+أفريقيا
 بعد
 بعد أحد ألف tries
 بعد الجميع
@@ -578,10 +578,10 @@ affliction معالج أسود
 بعد أنت
 بعد-market burners
 بعداحتراق
-
+حارقات لاحقة
 بعدحياة
 بعدرياضيات
-
+بعد الظهر
 بعدصدمة
 
 مجدداً
@@ -593,7 +593,7 @@ affliction معالج أسود
 agamaggan's رشاقة
 agamaggan's قوة
 
-
+عمر
 age من
 aged dalaran حاد wheel
 agent townsley رصيد
@@ -601,7 +601,7 @@ aggra توجيه
 aggra انتقال
 
 aggresive قفزة
-
+عدواني
 
 aggressive سم
 عدوان
@@ -624,7 +624,7 @@ aggressive سم
 عدوان thrall
 عدوان قمامة
 
-
+رشيق
 
 agile تركيز
 agile بدائي diamond
@@ -650,21 +650,21 @@ agonizing ضربة
 agony و anima
 agony و torment
 agony من ال ساقط cultist
-
-
+أوافق
+متفق عليه
 
 agro حماة
 agro حماة هالة
 agro حماة script
-
-
+آه
+أها
 
 
 أمام
 أمام من له وقت
 أمام من ال curve
 أمام من لك وقت
-
+أخ
 ahh حسنا
 ahn'kahet brazier تأثير
 ahn'kahet brazier قتل رصيد
@@ -703,7 +703,7 @@ aid من ال frostwolf كاميرا
 تصويب لـ
 تصويب من ال حديد dwarves
 تصويب إلى جرح
-
+غش بالتصويب
 aimed طلقة
 هواء
 هواء انفجار
@@ -732,13 +732,13 @@ aimed طلقة
 هواء vent
 هواء تعويذة
 هواء-إلى-هواء rockets
-
+إير بي إن بي
 
 airborne سم
 airdrop أحد كاهن
 
 airplane جلد
-
+مطار
 airport راية neutral ينقر
 airship مدفع
 airship تعطل 1
@@ -755,7 +755,7 @@ airy pale جعة
 airy روح
 aiyu مرئي هالة
 ak اختبار
-
+المعروف باسم
 akali's مناعة
 akali's ritual من annihilation
 akali's صعق
@@ -773,9 +773,9 @@ al'chukla رصيد
 al'chukla برق كرة
 al'chukla برق يد
 alabaster درع
-
+خفة
 alacrity من ال elements
-
+إنذار
 alarm went إيقاف
 
 albatross اندفاع
@@ -784,7 +784,7 @@ albino تنين
 albino ركوب crane
 albino ثعبان
 
-
+ألبوم
 
 alcaz survey هالة
 alcaz survey رصيد
@@ -824,11 +824,11 @@ alexstrasza's هدية شعاع
 alexstrasza's هدية مرئي
 
 
-
+طحالب
 algalon حدث شعاع
 algalon حدث شعاع climax
 algar قتل رصيد
-
+خوارزمية
 
 align disk عدوان
 alignment إتمام
@@ -875,7 +875,7 @@ alignment skybox تأثير
 الجميع weekend
 الجميع
 
-
+حساسية
 التحالف
 التحالف ambassador
 التحالف balloon
@@ -932,7 +932,7 @@ alignment skybox تأثير
 التحالف wins
 حلفاء
 
-
+فاتن
 alluring هالة
 
 alluring perfume رذاذ
@@ -956,13 +956,13 @@ alluring perfume رذاذ
 
 
 على طول
-
+ألفا
 alpha أشعة
 alpha fade خارج
 
 alpha ذاتي
 alpha ضربة
-
+بالفعل
 already منتهي
 already invested إذاً كثير
 already هناك
@@ -972,7 +972,7 @@ alright ثم
 أيضاً
 أيضاً يفعل
 أيضاً2
-
+شخصية ثانوية
 
 alt شخصية
 
@@ -1000,9 +1000,9 @@ altered cauldron سم
 altered شكل
 alternate قوة increase
 
+بدلا من ذلك
 
-
-
+على الرغم من
 
 دائماً
 دائماً هنا
@@ -1023,7 +1023,7 @@ alysrazor ابدأ تعويذة
 am أنا ميت
 amakkar's kidney طلقة
 amakkar's pocket جرعة
-
+ملغم
 amani معركة دب
 
 amani قوة
@@ -1090,35 +1090,35 @@ amberfly صنم
 ambermill ساحر تحويل
 amberseed قتل رصيد
 amberstill defense رصيد
-
+براعة اليدين
 ambient جثة anchor ظهور
 ambient جثة عنكبوت ظهور
 
-
+طموح
 
 ambush نظيف-أعلى اختفاء
 ambush حدث تفعيل
 ambush override هالة
 ambush مهمة رصيد
-
+وقع في كمين
 ambushed بواسطة thisalee
 ambushed حالة
-
+أمريكا
 amethyst تحميل زائد
 
 
 
 
-
+ذخيرة
 
 amnennar's سخط
-
+فقدان الذاكرة
 بين
+غرامي
 
-
-
-
-
+كمية
+تضخيم
+مضخم
 amplify ضرر
 amplify لهب
 amplify سحر
@@ -1134,7 +1134,7 @@ amulet من truesight
 
 
 
-
+يحلل
 
 anatomical دمية
 ancestor خفاء
@@ -1163,7 +1163,7 @@ anchor هنا جديد
 
 anchor إلى skulls
 anchor مرئي
-
+راسي
 
 قديم
 قديم amber
@@ -1230,12 +1230,12 @@ anduin's مكسور ساق
 anemone سمكة حارس
 anemone scent سحابة
 
-
+مخدرات طبية
 
 angel من موت
 angelic حصن
 
-
+ملائكة
 غضب
 غضب شعاع
 غضب يترقب مفتاح
@@ -1263,7 +1263,7 @@ anglers صيد raft
 غاضب صعق
 غاضب turkey
 غاضب2
-
+كرب
 anim عدة - injured أورك
 anim عدة ميت
 anim عدة replacement
@@ -1288,32 +1288,32 @@ animate عظام
 
 animated ضربة
 animation إلغاء
-
+أنمي
 
 ankle عض
 
 anklet مع golden bells
-
+يبيد
 annihilate شياطين
+مباد
+إبادة
+مبيد
 
-
-
-
-
+ذكرى سنوية
 يُعلن
 يُعلن akkokoz ظهور
 يُعلن shoxtik ظهور
 يُعلن إرهاب ظهور
 يُعلن zul'farrak زومبي
 announcer تحكم هالة
+إزعاج
 
-
-
+مزعج
 
 
 
 annoyingly صعب
-
+شذوذ
 anomaly مرئي
 
 another واحد
@@ -1325,11 +1325,11 @@ answer لا incorrect
 answer نعم correct
 answer نعم incorrect
 
-
-
-
+إجابات
+نملة
+خصم رئيسي
 antechamber انتقال
-
+نشيد
 anti سحر shell
 anti سحر منطقة
 anti-هواء مدفع
@@ -1351,8 +1351,8 @@ anti-personnel مدفع
 anti-pirate قنبلة
 anti-سم
 
-
-
+مضاد حيوي
+ترقب
 anticipation من حرب
 antimagic نبض
 antlers من malorne
@@ -1391,18 +1391,18 @@ anxious اندفاع
 أي أحد حرر
 أي أحد online
 أي أحد هناك
-
+أي شيء
 
 anything جديد
+في أي وقت
+على أي حال
+
+على كل حال
+في أي مكان
 
 
 
-
-
-
-
-
-
+ضرر جماعي
 
 aoe ضرر
 aoe شفاء
@@ -1416,8 +1416,8 @@ aoe استدعاء لاعب كاميرا الحشد
 aoe اختبار
 aoe ال adds
 
-
-
+شقة
+لامبالاة
 apexis بلورة infusion
 
 
@@ -1426,15 +1426,15 @@ apexis mob faction فحص
 apexis استدعاء
 
 
-
+نهاية العالم
 
 
 apothecary's محترق ماء
 apothecary's سم
 apparatus من khaz'goroth
-
+على ما يبدو
 apparently هم يقول
-
+أشباح
 
 مظهر
 مظهر - الحشد ملقي
@@ -1446,7 +1446,7 @@ apparently هم يقول
 تفاحة falls إلى أرض
 تفاحة-berry hooch
 apples إلى oranges
-
+متقدم للوظيفة
 طبّق
 طبّق anemone chemicals
 طبّق argent pony
@@ -1488,9 +1488,9 @@ apples إلى oranges
 طبّق seduction gland
 طبّق إلى نقابة
 applying ال lure
+موعد
 
-
-
+يقدر
 
 appreciate ال يدعو
 
@@ -1514,9 +1514,9 @@ appreciate ال يدعو
 متدرب skinner
 متدرب tailor
 متدرب yufi
+نهج
 
-
-
+ملائم
 
 
 aqua قنبلة
@@ -1780,7 +1780,7 @@ arcanum من vicious ذكاء
 arcanum من vicious قوة
 آثار
 آثار صندوق
-
+رئيس الملائكة
 archeology مسح
 archeology distance - بارد
 archeology distance - حار
@@ -1795,12 +1795,12 @@ archery هدف دمية ركوب vehicle
 archery هدف دمية vehicle سجل
 archimonde نار
 archimonde's ظلام
-
+أرشيفي
 archivist's شعار
 
 archmage altaeric تحويل
 
-
+قنطرة
 arcing انفجار
 arcing حرق
 arcing طاقة
@@ -1922,13 +1922,13 @@ argent vanguard chapter أنا
 arguably أفضل
 arguably ال الأفضل
 arguably ال الأسوأ
-
-
+يجادل
+جدال
 argus ظل ساحر تحويل
 
 
 aria من سيء luckydo
-
+ينهض
 arlokk تحويل
 ذراع
 ذراع ميت ضرر kologarn
@@ -1939,13 +1939,13 @@ arlokk تحويل
 ذراع اكتساح
 ذراع نفسك
 
-
+هرمجدون
 armed و dangerous
 arming land لغم
 arming مرئي برتقالي
 arming مرئي أحمر
 arming مرئي أصفر
-
+هدنة
 armoire كاميرا
 armoire خفي
 درع
@@ -1963,7 +1963,7 @@ armoire خفي
 درع قيمة
 حصانة
 armore كاميرا
-
+مدرع
 
 armored أزرق dragonhawk
 armored أزرق ريح راكب
@@ -1974,8 +1974,8 @@ armored أحمر dragonhawk
 
 
 
-
-
+دروع
+صانع دروع
 أذرع
 أذرع خلف للخلف
 أذرع محارب
@@ -1988,15 +1988,15 @@ arngrim's سن
 aronus custom ركوب
 حول
 حول thirty
+يرتب
+اعتقال
 
-
-
-
+وصول إلى
 arrival من ال naaru
 
 
-
-
+غطرسة
+متغطرس
 سهم
 سهم هجوم
 سهم توجيه مخروط اختبار
@@ -2063,7 +2063,7 @@ artillery ضربة
 حرفي scribe
 حرفي skinner
 حرفي tailor
-
+فنان
 artist قتل رصيد
 arugal توجيه
 arugal حدث توجيه
@@ -2096,17 +2096,17 @@ aryna انتقال
 كـ بئر
 كـ بئر كـ
 كـ أنت wish
-
+في أقرب وقت
 asaq conversation رصيد
-
+يصعد
 ascend إلى ال heavens
-
+سيادة
 ascendant ضربة
 
 
 ash عنصري ظهور
 ash عاصفة
-
+خجلان
 
 
 
@@ -2140,7 +2140,7 @@ ashtongue موجة b
 
 
 
-
+آسيا
 
 asira تنين قوة asira إلى dismount
 اسأل
@@ -2152,8 +2152,8 @@ asira تنين قوة asira إلى dismount
 اسأل mojodishu إلى غادر
 اسأل mystic birdhat إلى غادر
 اسأل2
-
-
+سأل
+يسأل
 asleep تشغيل ال job
 
 aspect من arlokk
@@ -2174,8 +2174,8 @@ aspect من thekal
 aspect من venoxis
 aspect مرحلة تعويذة
 
-
-
+يخنق
+اختناق
 مؤخرة
 مؤخرة clown
 
@@ -2194,9 +2194,9 @@ assassin's serpent's عين
 
 assassin's sight تجميلي
 
+يغتال
 
-
-
+اغتيال
 assassination حدث initialize
 assassination انفجار
 assassination قتل رصيد و ارتداد
@@ -2220,15 +2220,15 @@ assign geist قتل رصيد إلى سيد
 assign غول قتل رصيد إلى سيد
 assign قتل رصيد إلى سيد
 assign هيكل عظمي قتل رصيد إلى سيد
-
+مهمة مكلفة
 يُساعد
 يُساعد بطل
 يُساعد ال دبابة
-
-
+مساعد
+يفترض
 assuming ذاك
-
-
+كويكب
+ربو
 
 
 astral درع
@@ -2288,15 +2288,15 @@ atal'ai جثة يأكل
 atal'ai سم
 
 atal'ai هيكل عظمي طوطم
-
+أكل
 ate و يسار لا crumbs
-
+ألعاب القوى
 atiesh مرئي
-
-
+صراف آلي
+تكفير
 atrophic ضربة
 atrophic سم
-
+ضمور
 
 
 attach مدفع كرة 1
@@ -2468,26 +2468,26 @@ attacked لاعب
 مهاجم شفاء امتصاص خلل
 مهاجم فقط يسار
 مهاجم تشغيل لي
-
+مهاجم
 attacking لاعبون
 
 
 
-
+انتباه
 
 
 attention span ضائع
-
-
-
-
+مخفف
+توهين
+موقف
+يجذب
 
 attract غاضب kodo
 attract غول
 attract سحر
 attract rift ظهور
-
-
+جاذبية
+يتناغم
 
 attune إلى kypari vos
 
@@ -2498,18 +2498,18 @@ attuned إلى طبيعة 10 dose reduction
 attuned إلى طبيعة 2 dose reduction
 attuned إلى طبيعة 25 dose reduction
 attunement إلى ال نواة
-
+تناغم
 
 مزاد
 مزاد بيت
-
-
+كتاب صوتي
+أوف
 
 augment رونة
 
 
 
-
+عمة
 auntie stormstout تجميلي
 هالة
 هالة شعاع اختبار
@@ -2575,7 +2575,7 @@ aural صدمة
 
 austere بدائي diamond
 austere ظلروح diamond
-
+أستراليا
 
 auto هجوم
 auto نار
@@ -2586,14 +2586,14 @@ auto سرعة boost
 
 auto عصا سحرية
 auto-إصلاح
-
-
-
+سيرة ذاتية
+مدفع آلي
+تصحيح تلقائي
 autocorrect حصل لي
 
 automated shredder موت notify
 automatic إصلاح شعاع
-
+أتمتة
 automation اصنع friendlies برتقالي
 automation mechanic مناعة
 automation تجذير تعويذة
@@ -2601,13 +2601,13 @@ automation تجذير تعويذة
 خريف زهرة sapling مرئي
 خريف زهرة firework
 av مهمة خفي type أحد
-
-
+انهيار ثلجي
+صورة رمزية
 avatar من يأس
 avatar من لهب
 avatar من hakkar هو summoned
 avatar من jade
-
+ينتقم
 
 avenger's درع
 
@@ -2620,12 +2620,12 @@ avenging سخط
 
 
 aviana's سوف
-
+يتجنب
 
 avoid ال شعاع
 avoid ال أشعة
 avoid ال mechanic
-
+يمكن تجنبه
 تهرب
 تهرب من ال ثعبان
 avruu's كرة
@@ -2681,8 +2681,8 @@ awaken ymirjar ساقط
 رائع جرعة
 رائع2
 
-
-
+محرج
+مستيقظ من جديد
 
 فأس
 فأس ضربة
@@ -2699,12 +2699,12 @@ axis model - صندوق دم للخلف
 aynasha's سهم
 aynasha's قوس
 aynasha's تجذير
-
+يو
 aysa تهانينا مؤقت
 aysa crashed ship حارس هالة
 aysa حارس هالة
 aysa ريح chamber حارس هالة
-
+آي
 أزيروث
 أزيروث محترق
 azil مرئي
@@ -2739,7 +2739,7 @@ azure ماء strider
 ba-bam صاروخ
 babam برميل هالة
 babam powder kegs هالة
-
+طفل رضيع
 baby للخلف
 baby blizzard دب
 baby elephant takes أحد bath
@@ -2789,25 +2789,25 @@ baby murloc سلبي
 للخلف إلى ال نقطة
 للخلف غدا
 للخلف أعلى
-
-
-
+ألم الظهر
+كاسر الظهر
+ارتداد اللهب
 للخلفنار
 background هالة
 للخلفيد
 
-
-
+رد فعل عنيف
+حقيبة ظهر
 backpack حالة
 backpack مرئي
 للخلفشق
 backslash استهداف
+طعنة في الظهر
+نسخ احتياطي
 
 
 
-
-
-
+بكتيريا
 سيء
 سيء مؤخرة
 سيء attitude
@@ -2839,13 +2839,13 @@ backslash استهداف
 سيء winner
 سيء2
 سيء3
-
+شرير
 شارة من kypari zar
 شارة من ال حامي
 شارة من ال swarmguard
 badger ميدالية
 
-
+بشكل سيء
 
 bael'gar's ناري جوهر
 baelog's valhalla طلقة
@@ -2862,8 +2862,8 @@ bait it هنا
 
 bait ال زعيم
 bait لهم
-
-
+اصطياد
+يخبز
 bake mulgore spice خبز
 baked manta شعاع
 baked صخرةسمكة
@@ -2884,7 +2884,7 @@ balance pole مخرج يقفز
 balance pole مخرج لي هالة
 balance pole landing صدمة
 balance pole مرئي
-
+متوازن
 
 
 
@@ -2916,17 +2916,17 @@ ballista نار - scene
 
 balloon قتل رصيد
 
-
+كرات
 balnazzar تحويل
 balnazzar تحويل صعق
+بام
 
-
-
+مخدوع
 يحظر
 يحظر it
 يحظر taunts أحد mogu
 ban's قنبلة
-
+موزة
 banana شريط
 banana شريط remove
 banana وابل
@@ -2936,7 +2936,7 @@ banana وابل
 banana رمي
 
 
-
+موز
 Hate Dummy
 
 
@@ -2949,11 +2949,11 @@ band من ال أبدي restorer
 band من ال أبدي sage
 band من valor
 ضمادة
-
-
+مضمد
+تضميد
 
 bandit's شارة
-
+بلاء
 bane من doom
 bane من infinity
 bane من treachery
@@ -2974,7 +2974,7 @@ banging ال gong
 نفي حالة كبير أصفر
 نفي حالة صغير أصفر
 نفي thundering exile
-
+منفي
 banished من shattrath مدينة
 
 banishment من حرشفة
@@ -3005,7 +3005,7 @@ banshee تهديد
 
 banshee's سحر mirror
 banshee's درع
-
+مزاح
 شريط
 baradin شفاء جرعة
 baradin إمساك closure تحذير
@@ -3031,15 +3031,15 @@ barbecued buzzard جناح
 barbed شبكة
 barbed طلقة
 
-
-
+أشواك
+بالكاد
 barely حي
 
 
 bark من doom
 bark من ال walkers
 barking أعلى ال wrong شجرة
-
+لحاء الشجر
 Berserk Duration Increase
 
 barnacle طاقم اختفاء
@@ -3070,9 +3070,9 @@ baroque سيف scabbard
 برميل إيقاف
 برميل استهداف
 برميل رمي
-
+مندفع
 barreled تحكم هالة
-
+براميل
 barrens إزهار
 
 
@@ -3082,14 +3082,14 @@ barricade انفجار
 حاجز من نور
 حاجز stance
 barrrage من نار
-
+مقايضة
 
 قاعدة
 قاعدة يترقب علامة
 قاعدة تخفي
 قاعدة مرئي
-
-
+بيسبول
+مبني على
 based و redpilled
 based تشغيل
 
@@ -3107,7 +3107,7 @@ basilisk جلد
 
 basket انفجار
 basket من crocs
-
+كرة السلة
 
 
 حرامي
@@ -3126,7 +3126,7 @@ bathroom كسر
 
 
 
-
+بطارية
 معركة
 معركة هالة
 معركة كاميرا custom ركوب
@@ -3253,7 +3253,7 @@ beak مؤقت هالة
 شعاع إلى zelfrax
 شعاع مرئي
 
-
+فاصوليا
 دب
 دب animal
 دب درع
@@ -3301,7 +3301,7 @@ beak مؤقت هالة
 beast's علامة
 beastcaller رمي
 
-
+قاتل الوحوش
 
 beat أحد ميت حصان
 beat أسفل
@@ -3309,17 +3309,17 @@ beat لي سجل
 
 beating تشغيل heb'jin's drum
 beats لي
-
+جميل
 beautiful chalcedony قلادة
 
 
 
 
-
+لأن
 because من
 beckon من anachronos
 
-
+أومأ
 
 
 become زعيم ظل
@@ -3327,10 +3327,10 @@ become لي spar buddy
 
 become stormwind harbor مدافع
 
-
-
-
-
+سرير
+غرفة نوم
+نحلة
+لحم بقري
 beehive حالة
 كان
 كان أحد while
@@ -3347,7 +3347,7 @@ beer basted خنزير بري ribs
 
 
 
-
+خنفساء
 
 
 قبل
@@ -3356,7 +3356,7 @@ beer basted خنزير بري ribs
 قبل2
 befouled مياه
 
-
+ارتباك
 ابدأ
 ابدأ approach أحد
 ابدأ approach b
@@ -3369,21 +3369,21 @@ befouled مياه
 ابدأ صقيع نفس هجوم
 ابدأ korrah's tour
 
-
-
+بداية
+يخدع
 behemoth اندفاع
 خلف
 خلف تشغيل episodes
 خلف ال pillar
 خلف ال مرات
 خلفك
-
-
+بيج
+كائن
 
 
 
 bejeweled wizard's أساور
-
+تجشؤ
 belch انفجار
 
 believe في أفضل أيام
@@ -3391,8 +3391,8 @@ believe في نفسك
 believe it أو لا
 believe لي
 believe نحن can فوز
-
-
+آمن
+يعتقد
 
 bell توجيه
 
@@ -3425,11 +3425,11 @@ below صفر
 
 bench ال لاعب
 
+احتياط
 
 
-
-
-
+فائدة
+فوائد
 
 berserk vo تفعيل
 berserker هالة
@@ -3452,7 +3452,7 @@ berzerker لهيب انفجار
 besalt bunny تعويذة spawner
 beseech بركة
 بجانب
-
+يحاصر
 الأفضل
 الأفضل case scenario
 الأفضل deals anywhere
@@ -3482,7 +3482,7 @@ bestial صرخة
 
 bestial زئير
 bestial سخط
-
+صديق مقرب
 
 bestow دم
 bestowal من angerforge
@@ -3493,8 +3493,8 @@ bestowal من ironstar
 bestowal من moltenfist
 bestowal من shadowforge
 bestowal من thaurissan
-
-
+رهان
+بيتا
 
 bethekk's بركة
 bethod's سيف تحدٍ
@@ -3529,9 +3529,9 @@ bfgc إكمال
 
 bg reinforcements - ondeath نشاط عشوائي هالة
 
+تحيز
 
-
-
+عرض سعر
 bidding ذهب
 كبير
 كبير baby
@@ -3581,7 +3581,7 @@ bidding ذهب
 كبير voodoo رداء
 كبير ماء bubbles هالة
 كبير-فم clam
-
+أكبر
 bigger هو أفضل
 
 
@@ -3595,8 +3595,8 @@ bilgewater cartel راية
 bilgewater بطل
 
 bilious مشروب نفس
-
-
+مليار
+فواتير
 billy goat انفجار
 ربط
 ربط chapter 1
@@ -3641,9 +3641,9 @@ bindings من برق reflexes
 bindings من submission
 
 bio كسر
-
-
-
+سيرة
+علم الأحياء
+تلألؤ حيوي
 
 bipsi's قفازات
 طائر
@@ -3653,20 +3653,20 @@ bipsi's قفازات
 طائر روح illusion
 طائر swoop
 birds منتهي
-
+ولادة
 birth إلقاء
 birth ميت مرئي
 birth دمية إلقاء
-
+عيد ميلاد
 
 birthday مجموعة
 birthing لهب
-
+أفضل عتاد
 bis معدات
 عاهرة
-
-
-
+تذمر
+نكدي
+بيتكوين
 عض
 عض knut
 عض لي
@@ -3675,7 +3675,7 @@ bis معدات
 عض ال يد ذاك feeds أنت
 biting برد
 biting بارد
-
+مر
 bitter انفجار
 bitter مشروب
 bitter مشروب هالة
@@ -3819,7 +3819,7 @@ blackhorn breaks حرر
 blackhowl's غضب
 blackhowl's سوف
 blackmouth زيت
-
+انقطاع التيار
 blackout مشروب
 
 blackout فوري
@@ -3907,7 +3907,7 @@ blanche's boomer مشروب قوة شريط
 blanche's boomer مشروب قوة زر
 blanche's إكسير من replenishment
 
-
+بطانية
 انفجار
 انفجار nova
 انفجار من هواء
@@ -3918,8 +3918,8 @@ blanche's إكسير من replenishment
 انفجار موجة
 انفجار-brewed
 blastbarrel طاقم primer
-
-
+ألعاب نارية
+مفجر
 
 blasterboot يقفز 01
 blasterboot يقفز 02
@@ -3998,7 +3998,7 @@ bleakwood لعنة
 ينزف قلب
 ينزف خارج
 ينزف جرح
-
+أف
 مبارك
 مبارك anvil
 مبارك أساور
@@ -4023,7 +4023,7 @@ bleakwood لعنة
 مبارك trillium greaves
 مبارك سلاح coating
 مبارك wizard زيت
-
+نعيم
 بركة
 بركة من a'dal
 بركة من aessina
@@ -4133,7 +4133,7 @@ blew لي expectations
 
 آفةدم infusion
 
-
+مصاب بالآفة
 
 blighted صراخ
 
@@ -4149,9 +4149,9 @@ blighted صراخ
 أعمى spot
 أعمى ضربة
 أعمى whelp
-
+معمى
 blinded بواسطة غضب
-
+عصابة عين
 
 مُعمٍ dirt
 مُعمٍ غبار
@@ -4166,10 +4166,10 @@ blinded بواسطة غضب
 مُعمٍ سم
 مُعمٍ webs
 عمىجانب
+مأخوذ على غرة
 
 
-
-
+طرفة
 blink تهدئة reduction
 blink صدمة
 blink ضربة
@@ -4185,16 +4185,16 @@ blistering سم
 
 blistering tentacle ركوب vehicle
 blistering جرح
-
+هجوم خاطف
 blitz استدعاء
 blitz استدعاء تفعيل
 
 blitzkrieg initialize prevent تعويذة 01
-
+عاصفة ثلجية
 blizzard حجر
 
-
-
+انتفاخ
+منتفخ
 bloated مسخ feign موت
 bloating مشروب
 يصد
@@ -4362,10 +4362,10 @@ blonde ركوب yak
 دم نمر أكتاف
 دم worms
 دم-soaked invitation
-
+حمام دم
 bloodbath زر
 
-
+توت الدم
 
 دمصاعقة
 دمصاعقة splash
@@ -4422,9 +4422,9 @@ bloodhilt قتل رصيد
 ملطخ wyrmhide خوذة
 ملطخ wyrmhide سيقان
 ملطخ wyrmhide أكتاف
-
+فصد
 bloodlord's هالة
-
+شهوة الدم
 bloodlust حالة
 دمتمزيق brutebane stout
 دمتمزيق buzz
@@ -4461,7 +4461,7 @@ bloodspore سم
 دمحجر band
 bloodstone انتقال
 دمعاصفة
-
+اندفاع الدم
 bloodtalon فرخ هالة
 
 
@@ -4548,7 +4548,7 @@ bloodthirst شفاء
 
 
 
-
+سم الدم
 bloodvine حذاء
 
 bloodvine سروال
@@ -4581,7 +4581,7 @@ bloodwash صندوق مرئي
 دموي ماء تجميلي
 إزهار
 إزهار قمر lotus
-
+مزهر
 زهرة
 زهرة targetting
 blossoming قديم
@@ -4612,7 +4612,7 @@ blowing أعلى legion antenna
 
 blown بوابة
 
-
+هراوة
 bludgeoning ضربة
 أزرق
 أزرق هالة
@@ -4703,7 +4703,7 @@ bluetip ميدالية
 
 bluff مهمة رصيد
 غير حاد
-
+ضبابية
 blurred سرعة
 blurring شق
 
@@ -4727,7 +4727,7 @@ board rescue صناعة
 board مرئي
 boarded rescue صناعة
 boarding sub قتل رصيد
-
+قارب
 boat نار
 boat استهداف دمية
 boat انتقال
@@ -4742,7 +4742,7 @@ bobbing لـ apples
 جسد سحب
 جسد صدم
 جسد switch
-
+ضربة للجسم
 
 
 bogblossom ارتداد
@@ -4777,7 +4777,7 @@ bold dragon's عين
 
 
 bold serpent's عين
-
+معزز
 
 
 
@@ -4818,13 +4818,13 @@ bolthorn's رونة من لهب
 قنبلة tick sound
 قنبلة رمي
 bomb's بعيد
-
+يقصف
 bombard حماية
 
-
+قصف
 bombay قطة
 
-
+قاذفة
 
 bomber قُتل
 
@@ -4871,8 +4871,8 @@ bond من ال val'kyr
 bonechewer عض
 
 عظمقارس blizzard
-
-
+كاسر العظام
+طاحن العظام
 bonereaver's حافة
 عظام من bwonsamdi
 عظام من bwonsamdi هالة
@@ -4880,14 +4880,14 @@ bonereaver's حافة
 
 bonescythe درع صدري
 bonescythe صندوق
-
+شوكة عظمية
 
 
 
 bonfire's بركة
 bonfire's بركة إلغاء
-
-
+ضربة خفيفة
+مجنون
 
 bonus burial trove مفتاح
 bonus مراوغة
@@ -4898,7 +4898,7 @@ bonus رمي الحجر
 bonus رمي الحجر اختبار
 bonus runic قوة
 bony درع
-
+أثداء
 boogaloo دوي
 كتاب
 كتاب قطعة أثرية
@@ -4910,9 +4910,9 @@ boogaloo دوي
 كتاب من stars
 كتاب من survival
 كتاب من ال ages
+حجز
 
-
-
+مكتبة لبيع الكتب
 دوي
 دوي حذاء
 دوي حذاء bunny هالة
@@ -4923,9 +4923,9 @@ boogaloo دوي
 دوي fuse
 دوي طلقة
 دوي مرئي
-
+جيل الطفرة
 boomer مشروب ضربة
-
+بومرانج
 boomerang برق صاعقة
 
 boomshroom انفجار
@@ -4933,9 +4933,9 @@ boon من bwonsamdi
 boon من bwonsamdi - قوة إلقاء
 boon من حياة
 boon من ال loa
-
-
-
+دفعة
+معزز الأداء
+معززات
 
 boot heel مع scrollwork
 boot إلى ال رأس
@@ -4958,9 +4958,9 @@ boot رمي
 
 booze بصق
 
+حدود البلد
 
-
-
+يضجر
 borean درع عدة
 borean شعاع صدمة
 borean جلد
@@ -4969,7 +4969,7 @@ borean جلد
 ملول من لعبة
 
 ممل
-
+يقترض
 
 borrowed وقت
 زعيم
@@ -5145,7 +5145,7 @@ borrowed وقت
 زعيم3
 رؤساء
 
-
+كلاهما
 both و
 
 botm - فقاعة مشروب - pop
@@ -5161,7 +5161,7 @@ botm - flowery مشروب - grow
 زجاجة من سم
 زجاجة من wildfire
 زجاجة toad
-
+معبأ
 bottled غضب
 أسفل
 أسفل fragging
@@ -5169,7 +5169,7 @@ bottled غضب
 أسفل tier
 bottomless حقيبة
 أسفلأقل pit
-
+اشترى
 bought ال account
 
 boulder هجوم
@@ -5186,7 +5186,7 @@ boulder رمي
 boulder رمي رصيد
 boulder وابل
 bouldercrag's قنبلة
-
+يرتد
 bounce إنجاز طبّق هالة
 bounce إنجاز هالة
 bouncer كرة
@@ -5195,7 +5195,7 @@ bouncing صاعقة
 bouncing صاعقة bounced
 bouncing صاعقة تفعيل
 bouncing اندفاع
-
+نطاط
 مربوط
 مربوط لهب
 مربوط servant
@@ -5212,22 +5212,22 @@ bountiful طعام
 bounty من ال harvest
 قوس
 قوس إلى لي
-
-
+وعاء
+أوعية
 bowmen دمية
 
 bowmen التهام mantid
-
-
+أقواس
+رمية قوس
 bowshot صدمة لهب تحديث
 صندوق
 صندوق من قنابل
 boxed دوي دوي
+ملاكمة
 
 
-
-
-
+صديق حميم
+أولاد
 
 bracelet من jade و coins
 أسورة
@@ -5268,11 +5268,11 @@ braided eternium سلسلة
 bramble قتل
 
 bramblescar growth استدعاء
-
+عصا الشوك
 bramblewood حزام
 bramblewood حذاء
 bramblewood خوذة
-
+فرع
 branch من nordrassil زعيم تجميلي
 branch من nordrassil فوز تجميلي
 
@@ -5281,13 +5281,13 @@ brann طيران مرحلة علامة
 brann صحة checker
 brann إشارة إلى ذاتي
 brann تحويل
-
+تبجح
 شجاع
 brave's شعلة
 brave's شعلة تأثير
 
 bravo company حقل عدة
-
+شجار
 brawl زعيم فوز مضاد
 brawler انفجار
 brawler أجزاء 00
@@ -5309,8 +5309,8 @@ brazier نار
 
 brazier من dancing لهب
 brazier دخان
-
-
+البرازيل
+برازيلي
 سأعود الآن
 سأعود الآن اثنان دقائق
 breach درع
@@ -5367,7 +5367,7 @@ breaking برميل
 
 breaking ال سلاسل
 breaking ال rules
-
+استراحات
 breaks ال mold
 درع صدري من قديم فولاذ
 درع صدري من kings
@@ -5391,7 +5391,7 @@ breaks ال mold
 نفس من ال أسود أمير
 نفس من ال تنين
 نفس من y'shaarj
-
+يتنفس
 breathe عميق
 
 breathing نار
@@ -5493,7 +5493,7 @@ brewfest setup طاقم - غوبلن
 brewfestive holiday مطية
 
 مشروبخوذة
-
+تخمير
 brewing مرئي
 brewmaiden اختفاء تحكم هالة
 
@@ -5512,11 +5512,11 @@ brewmoon festival انتقال
 
 
 brianna's experimental تعويذة
-
+رشوة
 جسر
 جسر حدث
 bridges محروق
-
+لجام
 Bridle Channe
 brief explanation من فضلك
 brief صعق
@@ -5587,7 +5587,7 @@ bring تشغيل ال hate
 
 
 bringing أنت في
-
+يجلب
 brings للخلف memories
 briny cutter خفي ذاتي
 
@@ -5601,20 +5601,20 @@ bristlepine den هالة
 هش roots زعيم إيماءة
 هش جلد
 هش لمس
-
+أخي
 bro إمساك
 bro إمساك لا مستخدم
 
 bro ماذا
 
 broadcast بلورة رسالة
-
+قذيفة جانبية
 brogg's طوطم
 
 broiled تنين feast
 broiled جبل trout
 broiling lava هالة
-
+مفلس
 broke ال سجل
 مكسور
 مكسور كـ جهنم
@@ -5647,7 +5647,7 @@ broke ال سجل
 مكسور wagon انفجار
 مكسور سوف
 مكسور سخط إكسير
-
+برونز
 bronze فأس
 bronze band من قوة
 bronze معركة فأس
@@ -5703,15 +5703,15 @@ broomstick تحول
 بني skeletal حصان
 بني ثعبان
 بني ذئب
-
+يا رجل
 bruh لحظة
-
+كدمة
 
 bruising ضربة
 
 
-
-
+فرشاة
+حريق أدغال
 brushfire حرق هالة
 brushfire محروق منطقة visualization
 brushfire فحص valid location
@@ -5741,7 +5741,7 @@ brute صدم
 
 brutusk سلسلة برق
 brutusk استدعاء هالة
-
+بالمناسبة
 فقاعة
 فقاعة و abscess استدعاء - سيد
 فقاعة شعاع
@@ -5767,8 +5767,8 @@ brutusk استدعاء هالة
 فقاعة رذاذ
 فقاعة فخ موت هالة
 فقاعة أعلى
-
-
+شعاع فقاعات
+مغلف بفقاعة
 
 
 
@@ -5778,7 +5778,7 @@ bubbling مشروب
 
 
 
-
+فوار
 
 buck يسار تحذير
 buck يمين تحذير
@@ -5787,15 +5787,15 @@ buck يمين تحذير
 دلو lands
 دلو قائمة
 دلو من meaty كلب طعام
-
+جامح
 budd دمية 01
 budd ارتداد
 budd nedreck - رمي قارورة
 
 
 buddied أعلى
-
-
+صاحبي
+ميزانية
 
 تعزيز
 تعزيز طعام
@@ -5804,7 +5804,7 @@ buddied أعلى
 تعزيز ال غارة
 تعزيز أعلى
 يُعزز
-
+تم تقويته
 buffed أعلى
 buffeting رياح من susurrus
 خلل
@@ -5850,7 +5850,7 @@ buffeting رياح من susurrus
 مبنى سرعة
 مبنى سرعة تأثير
 مبنى سرعة تفعيل
-
+تشكيلات
 
 bulging حقيبة من charms
 
@@ -5861,7 +5861,7 @@ bullet عدوان
 bullet متحكم دوري
 bullet متحكم استدعاء تأثير مظلم
 bullet استدعاء تفعيل
-
+عنيد
 هراء
 حصن
 حصن disguise
@@ -5878,14 +5878,14 @@ bungie يقفز 01
 
 bunny ركوب vehicle
 
-
+عوامة
 
 burd sticker صدمة
 burden من أبدية
 burden من guilt
 burden من proof
 burden من ال crown
-
+برغر
 burgy blackheart's handsome قبعة
 burgy blackheart's pirate قبعة
 burlap trail ambush سحب
@@ -6031,9 +6031,9 @@ burninate قتل رصيد
 محترق جرح
 محترق wounds
 محترق سخط
-
+إرهاق
 burnt شجرة مرئي
-
+يتجشأ
 
 burrow هجوم
 burrow بعيد
@@ -6045,7 +6045,7 @@ burrow رصيد إلى سيد
 burrow في إلى domination نقطة
 
 burrow مرئي
-
+حفر
 انفجار
 انفجار في ال seams
 انفجار ضرر
@@ -6075,13 +6075,13 @@ bury نصل
 
 
 bury ال hatchet
-
+حافلة
 bus توقف
+شجيرة
+عمل تجاري
+رائع جدا
 
-
-
-
-
+مشغول
 
 busy لاحقاً
 busy اليوم
@@ -6093,8 +6093,8 @@ butcher استنزاف
 
 
 
-
-
+زبدة
+فراشة
 زر 1
 زر 10
 زر 2
@@ -6115,10 +6115,10 @@ buttress فخ
 أبحث عن شراء
 أبحث عن شراء أحد يركض
 أبحث عن شراء materials
-
+شراء كامل
 
 buzzer قوةيرمي
-
+منشار دائري
 
 
 bwonsamdi عظام dot
@@ -6144,7 +6144,7 @@ c'est la vie طويل
 
 caber صدمة
 caber رمي
-
+قهقهة
 
 cackling عواء
 
@@ -6152,11 +6152,11 @@ cadaver صعق
 cadaver رمي
 
 
-
+مقهى
 cage أسر blackout هالة
 cage فخ
 cage فخ - استدعاء
-
+محبوس
 
 caimas تنشيط بيضة
 caimas دوري
@@ -6168,10 +6168,10 @@ caladis brightspear خفاء
 calcinder نار مرئي
 
 
-
+محسوب
 calculated شفاء
-
-
+حساب
+آلة حاسبة
 
 calen humanoid تحويل
 calico قطة
@@ -6355,7 +6355,7 @@ calico قطة
 استدعاء wyrmrest vanquisher
 استدعاء xink's shredder
 استدعاء2
-
+نادى
 
 
 calling لـ هواء دعم
@@ -6370,8 +6370,8 @@ calling ال birds
 calling ال caravan
 calling wildhammer gryphon راكب
 calling يُمحى
-
-
+قسوة
+مكالمات
 calls لـ aid
 هادئ
 هادئ قبل ال عاصفة
@@ -6384,8 +6384,8 @@ calls لـ aid
 هادئ ال عاصفة
 calming أسفل
 calming song من ال singer
-
-
+سعرات حرارية
+جاء
 came من nowhere
 camel figurine تعويذة تأثير
 camel سحق
@@ -6425,7 +6425,7 @@ camouflage retinal درع
 يترقب aparaje skybox
 يترقب pack
 يترقب receives communique
-
+مخيم
 كمين
 كمين ال graveyard
 كمين trip
@@ -6479,7 +6479,7 @@ can't توقف laughing
 can't type سريع
 can't يعمل
 
-
+كندا
 إلغاء 85149
 إلغاء تفعيل
 إلغاء agatha
@@ -6616,7 +6616,7 @@ can't يعمل
 إلغاء wrynn هالة
 إلغاء zazzo's auras
 إلغاء منطقة هالة
-
+ملغى
 
 
 
@@ -6626,7 +6626,7 @@ candle انفجار
 
 canh's كنز
 
-
+يفترس بني جنسه
 cannibalize لحم مرئي
 cannibalize مرئي
 مدفع
@@ -6664,7 +6664,7 @@ cannibalize مرئي
 قذيفة spin
 cannoneer ظهور
 
-
+لا يستطيع
 cannot handle ال لعبة
 
 
@@ -6684,7 +6684,7 @@ cap ال علم
 cap ال node
 cap لك ضرب
 
-
+سعة كهربائية
 
 capacitor تحميل زائد
 capacitor طوطم
@@ -6742,8 +6742,8 @@ capper زعيم يقفز
 
 
 
-
-
+سيارة
+درقة
 carapace من شمس و ظل
 caravan هالة
 caravan cart ابدأ تفعيل
@@ -6763,11 +6763,11 @@ caravan حارس هالة
 caravan جاهز
 caravan مرئي
 
-
-
+كربنة
+كربوهيدرات
 carcanet من ال مئة magi
 cardboard قاتل
-
+تمارين القلب
 
 
 careful تصويب

@@ -101,15 +101,15 @@ iwanan ang Nalason isip
 iwanan pagsubok
 iwanan sasakyan
 iwanan sasakyan sa poly
-
+inabandona
 abandoned bloodwash kahon patayin kredito
-
+aberasyon
 kakayahan
 kakayahan
 kakayahan kontrolador
 
-
-
+paghuhugas
+mga paghuhugas
 aboard ang krom'gar kariton
 abolish lason
 abom kredito
@@ -150,7 +150,7 @@ tiyak
 tiyak rinsed
 tiyak natulala
 tiyak stunning
-
+kapatawaran
 
 sipsipin
 sipsipin anima
@@ -183,7 +183,7 @@ sipsipin tubig elemental kredito
 absorbed dugo
 pagsipsip
 pagsipsip kalasag
-
+kahangalan
 abuse ito
 kailaliman bag
 kailaliman kabibe
@@ -201,7 +201,7 @@ kailaliman basagin
 kailaliman hampas
 kailaliman ihagis
 kailaliman pagbabago
-
+pabilisin
 pinabilis
 pinabilis balanse trillium tinunaw na metal
 pinabilis makalangit tela
@@ -222,7 +222,7 @@ tinanggap ang anyayahan
 accepting espiritu manggagamot
 
 access kontrol console
-
+pag-aangkop sa klima
 
 ayon
 ayon sa
@@ -248,7 +248,7 @@ acherus deathcharger
 acherus portal manika
 
 
-
+makamit
 achieve takbo
 tagumpay
 tagumpay - labanan galit kasama galit
@@ -392,8 +392,8 @@ aktibo kakayahan
 aktibo palakas
 aktibo chat
 aktibo tile
-
-
+aktor
+aktres
 tunay
 tunay pinsala
 tunay dps
@@ -404,8 +404,8 @@ talaga baliw
 talaga laughed
 Hindi naman pala pangit
 talaga2
-
-
+akupunktura
+patalastas
 adam pagsubok
 adamantine kabibe
 adamantite palaso maker
@@ -423,8 +423,8 @@ adamantite saklaw
 adamantite paghahasa bato
 adamantite sandata kadena
 adamantite weightstone
-
-
+umangkop
+adaptasyon
 adaptive
 adaptive kagamitan
 adaptive pananggalang
@@ -459,11 +459,11 @@ idagdag nakawin maskara orasyon
 idagdag tawagin biswal
 idagdag sa participating percentage
 addicted sa ito laro
-
+karagdagan
 addle humanoid
 
 addon salita
-
+mga addon
 
 address ang problema
 
@@ -486,18 +486,18 @@ iayos ugali
 iayos ang gears
 
 admiral's sombrero
-
+hangaan
 aminin
 
 adopt isang puppy
 
-
+sinasamba
 adorned sceptre boss emote
 adornment ng shells
 adrenalina
 adrenalina bomba
 adrenalina dagsa
-
+nasa hustong gulang
 sumulong
 sumulong sa hakbang 3
 advanced
@@ -508,11 +508,11 @@ advanced target manika - kaganapan 003
 advanced target manika pasibo
 advanced target manika lumitaw epekto
 bentahe
-
+mga kalamangan
 
 adventurer's pagdating
 adventurer's dagsa
-
+mapangahas
 adverse reaksyon
 payo
 payo pag-iwas aura
@@ -550,23 +550,23 @@ aerialist's sipain
 aerie determinasyon
 aery kaluluwa nabihag
 aery kaluluwa nabihag kredito
-
+estetika
 aetha patayin kredito
 aether pagputok
 aether kalasag
 aether paningin
-
+sa pagkakaalam ko
 Oo, tama
-
+panlapi
 affixes ito linggo
 pagdurusa mangkukulam
-
+kayang bilhin
 AFK
 AFK suriin
 AFK pagsasaka
 
 takot
-
+Aprika
 pagkatapos
 pagkatapos isang libo sinusubukan
 pagkatapos lahat
@@ -578,7 +578,7 @@ pagkatapos ang hilahin
 pagkatapos ikaw
 pagkatapos-market burners
 pagkatapossunugin
-
+afterburner
 kabilang-buhay
 bunga
 hapon
@@ -703,7 +703,7 @@ tumutok
 tumutok para
 tumutok ng ang bakal dwarves
 tumutok sa sugat
-
+pag-aimbot
 aimed putok
 hangin
 hangin pagsabog
@@ -738,7 +738,7 @@ airborne lason
 airdrop isang pari
 Eroplano
 Eroplano balat
-
+paliparan
 airport bandila neutral i-click
 barkong panghimpapawid kanyon
 barkong panghimpapawid bagsak 1
@@ -755,7 +755,7 @@ airy pale serbesa
 airy kaluluwa
 aiyu biswal aura
 ak pagsubok
-
+kilala rin bilang
 akali kaligtasan
 akali ritual ng pagkalipol
 akali tulala
@@ -824,11 +824,11 @@ alexstrasza regalo sinag
 alexstrasza regalo biswal
 alexstrasza presensya
 alexstrasza luha
-
+lumot
 algalon kaganapan sinag
 algalon kaganapan sinag climax
 algar patayin kredito
-
+algoritmo
 alicite palawit
 align disk aggro
 pagkakahanay pagkumpleto
@@ -875,7 +875,7 @@ lahat magkasama
 lahat katapusan ng linggo
 lahat2
 allergic reaksyon
-
+mga allergy
 alyansa
 alyansa embahador
 alyansa lobo
@@ -931,7 +931,7 @@ alyansa torneo eligibility pakawalan
 alyansa biswal
 alyansa nanalo
 
-
+payagan
 kaakit-akit
 kaakit-akit aura
 kaakit-akit perfume
@@ -972,7 +972,7 @@ Sige tapos
 din
 din gawin
 din2
-
+alt na karakter
 alt account
 alt karakter
 alt palakaibigan
@@ -1000,9 +1000,9 @@ binago kaldero lason
 binago anyo
 alternate kapangyarihan dagdagan
 alternating bukal
+bilang alternatibo
 
-
-
+bagaman
 alumeth's labi
 palagi
 palagi dito
@@ -1023,7 +1023,7 @@ ay
 ay ako patay
 amakkar's kidney putok
 amakkar's bulsa inumin
-
+amalgama
 amani labanan oso
 amani dragonhawk
 amani kapangyarihan
@@ -1090,7 +1090,7 @@ amberfly idolo
 ambermill mahikero baguhin
 amberseed patayin kredito
 amberstill depensa kredito
-
+kakayahan sa dalawang kamay
 kapaligiran bangkay angkla lumitaw
 kapaligiran bangkay gagamba lumitaw
 kapaligiran fx
@@ -1103,7 +1103,7 @@ tambang misyon kredito
 tinambangan
 tinambangan ni thisalee
 tinambangan kalagayan
-
+Amerika
 amatista sobrang karga
 amatista petrification
 amatista tubig
@@ -1112,7 +1112,7 @@ ammen lambak lashling
 bala
 bala kariton rockets
 amnennar's poot
-
+amnesya
 
 maibigin
 maibigin rooster
@@ -1134,7 +1134,7 @@ isang windfur kasama aura
 anachronos pangitain simulan
 anachronos pangitain musika
 Sobrang isip walang aksyon
-
+suriin nang mabuti
 
 anatomical manika
 ninuno pagkadi-nakikita
@@ -1163,7 +1163,7 @@ angkla dito bago
 angkla lubid
 angkla sa skulls
 angkla biswal
-
+nakaangkla
 
 sinaunang
 sinaunang amber
@@ -1229,13 +1229,13 @@ anduin's basag binti
 anemone kemikal pagkuha
 anemone isda tagapag-alaga
 anemone amoy ulap
-
-
-
+pampamanhid
+mga pampamanhid
+anghel
 angel ng kamatayan
 angelic muog
 angelic balahibo
-
+mga anghel
 galit
 galit sinag
 galit kampo susi
@@ -1293,20 +1293,20 @@ animation kanselahin
 bukong-bukong kagat
 bukong-bukong bitak
 anklet kasama ginto bells
-
+lipulin
 annihilate demonyo
-
+nilipol
 pagkalipol
+tagapuksa
 
-
-
+anibersaryo
 ihayag
 ihayag akkokoz lumitaw
 ihayag shoxtik lumitaw
 ihayag lagim lumitaw
 ihayag zul'farrak zombie
 announcer kontrol aura
-
+inis
 
 nakakainis
 nakakainis buzz
@@ -1325,11 +1325,11 @@ sagot hindi mali
 sagot oo tama
 sagot oo mali
 
-
-
+mga sagot
+langgam
 Kontrabida
 antechamber teleport
-
+himno
 anti mahika kabibe
 anti mahika sona
 anti-hangin kanyon
@@ -1351,8 +1351,8 @@ anti-personnel kanyon
 anti-pirata bomba
 anti-kamandag
 
-
-
+antibiotiko
+pag-asam
 anticipation ng digmaan
 antimagic pintig
 antlers ng malorne
@@ -1368,8 +1368,8 @@ anuniaq's lambat
 anveena enerhiya ubusin
 anveena's bilangguan
 palihan i-click manika
-
-
+pagkabalisa
+balisa
 anxious dagsa
 kahit ano
 anuman dps
@@ -1381,7 +1381,7 @@ anuman skips dito
 anuman tanks
 anuman tips para ito boss
 anuman tips para ito piitan
-
+kahit sino
 sinuman
 sinuman isang panday
 sinuman buhay
@@ -1394,11 +1394,11 @@ may tao ba
 Kahit ano
 kahit ano kaya mangyari
 Kahit ano bago
-
+kahit kailan
 kahit paano
 kahit paano2
 
-
+kahit saan
 
 aod espesyal
 aod espesyal - vegard
@@ -1417,7 +1417,7 @@ aoe pagsubok
 aoe ang adds
 hiwalay
 
-
+kawalang-interes
 apexis kristal pagbuhos
 apexis emanations
 apexis kaliwanagan
@@ -1426,7 +1426,7 @@ apexis paghihiganti
 apexis pagtawag
 apexis vibrations
 
-
+apokalipsis
 apollo's tali
 
 apothecary's nasusunog tubig
@@ -1434,7 +1434,7 @@ apothecary's lason
 apparatus ng khaz'goroth
 
 apparently sila sabihin
-
+mga multo
 
 
 appearance - horde mangkukulam
@@ -1446,7 +1446,7 @@ mansanas durugin
 mansanas nahuhulog sa lupa
 mansanas-berry hooch
 apples sa oranges
-
+aplikante
 ilapat
 ilapat anemone chemicals
 ilapat argent kabayo
@@ -1493,7 +1493,7 @@ applying ang pain
 pahalagahan
 pahalagahan ito
 pahalagahan ang anyayahan
-
+nadakip
 aprentis
 aprentis alchemist
 aprentis arkeologo
@@ -1795,7 +1795,7 @@ pamamana target manika sakay sasakyan
 pamamana target manika sasakyan itala
 archimonde apoy
 archimonde's kadiliman
-
+pang-arkibo
 archivist's emblema
 
 archmage altaeric baguhin
@@ -1922,13 +1922,13 @@ argent karunungan
 Mas maganda nga siguro
 maaaring ang pinakamahusay
 maaaring ang pinakamasama
-
+makipagtalo
 pagtatalo
 argus anino mahikero baguhin
 argus' talaarawan
 
 aria ng masama luckydo
-
+bumangon
 arlokk baguhin
 braso
 braso patay pinsala kologarn
@@ -1939,13 +1939,13 @@ braso shado-pan tusok bitag
 braso walisin
 braso ikaw mismo
 armadillo tuta
-
+armagedon
 armed at delikado
 pag-aarmas lupa minahin
 pag-aarmas biswal kahel
 pag-aarmas biswal pula
 pag-aarmas biswal dilaw
-
+tigil-putukan
 armoire kamera
 armoire di-nakikita
 baluti
@@ -1974,8 +1974,8 @@ nakabaluti pula dragonhawk
 nakabaluti skyscreamer
 nakabaluti Maniyebe gryphon
 nakabaluti titanium salamin
-
-
+mga baluti
+panday ng baluti
 braso
 braso likod likod
 braso mandirigma
@@ -1988,15 +1988,15 @@ arngrim's ngipin
 aronus custom sakay
 paligid
 paligid tatlumpu
-
-
+ayusin ang pagkakasunod
+arestuhin
 arrest kultista
 pagdating
 pagdating ng ang naaru
 
 
-
-
+kayabangan
+mayabang
 palaso
 palaso pagsalakay
 palaso channel kono pagsubok
@@ -2100,13 +2100,13 @@ Sa lalong madaling panahon
 asaq conversation kredito
 
 ascend sa ang langit
-
+pangingibabaw
 ascendant hampas
 pag-akyat
 abo
 abo elemental lumitaw
 abo bagyo
-
+nahihiya
 ashbringer
 ashbringer buzzsaw
 ashbringer vo
@@ -2174,8 +2174,8 @@ aspeto ng thekal
 aspeto ng venoxis
 aspeto yugto orasyon
 aspeto
-
-
+sakalin
+pagkasakal
 pwet
 puwit payaso
 umaatake putok ng pana
@@ -2194,7 +2194,7 @@ ng mamamatay-tao saplot
 ng mamamatay-tao paningin
 ng mamamatay-tao paningin pampaganda
 ng mamamatay-tao gumapang
-
+paslangin
 assassinate magpahingamas kaunti lookout
 pagpaslang
 pagpaslang kaganapan simulan
@@ -2224,11 +2224,11 @@ Takdang-aralin
 tulong
 tulong kampeon
 tulong ang tank
-
+katulong
 
 Kung sakaling
-
-
+asteroyd
+hika
 
 astral pagkakahanay
 astral baluti
@@ -2290,13 +2290,13 @@ atal'ai lason
 atal'ai kalansay totem
 kumain na
 kumain at kaliwa hindi crumbs
-
+atletika
 atiesh biswal
 
-
+pagbabayad-sala
 atrophic suntok
 atrophic lason
-
+pagkasayang ng kalamnan
 ikabit baterya 1
 ikabit baterya 2
 ikabit kanyon bola 1
@@ -2468,7 +2468,7 @@ attacked manlalaro
 umaatake pagalingin sipsipin bug
 umaatake lamang kaliwa
 umaatake sa ako
-
+umaatake
 attacking manlalaro
 pagtatangka
 
@@ -2477,8 +2477,8 @@ pansin
 pansin saklaw
 pansin saklaw pagkawala
 pansin saklaw nawala
-
-
+nagpapahina
+pagpapahina
 ugali
 akitin
 akitin eel
@@ -2498,12 +2498,12 @@ naka-tono sa kalikasan 10 dose pagbawas
 naka-tono sa kalikasan 2 dose pagbawas
 naka-tono sa kalikasan 25 dose pagbawas
 pagtutono sa ang ubod
-
+umaayon
 Paalam
 subasta
 subasta bahay
 
-
+ugh
 palakasin sakit
 palakasin rune
 palakasin paningin
@@ -2576,7 +2576,7 @@ mahigpit earthsiege brilyante
 mahigpit primal brilyante
 mahigpit anino brilyante
 Australya
-
+awtor
 auto atake
 auto apoy
 auto lumaki
@@ -2587,7 +2587,7 @@ Auto translate
 auto tungkod
 auto-ayusin
 Autobiograpiya
-
+awtomatikong kanyon
 
 Kasalanan ng autocorrect
 autokill lawin
@@ -2607,7 +2607,7 @@ avatar ng kawalan ng pag-asa
 avatar ng liyab
 avatar ng hakkar ay tinawag
 avatar ng jade
-
+ipaghiganti
 tagapaghiganti paghatol bonus
 ng tagapaghiganti kalasag
 ng tagapaghiganti trillium panangga sa binti
@@ -2625,7 +2625,7 @@ iwasan ito
 iwasan ang sinag
 iwasan ang sinag
 iwasan ang mekaniko
-
+maiiwasan
 
 avoidance ng ang ahas
 avruu's bilog
@@ -2699,7 +2699,7 @@ axis model - kaban dugo likod
 aynasha palaso
 aynasha pana
 aynasha ugat
-
+yo
 aysa binabati kita timer
 aysa bumagsak barko tagapag-alaga aura
 aysa tagapag-alaga aura
@@ -2752,7 +2752,7 @@ sanggol paligo
 sanggol pampalasa
 babysitting raptor
 
-
+mga binata
 likod
 likod at forth
 likod sa ang simula muli
@@ -2789,14 +2789,14 @@ likod sa ang pangunahing puntos parirala
 likod sa ang puntos
 Balik bukas
 likod pataas
-
-
+sakit sa likod
+pambali ng likod
 
 sumabog
 background aura
 likodkamay
 
-
+pagbalik
 backpack
 backpack kalagayan
 backpack biswal
@@ -2805,9 +2805,9 @@ backslash pagtutok
 likodsaksakin
 backup
 backup mananalakay
+paatras
 
-
-
+bakterya
 masama
 masama pwet
 masama ugali
@@ -2839,13 +2839,13 @@ masama panahon
 masama winner
 masama2
 masama3
-
+masamang tao
 tsapa ng kypari zar
 tsapa ng ang tagapagtanggol
 tsapa ng ang swarmguard
 badger medalyon
 
-
+nang masama
 
 bael'gar's maapoy esensya
 baelog's valhalla putok
@@ -2862,8 +2862,8 @@ pain ito dito
 pain orca
 pain ang boss
 pain sila
-
-
+nagpapain
+maghurno
 bake mulgore pampalasa tinapay
 inihurno manta sinag
 inihurno rockfish
@@ -2921,7 +2921,7 @@ balnazzar baguhin
 balnazzar baguhin tulala
 
 bambina's paghihiganti
-
+naloko
 
 ban ito
 ban taunts isang mogu
@@ -2949,8 +2949,8 @@ banda ng ang walang hanggan restorer
 banda ng ang walang hanggan sage
 banda ng tapang
 benda
-
-
+nabendahan
+pagbebenda
 bandaito ay guile
 bandit's insignia
 salot
@@ -2974,7 +2974,7 @@ itaboy sarili
 itaboy kalagayan malaki dilaw
 itaboy kalagayan maliit dilaw
 itaboy thundering pagkakatapon
-
+ipinatapon
 banished mula shattrath lungsod
 pagpapatapon
 pagpapatapon ng kaliskis
@@ -3005,7 +3005,7 @@ banshee banta
 
 banshee's mahika salamin
 banshee's kalasag
-
+biruan
 bar
 baradin paggaling inumin
 baradin hawakan closure babala
@@ -3031,7 +3031,7 @@ tinik karayom
 tinik lambat
 tinik putok
 tinik kagat
-
+mga tinik
 halos hindi
 halos hindi buhay
 Muntik na hindi umabot
@@ -3070,9 +3070,9 @@ bariles ng isda sa likod
 bariles sarado
 bariles pagtutok
 bariles ihagis
-
+humaharurot
 barreled kontrol aura
-
+mga bariles
 barrens mamukadkad
 barrens bilis
 barrens toughness
@@ -3082,7 +3082,7 @@ harang channel
 harang ng liwanag
 harang tindig
 barrrage ng apoy
-
+pakikipagpalitan
 
 
 base kampo marka
@@ -3301,7 +3301,7 @@ hayop pagsubaybay
 beast's marka
 beastcaller ihagis
 hayop baraha
-
+mamamatay ng hayop
 talunin
 talunin isang patay kabayo
 talunin pababa
@@ -3319,7 +3319,7 @@ dahil
 dahil ng
 beckon ng anachronos
 beckon pabo
-
+kumaway
 
 maging
 maging boss anino
@@ -3329,8 +3329,8 @@ maging stormwind harbor tagapagtanggol
 maging2
 kama
 
-
-
+bubuyog
+karne ng baka
 beehive kalagayan
 naging
 naging isang habang
@@ -3347,7 +3347,7 @@ serbesa basted baboy-ramo tadyang
 serbesa paghahatid
 serbesa salamin
 serbesa-basted buwaya
-
+salagubang
 beetle lungga
 
 bago
@@ -3370,7 +3370,7 @@ simulan namuong hamog hininga atake
 simulan korrah's tour
 beginner palakaibigan
 simula
-
+linlangin
 behemoth salakay
 likod
 likod sa episodes
@@ -3391,7 +3391,7 @@ Maniwala ka sa sarili mo
 maniwala ito o hindi
 maniwala ako
 maniwala kami kaya manalo
-
+naniwala
 
 kampana
 kampana channel
@@ -3402,7 +3402,7 @@ tiyan pagsabog
 tiyan harangin
 tiyan expelly
 tiyan flop
-
+mapabilang
 ibaba
 Below freezing
 ibaba sero
@@ -3425,11 +3425,11 @@ sinturon ng ang titan
 bangko
 bangko ang manlalaro
 bangko warmer
+naupo sa bangko
 
-
-
-
-
+pagbabasbas
+pakinabang
+mga benepisyo
 nagwawala
 nagwawala vo pumutok
 berserker aura
@@ -3452,7 +3452,7 @@ berzerker apoy pagsabog
 besalt kuneho orasyon tagalikha
 beseech basbas
 
-
+kubkubin
 pinakamahusay
 pinakamahusay kaso senaryo
 pinakamahusay deals anywhere
@@ -3482,7 +3482,7 @@ bestial sigaw
 bestial pagmamalaki
 bestial atungal
 bestial poot
-
+matalik na kaibigan
 bestie kilos
 bestow dugo
 pagkakaloob ng angerforge
@@ -3493,7 +3493,7 @@ pagkakaloob ng ironstar
 pagkakaloob ng moltenfist
 pagkakaloob ng shadowforge
 pagkakaloob ng thaurissan
-
+pusta
 
 beta lalaki
 bethekk's basbas
@@ -3529,9 +3529,9 @@ bfgc kumpleto
 bg pumutok
 bg reprospuwersa - ondeath proc aura
 
-
+pagkiling
 bisikleta
-
+tawad
 bidding ginto
 malaki
 malaki sanggol
@@ -3641,8 +3641,8 @@ gapos ng kidlat reflexes
 gapos ng pagpapasakop
 binge nanonood
 bio basagin
-
-
+talambuhay
+biyolohiya
 
 
 bipsi's guwantes
@@ -3661,11 +3661,11 @@ kaarawan
 kaarawan keyk
 Handaan sa kaarawan
 birthing liyab
-
+pinakamahusay na gear
 bis kagamitan
 puta
-
-
+pagrereklamo
+masungit
 
 kagat
 kagat knut
@@ -3907,7 +3907,7 @@ blanche boomer inumin kapangyarihan bar
 blanche boomer inumin kapangyarihan pindutan
 blanche eliksir ng replenishment
 blanched karayom kabute
-
+kumot
 pagsabog
 pagsabog nova
 pagsabog ng hangin
@@ -3919,7 +3919,7 @@ pagsabog alon
 pagsabog-brewed
 blastbarrel tripulante pundasyon
 
-
+sinabog
 blasted lumalapag
 blasterboot talon 01
 blasterboot talon 02
@@ -4023,7 +4023,7 @@ pinagpala trillium sinturon
 pinagpala trillium greaves
 pinagpala sandata coating
 pinagpala salamangkero langis
-
+pagpapala
 basbas
 basbas ng a'dal
 basbas ng aessina
@@ -4149,9 +4149,9 @@ bulag bantay
 bulag lugar
 bulag hampas
 bulag batang dragon
-
+nabulag
 blinded ni galit
-
+piring
 blindfold larawan
 nakakasilaw dumi
 nakakasilaw alikabok
@@ -4166,7 +4166,7 @@ nakakasilaw kuyog
 nakakasilaw lason
 nakakasilaw sapot
 bulaggilid
-
+nabigla
 
 blingtron musika
 kurap
@@ -4248,8 +4248,8 @@ harangin halaga 93
 harangin2
 blockade pagsabog kuneho - apoy
 blockade pagsabog kuneho - tubig
-
-
+naharang
+pagharang
 blonde nakasakay yak
 dugo
 dugo at kulog
@@ -4362,7 +4362,7 @@ dugo tigre panangga sa dibdib
 dugo tigre balikat
 dugo uod
 dugo-soaked invitation
-
+madugong labanan
 bloodbath pindutan
 bloodbathed frostbrood tagalupig
 
@@ -4422,7 +4422,7 @@ duguan wyrmhide guwantes
 duguan wyrmhide helmet
 duguan wyrmhide binti
 duguan wyrmhide balikat
-
+pagpapadugo
 bloodlord's aura
 uhaw sa dugo
 uhaw sa dugo kalagayan
@@ -4461,7 +4461,7 @@ bloodstone
 bloodstone banda
 bloodstone teleport
 dugobagyo
-
+daluyong ng dugo
 bloodtalon inakay aura
 bloodtalon pito
 uhaw sa dugo
@@ -4548,7 +4548,7 @@ uhaw sa dugo wyrmhide balikat
 
 
 
-
+lason ng dugo
 bloodvine bota
 bloodvine salamin
 bloodvine pantalon
@@ -4581,7 +4581,7 @@ madugo pagpapakamatay
 madugo tubig pampaganda
 mamukadkad
 mamukadkad buwan lotus
-
+namumulaklak
 bulaklak
 bulaklak pagtutok
 namumukadkad sinaunang
@@ -4703,7 +4703,7 @@ bluetip medalyon
 pagsisinungaling
 pagsisinungaling misyon kredito
 Prangka
-
+labo
 blurred bilis
 blurring hiwa
 blushleaf latak
@@ -4733,7 +4733,7 @@ bangka pagtutok manika
 bangka teleport
 bobbing para apples
 bodacious pinto knocker
-
+tinalo nang husto
 bodily linisin
 katawan
 katawan at kaluluwa
@@ -4742,7 +4742,7 @@ katawan ng bato
 katawan hilahin
 katawan bagsak
 katawan ilipat
-
+suntok sa katawan
 
 bog latigo
 bogblossom tulak
@@ -4779,7 +4779,7 @@ matapang matingkad na pula rubi
 matapang ng ahas mata
 
 
-
+pagpapatibay
 bolstering presensya
 kidlat
 kidlat salakay dawag
@@ -4871,8 +4871,8 @@ buto-puti primal raptor
 bonechewer kagat
 bonechewer bulok
 bonechilling blizzard
-
-
+pambali ng buto
+gilingan ng buto
 bonereaver's gilid
 buto ng bwonsamdi
 buto ng bwonsamdi aura
@@ -4880,7 +4880,7 @@ buto ng pagbabago
 bonescythe bracer
 bonescythe panangga sa dibdib
 bonescythe kaban
-
+tinik ng buto
 
 siga pagbabalatkayo
 siga superbuff
@@ -4898,7 +4898,7 @@ bonus igulong
 bonus igulong pagsubok
 bonus runic kapangyarihan
 bony baluti
-
+suso
 boogaloo pagsabog
 aklat
 libro artifact
@@ -4911,7 +4911,7 @@ libro ng bituin
 libro ng kaligtasan
 libro ng ang ages
 
-
+naka-bookmark
 aklattindahan
 pagsabog
 pagsabog bota
@@ -4935,7 +4935,7 @@ biyaya ng buhay
 biyaya ng ang loa
 palakas
 dala lang
-
+mga booster
 boosting serbisyo
 bota heel kasama scrollwork
 bota sa ang ulo
@@ -4957,8 +4957,8 @@ bota ng bigkasin kadiliman
 bota ng wintry tibay
 
 booze lumura
-
-
+binatukan
+hangganan ng bansa
 borderline posible
 inipin
 borean baluti kit
@@ -4969,7 +4969,7 @@ naiinip
 naiinip ng laro
 borer barena
 nakakabore
-
+humiram
 hiniram walis
 hiniram oras
 boss
@@ -5195,7 +5195,7 @@ lumulundag kidlat
 lumulundag kidlat bounced
 lumulundag kidlat pumutok
 lumulundag salakay
-
+matalbog
 nakatali
 nakatali liyab
 nakatali servant
@@ -5213,11 +5213,11 @@ bounty ng ang ani
 pana
 pana sa ako
 mangkok
-
+mga mangkok
 bowmen manika
 
 bowmen lumalamon mantis
-
+mga pana
 putok ng pana
 putok ng pana epekto liyab patch
 kahon
@@ -5226,7 +5226,7 @@ boxed pagsabog pagsabog
 Boksing
 lalaki
 lalaki2
-
+nobyo
 
 
 bracelet ng jade at coins
@@ -5281,13 +5281,13 @@ brann paglipad yugto marka
 brann kalusugan tagasuri
 brann senyales sa sarili
 brann baguhin
-
+kayabangan sa tapang
 matapang
 brave's sinag
 brave's sinag epekto
 bravo kumpanya pagsahimpapawid
 bravo kumpanya bukid kit
-
+away
 brawl boss manalo kontra
 basagulero pagsabog
 basagulero bahagi 00
@@ -5391,7 +5391,7 @@ hininga ng sargeras
 hininga ng ang itim prinsipe
 hininga ng ang dragon
 hininga ng y'shaarj
-
+huminga
 breathe malalim
 paghinga Ehersisyo
 paghinga apoy
@@ -5493,7 +5493,7 @@ brewfest toast
 brewfestive pista sasakyan
 
 timplahelmet
-
+pagtitimpla
 brewing biswal
 brewmaiden mawala kontrol aura
 brewmaiden spotlight
@@ -5512,7 +5512,7 @@ brewmoon Pistang teleport
 
 
 brianna's experimental orasyon
-
+suhol
 tulay
 tulay kaganapan
 bridges nasunog
@@ -5608,13 +5608,13 @@ tol tiwala
 tol ano
 tol2
 pagsahimpapawid kristal mensahe
-
+pambobomba sa gilid
 brogg's totem
 inihaw bloodfin
 inihaw dragon handaan
 inihaw bundok trout
 broiling lava aura
-
+walang pera
 broke ang itala
 basag
 basag bilang impyerno
@@ -5705,12 +5705,12 @@ kayumanggi ahas
 kayumanggi lobo
 
 bruh sandali
-
+pasa
 bruiser natutulog
 bruising suntok
 brunnhildar pagbabalatkayo
 brunnhildar pre-pagpapalabas
-
+sipilyo
 sunog
 sunog sunugin aura
 sunog nasunog lugar visualization
@@ -5768,7 +5768,7 @@ bula iwisik
 bula bitag kamatayan aura
 bula pataas
 
-
+nakabula
 bula
 bumubula
 bumubula amber
@@ -5778,7 +5778,7 @@ bumubula inumin
 bumubula halo
 bumubula uhog
 bumubula pus
-
+mabula
 bubbly pampalamig
 buck kaliwa babala
 buck kanan babala
@@ -5787,7 +5787,7 @@ timba ulo
 timba lumalapag
 timba listahan
 timba ng meaty aso pagkain
-
+nagsisipa
 budd manika 01
 budd tulak
 budd nedreck - ihagis botelya
@@ -5850,7 +5850,7 @@ gusali apoy
 gusali bilis
 gusali bilis epekto
 gusali bilis pumutok
-
+mga build
 
 bulging bag ng charms
 bulging ng basagulero purse
@@ -5878,7 +5878,7 @@ bungie talon 01
 kuneho pagsunog
 kuneho sakay sasakyan
 
-
+boya
 
 burd sticker epekto
 pasanin ng kawalang-hanggan
@@ -6033,7 +6033,7 @@ nasusunog sugat
 nasusunog poot
 
 burnt puno biswal
-
+dumighay
 lungga
 lungga atake
 lungga palayo
@@ -6045,7 +6045,7 @@ lungga kredito sa amo
 lungga sa sa paghahari puntos
 lungga paghahanda
 lungga biswal
-
+naghuhukay
 pagputok
 pagputok sa ang seams
 pagputok pinsala
@@ -6067,7 +6067,7 @@ pagputok ng liwanag
 pagputok ng bilis
 pagputok ng bilis - permanent
 pagputok shoot
-
+pumuputok
 bursting pagmamalaki
 bursting binhi
 buru baguhin
@@ -6077,7 +6077,7 @@ ilibing samuel's labi
 ilibing ang hatchet
 
 bus tigil
-
+palumpong
 
 
 
@@ -6092,9 +6092,9 @@ butcher biyakin
 butcher ubusin
 
 
-
-
-
+puwit
+mantikilya
+paru-paro
 pindutan 1
 pindutan 10
 pindutan 2
@@ -6118,7 +6118,7 @@ buying isang takbo
 
 buzzard kagat
 buzzer sapilitang paggawa
-
+lagari
 bwemba pagsahimpapawid
 bwemba's tulong
 bwonsamdi buto dot
@@ -6144,7 +6144,7 @@ c'est la vie mahaba
 
 caber epekto
 caber ihagis
-
+halakhak
 
 cackling alulong
 bangkay collage hover
@@ -6152,11 +6152,11 @@ bangkay tulala
 bangkay ihagis
 bangkay uod
 
-
+kapihan
 hawla hulihin pagkawala ng ilaw aura
 hawla bitag
 hawla bitag - tawagin
-
+nakakulong
 
 caimas paganahin itlog
 caimas pana-panahon
@@ -6164,13 +6164,13 @@ cairne pyre kredito
 
 keyk
 caladis brightspear pagkadi-nakikita
-
+kalamidad
 calcinder apoy biswal
+kalkulahin
 
-
-
+kinalkula
 calculated pagalingin
-
+kalkulasyon
 
 caledis's pagbabalatkayo
 calen humanoid baguhin
@@ -6355,7 +6355,7 @@ tawag workers
 tawag wyrmrest tagalupig
 tawag xink's pandurog
 tawag2
-
+tinawag
 Sabi ko na nga ba
 tawag blaithe
 tawag para hangin suporta
@@ -6370,7 +6370,7 @@ tawag ang ibon
 tawag ang karaban
 tawag wildhammer gryphon mananakay
 tawag punasan
-
+kalupitan
 tawag
 tawag para tulong
 kalmado
@@ -6384,8 +6384,8 @@ kalmado repleksyon
 kalmado ang bagyo
 calming pababa
 calming awit ng ang mang-aawit
-
-
+kaloriya
+dumating na
 came mula wala
 kamelyo estatwa orasyon epekto
 kamelyo durugin
@@ -6616,17 +6616,17 @@ kanselahin whirly-hangin tagapag-alaga aura
 kanselahin wrynn aura
 kanselahin zazzo's auras
 kanselahin sona aura
+kinansela
 
 
-
-
+kandidato
 candied matamis potato
 kandila
 kandila pagsabog
 
 canh's kayamanan
 canned init
-
+kanibalisahin
 cannibalize karne biswal
 cannibalize biswal
 kanyon
@@ -6683,7 +6683,7 @@ limitasyon ng ang hilaga
 limitasyon ang bandila
 limitasyon ang node
 limitasyon iyong tama
-
+may kakayahan
 
 kapasitor paglabas
 kapasitor sobrang karga
@@ -6739,7 +6739,7 @@ nabihag totem kredito amo
 nabihag totem pana-panahon
 nabihag mabangis kamelyo
 nabihag yak
-
+nanghuhuli ng
 
 
 kotse

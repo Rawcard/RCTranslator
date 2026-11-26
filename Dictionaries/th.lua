@@ -101,15 +101,15 @@ abacus ของ violent odds
 ละทิ้ง การทดสอบ
 ละทิ้ง ยานพาหนะ
 ละทิ้ง ยานพาหนะ เปิด poly
-
+ถูกทิ้ง
 abandoned bloodwash ลัง สังหาร เครดิต
-
+ความผิดเพี้ยน
 ความสามารถ
 ความสามารถ
 ความสามารถ ตัวควบคุม
 
-
-
+การชำระล้าง
+พิธีล้าง
 aboard ที่ krom'gar wagon
 abolish พิษ
 abom เครดิต
@@ -131,7 +131,7 @@ abort ภารกิจ
 เหนือ น้ำ
 เหนือ ศูนย์
 
-
+ขาด
 
 
 
@@ -150,8 +150,8 @@ absolute ศูนย์
 
 absolutely มึนงง
 
-
-
+การอภัยบาป
+ยกโทษ
 ดูดซับ
 ดูดซับ anima
 ดูดซับ เลือด
@@ -183,7 +183,7 @@ absolutely มึนงง
 absorbed เลือด
 
 absorption โล่
-
+ไร้สาระ
 abuse มัน
 นรกลึก กระเป๋า
 นรกลึก clam
@@ -201,14 +201,14 @@ abuse มัน
 นรกลึก จู่โจม
 นรกลึก โยน
 นรกลึก transformation
-
-
+เร่ง
+ถูกเร่ง
 
 accelerated สวรรค์ ผ้า
 accelerated hardened magnificent ซ่อน
 
 
-
+ความเร่ง
 
 ยอมรับ
 ยอมรับ มัน
@@ -220,16 +220,16 @@ accelerated hardened magnificent ซ่อน
 accepted ที่ เชิญ
 accepting ฟื้นคืนชีพ
 accepting วิญญาณ ฮีลเลอร์
-
+การเข้าถึง
 access ควบคุม console
+การปรับตัวกับสภาพ
 
-
-
+ตามที่
 according ไป
 according ไป ที่ guide
 
 
-
+ความแม่นยำ
 
 
 
@@ -307,10 +307,10 @@ aching กระดูก
 เป็นกรด จู่โจม
 เป็นกรด sweat
 เป็นกรด บาดแผล
-
+ลูกโอ๊ก
 
 acorn โยน
-
+ได้มาแล้ว
 acquiring เป้าหมาย
 acrid พายุ
 
@@ -393,19 +393,19 @@ activating ที่ beacon
 ใช้งาน แชท
 ใช้งาน tile
 
-
-
+นักแสดงหญิง
+แท้จริง
 actual ความเสียหาย
 actual ดาเมจ
 actual การรักษา
-
+จริงๆ แล้ว
 
 
 
 actually ไม่ ไม่ดี
 
-
-
+การฝังเข็ม
+โฆษณา
 adam ทดสอบ
 
 adamantite ลูกธนู maker
@@ -423,9 +423,9 @@ adamantite เกราะโลหะ ถุงมือ
 adamantite sharpening หิน
 adamantite อาวุธ โซ่
 
-
-
-
+ปรับตัว
+การดัดแปลง
+ที่ปรับตัวได้
 adaptive อุปกรณ์
 adaptive ป้องกัน
 adarrah ฟองอากาศ
@@ -459,12 +459,12 @@ adarrah's ลมหายใจ
 เพิ่ม อัญเชิญ ภาพ
 เพิ่ม ไป participating percentage
 addicted ไป นี้ เกม
-
+เพิ่มเติม
 
 ปลั๊กอิน
 ปลั๊กอิน word
-
-
+แอดออน
+ที่อยู่ติดต่อ
 address ที่ issue
 ศัตรูเสริม
 ศัตรูเสริม กำลังมา
@@ -481,40 +481,40 @@ adept's ยาอายุวัฒนะ
 
 adjules chow เวลา
 adjunct sha ปรากฏ ภาพ
-
+ปรับ
 
 adjust ที่ gears
 
 admiral's หมวก
-
-
+ชื่นชม
+ยอมรับผิด
 
 adopt หนึ่ง puppy
-
-
+น่ารัก
+เป็นที่ชื่นชอบ
 adorned sceptre บอส emote
 adornment ของ shells
-
+อะดรีนาลีน
 adrenaline ระเบิด
 adrenaline พุ่ง
 
-
+รุกคืบ
 advance ไป step 3
-
+ขั้นสูง
 advanced deepdive หมวกเกราะ
 
 advanced เป้าหมาย หุ่นฝึก
 advanced เป้าหมาย หุ่นฝึก - อีเวนต์ 003
 advanced เป้าหมาย หุ่นฝึก พาสซีฟ
 advanced เป้าหมาย หุ่นฝึก ปรากฏ เอฟเฟกต์
-
-
-
+ข้อได้เปรียบ
+ข้อดี
+การผจญภัยครั้งนี้
 
 adventurer's พุ่ง
+ชอบผจญภัย
 
-
-
+คำแนะนำดีๆ
 advice prevention ออร่า
 ae เครื่องราง
 ae mirror ไอเทม เลเวล
@@ -540,7 +540,7 @@ aeonaxx ตก animation
 aeonaxx whelp ความเสียหาย reduction ออร่า
 aeonaxx whelp อัญเชิญ
 aeosera สังหาร เครดิต
-
+ทางอากาศ
 aerial จู่โจม auto-load
 
 aerial กระโดด
@@ -550,23 +550,23 @@ aerialist's เตะออก
 
 aery วิญญาณ ถูกยึด
 aery วิญญาณ ถูกยึด เครดิต
-
+สุนทรียะ
 aetha สังหาร เครดิต
 aether ระเบิด
 aether โล่
 
-
-
-
+เท่าที่รู้
+ยืนยัน
+คำต่อท้าย
 affixes นี้ สัปดาห์
 affliction พ่อมด
-
+มีเงินพอ
 ไม่อยู่
 ไม่อยู่ ตรวจสอบ
 ไม่อยู่ การฟาร์ม
 
 
-
+แอฟริกา
 หลังจาก
 หลังจาก หนึ่ง พัน tries
 หลังจาก ทั้งหมด
@@ -578,10 +578,10 @@ affliction พ่อมด
 หลังจาก คุณ
 หลังจาก-market burners
 หลังจากเผา
-
+เครื่องเผาไหม้ท้าย
 หลังจากชีวิต
 
-
+ตอนบ่าย
 หลังจากช็อก
 
 อีกครั้ง
@@ -593,7 +593,7 @@ affliction พ่อมด
 agamaggan's ความคล่องตัว
 agamaggan's พลัง
 
-
+อายุ
 age ของ
 aged dalaran คม wheel
 agent townsley เครดิต
@@ -601,7 +601,7 @@ agent townsley เครดิต
 aggra เทเลพอร์ต
 
 aggresive กระโดด
-
+ก้าวร้าว
 
 aggressive พิษ
 ดึงความสนใจ
@@ -624,7 +624,7 @@ aggressive พิษ
 ดึงความสนใจ thrall
 ดึงความสนใจ ขยะ
 
-
+คล่องแคล่ว
 
 agile สมาธิ
 agile ดึกดำบรรพ์ เพชร
@@ -640,7 +640,7 @@ agile shadowspirit เพชร
 ความคล่องตัว viii
 
 Icefang Prep Aura
-
+ที่แล้ว
 agogridon สังหาร เครดิต
 agonizing เกราะ
 agonizing เปลวไฟ
@@ -650,21 +650,21 @@ agonizing จู่โจม
 agony และ anima
 agony และ torment
 agony ของ ที่ ล่มสลาย cultist
-
-
+เห็นด้วย
+ตกลงแล้ว
 ดึงความสนใจ drones
 ดึงความสนใจ protectors
 ดึงความสนใจ protectors ออร่า
 ดึงความสนใจ protectors script
-
-
+อา
+อ๋อ
 
 
 ข้างหน้า
 ข้างหน้า ของ ของเขา เวลา
 ข้างหน้า ของ ที่ curve
 ข้างหน้า ของ ของคุณ เวลา
-
+อ๊ะ
 ahh โอเค
 ahn'kahet brazier เอฟเฟกต์
 ahn'kahet brazier สังหาร เครดิต
@@ -703,7 +703,7 @@ aid ของ ที่ frostwolf กล้อง
 เล็ง สำหรับ
 เล็ง ของ ที่ เหล็ก dwarves
 เล็ง ไป บาดแผล
-
+ใช้โปรแกรมเล็ง
 aimed ยิง
 อากาศ
 อากาศ ระเบิด
@@ -732,13 +732,13 @@ aimed ยิง
 อากาศ vent
 อากาศ เครื่องราง
 อากาศ-ไป-อากาศ rockets
-
+แอร์บีเอ็นบี
 
 
 airdrop หนึ่ง นักบวช
+เครื่องบินโดยสาร
 
-
-
+สนามบิน
 airport ธง neutral click
 airship ปืนใหญ่
 
@@ -755,7 +755,7 @@ airship เทเลพอร์ต
 airy วิญญาณ
 aiyu ภาพ ออร่า
 ak ทดสอบ
-
+หรือที่รู้จักว่า
 akali's ภูมิคุ้มกัน
 akali's ritual ของ annihilation
 akali's ทำให้มึน
@@ -773,9 +773,9 @@ al'chukla เครดิต
 al'chukla ฟ้าผ่า ลูก
 al'chukla ฟ้าผ่า มือ
 alabaster โล่
-
+ความว่องไว
 alacrity ของ ที่ elements
-
+สัญญาณเตือน
 alarm went ปิด
 
 albatross พุ่งชาร์จ
@@ -784,7 +784,7 @@ albino มังกร
 albino การขี่ นกกระเรียน
 albino งู
 
-
+อัลบั้มเพลง
 alcaz island สำรวจ
 alcaz สำรวจ ออร่า
 alcaz สำรวจ เครดิต
@@ -824,11 +824,11 @@ alexstrasza's ของขวัญ ลำแสง
 alexstrasza's ของขวัญ ภาพ
 
 
-
+สาหร่าย
 algalon อีเวนต์ ลำแสง
 algalon อีเวนต์ ลำแสง climax
 algar สังหาร เครดิต
-
+อัลกอริทึม
 
 align disk ดึงความสนใจ
 
@@ -875,7 +875,7 @@ alignment skybox เอฟเฟกต์
 ทั้งหมด weekend
 ทั้งหมด2
 
-
+ภูมิแพ้
 พันธมิตร
 พันธมิตร ambassador
 พันธมิตร balloon
@@ -932,7 +932,7 @@ alignment skybox เอฟเฟกต์
 พันธมิตร wins
 พันธมิตร
 
-
+ยั่วยวน
 alluring ออร่า
 
 alluring perfume พ่น
@@ -953,16 +953,16 @@ alluring perfume พ่น
 เกือบ ที่นั่น
 เกือบ worked
 เกือบ2
+คนเดียว
 
 
-
-
+อัลฟา
 
 alpha จางหาย ออก
 
 alpha ตนเอง
 alpha จู่โจม
-
+แล้ว
 already เสร็จ
 already invested ดังนั้น มาก
 already ที่นั่น
@@ -972,7 +972,7 @@ alright แล้วก็
 ด้วย
 ด้วย ทำ
 ด้วย2
-
+ตัวละครรอง
 
 alt ตัวละคร
 
@@ -1000,9 +1000,9 @@ altered อสูรกาย
 altered ร่าง
 alternate พลัง increase
 alternating น้ำพุร้อน
+อีกทางหนึ่ง
 
-
-
+แม้ว่า
 
 เสมอ
 เสมอ ที่นี่
@@ -1023,7 +1023,7 @@ alysrazor เริ่ม สเปล
 am ฉัน ตาย
 amakkar's kidney ยิง
 amakkar's pocket ยา
-
+ส่วนผสมผสาน
 amani การต่อสู้ หมี
 
 amani พลัง
@@ -1090,20 +1090,20 @@ amberfly รูปเคารพ
 ambermill จอมเวทย์ แปลงร่าง
 amberseed สังหาร เครดิต
 amberstill การป้องกัน เครดิต
-
+ความถนัดสองมือ
 ambient ศพ anchor ปรากฏ
 ambient ศพ แมงมุม ปรากฏ
 
-
-
+ทะเยอทะยาน
+ซุ่มโจมตี
 ambush สะอาด-บน หายไป
 ambush อีเวนต์ กระตุ้น
 ambush override ออร่า
 ambush เควส เครดิต
-
+ถูกซุ่มโจมตี
 ambushed โดย thisalee
 ambushed สถานะ
-
+อเมริกา
 amethyst โหลดเกิน
 
 
@@ -1112,13 +1112,13 @@ ammen หุบเขา lashling
 
 
 amnennar's พิโรธ
+ความจำเสื่อม
 
+เจ้าชู้
 
-
-
-
-
-
+จำนวน
+การขยายเสียง
+เครื่องขยายเสียง
 amplify ความเสียหาย
 amplify เปลวไฟ
 amplify เวทมนตร์
@@ -1134,8 +1134,8 @@ amulet ของ truesight
 
 
 
-
-
+วิเคราะห์
+คำสาปแช่ง
 anatomical หุ่นฝึก
 ancestor ล่องหน
 ancestor ภาพ
@@ -1163,7 +1163,7 @@ anchor ที่นี่ ใหม่
 
 anchor ไป skulls
 anchor ภาพ
-
+ทอดสมอ
 
 โบราณ
 โบราณ amber
@@ -1229,13 +1229,13 @@ anduin's แตกหัก ขา
 
 anemone ปลา ผู้พิทักษ์
 anemone scent เมฆ
-
-
-
+ยาชา
+ยาระงับความรู้สึก
+นางฟ้า
 angel ของ ความตาย
 angelic ปราการ
 
-
+เหล่านางฟ้า
 โกรธ
 โกรธ ลำแสง
 โกรธ ค่าย กุญแจ
@@ -1263,7 +1263,7 @@ anglers ตกปลา raft
 โกรธ ทำให้มึน
 โกรธ turkey
 โกรธ2
-
+ความทุกข์ทรมาน
 anim ชุด - injured ออร์ก
 anim ชุด ตาย
 anim ชุด replacement
@@ -1284,38 +1284,38 @@ anima ภาพ
 animate กระดูก
 
 
-
+เคลื่อนไหวได้
 
 animated จู่โจม
 animation ยกเลิก
-
+อนิเมะ
 
 ankle กัด
 
 anklet กับ golden bells
+ทำลายล้าง
 
+ถูกทำลายล้าง
+การทำลายล้าง
+ผู้ทำลายล้าง
 
-
-
-
-
-
+วันครบรอบ
 
 announce akkokoz ปรากฏ
 announce shoxtik ปรากฏ
 announce ความสยองขวัญ ปรากฏ
 
 announcer ควบคุม ออร่า
+ความรำคาญ
+รำคาญ
+น่ารำคาญ
 
 
 
 
-
-
-
-
+ความผิดปกติแปลกๆ
 anomaly ภาพ
-
+อีกอัน
 another หนึ่ง
 
 
@@ -1324,12 +1324,12 @@ answer ไม่ correct
 answer ไม่ incorrect
 answer ใช่ correct
 answer ใช่ incorrect
+ตอบแล้ว
 
-
-
-
+มด
+ตัวร้าย
 antechamber เทเลพอร์ต
-
+เพลงชาติ
 anti เวทมนตร์ shell
 anti เวทมนตร์ โซน
 anti-อากาศ ปืนใหญ่
@@ -1351,8 +1351,8 @@ anti-personnel ปืนใหญ่
 anti-pirate ระเบิด
 anti-พิษ
 
-
-
+ยาปฏิชีวนะ
+การคาดหวัง
 anticipation ของ สงคราม
 antimagic สั่น
 antlers ของ malorne
@@ -1368,8 +1368,8 @@ anuniaq's ตาข่าย
 anveena พลังงาน ดูด
 anveena's คุก
 ทั่ง click หุ่นฝึก
-
-
+ความวิตกกังวล
+วิตก
 anxious พุ่ง
 ใดๆ
 ใดๆ ดาเมจ
@@ -1381,7 +1381,7 @@ anxious พุ่ง
 ใดๆ tanks
 ใดๆ tips สำหรับ นี้ บอส
 ใดๆ tips สำหรับ นี้ ดันเจี้ยน
-
+ใครก็ได้
 ใครก็ตาม
 ใครก็ตาม หนึ่ง ช่างตีเหล็ก
 ใครก็ตาม มีชีวิต
@@ -1391,18 +1391,18 @@ anxious พุ่ง
 ใครก็ตาม ปลดปล่อย
 ใครก็ตาม online
 ใครก็ตาม ที่นั่น
-
+อะไรก็ได้
 anything ได้ happen
 anything ใหม่
+เมื่อไหร่ก็ได้
+ยังไงก็ตาม
+
+อย่างไรก็ดี
+ที่ไหนก็ได้
 
 
 
-
-
-
-
-
-
+ดาเมจวงกว้าง
 
 aoe ความเสียหาย
 aoe รักษา
@@ -1416,8 +1416,8 @@ aoe อัญเชิญ ผู้เล่น กล้อง ฝ่ายม�
 aoe ทดสอบ
 aoe ที่ ศัตรูเสริม
 
-
-
+อพาร์ตเมนต์
+ความเฉยเมย
 apexis คริสตัล infusion
 
 
@@ -1426,7 +1426,7 @@ apexis mob faction ตรวจสอบ
 
 
 
-
+วันสิ้นโลก
 
 
 apothecary's เผาไหม้ น้ำ
@@ -1434,8 +1434,8 @@ apothecary's พิษ
 apparatus ของ khaz'goroth
 
 apparently พวกเขา พูด
-
-
+ภูตผี
+ปรากฏตัวขึ้น
 
 appearance - ฝ่ายมาร ผู้ร่าย
 appearance - ฝ่ายมาร ประชิด
@@ -1488,9 +1488,9 @@ apples ไป oranges
 ใช้ seduction gland
 ใช้ ไป กิลด์
 applying ที่ lure
-
-
-
+นัดหมาย
+การประเมินราคา
+ขอบคุณที่
 appreciate มัน
 appreciate ที่ เชิญ
 
@@ -1514,7 +1514,7 @@ appreciate ที่ เชิญ
 ลูกศิษย์ skinner
 ลูกศิษย์ tailor
 ลูกศิษย์ yufi
-
+เข้าใกล้
 
 
 
@@ -1780,7 +1780,7 @@ arcanum ของ vicious ปัญญา
 arcanum ของ vicious พลัง
 
 archaeology ลัง
-
+อัครทูตสวรรค์
 archeology ล้าง
 archeology distance - เย็น
 archeology distance - ร้อน
@@ -1795,12 +1795,12 @@ archery เป้าหมาย หุ่นฝึก ขี่ ยานพา
 archery เป้าหมาย หุ่นฝึก ยานพาหนะ บันทึก
 archimonde ไฟ
 archimonde's ความมืด
-
+เกี่ยวกับจดหมายเหตุ
 archivist's ตรา
 
 archmage altaeric แปลงร่าง
 
-
+ซุ้มประตู
 arcing ระเบิด
 arcing เผา
 arcing พลังงาน
@@ -1922,13 +1922,13 @@ argent vanguard chapter ฉัน
 arguably ดีกว่า
 arguably ที่ ดีที่สุด
 arguably ที่ แย่ที่สุด
-
+เถียง
 
 argus เงา จอมเวทย์ แปลงร่าง
 
 
 aria ของ ไม่ดี luckydo
-
+ลุกขึ้น
 arlokk แปลงร่าง
 แขน
 แขน ตาย ความเสียหาย kologarn
@@ -1939,13 +1939,13 @@ arlokk แปลงร่าง
 แขน กวาด
 แขน ตัวคุณเอง
 
-
+อาร์มาเกดดอน
 armed และ dangerous
 arming ผืนดิน ทุ่นระเบิด
 arming ภาพ ส้ม
 arming ภาพ แดง
 arming ภาพ เหลือง
-
+การสงบศึก
 armoire กล้อง
 armoire ล่องหน
 เกราะ
@@ -1963,7 +1963,7 @@ armoire ล่องหน
 เกราะ ค่า
 เกราะ2
 armore กล้อง
-
+หุ้มเกราะ
 
 armored น้ำเงิน dragonhawk
 armored น้ำเงิน ลม ผู้ขี่
@@ -1974,8 +1974,8 @@ armored แดง dragonhawk
 
 
 
-
-
+ชุดเกราะ
+ช่างทำเกราะ
 
 arms หลัง ข้างหลัง
 arms นักรบ
@@ -1988,15 +1988,15 @@ arngrim's ฟัน
 aronus custom ขี่
 รอบ
 รอบ thirty
+จัดเตรียม
+จับกุม
 
-
-
-
+การมาถึง
 arrival ของ ที่ naaru
 
 
-
-
+ความหยิ่งยโส
+หยิ่ง
 ลูกศร
 ลูกธนู จู่โจม
 ลูกธนู ร่ายต่อเนื่อง กรวย ทดสอบ
@@ -2096,17 +2096,17 @@ aryna เทเลพอร์ต
 เป็น ดี
 เป็น ดี เป็น
 เป็น คุณ wish
-
+ด่วนที่สุด
 asaq conversation เครดิต
-
+ขึ้นสู่
 ascend ไป ที่ heavens
-
+อำนาจเหนือกว่า
 ascendant จู่โจม
-
+การเสด็จขึ้นสวรรค์
 
 ash ธาตุ ปรากฏ
 ash พายุ
-
+ละอายใจ
 
 
 
@@ -2140,7 +2140,7 @@ ashtongue คลื่น b
 
 
 
-
+เอเชีย
 
 asira มังกร พลัง asira ไป dismount
 
@@ -2152,8 +2152,8 @@ ask hakmud ไป ออก
 ask mojodishu ไป ออก
 ask mystic birdhat ไป ออก
 
-
-
+ถามแล้ว
+ถาม
 asleep เปิด ที่ job
 แง่มุม
 แง่มุม ของ arlokk
@@ -2174,8 +2174,8 @@ asleep เปิด ที่ job
 แง่มุม ของ venoxis
 แง่มุม เฟส สเปล
 
-
-
+ทำให้หายใจไม่ออก
+การขาดอากาศหายใจ
 ก้น
 ก้น clown
 
@@ -2194,9 +2194,9 @@ assassin's ห่อหุ้ม
 
 assassin's sight เครื่องตกแต่ง
 
+ลอบสังหาร
 
-
-
+การลอบสังหาร
 assassination อีเวนต์ initialize
 assassination ระเบิด
 assassination สังหาร เครดิต และ ผลักถอย
@@ -2220,16 +2220,16 @@ assign geist สังหาร เครดิต ไป นายท่าน
 assign ปีศาจซอมบี้ สังหาร เครดิต ไป นายท่าน
 assign สังหาร เครดิต ไป นายท่าน
 assign skeleton สังหาร เครดิต ไป นายท่าน
-
+งานที่ได้รับมอบหมาย
 
 assist แชมป์เปี้ยน
 assist ที่ แทงค์
-
+ผู้ช่วย
 
 assuming นั้น
-
-
-
+ดาวเคราะห์น้อย
+โรคหอบหืด
+น่าประหลาดใจ
 
 astral เกราะ
 astral เกราะ ภาพ
@@ -2288,15 +2288,15 @@ atal'ai ศพ กิน
 atal'ai พิษ
 
 atal'ai skeleton โทเทม
-
+กินแล้ว
 ate และ ซ้าย ไม่ crumbs
-
+กรีฑา
 atiesh ภาพ
-
-
+ตู้เอทีเอ็ม
+การไถ่บาป
 atrophic ระเบิด
 atrophic พิษ
-
+การฝ่อ
 
 
 attach ปืนใหญ่ ลูก 1
@@ -2468,7 +2468,7 @@ attacked ผู้เล่น
 attacker รักษา ดูดซับ บั๊ก
 attacker แค่ ซ้าย
 attacker เปิด ฉัน
-
+กำลังโจมตี
 attacking ผู้เล่น
 
 
@@ -2477,17 +2477,17 @@ attacking ผู้เล่น
 
 
 attention span หลงทาง
-
-
-
+ที่ลดทอน
+การลดทอน
+ทัศนคติ
 
 
 attract โกรธเกรี้ยว kodo
 attract ปีศาจซอมบี้
 attract เวทมนตร์
 attract rift ปรากฏ
-
-
+สิ่งดึงดูดใจ
+ปรับจูน
 
 attune ไป kypari vos
 
@@ -2498,18 +2498,18 @@ attuned ไป ธรรมชาติ 10 dose reduction
 attuned ไป ธรรมชาติ 2 dose reduction
 attuned ไป ธรรมชาติ 25 dose reduction
 attunement ไป ที่ แกนกลาง
-
+กำลังปรับจูน
 
 ประมูล
 ประมูล บ้าน
-
-
+หนังสือเสียง
+อ๊าก
 
 augment รูน
 
 
 
-
+ป้า
 auntie stormstout เครื่องตกแต่ง
 ออร่า
 ออร่า ลำแสง ทดสอบ
@@ -2575,8 +2575,8 @@ aural ช็อก
 austere earthsiege เพชร
 austere ดึกดำบรรพ์ เพชร
 austere shadowspirit เพชร
-
-
+ออสเตรเลีย
+ผู้เขียน
 auto โจมตี
 auto ไฟ
 
@@ -2586,14 +2586,14 @@ auto ความเร็ว boost
 
 auto ไม้กายสิทธิ์
 auto-ซ่อม
-
-
-
+อัตชีวประวัติ
+ปืนใหญ่อัตโนมัติ
+แก้คำอัตโนมัติ
 autocorrect ได้รับ ฉัน
 
 automated shredder ความตาย notify
 automatic ซ่อม ลำแสง
-
+ระบบอัตโนมัติ
 automation ทำ friendlies ส้ม
 automation mechanic ภูมิคุ้มกัน
 automation ตรึง สเปล
@@ -2601,13 +2601,13 @@ automation ตรึง สเปล
 ฤดูใบไม้ร่วง ดอกไม้บาน sapling ภาพ
 ฤดูใบไม้ร่วง ดอกไม้ พลุ
 av เควส ล่องหน type หนึ่ง
-
-
+หิมะถล่ม
+อวตาร
 avatar ของ สิ้นหวัง
 avatar ของ เปลวไฟ
 avatar ของ hakkar คือ summoned
 avatar ของ jade
-
+ล้างแค้น
 avenger judgment โบนัส
 avenger's โล่
 
@@ -2616,16 +2616,16 @@ avenging ความเดือดดาล
 avenging เดือดดาล
 avenging วิญญาณ
 avenging พิโรธ
-
+ค่าเฉลี่ย
 
 
 aviana's จะ
-
+หลีกเลี่ยง
 avoid มัน
 avoid ที่ ลำแสง
 avoid ที่ beams
 avoid ที่ mechanic
-
+หลีกเลี่ยงได้
 
 avoidance ของ ที่ งู
 avruu's ลูกแก้ว
@@ -2681,7 +2681,7 @@ awakening คทา
 สุดยอด ยา
 สุดยอด2
 
-
+อึดอัด
 
 
 ขวาน
@@ -2699,12 +2699,12 @@ axis model - หีบ เลือด ข้างหลัง
 aynasha's ลูกธนู
 aynasha's ธนู
 aynasha's ตรึง
-
+โย่
 aysa ยินดีด้วย ตัวจับเวลา
 aysa crashed ship ผู้พิทักษ์ ออร่า
 aysa ผู้พิทักษ์ ออร่า
 aysa ลม chamber ผู้พิทักษ์ ออร่า
-
+เฮ้ย
 
 azeroth เผาไหม้
 azil ภาพ
@@ -2789,25 +2789,25 @@ baby murloc พาสซีฟ
 ข้างหลัง ไป ที่ จุด
 ข้างหลัง พรุ่งนี้
 ข้างหลัง บน
-
-
-
+ปวดหลัง
+ผู้หักหลัง
+ไฟย้อนกลับ
 ข้างหลังไฟ
 background ออร่า
 ข้างหลังมือ
 
-
-
+ผลสะท้อนกลับ
+กระเป๋าเป้
 backpack สถานะ
 backpack ภาพ
 ข้างหลังฟัน
 ข้างหลังฟัน targeting
+แทงข้างหลัง
 
 
+ถอยหลัง
 
-
-
-
+แบคทีเรีย
 ไม่ดี
 ไม่ดี ก้น
 ไม่ดี attitude
@@ -2839,13 +2839,13 @@ backpack ภาพ
 ไม่ดี winner
 ไม่ดี2
 ไม่ดี3
-
+คนเลว
 เหรียญตรา ของ kypari zar
 เหรียญตรา ของ ที่ protector
 เหรียญตรา ของ ที่ swarmguard
 badger เหรียญ
 
-
+อย่างแย่
 
 bael'gar's เพลิง แก่นสาร
 baelog's valhalla ยิง
@@ -2862,8 +2862,8 @@ bait มัน ที่นี่
 
 bait ที่ บอส
 bait พวกเขา
-
-
+ล่อเหยื่อ
+อบ
 bake mulgore spice ขนมปัง
 baked manta ลำแสง
 baked หินปลา
@@ -2890,7 +2890,7 @@ balance pole ภาพ
 
 balanced trillium ingot และ its uses
 balanced ป่าเถื่อน jade
-
+เหลวไหล
 bale จู่โจม
 baleful จู่โจม
 baleroc แปลงร่าง
@@ -2921,12 +2921,12 @@ balnazzar แปลงร่าง
 balnazzar แปลงร่าง ทำให้มึน
 
 
-
+ถูกหลอก
 แบน
 แบน มัน
 แบน taunts หนึ่ง mogu
 ban's ระเบิด
-
+กล้วย
 banana แถบ
 banana แถบ remove
 banana ระดมยิง
@@ -2936,7 +2936,7 @@ banana ระดมยิง
 banana โยน
 
 
-
+กล้วยหลายลูก
 Hate Dummy
 
 แถบ
@@ -2949,11 +2949,11 @@ Hate Dummy
 แถบ ของ ที่ นิรันดร์ sage
 แถบ ของ valor
 
-
-
+พันแผลแล้ว
+การพันแผล
 แถบมัน guile
 bandit's เครื่องหมาย
-
+หายนะ
 bane ของ doom
 bane ของ infinity
 bane ของ treachery
@@ -2974,9 +2974,9 @@ banging ที่ gong
 เนรเทศ สถานะ ใหญ่ เหลือง
 เนรเทศ สถานะ เล็ก เหลือง
 เนรเทศ thundering exile
-
+ถูกเนรเทศ
 banished จาก shattrath เมือง
-
+การเนรเทศ
 banishment ของ เกล็ด
 ธนาคาร
 ธนาคาร errand
@@ -3005,7 +3005,7 @@ banshee คุกคาม
 
 banshee's เวทมนตร์ mirror
 banshee's โล่
-
+การหยอกล้อ
 แถบ
 baradin การรักษา ยา
 baradin ถือ closure คำเตือน
@@ -3031,15 +3031,15 @@ baradin's wardens การต่อสู้ มาตรฐาน
 barbed ตาข่าย
 barbed ยิง
 
-
-
+หนาม
+แทบจะไม่
 barely มีชีวิต
 barely made มัน
 
 bark ของ doom
 bark ของ ที่ walkers
 barking บน ที่ wrong ต้นไม้
-
+เปลือกไม้
 Berserk Duration Increase
 
 barnacle ลูกเรือ หายไป
@@ -3070,7 +3070,7 @@ baroque ดาบ scabbard
 ถัง ปิด
 ถัง targeting
 ถัง โยน
-
+พุ่งไป
 barreled ควบคุม ออร่า
 
 barrens เบ่งบาน
@@ -3082,14 +3082,14 @@ barricade ระเบิด
 กำแพงกั้น ของ แสง
 กำแพงกั้น stance
 barrrage ของ ไฟ
-
+การแลกเปลี่ยน
 
 
 base ค่าย ทำเครื่องหมาย
 base ซ่อนตัว
 base ภาพ
-
-
+เบสบอล
+อิงจาก
 based และ redpilled
 based เปิด
 
@@ -3100,14 +3100,14 @@ based เปิด
 bash'ir phasing อุปกรณ์
 basic โจมตี สมาธิ cost modifier
 basic อีหน้าหี
-
+โดยพื้นฐาน
 
 
 
 
 basket ระเบิด
 basket ของ crocs
-
+บาสเกตบอล
 
 
 ไอ้ชาติชั่ว
@@ -3123,10 +3123,10 @@ bathed ใน แสง
 bathed ใน เดือดดาล
 
 bathroom ทำลาย
+แป้งทอด
 
 
-
-
+แบตเตอรี่
 การต่อสู้
 การต่อสู้ ออร่า
 การต่อสู้ กล้อง custom ขี่
@@ -3301,7 +3301,7 @@ beaming earthsiege เพชร
 beast's ทำเครื่องหมาย
 beastcaller ขว้าง
 
-
+นักล่าสัตว์ร้าย
 
 beat หนึ่ง ตาย ม้า
 beat ล่าง
@@ -3315,11 +3315,11 @@ beautiful chalcedony สร้อยคอ
 
 
 
-
+เพราะ
 because ของ
 beckon ของ anachronos
 
-
+กวักมือเรียก
 
 
 become บอส เงา
@@ -3327,10 +3327,10 @@ become ของฉัน spar buddy
 
 become stormwind harbor ผู้ป้องกัน
 
-
-
-
-
+เตียงนอน
+ห้องนอน
+ผึ้ง
+เนื้อวัว
 beehive สถานะ
 เคย
 เคย หนึ่ง while
@@ -3347,7 +3347,7 @@ beehive สถานะ
 beer การส่งมอบ
 
 
-
+ด้วง
 
 
 ก่อน
@@ -3356,7 +3356,7 @@ beer การส่งมอบ
 ก่อน2
 
 
-
+ความงุนงง
 เริ่ม
 เริ่ม approach หนึ่ง
 เริ่ม approach b
@@ -3369,21 +3369,21 @@ beer การส่งมอบ
 เริ่ม น้ำแข็ง ลมหายใจ โจมตี
 เริ่ม korrah's tour
 
-
-
+จุดเริ่มต้น
+หลอกล่อ
 behemoth พุ่งชาร์จ
 หลัง
 หลัง เปิด episodes
 หลัง ที่ เสา
 หลัง ที่ ครั้ง
 หลัง คุณ
-
-
+สีเบจ
+การเป็น
 
 
 
 bejeweled wizard's สนับแขน
-
+เรอ
 belch ระเบิด
 
 believe ใน ดีกว่า วัน
@@ -3391,8 +3391,8 @@ believe ใน ตัวคุณเอง
 believe มัน หรือ ไม่
 believe ฉัน
 believe เรา ได้ ชนะ
-
-
+เชื่อแล้ว
+เชื่อว่า
 ระฆัง
 ระฆัง ร่ายต่อเนื่อง
 ระฆัง shake
@@ -3403,7 +3403,7 @@ belly บล็อก
 
 
 
-
+ข้างล่าง
 below เยือกแข็ง
 below ศูนย์
 
@@ -3422,14 +3422,14 @@ below ศูนย์
 เข็มขัด ของ ที่ ยาว ถนน
 เข็มขัด ของ ที่ กลางคืน ท้องฟ้า
 เข็มขัด ของ ที่ titans
-
+ม้านั่ง
 bench ที่ ผู้เล่น
 
+ถูกพักตัว
 
-
-
-
-
+การให้พร
+ผลประโยชน์
+สิทธิประโยชน์
 
 berserk vo กระตุ้น
 berserker ออร่า
@@ -3441,7 +3441,7 @@ berserker เดือดดาล เอฟเฟกต์
 berserker พุ่ง
 
 berserker stance พาสซีฟ
-
+การคลั่ง
 berserking พุ่งชาร์จ
 berserking หีบ
 berserking หอน
@@ -3452,7 +3452,7 @@ berzerker blaze ระเบิด
 besalt bunny สเปล spawner
 beseech พร
 
-
+ปิดล้อม
 ดีที่สุด
 ดีที่สุด case scenario
 ดีที่สุด deals anywhere
@@ -3482,7 +3482,7 @@ bestial ร้อง
 
 bestial คำราม
 bestial พิโรธ
-
+เพื่อนสนิท
 
 bestow เลือด
 bestowal ของ angerforge
@@ -3493,8 +3493,8 @@ bestowal ของ ironstar
 bestowal ของ moltenfist
 bestowal ของ shadowforge
 bestowal ของ thaurissan
-
-
+เดิมพันไว้
+เบต้า
 
 bethekk's พร
 bethod's ดาบ ความท้าทาย
@@ -3529,7 +3529,7 @@ bfgc สำเร็จ
 
 bg reinforcements - ondeath ทำงาน ออร่า
 
-
+อคติ
 
 
 bidding ทอง
@@ -3581,7 +3581,7 @@ bidding ทอง
 ใหญ่ voodoo เสื้อคลุม
 ใหญ่ น้ำ ฟองอากาศ ออร่า
 ใหญ่-ปาก clam
-
+ใหญ่กว่า
 bigger คือ ดีกว่า
 
 
@@ -3595,7 +3595,7 @@ bilgewater cartel ธง
 bilgewater แชมป์เปี้ยน
 
 bilious เบียร์ ลมหายใจ
-
+พันล้าน
 
 billy goat ระเบิด
 ผูก
@@ -3641,9 +3641,9 @@ bindings ของ ฟ้าผ่า reflexes
 bindings ของ submission
 
 bio ทำลาย
-
-
-
+ชีวประวัติ
+ชีววิทยา
+การเรืองแสงทางชีวภาพ
 
 bipsi's ถุงมือ
 นก
@@ -3653,20 +3653,20 @@ bipsi's ถุงมือ
 นก วิญญาณ illusion
 นก โฉบ
 
-
+การเกิด
 birth ร่าย
 birth ตาย ภาพ
 birth หุ่นฝึก ร่าย
-
+วันเกิด
 birthday เค้ก
 birthday ปาร์ตี้
 birthing เปลวไฟ
-
+ของดีที่สุด
 bis อุปกรณ์
 อีหน้าหี
 
-
-
+ขี้วีน
+บิตคอยน์
 กัด
 กัด knut
 กัด ฉัน
@@ -3675,7 +3675,7 @@ bis อุปกรณ์
 กัด ที่ มือ นั้น feeds คุณ
 biting หนาวเย็น
 biting เย็น
-
+ขม
 bitter ระเบิด
 bitter เบียร์
 bitter เบียร์ ออร่า
@@ -3819,7 +3819,7 @@ blackhorn breaks ปลดปล่อย
 blackhowl's เดือดดาล
 blackhowl's จะ
 blackmouth น้ำมัน
-
+ไฟดับ
 blackout เบียร์
 
 blackout ทันที
@@ -3907,7 +3907,7 @@ blanche's boomer เบียร์ พลัง แถบ
 blanche's boomer เบียร์ พลัง ปุ่ม
 blanche's ยาอายุวัฒนะ ของ replenishment
 blanched needle เห็ด
-
+ผ้าห่ม
 ระเบิด
 ระเบิด โนวา
 ระเบิด ของ อากาศ
@@ -3918,8 +3918,8 @@ blanched needle เห็ด
 ระเบิด คลื่น
 ระเบิด-brewed
 blastbarrel ลูกเรือ primer
-
-
+ประทัด
+ระเบิดแล้ว
 
 blasterboot กระโดด 01
 blasterboot กระโดด 02
@@ -3998,7 +3998,7 @@ bleakwood คำสาป
 เลือดไหล หัวใจ
 เลือดไหล ออก
 เลือดไหล บาดแผล
-
+แหวะ
 ได้รับพร
 ได้รับพร ทั่ง
 ได้รับพร สนับแขน
@@ -4023,7 +4023,7 @@ bleakwood คำสาป
 ได้รับพร trillium greaves
 ได้รับพร อาวุธ coating
 ได้รับพร พ่อมด น้ำมัน
-
+ความเป็นสุข
 พร
 พร ของ a'dal
 พร ของ aessina
@@ -4133,7 +4133,7 @@ blew ของฉัน expectations
 
 โรคร้ายเลือด infusion
 
-
+ติดโรคระบาด
 blighted ลูกธนู
 blighted กรีดร้อง
 blighted สปอร์
@@ -4149,9 +4149,9 @@ blind ยาม
 
 blind จู่โจม
 
-
+ตาบอด
 blinded โดย เดือดดาล
-
+ผ้าปิดตา
 
 ทำให้ตาพร่า dirt
 ทำให้ตาพร่า ฝุ่น
@@ -4166,10 +4166,10 @@ blinded โดย เดือดดาล
 ทำให้ตาพร่า toxin
 ทำให้ตาพร่า webs
 
+ถูกเล่นงานไม่ทันตั้งตัว
 
 
-
-
+กะพริบ
 blink คูลดาวน์ reduction
 blink กระแทก
 blink จู่โจม
@@ -4185,16 +4185,16 @@ blistering พิษ
 blistering เน่า
 blistering tentacle ขี่ ยานพาหนะ
 blistering บาดแผล
-
+สายฟ้าแลบ
 blitz อัญเชิญ
 blitz อัญเชิญ กระตุ้น
 
 blitzkrieg initialize prevent สเปล 01
-
+พายุหิมะ
 blizzard หิน
 
-
-
+ท้องอืด
+บวม
 bloated สิ่งน่าขยะแขยง feign ความตาย
 bloating เบียร์
 บล็อก
@@ -4248,8 +4248,8 @@ bloating เบียร์
 บล็อก2
 blockade ระเบิด bunny - ไฟ
 blockade ระเบิด bunny - น้ำ
-
-
+ถูกบล็อก
+การบล็อก
 blonde การขี่ yak
 เลือด
 เลือด และ ฟ้าร้อง
@@ -4362,10 +4362,10 @@ blonde การขี่ yak
 เลือด เสือ ไหล่
 เลือด worms
 เลือด-soaked invitation
-
+การนองเลือด
 bloodbath ปุ่ม
 
-
+เบอร์รี่เลือด
 เลือดต้ม
 เลือดสายฟ้า
 เลือดสายฟ้า splash
@@ -4422,7 +4422,7 @@ bloodhilt สังหาร เครดิต
 เปื้อนเลือด wyrmhide หมวกเกราะ
 เปื้อนเลือด wyrmhide legs
 เปื้อนเลือด wyrmhide ไหล่
-
+การปล่อยเลือด
 bloodlord's ออร่า
 
 bloodlust สถานะ
@@ -4461,7 +4461,7 @@ bloodspore พิษ
 bloodstone แถบ
 bloodstone เทเลพอร์ต
 เลือดพายุ
-
+เลือดพุ่ง
 bloodtalon ลูกมังกร ออร่า
 
 
@@ -4548,7 +4548,7 @@ bloodthirst รักษา
 
 
 
-
+พิษเลือด
 bloodvine รองเท้าบู้ต
 
 bloodvine เกราะขา
@@ -4700,10 +4700,10 @@ bludgeoning จู่โจม
 น้ำเงิน wyrmrest warden ลำแสง
 น้ำเงิน2
 bluetip เหรียญ
-
+การบลัฟ
 bluff เควส เครดิต
 
-
+ความเบลอ
 blurred ความเร็ว
 blurring ฟัน
 
@@ -4727,13 +4727,13 @@ board ช่วยเหลือ คราฟต์
 board ภาพ
 boarded ช่วยเหลือ คราฟต์
 boarding sub สังหาร เครดิต
-
+เรือลำเล็ก
 boat ไฟ
 boat targeting หุ่นฝึก
 boat เทเลพอร์ต
 bobbing สำหรับ apples
 bodacious ประตู knocker
-
+โดนอัด
 
 ร่างกาย
 ร่างกาย และ วิญญาณ
@@ -4742,7 +4742,7 @@ bodacious ประตู knocker
 ร่างกาย ดึง
 ร่างกาย กระแทก
 ร่างกาย switch
-
+หมัดเข้าลำตัว
 
 bog โบย
 bogblossom ผลักถอย
@@ -4777,9 +4777,9 @@ bold dragon's ตา
 
 
 bold serpent's ตา
+ได้รับการเสริม
 
-
-
+การเสริมกำลัง
 
 สายฟ้า
 สายฟ้า พุ่งชาร์จ bramble
@@ -4821,10 +4821,10 @@ bomb's ไกล
 
 bombard การปกป้อง
 
-
+การทิ้งระเบิด
 bombay แมว
 bombed มัน
-
+เครื่องบินทิ้งระเบิด
 
 bomber ถูกฆ่า
 
@@ -4871,8 +4871,8 @@ bond ของ ที่ val'kyr
 bonechewer กัด
 bonechewer เน่า
 กระดูกเยือกเย็น blizzard
-
-
+ผู้หักกระดูก
+เครื่องบดกระดูก
 bonereaver's คม
 กระดูก ของ bwonsamdi
 กระดูก ของ bwonsamdi ออร่า
@@ -4880,14 +4880,14 @@ bonereaver's คม
 
 bonescythe เกราะอก
 bonescythe หีบ
-
+หนามกระดูก
 
 bonfire ปลอมตัว
 
 bonfire's พร
 bonfire's พร ยกเลิก
-
-
+โป๊ก
+บ้าบอ
 โบนัส
 โบนัส burial trove กุญแจ
 โบนัส หลบ
@@ -4910,9 +4910,9 @@ boogaloo บูม
 หนังสือ ของ stars
 หนังสือ ของ survival
 หนังสือ ของ ที่ ages
-
-
-
+การจอง
+บุ๊กมาร์กแล้ว
+ร้านหนังสือ
 บูม
 บูม รองเท้าบู้ต
 บูม รองเท้าบู้ต bunny ออร่า
@@ -4923,9 +4923,9 @@ boogaloo บูม
 บูม fuse
 บูม ยิง
 บูม ภาพ
-
+คนรุ่นบูมเมอร์
 boomer เบียร์ จู่โจม
-
+บูมเมอแรง
 boomerang ฟ้าผ่า สายฟ้า
 
 boomshroom ระเบิด
@@ -4933,9 +4933,9 @@ boon ของ bwonsamdi
 boon ของ bwonsamdi - พลัง ร่าย
 boon ของ ชีวิต
 boon ของ ที่ loa
-
-
-
+บูสต์
+ถูกบูสต์
+บูสเตอร์
 
 boot heel กับ scrollwork
 boot ไป ที่ หัว
@@ -4957,10 +4957,10 @@ boot โยน
 รองเท้าบู้ต ของ wintry endurance
 
 booze ถ่มน้ำลาย
+โดนตี
+ชายแดน
 
-
-
-
+น่าเบื่อหน่าย
 borean เกราะ ชุด
 borean ลำแสง กระแทก
 borean หนัง
@@ -4969,7 +4969,7 @@ borean หนัง
 เบื่อ ของ เกม
 
 
-
+ยืม
 
 borrowed เวลา
 บอส
@@ -5144,8 +5144,8 @@ borrowed เวลา
 บอส
 บอส3
 
-
-
+บอท
+ทั้งสอง
 both และ
 
 botm - ฟองอากาศ เบียร์ - pop
@@ -5161,7 +5161,7 @@ botm - flowery เบียร์ - grow
 ขวด ของ พิษ
 ขวด ของ wildfire
 ขวด toad
-
+บรรจุขวด
 bottled โกรธ
 ล่าง
 ล่าง fragging
@@ -5186,7 +5186,7 @@ boulder โยน
 boulder โยน เครดิต
 boulder ระดมยิง
 bouldercrag's ระเบิด
-
+เด้ง
 bounce ความสำเร็จ ใช้ ออร่า
 bounce ความสำเร็จ ออร่า
 bouncer ลูก
@@ -5195,7 +5195,7 @@ bouncing สายฟ้า
 bouncing สายฟ้า bounced
 bouncing สายฟ้า กระตุ้น
 bouncing พุ่งชาร์จ
-
+เด้งดึ๋ง
 
 bound เปลวไฟ
 
@@ -5212,22 +5212,22 @@ bountiful อาหาร
 bounty ของ ที่ เก็บเกี่ยว
 ธนู
 ธนู ไป ฉัน
-
-
+ชาม
+ชามหลายใบ
 bowmen หุ่นฝึก
 
 bowmen กลืนกิน mantid
-
-
+คันธนู
+การยิงธนู
 bowshot กระแทก เปลวไฟ อัปเดต
 กล่อง
 กล่อง ของ bombs
 boxed บูม บูม
+มวย
+เด็กผู้ชาย
 
-
-
-
-
+แฟนหนุ่ม
+พวกผู้ชาย
 
 bracelet ของ jade และ coins
 สนับแขน
@@ -5268,7 +5268,7 @@ braided eternium โซ่
 bramble สังหาร
 
 bramblescar growth อัญเชิญ
-
+ไม้เท้าหนาม
 bramblewood เข็มขัด
 bramblewood รองเท้าบู้ต
 bramblewood หมวกเกราะ
@@ -5281,13 +5281,13 @@ brann การบิน เฟส เครื่องหมาย
 brann พลังชีวิต checker
 brann สัญญาณ ไป ตนเอง
 brann แปลงร่าง
-
+ความกล้าบ้าบิ่น
 กล้าหาญ
 brave's พลุไฟ
 brave's พลุไฟ เอฟเฟกต์
 
 bravo company สนาม ชุด
-
+การตะลุมบอน
 brawl บอส ชนะ ตอบโต้
 brawler ระเบิด
 brawler ชิ้นส่วน 00
@@ -5309,8 +5309,8 @@ brazier ไฟ
 
 brazier ของ dancing เปลวไฟ
 brazier ควัน
-
-
+บราซิล
+ชาวบราซิล
 รอสักครู่
 รอสักครู่ สอง นาที
 breach เกราะ
@@ -5361,13 +5361,13 @@ breadth ของ น้ำแข็ง กระตุ้น
 ทำลายล่าง
 ทำลายเร็ว
 
-
+การแตก
 breaking และ entering
 breaking ถัง
 
 breaking ที่ โซ่ตรวน
 breaking ที่ rules
-
+ช่วงพัก
 breaks ที่ mold
 เกราะอก ของ โบราณ steel
 เกราะอก ของ kings
@@ -5391,7 +5391,7 @@ breaks ที่ mold
 ลมหายใจ ของ ที่ ดำ เจ้าชาย
 ลมหายใจ ของ ที่ มังกร
 ลมหายใจ ของ y'shaarj
-
+หายใจ
 breathe ลึก
 
 breathing ไฟ
@@ -5493,7 +5493,7 @@ brewfest setup ลูกเรือ - โกบลิน
 brewfestive holiday พาหนะ
 
 เบียร์หมวกเกราะ
-
+การหมักเบียร์
 brewing ภาพ
 brewmaiden หายไป ควบคุม ออร่า
 
@@ -5512,11 +5512,11 @@ brewmoon festival เทเลพอร์ต
 
 
 brianna's experimental สเปล
-
+สินบน
 สะพาน
 สะพาน อีเวนต์
 
-
+บังเหียน
 Bridle Channe
 brief explanation กรุณา
 brief ทำให้มึน
@@ -5540,7 +5540,7 @@ brightleaf ความผันผวน cd 2
 brightleaf's แก่นสาร
 brightleaf's แก่นสาร ร่ายต่อเนื่อง
 brightly colored ไข่
-
+ความเจิดจ้า
 brilliance ออร่า
 เจิดจ้า
 เจิดจ้า เลือด garnet
@@ -5579,7 +5579,7 @@ brilliance ออร่า
 เจิดจ้า titansteel treads
 เจิดจ้า พ่อมด น้ำมัน
 brinescale พิษ
-
+นำมา
 bring ใน ที่ sub
 bring มัน
 bring เปิด ที่ เกลียด
@@ -5587,7 +5587,7 @@ bring เปิด ที่ เกลียด
 
 
 bringing คุณ ใน
-
+นำมาให้
 brings ข้างหลัง memories
 briny cutter ล่องหน ตนเอง
 
@@ -5601,20 +5601,20 @@ brittle กระดูก
 brittle ราก บอส emote
 
 brittle สัมผัส
-
+พี่ชาย
 bro คว้า
 bro คว้า ไม่ used
 
 bro อะไร
 
 broadcast คริสตัล ข้อความ
-
+การยิงกราด
 brogg's โทเทม
 
 broiled มังกร feast
 broiled ภูเขา trout
 broiling lava ออร่า
-
+ถังแตก
 broke ที่ บันทึก
 แตกหัก
 แตกหัก เป็น นรก
@@ -5682,7 +5682,7 @@ brood เดือดดาล
 
 
 
-
+นำมาแล้ว
 น้ำตาล
 น้ำตาล มังกร turtle
 น้ำตาล elekk
@@ -5703,15 +5703,15 @@ brood เดือดดาล
 น้ำตาล skeletal ม้า
 น้ำตาล งู
 น้ำตาล หมาป่า
-
+เฮ้อ
 bruh ชั่วขณะ
-
+รอยฟกช้ำ
 
 bruising ระเบิด
 brunnhildar ปลอมตัว
 
-
-
+แปรง
+ไฟป่า
 brushfire เผา ออร่า
 brushfire burned พื้นที่ visualization
 brushfire ตรวจสอบ valid location
@@ -5741,7 +5741,7 @@ brute กระแทก
 
 brutusk โซ่ ฟ้าผ่า
 brutusk อัญเชิญ ออร่า
-
+อ้อ
 ฟองอากาศ
 ฟองอากาศ และ abscess อัญเชิญ - นายท่าน
 ฟองอากาศ ลำแสง
@@ -5767,8 +5767,8 @@ brutusk อัญเชิญ ออร่า
 ฟองอากาศ พ่น
 ฟองอากาศ กับดัก ความตาย ออร่า
 ฟองอากาศ บน
-
-
+ลำแสงฟอง
+อยู่ในฟอง
 ฟองอากาศ
 เดือดปุด
 เดือดปุด amber
@@ -5778,7 +5778,7 @@ brutusk อัญเชิญ ออร่า
 เดือดปุด mixture
 เดือดปุด ooze
 เดือดปุด pus
-
+ซ่า
 
 buck ซ้าย คำเตือน
 buck ขวา คำเตือน
@@ -5787,15 +5787,15 @@ buck ขวา คำเตือน
 ถัง lands
 ถัง รายการ
 ถัง ของ meaty หมา อาหาร
-
+พยศ
 budd หุ่นฝึก 01
 budd ผลักถอย
 budd nedreck - ขว้าง ขวดเล็ก
 
 
 buddied บน
-
-
+เพื่อนยาก
+งบประมาณ
 
 บัฟ
 บัฟ อาหาร
@@ -5804,7 +5804,7 @@ buddied บน
 บัฟ ที่ บุก
 บัฟ บน
 บัฟ2
-
+ถูกบัฟ
 buffed บน
 buffeting สายลม ของ susurrus
 บั๊ก
@@ -5850,7 +5850,7 @@ building ไฟ
 building ความเร็ว
 building ความเร็ว เอฟเฟกต์
 building ความเร็ว กระตุ้น
-
+บิลด์
 
 bulging กระเป๋า ของ charms
 
@@ -5861,7 +5861,7 @@ bulldozer exorcism สังหาร เครดิต
 กระสุน ตัวควบคุม เป็นระยะ
 กระสุน ตัวควบคุม อัญเชิญ เอฟเฟกต์ มืด
 กระสุน อัญเชิญ กระตุ้น
-
+หัวดื้อ
 พูดไร้สาระ
 ปราการ
 ปราการ ปลอมตัว
@@ -5878,14 +5878,14 @@ bungie กระโดด 01
 
 bunny ขี่ ยานพาหนะ
 
-
+ทุ่นลอย
 
 burd sticker กระแทก
 burden ของ eternity
 burden ของ guilt
 burden ของ proof
 burden ของ ที่ crown
-
+เบอร์เกอร์
 burgy blackheart's handsome หมวก
 burgy blackheart's pirate หมวก
 burlap trail ambush ดึง
@@ -6031,9 +6031,9 @@ burninate สังหาร เครดิต
 เผาไหม้ บาดแผล
 เผาไหม้ wounds
 เผาไหม้ พิโรธ
-
+ภาวะหมดไฟ
 burnt ต้นไม้ ภาพ
-
+เรอออกมา
 
 burrow โจมตี
 burrow ไกล
@@ -6045,7 +6045,7 @@ burrow เครดิต ไป นายท่าน
 burrow ใน ไป การครอบงำ จุด
 
 burrow ภาพ
-
+ขุดโพรง
 ระเบิด
 ระเบิด ที่ ที่ seams
 ระเบิด ความเสียหาย
@@ -6067,7 +6067,7 @@ burrow ภาพ
 ระเบิด ของ ความเร็ว
 ระเบิด ของ ความเร็ว - permanent
 ระเบิด ยิง
-
+ปะทุ
 
 bursting เมล็ด
 buru แปลงร่าง
@@ -6075,13 +6075,13 @@ bury ใบมีด
 
 
 bury ที่ hatchet
-
+รถบัส
 bus หยุด
+พุ่มไม้
 
+เจ๋งมาก
 
-
-
-
+ยุ่ง
 
 busy ทีหลัง
 busy วันนี้
@@ -6093,8 +6093,8 @@ butcher ดูด
 
 butchering สัตว์
 
-
-
+เนย
+ผีเสื้อ
 ปุ่ม 1
 ปุ่ม 10
 ปุ่ม 2
@@ -6115,10 +6115,10 @@ buttress กับดัก
 ซื้อ
 ซื้อ หนึ่ง วิ่ง
 ซื้อ materials
-
+ซื้อขาด
 
 buzzer พลังร่ายมนตร์
-
+เลื่อยวงเดือน
 
 
 bwonsamdi กระดูก dot
@@ -6144,7 +6144,7 @@ c'est la vie ยาว
 
 caber กระแทก
 caber โยน
-
+หัวเราะคิกคัก
 
 cackling หอน
 
@@ -6152,11 +6152,11 @@ cadaver ทำให้มึน
 cadaver โยน
 
 
-
+คาเฟ่
 กรง ยึด blackout ออร่า
 กรง กับดัก
 กรง กับดัก - อัญเชิญ
-
+ถูกขัง
 
 caimas เปิดใช้งาน ไข่
 caimas เป็นระยะ
@@ -6166,12 +6166,12 @@ cairne pyre เครดิต
 caladis brightspear ล่องหน
 
 calcinder ไฟ ภาพ
+คำนวณ
 
-
-
+คำนวณไว้แล้ว
 calculated รักษา
-
-
+การคำนวณ
+เครื่องคิดเลข
 caledis's ปลอมตัว
 calen humanoid แปลงร่าง
 calico แมว
@@ -6355,7 +6355,7 @@ calico แมว
 เรียก wyrmrest vanquisher
 เรียก xink's shredder
 เรียก2
-
+เรียกแล้ว
 called มัน
 
 calling สำหรับ อากาศ สนับสนุน
@@ -6370,8 +6370,8 @@ calling ที่ birds
 calling ที่ caravan
 calling wildhammer gryphon ผู้ขี่
 calling ไวป์
-
-
+ความใจดำ
+การโทร
 calls สำหรับ aid
 สงบ
 สงบ ก่อน ที่ พายุ
@@ -6384,8 +6384,8 @@ calls สำหรับ aid
 สงบ ที่ พายุ
 calming ล่าง
 calming song ของ ที่ singer
-
-
+แคลอรี่
+มาแล้ว
 came จาก nowhere
 camel รูปปั้นเล็ก สเปล เอฟเฟกต์
 camel ทุบ
@@ -6425,7 +6425,7 @@ Camoflague Impact
 ค่าย aparaje skybox
 ค่าย ฝูง
 ค่าย receives communique
-
+คนตั้งแคมป์
 
 camping ที่ สุสาน
 
@@ -6479,7 +6479,7 @@ camping ที่ สุสาน
 ไม่ได้ type เร็ว
 ไม่ได้ ทำงาน
 ได้2
-
+แคนาดา
 ยกเลิก 85149
 ยกเลิก การเปิดใช้
 ยกเลิก agatha
@@ -6616,17 +6616,17 @@ camping ที่ สุสาน
 ยกเลิก wrynn ออร่า
 ยกเลิก zazzo's auras
 ยกเลิก โซน ออร่า
+ยกเลิกแล้ว
 
 
-
-
+ผู้สมัครเลือกตั้ง
 candied sweet มันฝรั่ง
 
 candle ระเบิด
 
 canh's สมบัติ
 canned ความร้อน
-
+กินพวกเดียวกัน
 cannibalize เนื้อ ภาพ
 cannibalize ภาพ
 ปืนใหญ่
@@ -6683,8 +6683,8 @@ cap ของ ที่ เหนือ
 cap ที่ ธง
 cap ที่ node
 cap ของคุณ ตี
-
-
+มีความสามารถ
+ความจุไฟฟ้า
 
 capacitor โหลดเกิน
 capacitor โทเทม
@@ -6739,11 +6739,11 @@ capper บอส กระโดด
 ถูกยึด โทเทม เป็นระยะ
 ถูกยึด ป่าเถื่อน camel
 ถูกยึด yak
+การจับ
 
 
 
-
-
+กระดองแข็ง
 carapace ของ พระอาทิตย์ และ เงา
 caravan ออร่า
 caravan cart เริ่ม กระตุ้น
@@ -6763,11 +6763,11 @@ caravan ผู้พิทักษ์ ออร่า
 caravan พร้อม
 caravan ภาพ
 
-
-
+การอัดก๊าซ
+คาร์บ
 carcanet ของ ที่ ร้อย magi
 cardboard นักฆ่า
-
+คาร์ดิโอ
 
 
 careful เล็ง
