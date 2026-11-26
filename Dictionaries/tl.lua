@@ -26428,4 +26428,461 @@ bawatkatawan
 
 ginang
 
+
+ginamit
+kailanman
+
+
+pampubliko
+mga babae
+kaso
+kasama ang
+mga lalaki
+
+serbisyo
+gumagamit
+
+kurso
+pinakakaunti
+ibig sabihin
+balita
+
+
+panlipunan
+
+
+
+
+
+nakaraan
+dahil sa
+kinabukasan
+
+
+
+sining
+
+dating
+mga bata
+
+kasalukuyan
+narinig
+mag-aral
+sarili
+mga estudyante
+mga salita
+
+gastos
+parang
+isyu
+
+
+termino
+petsa
+
+isama
+mga magulang
+kabuuan
+nangyari
+
+seguridad
+mag-asawa
+mangyari
+
+pribado
+mga problema
+karapatan
+
+tanawin
+disenyo
+
+interes
+mas matagal
+sulit
+mga lugar
+
+mga libro
+
+mga tanong
+relasyon
+pinagmulan
+halaga
+opisyal
+
+modelo
+larawan
+mga grupo
+
+iba't iba
+pinamunuan
+mas mababa
+kalidad
+kasangkot
+wika
+
+
+mga tuntunin
+ipinanganak
+nagpasya
+itinuring
+sa ngayon
+mga event
+banyaga
+lahi
+tila
+
+
+
+pigura
+
+mga bahagi
+mga patakaran
+
+patungo
+mga paraan
+
+sinundan
+propesyonal
+inilabas
+panganib
+bola
+
+mga kaso
+
+porsyento
+
+diretso
+bisitahin
+pinapayagan
+mga fan
+paglago
+
+
+
+pamantayan
+limitado
+
+ginastos
+
+nanonood
+dagdag
+pagkakaiba
+mga plano
+presyon
+teksto
+
+indibidwal
+nangunguna
+milya
+partikular
+rehiyon
+seksyon
+
+sa buong
+
+lampas
+mga kondisyon
+mga puwersa
+mga numero
+makabuluhan
+paborito
+mga level
+
+litrato
+nag-post
+kaligtasan
+parang maganda
+mga team
+inanunsyo
+nagtatanong
+koleksyon
+nagpatuloy
+nagkakahalaga
+dinisenyo
+inaasahan
+nangyayari
+kasama na
+lalo na
+magkasya
+
+mga layunin
+kailangan ko
+interesado
+hukom
+mga linya
+materyal
+pinangalanan
+
+produkto
+
+
+mga manggagawa
+mga feature
+lumalaki
+imahe
+karamihan
+
+pagbubukas
+opinyon
+pisikal
+maabot
+pinakamalaki
+mga dahilan
+
+nagtataka
+kumpara
+pagsisikap
+natapos
+
+
+
+kakulangan
+pinakabago
+maramihan
+mas matanda
+pumasa
+mga larawan
+mga aktibidad
+kompetisyon
+direkto
+engrande
+tumaas
+swerte
+mga pangalan
+mga resources
+
+nahuli
+direktang
+nagmamaneho
+
+pinakamalaking
+makina
+mapansin
+pagpaplano
+ipinakita
+
+mga kotse
+mga epekto
+ganap
+
+hawak
+
+realidad
+
+mga karakter
+napakarami
+mga presyo
+
+ipinapakita
+gumagamit ng
+mga komento
+kahulugan
+
+aktibidad
+
+
+kondisyon
+init
+pinakamataas
+matatagpuan
+inalok
+naglalagay
+
+mga bituin
+naglalakad
+
+paghahanap
+inilagay
+proteksyon
+naabot
+sumakay
+
+pinirmahan
+mga uri
+suot
+mga hayop
+lumalabas
+mga ideya
+pinapanatili
+mga tala
+itinaas
+solusyon
+mga kanta
+
+nagiging
+natatakpan
+
+nabanggit
+karamihan ay
+may-ari
+mga litrato
+dati
+mapagtanto
+
+sukat
+
+mga pananaw
+umaarte
+mga aksyon
+henerasyon
+mas malaking
+
+bumalik
+upuan
+tila naman
+pag-unawa
+ahente
+awtoridad
+nagiging ganap
+memorya
+pagtaas
+nagsilbi
+
+sayang
+nangyayari ngayon
+paraan
+
+nananatili
+mga user
+ligaw
+dumating
+nagpapatuloy
+pinakadakila
+
+mga pelikula
+pigilan
+tinanggal
+hanggang
+gulo
+mga video
+mga customer
+impluwensya
+
+pagbaril
+
+
+mga klase
+
+
+
+mga aso
+mga pagsisikap
+
+patunayan
+libu-libo
+mga unit
+
+mga card
+nagbabago
+
+nagawa
+
+patpat
+kagandahan
+usapan
+nagtatapos
+umiiral
+mga imahe
+
+
+responsibilidad
+bahagya
+magmungkahi
+mga iniisip
+gamutin
+iba't ibang uri
+mga armas
+
+mga alok
+nag-order
+
+sanggunian
+mga account
+manonood
+mas malapit
+
+tapat
+mga kasinungalingan
+banggitin
+mga utos
+mga panig
+mga hakbang
+
+lasa
+mga desisyon
+
+
+
+panimula
+mga link
+
+pares
+mga piraso
+
+itaas na
+pinanood
+handang
+aksidente
+alternatibo
+nagdadala
+kapasidad
+talakayan
+tungkulin
+damdamin
+lumilipad
+ihalo
+mga opsyon
+alisin
+mga palatandaan
+gumagastos
+sumusuporta
+ginamot
+lumiliko
+karamihan ng tao
+mga elemento
+
+nilayon
+mga kapangyarihan
+kita
+amerikana
+pag-uugali
+mga katawan
+mga kapatid
+lumilikha
+
+nakalista
+
+
+nakaplano
+mga set
+
+mas bata
+mga atake
+pinagsama
+naglalaman
+daloy
+tumataas
+
+pinili
+ibinahagi
+naipit
+iminungkahi
+sinuportahan
+itinuro
+nagdadagdag
+pinapayagan ang
+inilapat
+kumpirmado
+
+mga ulo
+umaasa
+nagsisinungaling
+
+na-pull
+ruta
+na-save
+
+mga halaga
+naglakad
+
 ]==])
