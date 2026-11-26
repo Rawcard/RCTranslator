@@ -28823,4 +28823,504 @@ paku
 negosiasi
 
 
+
+babak playoff
+penyair
+
+berkaitan
+berulang kali
+berguling
+
+wastafel
+perbudakan
+patah
+
+
+
+
+transformasi
+
+kaya raya
+
+bertiup
+
+menangkap
+kronis
+berkomunikasi
+dihukum
+
+
+mendemonstrasikan
+
+
+
+diberhentikan
+
+dosis
+
+
+membalik
+dermawan
+
+tergabung
+dipengaruhi
+
+
+setia
+
+secara mental
+
+
+
+
+
+
+
+hak istimewa
+
+
+
+
+salam
+kerabat
+semata-mata
+melangkah
+mencolok
+
+
+
+tepercaya
+
+vila
+volume
+
+nirkabel
+
+membungkus
+mengadopsi
+maskapai
+
+
+sepatu bot
+
+duit
+massal
+kamp
+kargo
+sensus
+pesisir
+berwarna
+
+kongres
+
+
+
+
+
+
+
+penekanan
+etika
+kegembiraan
+penjelajahan
+syuting
+grafis
+
+wawasan
+diinvestasikan
+
+
+saraf
+operator
+dalam semalam
+
+
+pai
+
+
+
+
+melestarikan
+
+
+
+berkisar
+
+menerima
+
+
+
+
+
+
+
+
+
+mengancam
+tembakau
+jejak
+
+terbuang
+tersebar luas
+menerima dengan
+dapat diakses
+
+menasihati
+penasihat
+animasi
+
+ruang bawah tanah
+pangkalan
+
+
+membatalkan
+karpet
+langit-langit
+ceri
+klasifikasi
+
+
+senyawa
+
+berturut-turut
+
+kostum
+setia sepenuhnya
+
+tak berujung
+melarikan diri
+
+injil
+biji-bijian
+kisi
+
+pemanas
+identifikasi
+lutut
+pangkuan
+
+
+
+
+
+
+dinominasikan
+ek
+parlementer
+paten
+persepsi
+
+
+proses hukum
+
+dipesan
+memulihkan
+
+saingan
+pelari
+sayangnya
+signifikansi
+
+sabun
+semprotan
+
+
+struktural
+
+tropis
+tidak perlu
+antik
+memperingatkan
+hektar
+diadaptasi
+adopsi
+anonim
+mendekati
+artistik
+
+
+
+tercinta
+memberkati
+
+bahan kimia
+kolonial
+
+kepatuhan
+
+mengendalikan
+
+sofa
+bendungan
+saus salad
+berkembang luas
+kebakaran
+tata bahasa
+bergambar
+
+selai
+
+
+lensa
+berlisensi
+kesetiaan
+magnetis
+
+monster
+misterius
+gagasan
+parsial
+menempatkan
+
+refleksi
+
+
+revolusioner
+skandal
+bersinar
+pengawasan
+taktik
+kesaksian
+cuitan
+mendasari
+
+penerimaan
+
+
+setiap tahun
+minta maaf
+dihargai
+mendekat
+
+pembeli
+kasino
+tangga lagu
+
+
+penasihat hukum
+makhluk hidup
+mematikan
+
+diinginkan
+merangkul
+
+
+
+pria terhormat
+menjadi tuan rumah
+ikon
+dikenakan
+pribumi
+tak terbatas
+pemasangan
+
+
+
+menendang
+
+badan legislatif
+
+
+maraton
+
+
+
+dirasakan
+
+
+
+pendahuluan
+pemutaran perdana
+
+
+realistis
+
+
+berbatu
+orang suci
+kepuasan
+menggaruk
+naungan
+seprai
+
+pemalu
+kapan-kapan
+
+
+secara ketat
+sinar matahari
+
+
+
+vokal
+
+hasil panen
+berprestasi
+penerimaan masuk
+
+
+
+
+
+ternak
+ruang kelas
+
+
+
+
+lansia
+menghilangkan
+
+
+
+memberi tahu
+
+
+matematika
+berpikiran
+
+
+portofolio
+produktivitas
+protokol
+
+mengganti
+tanggung jawab tugas
+penyaringan
+tersenyum
+tenggara
+
+
+
+
+mengatasi
+
+linimasa
+penyiksaan
+diperdagangkan
+
+
+sayuran
+vertikal
+
+dompet
+lokakarya
+dibungkus
+di atas kapal
+abstrak
+aksen
+kecanduan
+
+terjaga
+
+mengikat
+
+lahan bersama
+kaum konservatif
+
+
+kurva
+
+bersantap
+
+durasi
+menggembirakan
+peternakan
+
+gen
+
+ketinggian
+tanduk
+
+inspeksi
+memasang
+
+intensitas
+inventaris
+diselidiki
+undangan
+yudisial
+membenarkan
+danau
+ramping
+perpustakaan
+rudal
+
+barat laut
+
+
+sebaya
+tumpukan
+steker
+
+merilis
+
+direvisi
+
+
+menatap
+
+
+orang asing
+
+beralih
+tato
+remaja belasan
+
+tragedi
+
+kebun binatang
+kesesuaian
+
+aktivis
+para aktivis
+
+
+
+ketersediaan
+membengkokkan
+
+pelanggaran kontrak
+kabin
+kandang
+kanselir
+
+lemari
+
+
+konsultan
+
+kesopanan
+
+menuntut
+cakram
+
+puluhan
+kedutaan
+
+mempesona
+pembiayaan
+
+memperoleh keuntungan
+tuan-tuan
+
+helikopter
+
+terinfeksi
+bersemangat
+
+kaum liberal
+wajib
+
+
+belaka
+lumpur
+pengamatan
+
+berutang
+
+fenomena
+
+prospek
+
 ]==])

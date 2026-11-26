@@ -28823,4 +28823,504 @@ pako
 mga negosasyon
 
 operasyonal
+nagmamay-ari
+
+makata
+
+may kaugnayan
+paulit-ulit
+gumulong
+
+lababo
+pang-aalipin
+pitik
+
+
+nagnakaw
+transaksyon
+pagbabago
+beterano
+mayaman
+
+umiihip
+maalaga
+nanghuhuli
+talamak
+makipag-usap
+nahatulan
+mga kultura
+
+
+mga departamento
+
+diyagnosis
+
+
+dosis
+mga eksperimento
+
+
+mapagbigay
+ipatupad
+isinama
+naimpluwensyahan
+nagbibiro ka
+
+
+
+sa pag-iisip
+mga misyon
+hanapbuhay
+kalaban
+mga pinta
+
+tumuturo
+bilanggo
+pribilehiyo
+mga panukala
+mga protesta
+
+
+pagbati
+mga kamag-anak
+tanging
+humakbang
+
+mga terorista
+
+mga trak
+pinagkakatiwalaan
+mga sasakyang-dagat
+
+mga tomo
+mga website
+
+nagtaka
+balutin
+mag-ampon
+mga airline
+mga album
+
+
+mga bote
+
+
+mga kampo
+kargamento
+senso
+
+may kulay
+komentaryo
+kongresyonal
+umiyak
+
+
+
+
+umuusbong
+
+diin
+etika
+pananabik
+paggalugad
+pagkuha ng pelikula
+
+katatawanan
+
+namuhunan
+
+
+
+mga operator
+magdamag
+
+lumalahok
+
+mga plataporma
+mga populasyon
+
+
+pangalagaan
+
+maging kwalipikado
+
+
+
+
+kani-kanilang
+pinaghihigpitan
+mga ruta
+nakalagay
+mga alipin
+
+kumakalat
+napapanatili
+mga tema
+nagbabanta
+tabako
+
+nakulong
+nasayang
+laganap
+tumatanggap ng
+naa-access
+
+pinayuhan
+pagpapayo
+
+
+silong
+mga base
+mga labanan
+
+kanselahin
+alpombra
+kisame
+seresa
+klasipikasyon
+palatandaan
+mga code
+
+may malay
+magkakasunod
+
+
+tapat na tapat
+
+walang katapusan
+
+
+ebanghelyo
+butil
+
+
+pagpainit
+
+mga tuhod
+kandungan
+mga leon
+atay
+
+
+mga minahan
+halo
+nominado
+
+parlyamentaryo
+patente
+persepsyon
+
+magpatuloy
+
+mga mag-aaral
+nakareserba
+ibalik
+riple
+karibal
+mananakbo
+nakalulungkot
+
+mga sukat
+sabon
+
+nakaimbak
+
+istruktural
+
+tropikal
+
+
+nagbabala
+ektarya
+inangkop
+pag-aampon
+
+papalapit
+masining
+pagdalo
+abyasyon
+mga kama
+minamahal
+basbasan
+nagdiriwang
+mga kemikal
+kolonyal
+
+pagsunod
+salungat
+kumokontrol
+mga korporasyon
+sopa
+
+
+lumalawak
+mga sunog
+gramatika
+may larawan
+naimbento
+
+mga patong
+upa
+lente
+lisensyado
+katapatan
+magnetiko
+metro kuwadrado
+mga halimaw
+
+
+
+paglalagay
+
+repleksyon
+pinaalalahanan
+
+rebolusyonaryo
+iskandalo
+kuminang
+pagmamanman
+mga taktika
+patotoo
+
+pinagbabatayan
+mga nayon
+
+mga aksidente
+nakakaapekto
+taun-taon
+humingi ng paumanhin
+pinahahalagahan
+lumapit
+
+
+
+mga chart
+mga ulap
+kumokonekta
+
+
+nakamamatay
+nagpapasya
+ninanais
+yakapin
+
+eksibit
+
+ginoo
+nagho-host
+
+ipinataw
+
+
+pag-install
+
+mga interaksyon
+ipinakikilala
+sumisipa
+
+lehislatura
+pananagutan
+mga gumagawa
+
+
+parada
+paraiso
+
+
+mga eroplano
+pulitiko
+paunang
+
+pagkapangulo
+
+makatotohanan
+mga puna
+panatilihin
+mabato
+mga santo
+
+kamutin
+lilim
+mga kumot
+
+mahiyain
+
+mga espiritu
+pampalakasan
+mahigpit
+sikat ng araw
+mga tinedyer
+
+
+bokal
+
+ani
+
+pagpasok
+mga pakikipagsapalaran
+
+
+naniniwala
+mga sumbrero
+
+silid-aralan
+
+maginhawa
+mga kriminal
+pananim
+matatanda
+
+
+mga gawad
+mga insidente
+ipaalam
+
+magkasintahan
+matematika
+may pag-iisip
+
+
+
+pagiging produktibo
+
+
+pinapalitan
+mga responsibilidad
+
+nakangiti
+timog-silangan
+taya
+nagsasaad
+pilay
+pinaghihinalaan
+harapin
+mga tigre
+
+pagpapahirap
+ipinagpalit
+mga trick
+
+
+patayo
+paglabag
+pitaka
+
+nakabalot
+
+abstrakto
+punto
+adiksyon
+mga kasama
+
+
+may bisa
+blangko
+pampublikong lupa
+mga konserbatibo
+mga contact
+
+kurba
+
+kainan
+mga karamdaman
+tagal
+nakapagpapalakas-loob
+
+mga daloy
+mga gene
+
+
+sungay
+mga sangkap
+inspeksyon
+i-install
+tagubilin
+tindi
+imbentaryo
+inimbestigahan
+imbitasyon
+panghukuman
+bigyang-katwiran
+mga lawa
+payat
+mga aklatan
+misayl
+mga kalamnan
+hilagang-kanluran
+mga nars
+
+kapantay
+tambak
+
+probisyon
+naglalabas
+
+
+baras
+sumigaw
+nakatitig
+istatistika
+mga patpat
+mga estranghero
+nagtagumpay
+lumipat
+
+pambinata
+mga tour
+trahedya
+
+
+alinsunod
+
+aktibista
+mga aktibista
+mga address
+
+naaangkop
+
+baluktot
+hangganan
+paglabag sa
+
+hawla
+
+mga bilog
+aparador
+naghahambing
+
+
+
+kagandahang-loob
+
+mapaghingi
+
+mga putahe
+dose-dosenang
+embahada
+nakakaengganyo
+
+
+
+nakakakuha
+mga ginoo
+kabutihan
+helikopter
+mga sambahayan
+nahawahan
+masigasig
+
+mga liberal
+sapilitan
+
+mga mekaniko
+
+putik
+obserbasyon
+
+may utang
+pinahintulutan
+penomena
+
+
+proteksiyon
 ]==])

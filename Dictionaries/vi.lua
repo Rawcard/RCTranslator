@@ -28823,4 +28823,504 @@ móng tay
 đàm phán
 vô nghĩa
 
+
+vòng loại trực tiếp
+nhà thơ
+
+
+nhiều lần
+
+
+bồn rửa
+chế độ nô lệ
+bẻ gãy
+
+
+đã lấy trộm
+
+sự biến đổi
+
+giàu có
+
+thổi
+chu đáo
+
+mãn tính
+
+bị kết án
+các nền văn hóa
+
+
+các phòng ban
+
+chẩn đoán
+
+xuất chúng
+liều lượng
+
+da thịt
+lật
+hào phóng
+
+được kết hợp
+
+đùa à
+tia laze
+trung thành
+cần sa
+về mặt tinh thần
+
+nghề nghiệp
+
+tranh vẽ
+
+chỉ tay
+
+đặc quyền
+
+
+nhạc punk
+ra đa
+lời chào
+họ hàng
+
+
+
+
+quá cảnh
+
+
+
+biệt thự
+tập sách
+
+không dây
+
+gói
+nhận nuôi
+hãng hàng không
+
+
+ủng
+
+
+số lượng lớn
+
+
+điều tra dân số
+ven biển
+có màu
+
+thuộc quốc hội
+đã khóc
+
+
+xa xôi
+đồ điện tử
+mới nổi
+
+sự nhấn mạnh
+
+sự phấn khích
+
+quay phim
+đồ họa
+hài hước
+sự thấu hiểu
+đã đầu tư
+
+bữa ăn
+thần kinh
+
+qua đêm
+
+
+bánh nướng
+
+quần thể
+áp phích
+thực tế là
+
+
+
+
+dao động
+
+nhận được
+tương ứng
+bị hạn chế
+
+
+
+
+lan rộng
+bền vững
+
+đe dọa
+thuốc lá
+dấu vết
+bị mắc kẹt
+
+
+
+dễ tiếp cận
+
+đã khuyên
+tư vấn
+hoạt hình
+trần trụi
+tầng hầm
+căn cứ
+trận chiến
+mảnh nhỏ
+hủy bỏ
+thảm
+trần nhà
+anh đào
+phân loại
+
+mã
+hợp chất
+có ý thức
+liên tiếp
+
+
+
+được hiển thị
+bất tận
+
+
+phúc âm
+ngũ cốc
+
+phát triển lên
+sưởi ấm
+
+đầu gối
+lòng
+
+gan
+tàu điện ngầm
+đô thị
+mỏ
+
+được đề cử
+cây sồi
+nghị viện
+bằng sáng chế
+
+
+tiến hành
+thủ tục tố tụng
+học trò
+đã đặt trước
+khôi phục
+súng trường
+đối thủ cạnh tranh
+người chạy
+thật đáng buồn
+
+kích cỡ
+xà phòng
+bình xịt
+được lưu trữ
+
+
+phòng hạng sang
+nhiệt đới
+không cần thiết
+
+đã cảnh báo
+mẫu Anh
+chuyển thể
+việc nhận con nuôi
+ẩn danh
+đang đến gần
+
+sự tham dự
+hàng không
+
+yêu dấu
+
+
+hóa chất
+thuộc địa
+
+tuân thủ
+trái ngược
+kiểm soát
+
+
+
+
+
+đám cháy
+ngữ pháp
+có minh họa
+được phát minh
+mứt
+
+hợp đồng thuê
+ống kính
+được cấp phép
+lòng trung thành
+từ tính
+
+quái vật
+
+
+từng phần
+
+tuyên truyền
+sự phản chiếu
+đã nhắc nhở
+
+
+vụ bê bối
+tỏa sáng
+
+chiến thuật
+lời khai
+
+tiềm ẩn
+làng mạc
+sự chấp nhận
+
+
+
+
+được đánh giá cao
+đã tiếp cận
+
+người mua
+sòng bạc
+
+
+
+luật sư tư vấn
+sinh vật sống
+chết người
+
+
+ôm lấy
+
+
+đã bay
+quý ông
+
+
+áp đặt
+
+vô hạn
+lắp đặt
+
+
+
+
+
+cơ quan lập pháp
+trách nhiệm pháp lý
+
+
+
+cuộc diễu hành
+
+được nhận thấy
+những bức ảnh
+
+
+sơ bộ
+buổi ra mắt
+nhiệm kỳ tổng thống
+
+
+nhận xét
+giữ lại
+nhiều đá
+các vị thánh
+sự hài lòng
+gãi
+bóng râm
+ga trải giường
+cảnh sát trưởng
+nhút nhát
+lúc nào đó
+
+
+nghiêm ngặt
+ánh nắng
+
+
+đi du lịch
+thanh nhạc
+
+sản lượng
+thành đạt
+sự nhập học
+cuộc phiêu lưu
+xuất hiện trong
+thịt xông khói
+
+mũ lưỡi trai
+gia súc
+lớp học
+
+thuận tiện
+
+cây trồng
+người cao tuổi
+
+
+
+
+
+
+những người yêu nhau
+toán học
+có đầu óc
+
+
+danh mục đầu tư
+
+giao thức
+lặng lẽ
+thay thế
+trách nhiệm công việc
+sàng lọc
+mỉm cười
+đông nam
+
+nêu rõ
+sự căng
+bị nghi ngờ
+giải quyết vấn đề
+
+dòng thời gian
+tra tấn
+đã giao dịch
+
+
+rau củ
+thẳng đứng
+vi phạm
+ví
+hội thảo
+được gói
+trên tàu
+trừu tượng
+giọng
+nghiện
+
+tỉnh táo
+chùm tia
+ràng buộc
+
+đất công
+người bảo thủ
+danh bạ
+
+đường cong
+
+ăn uống
+
+thời lượng
+đáng khích lệ
+trang trại
+
+gen
+đã tốt nghiệp
+độ cao
+sừng
+nguyên liệu
+kiểm định
+
+
+cường độ
+hàng tồn kho
+bị điều tra
+lời mời
+tư pháp
+biện minh
+hồ
+gầy
+thư viện
+
+cơ bắp
+tây bắc
+
+
+bạn đồng trang lứa
+
+phích cắm
+
+
+
+
+cái que
+hét lên
+nhìn chằm chằm
+
+que
+người lạ
+đã thành công
+đã chuyển đổi
+hình xăm
+tuổi teen
+
+bi kịch
+chấn thương tâm lý
+sở thú
+sự phù hợp
+giành được
+nhà hoạt động
+các nhà hoạt động
+địa chỉ
+
+áp dụng được
+tính sẵn có
+uốn cong
+
+vi phạm hợp đồng
+
+lồng
+
+
+tủ quần áo
+
+ý thức
+chuyên gia tư vấn
+tương ứng với
+phép lịch sự
+thiệt hại
+khắt khe
+
+
+hàng chục
+đại sứ quán
+
+
+
+
+giành
+các quý ông
+lòng tốt
+trực thăng
+
+bị nhiễm
+háo hức
+kém hơn
+những người theo chủ nghĩa tự do
+
+
+
+chỉ là
+bùn
+quan sát
+
+
+
+hiện tượng
+
+triển vọng
+
 ]==])

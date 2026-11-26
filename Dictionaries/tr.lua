@@ -28823,4 +28823,504 @@ imalatçı
 müzakereler
 
 operasyonel
+
+play-off
+şair
+
+
+tekrar tekrar
+yuvarlandı
+bilim insanı
+lavabo
+kölelik
+şıklatmak
+
+ruhlar
+çaldı
+işlem
+
+gazi
+varlıklı
+ek olarak
+esen
+şefkatli
+yakalayan
+kronik
+iletişim kurmak
+mahkum edilmiş
+kültürler
+dağıttı
+göstermek
+
+geliştirici
+teşhis
+görevden alınan
+
+doz
+deneyler
+
+çevirmek
+cömert
+uygulamak
+dahil edilmiş
+
+şaka yapıyorsun
+lazer
+sadık
+esrar
+zihinsel olarak
+
+
+rakip
+tablolar
+foto
+işaret eden
+mahkum
+ayrıcalık
+
+protestolar
+
+
+
+akrabalar
+
+adım attı
+
+teröristler
+
+kamyonlar
+güvenilen
+
+
+ciltler
+web siteleri
+kablosuz
+merak etti
+sarmak
+evlat edinmek
+havayolları
+albümler
+
+
+
+
+toplu
+kamplar
+
+nüfus sayımı
+
+
+
+
+ağladı
+bayi
+sayılan
+
+
+gelişmekte olan
+duygu
+vurgu
+etik
+heyecan
+
+
+grafikler
+
+içgörü
+yatırım yapılmış
+
+yemekler
+sinir
+operatörler
+bir gecede
+
+
+turta
+platformlar
+nüfuslar
+
+
+korumak
+üretir
+hak kazanmak
+
+değişen
+
+
+ilgili olan
+kısıtlı
+rotalar
+konumlanmış
+köleler
+
+yayılan
+sürdürülebilir
+temalar
+tehdit eden
+tütün
+iz
+kapana kısılmış
+boşa harcanmış
+
+kabul eden
+erişilebilir
+kabul etmek
+tavsiye etti
+danışma
+animasyon
+
+bodrum
+üsler
+
+
+iptal etmek
+halı
+tavan
+kiraz
+sınıflandırma
+
+kodlar
+bileşik
+bilinçli
+ardışık
+
+kostüm
+adanmış
+görüntülenen
+sonsuz
+kaçtı
+incelemek
+incil
+tahıl
+
+büyür
+ısıtma
+kimlik tespiti
+dizler
+kucak
+aslanlar
+karaciğer
+
+büyükşehir
+madenler
+karışım
+aday gösterilen
+meşe
+parlamenter
+
+algı
+hekim
+
+yargılama
+
+rezerve
+geri yüklemek
+tüfek
+rakip takım
+koşucu
+
+
+
+sabun
+sprey
+depolanmış
+stresli
+yapısal
+süit
+tropikal
+gereksiz
+
+uyardı
+dönüm
+uyarlanmış
+evlat edinme
+anonim
+
+sanatsal
+
+havacılık
+yataklar
+
+kutsamak
+kutlayan
+kimyasallar
+sömürge
+çizgi romanlar
+uyum
+
+kontrol eden
+
+kanepe
+
+
+genişleyen
+yangınlar
+dilbilgisi
+resimli
+icat edilmiş
+reçel
+katmanlar
+
+mercek
+lisanslı
+sadakat
+manyetik
+metreler
+canavarlar
+
+
+kısmi
+
+
+yansıma
+hatırlattı
+
+devrimci
+
+parlamak
+gözetim
+taktikler
+tanıklık
+
+altta yatan
+köyler
+kabul
+kazalar
+etkiler
+
+özür dilemek
+takdir edilen
+yaklaştı
+
+alıcılar
+kumarhane
+
+bulutlar
+bağlanan
+
+
+ölümcül
+karar verir
+arzu edilen
+kucaklamak
+
+
+uçtu
+beyefendi
+ev sahipliği
+ikon
+dayatılan
+
+sonsuzluk
+
+
+etkileşimler
+
+tekmeleyen
+döşeyen
+yasama meclisi
+
+
+maraton
+
+geçit töreni
+
+algılanan
+
+uçaklar
+politikacı
+
+gala
+
+ulaşır
+gerçekçi
+sözler
+elde tutmak
+kayalık
+azizler
+memnuniyet
+kaşımak
+
+çarşaflar
+şerif
+utangaç
+bir ara
+
+sportif
+
+güneş ışığı
+gençler
+
+
+vokal
+
+verim
+başarılmış
+
+maceralar
+
+pastırma
+inanan
+şapkalar
+sığırlar
+
+
+
+suçlular
+mahsul
+yaşlılar
+ortadan kaldırmak
+
+hibeler
+olaylar
+bilgilendirmek
+iyon
+aşıklar
+
+zihniyetli
+
+
+portföy
+
+protokol
+
+yerini alan
+sorumluluklar
+tarama
+gülümseyen
+güneydoğu
+pay
+belirten
+gerginlik
+
+ele almak
+kaplanlar
+zaman çizelgesi
+işkence
+takas edildi
+hileler
+ikizler
+sebzeler
+dikey
+ihlal
+cüzdan
+atölye
+sarılmış
+gemide
+soyut
+aksan
+bağımlılık
+
+uyanık
+
+bağlayıcı
+
+ortak alanlar
+muhafazakarlar
+
+mahkumiyet
+eğri
+hak edilmiş
+yemek yeme
+bozukluklar
+süre
+cesaret verici
+çiftlikler
+akışlar
+genler
+mezun oldu
+yükseklikler
+boynuz
+
+denetim
+
+talimat
+
+envanter
+soruşturuldu
+davet
+yargısal
+haklı çıkarmak
+göller
+yağsız
+kütüphaneler
+füze
+kaslar
+kuzeybatı
+hemşireler
+
+akran
+yığın
+fiş
+hüküm
+serbest bırakan
+gerektiren
+revize edilmiş
+
+çığlık atmak
+
+istatistiksel
+sopalar
+yabancılar
+
+değiştirdi
+
+ergen
+turneler
+trajedi
+travma
+hayvanat bahçesi
+uygunluk
+edinmek
+aktivist
+aktivistler
+adresler
+
+uygulanabilir
+kullanılabilirlik
+bükmek
+
+ihlali
+
+kafes
+şansölye
+daireler
+dolap
+karşılaştıran
+bilinç
+danışman
+karşılık gelen
+nezaket
+zararlar
+talepkar
+disk
+yemek tabakları
+düzinelerce
+büyükelçilik
+ilgi çekici
+büyüleyici
+
+donatılmış
+
+beyler
+
+helikopter
+haneler
+enfekte
+
+
+liberaller
+
+
+mekanikler
+
+çamur
+gözlem
+işletir
+borçlu olmak
+izin verilen
+olgu
+
+ihtimal
+
 ]==])
