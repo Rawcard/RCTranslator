@@ -28323,4 +28323,504 @@ sự ổn định
 đá cuội
 biểu tượng
 thiết bị đầu cuối
+nhà vệ sinh
+
+
+ngoại tình
+chương trình nghị sự
+lịch
+
+tập thể
+các cuộc trò chuyện
+hợp tác
+sâu hơn
+quỷ dữ
+chỉnh sửa
+vốn chủ sở hữu
+
+đang thất bại
+đang hoàn thành
+vận may
+
+phần cứng
+trí thức
+
+các loại hạt
+một phần
+kiến nghị
+cụm từ
+về thể chất
+đang bảo vệ
+về chủng tộc
+được đánh giá
+
+các con sông
+
+đã cai trị
+nước sốt
+tách biệt
+tương tự
+cầu trượt
+thân cây
+hội nghị thượng đỉnh
+cổ họng
+cảm động
+chuyến thăm
+
+kế toán
+người ngoài hành tinh
+quái thú
+hãng vận chuyển
+người nổi tiếng
+chứng chỉ
+được trích dẫn
+đất sét
+huấn luyện
+đồng nghiệp
+được xây dựng
+mặc định
+bắt nguồn
+
+kéo lê
+có học thức
+đủ điều kiện
+đã tồn tại
+người theo dõi
+kẻ ngốc
+khuôn khổ
+nhượng quyền
+
+đồ nội thất
+các thế hệ
+được đảm bảo
+tích hợp
+
+máy bay phản lực
+các nhà báo
+lối sống
+
+vòng lặp
+trung tâm mua sắm
+hải ngoại
+các buổi biểu diễn
+khuyến nghị
+
+dựa vào
+đáng chú ý
+
+phán quyết
+hy sinh
+duy nhất
+
+bàn
+câu chuyện cổ
+
+thời điểm
+
+tình nguyện viên
+đã mặc
+thờ phụng
+
+đã hành động
+âm trầm
+
+
+đặc điểm
+cộng tác
+
+sự cân nhắc
+
+tạo ra
+
+con gái
+
+ổ đĩa
+kép
+được trang bị
+
+thử nghiệm
+quả địa cầu
+
+
+điểm nổi bật
+
+
+
+tỷ lệ cược
+nhiếp ảnh gia
+ghim
+phòng ngừa
+in ấn
+thúc đẩy
+công khai
+máy bơm
+lặp đi lặp lại
+đã trả lời
+
+
+
+trượt chân
+không gian
+
+
+
+nộp
+
+
+tình nguyện
+chấp nhận được
+đang cố gắng
+trái phiếu
+
+được sáng tác
+quân đoàn
+đang đếm
+danh đề
+tranh chấp
+
+biên tập
+bị hành quyết
+vừa vặn
+
+khu vườn
+tụ tập
+bị phớt lờ
+
+
+lề
+sao Hỏa
+cơ chế
+
+song song
+
+hố
+tâm lý
+
+bức xạ
+có kích thước
+
+xe tăng
+
+tàu hỏa
+đang du lịch
+đang điều trị
+giai điệu
+tiện ích
+tàu thuyền
+cỏ
+bất cứ nơi nào
+mua lại
+được giải quyết
+được hậu thuẫn
+táo bạo
+biên giới
+đang chọn
+cổ điển
+mật
+
+
+tiền xu
+
+âm mưu
+
+thuyết phục
+
+
+
+liên đoàn
+tài khóa
+người giám hộ
+vô gia cư
+dụng cụ
+can thiệp
+người yêu
+chính thống
+thực đơn
+được gắn
+lẫn nhau
+các dịp
+hành vi phạm tội
+bằng miệng
+các dân tộc
+theo đuổi
+nhận thấy
+người tị nạn
+đang loại bỏ
+đã phản hồi
+bị hủy hoại
+phạm vi
+phân khúc
+quang phổ
+
+liên doanh
+hầu như
+đã mòn
+đi kèm
+viện trợ
+nhắm vào
+cách tiếp cận
+đang cãi nhau
+sự sắp xếp
+
+
+ranh giới
+gạch
+các trường cao đẳng
+
+
+được chỉ định
+
+hoàng đế
+nhà tuyển dụng
+
+tha thứ
+lợi ích
+nhà để xe
+
+đã xử lý
+được tổ chức
+cuộc điều tra
+thanh tra
+đã nhảy
+đã tải
+duy trì
+đã đo
+tuy nhiên
+báo chí
+
+oxy
+bột
+được cung cấp năng lượng
+
+
+
+xếp hạng
+đã hồi phục
+
+ốc vít
+nơi trú ẩn
+chữ ký
+sớm hơn
+đình công
+đang gợi ý
+bộ com lê
+
+theo dõi
+tưởng nhớ
+
+
+tiền công
+
+
+phá thai
+đang áp dụng
+nhân tạo
+thuộc về
+bên dưới
+bỏng
+được tôn vinh
+nhất quán
+bản quyền
+
+đảng viên Dân chủ
+tiền gửi
+điểm đến
+
+email
+
+xuất khẩu
+nhanh nhất
+
+
+
+cho thấy
+bị cô lập
+đã gõ
+đã hạ cánh
+đã cười
+đã sửa đổi
+
+hải quân
+hàng xóm
+cao quý
+lâu đời nhất
+sự nổi tiếng
+
+
+liên hệ
+
+chứng khoán
+giày
+loa
+suối
+gián điệp
+
+
+hệ thống treo
+chủ nghĩa khủng bố
+kho bạc
+đường hầm
+công đoàn
+lệnh bắt
+rộng hơn
+tích cực
+
+
+
+
+hậu thuẫn
+gánh nặng
+mang theo
+được chứng nhận
+hiến chương
+dân thường
+
+phàn nàn
+
+gây tranh cãi
+đang mô tả
+
+đang thảo luận
+kiếm được
+chi tiêu
+đang giải thích
+tuyển dụng
+người dẫn chương trình
+được triển khai
+
+xâm lược
+đang nhảy
+
+đối thủ
+ngoài trời
+cây cọ
+
+
+quán rượu
+khu nhà
+cấp bậc
+lễ tân
+
+được xem xét
+cuộn
+cao su
+được bảo đảm
+nối tiếp
+cài đặt
+nhà kho
+đang ăn cắp
+
+chất
+
+hội chứng
+
+
+
+cách sử dụng
+các thế giới
+vô tình
+giá cả phải chăng
+nghiệp dư
+
+ổ trục
+nhịp
+thùng rác
+
+kênh đào
+rẻ hơn
+
+quyền nuôi con
+
+
+nhà phát triển
+sự phát triển
+
+
+người sử dụng lao động
+
+dân gian
+đẹp trai
+ngày lễ
+khách sạn
+trí tưởng tượng
+hội nhập
+chính trực
+
+hợp pháp
+tải
+dài nhất
+
+động lực
+trang phục
+lương hưu
+
+đĩa
+chân dung
+năng suất
+
+
+
+áo sơ mi
+ngắn hơn
+nhẹ
+xã hội chủ nghĩa
+được nhắm mục tiêu
+
+
+cảm động lòng
+
+
+thất nghiệp
+đoàn kết
+người xem
+
+đã thức dậy
+
+
+
+
+bị thổi bay
+
+
+khoai tây chiên
+phòng khám
+gần nhất
+
+
+được chuyển đổi
+
+người sáng tạo
+sinh vật
+tiêu chí
+thám tử
+khó khăn
+khuyết tật
+món ăn
+vịt
+
+dư thừa
+hàng rào
+đấu sĩ
+
+ép buộc
+hình thành
+dần dần
+thói quen hàng ngày
+làm nổi bật
+người giữ
+mũ trùm
+bị treo
+giống hệt
+đế quốc
+các cuộc điều tra
+hợp pháp hóa
+đã nói dối
+đã lắng nghe
+con đực
+
+mét
+móng tay
+đàm phán
+vô nghĩa
+
 ]==])

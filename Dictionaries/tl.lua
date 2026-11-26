@@ -28323,4 +28323,504 @@ katatagan
 
 simbolo
 
+kubeta
+mga update
+tiningnan
+relasyon lihim
+adyenda
+kalendaryo
+kapa
+kolektibo
+mga usapan
+kooperasyon
+mas malalim
+diyablo
+i-edit
+
+mga tantya
+nabibigo
+tinatapos
+
+mga tarangkahan
+
+intelektwal
+pakikilahok
+mani
+bahagyang
+petisyon
+parirala
+
+pinoprotektahan
+panlahi
+na-rate
+rehimen
+mga ilog
+mga round
+namuno
+sarsa
+
+katulad
+padulasan
+tangkay
+
+lalamunan
+naantig
+mga pagbisita
+mga mandirigma
+
+
+halimaw
+tagadala
+sikat na tao
+sertipiko
+sinipi
+luwad
+
+mga kasamahan
+itinayo
+
+hinango
+natatangi
+kaladkarin
+edukado
+kwalipikado
+umiral
+mga tagasunod
+
+balangkas
+prangkisa
+pinondohan
+muwebles
+mga henerasyon
+garantisado
+pinagsama-sama
+
+
+mga mamamahayag
+pamumuhay
+ilaw
+
+
+sa ibayong dagat
+mga pagtatanghal
+mga rekomendasyon
+itinuring na
+umasa
+kapansin-pansin
+mga tugon
+
+sakripisyo
+
+mga estratehiya
+mga mesa
+
+mga target
+tiyempo
+
+mga boluntaryo
+
+pagsamba
+
+kumilos
+
+
+paghinga
+
+kolaborasyon
+
+konsiderasyon
+binibilang
+
+
+mga anak na babae
+mga talakayan
+mga drive
+
+nilagyan
+pinalawak
+eksperimental
+globo
+mga grado
+golpo
+mga highlight
+
+isangkot
+
+tsansa
+potograpo
+aspili
+
+paglilimbag
+nagpo-promote
+sa publiko
+
+inulit
+sumagot
+mga kahilingan
+mga buto ng halaman
+mga signal
+madulas
+mga espasyo
+ekstra
+espesyalista
+mga stock
+isumite
+i-tap
+mga banta
+boluntaryo
+katanggap-tanggap
+
+mga bono
+mga simbahan
+
+korps
+nagbibilang
+mga kredito
+alitan
+
+pag-edit
+
+kasya
+
+mga hardin
+nagtipon
+hindi pinansin
+mga pagpapabuti
+mga pamumuhunan
+
+
+mekanismo
+
+paralel
+daanan
+hukay
+sikolohikal
+mga publikasyon
+radyasyon
+
+nakamamangha
+mga tangke
+mga paksa
+mga tren
+naglalakbay
+ginagamot
+himig
+
+sasakyang-dagat
+
+saanman
+
+tinugunan
+
+
+mga hangganan
+pumipili
+klasiko
+
+
+mga coach
+mga barya
+mga konsepto
+sabwatan
+kontrobersiya
+kumbinsihin
+nawala
+
+
+pederasyon
+piskal
+tagapag-alaga
+walang tirahan
+instrumento
+interbensyon
+mangingibig
+
+
+nakakabit
+
+mga okasyon
+pagkakasala
+pasalita
+
+ituloy
+
+mga refugee
+inaalis
+tumugon
+nasira
+
+
+
+
+pakikipagsapalaran
+
+gamit na
+sinamahan
+mga tulong
+tinutukan
+mga diskarte
+nagtatalo
+kaayusan
+mga paniniwala
+mga bangka
+mga hangganan ng
+laryo
+mga kolehiyo
+malaki-laki
+kumbensyonal
+
+
+emperador
+mga employer
+mga error
+patawarin
+mga pakinabang
+garahe
+mga alituntunin
+hinawakan
+pinangunahan
+pagsisiyasat
+inspektor
+
+kargado
+
+sinukat
+gayunpaman
+mga pahayagan
+panlabas na bahagi
+
+pulbos
+
+mga pangako
+mga quote
+rasismo
+mga rating
+nakarekober
+
+turnilyo
+silungan
+lagda
+mas maaga
+mga welga
+
+mga terno
+mga laruan
+
+parangal
+mag-iba
+
+mga sahod
+mga balon
+mga gulong
+aborsyon
+nag-aaplay
+artipisyal
+nabibilang
+
+mga paso
+ipinagdiwang
+tuloy-tuloy
+
+mga county
+demokrata
+deposito
+destinasyon
+magkakaiba
+mga email
+
+eksport
+pinakamabilis
+
+
+
+nagpapahiwatig
+nakahiwalay
+
+lumapag
+tumawa
+
+munisipal
+pandagat militar
+mga kapitbahay
+
+pinakamatanda
+kasikatan
+mga propesyonal
+mga reaksyon
+maiugnay
+
+mga seguridad
+
+mga speaker
+mga bukal
+espiya
+mga mungkahi
+
+suspensyon
+terorismo
+ingat-yaman
+lagusan
+mga unyon
+
+mas malawak
+
+nalalapat
+mga kaayusan
+
+
+
+pasanin
+
+sertipikado
+karta
+sibilyan
+koalisyon
+magreklamo
+mga reklamo
+kontrobersyal
+
+naiiba
+tinatalakay
+kumikita
+
+
+pagkuha ng tao
+mga host
+ipinatupad
+agad
+pagsalakay
+tumatalon
+
+mga kalaban
+
+palma
+
+
+
+mga tirahan
+mga ranggo
+pagtanggap
+
+sinuri
+mga rolyo
+goma
+sinigurado
+serye
+mga setting
+kubo
+nagnanakaw
+pagkatapos nito
+sangkap
+mungkahi
+sindrom
+
+mga biyahe
+
+paggamit
+mga mundo
+hindi sinasadya
+abot-kaya
+baguhan
+mga apela
+
+mga beat
+basurahan
+
+kanal
+mas mura
+nakikipagkumpitensya
+kustodiya
+burahin
+
+mga developer
+mga pag-unlad
+maghukay
+mga agila
+
+
+
+guwapo
+mga holiday
+mga hotel
+imahinasyon
+integrasyon
+integridad
+interpretasyon
+lehitimo
+mga karga
+pinakamahaba
+mga gilingan
+motibasyon
+kasuotan
+pensiyon
+
+mga plato
+larawang guhit
+produktibo
+nagpapaalala
+mga reserba
+
+mga kamiseta
+mas maikli
+bahagya lang
+sosyalista
+tinarget
+tensyon
+mga teorya
+nakakaantig
+mga transaksyon
+
+kawalan ng trabaho
+pagkakaisa
+mga manonood
+mga hangin
+nagising
+tagapagtaguyod
+
+arko
+
+hinipan
+mga sanga
+mga kampanya
+mga chips
+klinika
+pinakamalapit
+mga koleksyon
+tuloy-tuloy na
+na-convert
+
+lumikha
+mga nilalang
+
+detektib
+mga paghihirap
+kapansanan
+ulam
+pato
+ebalwasyon
+labis
+bakod
+mga mandirigma ng laban
+mga flight
+pinipilit
+bumubuo
+unti-unti
+mga gawi
+i-highlight
+may hawak
+talukbong
+
+magkapareho
+imperyal
+mga imbestigasyon
+legal
+nagsinungaling
+nakinig
+mga lalaking hayop
+tagagawa
+mga metro
+pako
+mga negosasyon
+
+operasyonal
 ]==])

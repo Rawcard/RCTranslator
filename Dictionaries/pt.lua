@@ -28323,4 +28323,504 @@ estabilidade
 pedras
 símbolo
 
+sanita
+atualizações
+
+caso amoroso
+
+calendário
+capa
+coletivo
+conversas
+cooperação
+mais profundo
+diabo
+editar
+equidade
+estimativas
+a falhar
+a terminar
+fortuna
+portões
+
+intelectual
+envolvimento
+nozes
+em parte
+petição
+
+fisicamente
+a proteger
+
+
+
+rios
+rondas
+governado
+molho
+
+da mesma forma
+deslizar
+caule
+cimeira
+garganta
+tocado
+visitas
+guerreiros
+contabilidade
+alienígena
+
+transportadora
+celebridade
+certificado
+citado
+barro
+treino
+colegas
+
+predefinição
+derivado
+distinto
+arrastar
+
+elegível
+existiu
+seguidores
+
+estrutura
+franquia
+financiado
+mobília
+gerações
+garantido
+integrado
+
+jato
+jornalistas
+estilo de vida
+iluminação
+
+centro comercial
+ultramar
+atuações
+recomendações
+
+
+notável
+
+
+sacrifício
+
+estratégias
+mesas
+conto
+alvos
+momento certo
+tonelada
+voluntários
+vestia
+adoração
+digno
+agiu
+
+sangrento
+respiração
+características
+colaboração
+
+
+
+cria
+
+filhas
+discussões
+
+
+equipado
+expandido
+
+globo
+
+golfo
+destaques
+
+envolver
+logótipo
+probabilidades
+fotógrafo
+alfinete
+prevenção
+
+a promover
+publicamente
+
+repetido
+respondeu
+pedidos
+sementes
+
+escorregar
+espaços
+sobresselente
+
+
+submeter
+tocar
+ameaças
+voluntário
+aceitável
+a tentar
+obrigações
+igrejas
+composto
+
+a contar
+créditos
+disputa
+ganhos
+
+executado
+encaixa
+frequente
+jardins
+reunido
+
+melhorias
+investimentos
+margem
+Marte
+mecanismo
+ópera
+paralelo
+passagem
+fosso
+psicológico
+
+radiação
+dimensionado
+deslumbrante
+tanques
+temas
+comboios
+a viajar
+a tratar
+melodia
+utilidade
+embarcação
+erva
+onde quer que
+aquisição
+abordado
+
+ousado
+fronteiras
+a escolher
+
+confidencial
+clipe
+treinadores
+moedas
+conceitos
+conspiração
+controvérsia
+convencer
+desaparecido
+exame
+
+federação
+
+guardião
+sem-abrigo
+instrumento
+intervenção
+amante
+convencional
+
+montado
+mútuo
+ocasiões
+ofensa
+
+povos
+
+
+refugiados
+a remover
+respondeu a
+arruinado
+âmbito
+segmento
+espectro
+
+empreendimento
+praticamente
+
+acompanhado
+ajudas
+visou
+abordagens
+a discutir
+arranjo
+crenças
+barcos
+
+tijolo
+faculdades
+considerável
+
+designado
+
+imperador
+empregadores
+
+perdoar
+ganhos obtidos
+garagem
+diretrizes
+
+alojado
+
+inspetor
+saltou
+
+
+medido
+no entanto
+jornais
+exterior
+oxigénio
+pó
+
+promessas
+citações
+racismo
+audiências
+recuperado
+refere-se
+parafuso
+abrigo
+
+
+greves
+a sugerir
+fatos
+brinquedos
+rastreamento
+tributo
+variar
+
+salários
+poços
+rodas
+aborto
+a aplicar
+
+pertence
+por baixo
+queimaduras
+celebrado
+consistentemente
+direitos de autor
+condados
+democrata
+depósito
+
+diverso
+
+exclusivamente
+exportação
+
+
+funcional
+hábito
+indica
+isolado
+bateu
+aterrou
+riu
+modificado
+
+
+vizinhos
+nobre
+mais antigo
+popularidade
+profissionais
+reações
+relacionar
+robô
+
+sapato
+altifalantes
+nascentes
+espião
+sugestões
+
+suspensão
+terrorismo
+
+túnel
+sindicatos
+mandado
+mais amplo
+ativamente
+aplica-se
+disposições
+
+assumindo
+apoio
+fardo
+carrega
+certificado oficialmente
+carta constitutiva
+civil
+coligação
+queixar-se
+queixas
+controverso
+a descrever
+de forma diferente
+a discutir sobre
+a ganhar
+despesa
+a explicar
+contratação
+anfitriões
+implementado
+instantaneamente
+invasão
+a saltar
+fabricante
+adversários
+ao ar livre
+palmeira
+
+
+
+aposentos
+fileiras
+receção
+regulamentar
+revisto
+rolos
+borracha
+
+em série
+definições
+barracão
+a roubar
+posteriormente
+substância
+sugestão
+síndrome
+tarefas
+viagens
+
+utilização
+mundos
+acidentalmente
+acessível
+amador
+recursos judiciais
+
+batidas
+caixote do lixo
+brevemente
+
+mais barato
+concorrente
+custódia
+eliminar
+demonstrado
+programadores
+desenvolvimentos
+cavar
+águias
+empregador
+fluido
+
+
+
+hotéis
+imaginação
+integração
+integridade
+interpretação
+legítimo
+cargas
+mais longo
+moinhos
+motivação
+
+pensão
+
+pratos
+retrato
+produtivo
+lembra
+reservas
+em segurança
+camisas
+mais curto
+ligeiro
+socialista
+direcionado
+tensão
+teorias
+comovente
+transações
+reviravolta
+desemprego
+
+espectadores
+ventos
+acordou
+defensor
+
+
+espancado
+soprado
+ramos
+campanhas
+batatas fritas
+clínica
+mais próximo
+coleções
+contínuo
+convertido
+
+criador
+criaturas
+critérios
+detetive
+dificuldades
+deficiência
+
+pato
+
+excesso
+vedação
+lutadores
+voos
+a forçar
+a formar
+gradualmente
+hábitos
+destacar
+titular
+capuz
+
+idêntico
+
+investigações
+legalmente
+mentiu
+ouviu
+machos
+fabricante industrial
+metros
+prego
+negociações
+disparates
+operacional
 ]==])
