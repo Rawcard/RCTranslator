@@ -26885,4 +26885,442 @@ menguji
 
 
 
+kebimbangan
+berkembang
+senapang
+lubang
+
+
+
+mendengarkan
+maks
+kawanan
+direkam
+relatif
+berbagi
+berkomitmen
+kepercayaan diri
+pukulan
+identitas
+petunjuk
+mengukur
+
+para pemilik
+siaran
+terdedah
+membagi
+
+terjejas
+disetujui
+mengklaim
+mengingat
+diperpanjang
+faktor
+
+berbaring
+lampu
+jutaan
+campuran
+dengan benar
+dikurangi
+persyaratan
+mengamankan
+selain itu
+menyalahkan
+dikumpulkan
+menentukan
+paparan
+contoh
+dipecat
+diidentifikasi
+dilancarkan
+
+
+melewati
+
+tersisa
+mencetak
+
+visi
+kapan pun
+bimbang
+mengizinkan
+dimulai
+krisis
+
+perkiraan
+
+momen
+seberang
+
+tetap tinggal
+
+
+perjuangan
+tema
+biasanya
+biasa saja
+
+terpilih
+kombinasi
+
+memotong
+keinginan
+
+
+ratusan
+ditingkatkan
+sebagian besar
+tertawa
+dengan sempurna
+merekomendasikan
+dirujuk
+
+
+tidak mampu
+
+sayap
+
+menangani
+disutradarai
+hiburan
+
+
+menggantung
+
+
+maksimum
+menawarkan
+
+pengembalian
+baris
+saham
+tiket
+ke samping
+
+pukulan keras
+ikatan
+dikendalikan
+
+penghantaran
+pantas
+peranti
+
+menikmati
+menjelaskan
+
+
+
+
+
+mendaftar
+menyimpan wang
+menyanyi
+alat
+peringatan
+
+dekade
+
+bantuan kecil
+tamu
+surga
+alur cerita
+kemungkinan
+
+mewakili
+ulasan
+
+mencari-cari
+kalimat
+
+terlatih
+sekumpulan
+
+berantakan
+biasanya sih
+
+
+permanen
+kesenangan
+
+penyimpanan
+cenderung
+ketat
+pada akhirnya
+tidak seperti
+butang
+
+menangis
+tergantung
+
+ahli
+kerap
+anugerah
+semoga
+mengidentifikasi
+pentingnya
+meletakkan
+yang terakhir
+objek
+rakan kongsi
+tampil
+perspektif
+mempromosikan
+bilik
+parah
+menyangka
+korban
+para korban
+ejen
+menghadiri
+memilih
+kedalaman
+mendapatkan
+keberadaan
+
+ekspresi
+
+
+asal
+praktik
+kelegaan
+diganti
+perlawanan
+
+agak
+
+
+
+diperbarui
+diperiksa
+konstan
+
+
+didorong
+empayar
+seronok
+
+insiden
+
+
+cetak
+
+menolak
+melaporkan
+
+secara signifikan
+secara luas
+umur
+
+basikal
+luas
+dengan cermat
+terus-menerus
+peraduan
+
+tergantung pada
+digambar
+
+
+membiarkan
+secara rasmi
+porsi
+mentah
+
+diwakili
+sampel
+
+
+
+tidak diketahui
+bertanya-tanya
+dilampirkan
+diserang
+otomatis
+singkat
+
+dekade ini
+
+para ahli
+mengungkapkan
+fantasi
+
+pengenalan
+mengenali
+dikenali
+
+secara rutin
+
+
+
+
+
+zaman kanak-kanak
+perbandingan
+mencakup
+terperinci
+ongkos
+terluka
+
+musikal
+
+menentang
+terorganisir
+dilindungi
+
+kutipan
+pernyataan
+suspek
+bersumpah
+
+dasi
+tren
+yard
+persetujuan
+
+
+mengandung
+
+setara
+
+ditubuhkan
+fungsi
+menggantung di
+
+pulau
+mengangkat
+ditandai
+kenangan
+
+mengoperasikan
+perlumbaan
+direkomendasikan
+menyingkirkan
+mandi
+
+putra
+tradisi
+
+
+
+mengakui
+
+secara efektif
+luas sekali
+menghadapi
+memperoleh
+berburu
+peningkatan
+
+
+didapat
+berjanji
+mengulang
+
+bau
+
+
+
+nada
+topik
+sangat luas
+pelawat
+
+
+ada
+menuju ke
+melibatkan
+mesyuarat
+
+praktikal
+terutama sekali
+
+terlepas dari
+
+penyelamatan
+yang dihasilkan
+terburu-buru
+
+diuji
+trik
+
+grafik
+rumit
+
+dibagi
+sehari-hari
+
+bahaya
+bergabung
+pembunuh
+pelajaran
+
+penyayang
+
+
+usulan
+pengakuan
+bergulir
+
+situasi
+air mata
+diikat
+dituduh
+
+keyakinan
+
+pilihan-pilihan
+
+kontras
+
+menggambar
+di tempat lain
+membangun
+fail
+pendiri
+bukit
+memukul
+meningkatkan
+
+longgar
+
+
+pakej
+menunjuk
+proses
+
+pendukung
+
+ton
+asam
+
+
+
+
+
+menutupi
+penemuan
+dibahas
+mendorong
+menampilkan
+final
+
+
+
+
+tidak bersalah
+kerugian
+
+
+operan
+telefon
+mengeluarkan
+merujuk
+dijadualkan
+diucapkan
+
+menderita
+
+jalan setapak
+
 ]==])

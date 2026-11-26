@@ -26885,4 +26885,442 @@ na-save
 mga halaga
 naglakad
 
+
+umuunlad
+mga baril
+butas
+mga interes
+panloob
+mga sulat
+nakikinig
+
+kawan
+naitala
+medyo
+nagbabahagi
+
+tiwala sa sarili
+mga tama
+pagkakakilanlan
+
+sukatin
+
+mga may-ari
+mga post
+ibinunyag
+hatiin
+gawain
+apektado
+inaprubahan
+inangkin
+isinasaalang-alang
+pinalawig
+mga salik
+kasalanan
+humiga
+mga ilaw
+milyon-milyon
+halo-halo
+nang maayos
+nabawasan
+mga kinakailangan
+siguraduhin
+bukod dito
+sisihin
+nakolekta
+tukuyin
+
+mga halimbawa
+tinanggal sa trabaho
+natukoy
+inilunsad
+
+napansin
+dumadaan
+mga posisyon
+natitira
+nakapuntos
+mga tira
+bisyon
+
+nag-aalala
+pinapahintulutan
+
+krisis
+naihatid
+tinantya
+
+mga sandali
+kabila
+mga pahina
+nanatili
+
+naghahain
+pakikibaka
+tema
+karaniwan na
+nakasanayan
+dala-dala
+napili
+kombinasyon
+kostumer
+pinuputol
+pagnanais
+ipinagkaloob
+
+daan-daan
+pinabuti
+sa malaking bahagi
+tumatawa
+
+irekomenda
+tinukoy
+
+
+
+nainis
+pakpak
+mga ibon
+hinaharap
+dinirekta
+libangan
+mga bukid
+mga kalakal
+isabit
+
+pangunahin
+
+nag-aalok
+reserba
+mga pagbabalik
+hilera
+mga bahagi ng stock
+mga tiket
+sa tabi
+
+suntok
+ugnayan
+kontrolado
+mga deal
+paghahatid
+
+mga device
+mga pangarap
+nag-enjoy
+ipinaliwanag
+mga mukha
+mga laban
+isang milya
+galaw
+napagtanto
+magparehistro
+nag-iipon
+kumakanta
+mga kasangkapan
+
+mga digmaan
+dekada
+guhit
+pabor
+bisita
+
+banghay
+posibilidad
+
+kumatawan
+mga review
+mga eksena
+
+pangungusap
+mga tip
+sinanay
+bungkos
+paborito ko
+kalat
+
+naganap
+magulang
+permanente
+kasiyahan
+
+imbakan
+may hilig
+masikip
+
+hindi tulad ng
+
+
+umiiyak
+depende sa
+dahilan
+eksperto
+madalas
+biyaya
+sana
+kilalanin
+kahalagahan
+inilatag
+ang huli
+
+mga kasosyo
+nagtatanghal
+pananaw
+i-promote
+mga kuwarto
+malubha
+ipagpalagay
+
+mga biktima
+mga ahente
+dumalo
+
+lalim
+kinita
+pag-iral
+mga karanasan
+ekspresyon
+nagtungo
+
+
+mga kasanayan
+ginhawa
+pinalitan
+paglaban
+mga kalsada
+medyo naman
+
+
+
+na-update
+nasuri
+palagian
+mga petsa
+mga pinto
+hinihimok
+imperyo
+nakakatuwa
+
+insidente
+naka-link
+mga mensahe
+i-print
+tumigil
+tumanggi
+nag-uulat
+
+
+
+mga edad
+
+
+malapad
+
+
+paligsahan
+mga pagkamatay
+depende
+iginuhit
+mga bayarin
+taas
+hinahayaan
+opisyal na
+
+hilaw
+mga rehiyon
+kinakatawan
+
+mga upuan
+pagdurusa
+
+hindi kilala
+
+nakalakip
+inatake
+awtomatiko
+
+asal
+isang dekada
+mga pagkakaiba
+mga eksperto
+ipinahayag
+pantasya
+agaran
+pagpapakilala
+makilala
+kinilala
+nakarehistro
+regular na
+
+mga panahon
+
+saksi
+mga pagkakataon
+pagkabata
+paghahambing
+sumasaklaw
+detalyado
+
+nasugatan
+
+musikal
+mga bagay
+tutol
+organisado
+protektado
+
+sipi
+mga pahayag
+suspek
+manumpa
+mga teknik
+kurbata
+uso
+yarda
+pag-apruba
+mga pagtatangka
+mga kampeon
+maglaman
+mga itlog
+katumbas
+medyo rin
+itinatag
+mga function
+nakabitin
+panloob na
+mga isla
+
+minarkahan
+mga alaala
+mga bundok
+patakbuhin
+karera
+inirerekomenda
+
+
+mga solusyon
+mga anak na lalaki
+tradisyon
+binisita
+biswal
+nakamit
+inamin
+mga hamon
+epektibo
+malawakan
+hinarap
+
+manghuli
+pagpapabuti
+sa simula
+mga marka
+natamo
+nangako
+ulitin
+bumabalik
+amoy
+pinag-aralan
+nagmumungkahi
+nakapalibot
+tono
+paksa
+napakalawak
+mga bisita
+
+
+
+
+kinasasangkutan
+mga pulong
+kinakailangan
+praktikal
+pangunahin na
+pinatunayan
+anuman
+kumakatawan
+pagsagip
+nagresulta
+
+mga supply
+nasubok
+
+dumalo sa
+tsart
+kumplikado
+mga kahihinatnan
+hinati
+
+lawak
+
+sumasali
+mamamatay-tao
+aral
+mga limitasyon
+mapagmahal
+mga gabi
+
+panukala
+pagkilala
+gumugulong
+di nagtagal
+mga sitwasyon
+luha
+
+inakusahan
+kapaligiran
+paniniwala
+mga pusa
+mga pagpipilian
+mga kulay
+kaibahan
+mga kurso
+gumuhit
+sa ibang lugar
+itatag
+mga file
+tagapagtatag
+mga burol
+tumatama
+tumataas pa
+mga lokasyon
+maluwag
+mga makina
+
+pakete
+
+mga proseso
+umaabot
+mga tagasuporta
+inihagis
+tonelada
+asido
+katabi ng
+mga sanggol
+mga bar
+mga kliyente
+naglalaman ng
+tinatakpan
+
+tinalakay
+hikayatin
+tampok
+mga finals
+pormal
+pormula
+mga kabayo
+ipinaalam
+inosente
+mga pagkalugi
+mga isip
+mga pagkakamali
+mga pasa
+mga telepono
+
+sumangguni
+naka-iskedyul
+sinalita
+matagumpay
+magdusa
+mga track
+
+kakahuyan
 ]==])

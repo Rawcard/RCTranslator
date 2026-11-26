@@ -26885,4 +26885,442 @@ a testar
 valores
 andou
 
+preocupação
+a desenvolver
+armas de fogo
+buraco
+interesses
+interno
+
+a ouvir
+máx
+matilha
+gravado
+relativamente
+a partilhar
+comprometido
+confiança
+golpes
+identidade
+pistas
+medir
+numerosos
+proprietários
+publicações
+revelado
+dividir
+
+afetado
+aprovado
+reivindicado
+considerando
+prolongado
+fatores
+
+pousar
+luzes
+milhões
+misturado
+corretamente
+reduzido
+requisitos
+
+
+culpar
+recolhido
+determinar
+
+exemplos
+despedido
+identificado
+
+modo
+reparei
+a passar
+posições
+restante
+marcou
+tiros
+visão
+sempre que
+
+a permitir
+começa
+crise
+entregue
+estimado
+menor
+momentos
+oposto
+páginas
+permaneceu
+seleção
+a servir
+luta
+tema
+tipicamente
+habitual
+a carregar
+escolhido
+combinação
+
+a cortar
+desejo
+concedido
+humanos
+centenas
+
+em grande parte
+a rir
+perfeitamente
+recomendar
+referido
+
+
+incapaz
+chateado
+asa
+pássaros
+a lidar
+dirigido
+entretenimento
+campos
+bens
+pendurar
+
+
+máximo
+a oferecer
+
+devoluções
+fila
+
+bilhetes
+de lado
+assistência
+
+
+controlado
+negócios
+entrega
+merecer
+dispositivos
+sonhos
+gostei
+explicado
+caras
+partidas
+milha
+movimento
+percebeu
+registar
+a poupar
+a cantar
+ferramentas
+aviso
+guerras
+décadas
+desenho
+
+convidado
+
+enredo
+possibilidade
+aleatório
+representar
+críticas
+cenas
+a procurar
+frase
+dicas
+treinado
+monte
+favorita
+
+normalmente
+ocorreu
+pai ou mãe
+permanente
+prazer
+turno
+armazenamento
+tender
+apertado
+em última análise
+ao contrário de
+botão
+combate
+a chorar
+dependendo
+
+especialista
+
+graça
+espero que
+identificar
+importância
+pousou
+este último
+objeto
+parceiros
+a atuar
+perspetiva
+promover
+quartos
+severo
+supor
+vítima
+vítimas
+agentes
+assistir
+escolheu
+profundidade
+
+existência
+experiências
+
+dirigiu-se
+maneira
+origem
+práticas
+alívio
+substituído
+
+estradas
+um tanto
+a ficar
+
+gorjeta
+
+verificado
+constante
+datas
+portas
+
+império
+emocionante
+fortemente
+incidente
+ligado
+mensagens
+imprimir
+desistir
+
+a reportar
+
+significativamente
+amplamente
+idades
+
+
+amplo
+de perto
+constantemente
+concurso
+mortes
+
+desenhado
+taxas
+altura
+a deixar
+oficialmente
+porção
+cru
+regiões
+representado
+amostra
+
+sofrimento
+definitivo
+desconhecido
+a pensar
+anexado
+atacado
+automaticamente
+breve
+conduta
+década
+diferenças
+especialistas
+expresso
+fantasia
+imediato
+introdução
+reconhecer
+reconhecido
+registado
+regularmente
+a subir
+temporadas
+sobreviver
+testemunha
+hipóteses
+infância
+comparação
+
+detalhado
+tarifa
+ferido
+
+
+objetos
+
+organizado
+protegido
+finalidades
+citação
+declarações
+
+jurar
+técnicas
+
+tendência
+jardas
+aprovação
+tentativas
+campeões
+conter
+ovos
+equivalente
+
+fundado
+funções
+pendurado
+interior
+ilhas
+
+
+memórias
+montanhas
+operar
+corridas
+recomendado
+livrar-se
+duche
+soluções
+filhos
+tradição
+visitado
+
+
+admitido
+desafios
+eficazmente
+extenso
+enfrentou
+
+
+melhoria
+inicialmente
+marcas
+obtido
+prometido
+repetir
+a regressar
+cheiro
+estudado
+sugere
+circundante
+tom
+tópico
+vasto
+visitantes
+
+a continuar
+existe
+a caminho
+envolvendo
+reuniões
+necessariamente
+prático
+
+provado
+independentemente
+representa
+resgate
+resultante
+pressa
+mantimentos
+testado
+truque
+frequentou
+
+complicado
+consequências
+dividido
+quotidiano
+extensão
+
+a juntar-se
+assassino
+lição
+limites
+carinhoso
+noites
+ocorrer
+proposta
+reconhecimento
+a rolar
+
+situações
+lágrimas
+amarrado
+acusado
+atmosfera
+crença
+gatos
+escolhas
+cores
+contraste
+cursos
+desenhou
+noutro lado
+estabelecer
+ficheiros
+fundador
+colinas
+a bater
+aumenta
+localizações
+solto
+máquinas
+
+pacote
+apontou
+processos
+a alcançar
+apoiantes
+atirou
+toneladas
+ácido
+ao lado de
+bebés
+barras
+
+continha
+a cobrir
+descoberta
+discutido
+encorajar
+
+finais
+
+fórmula
+cavalos
+informado
+inocente
+perdas
+mentes
+erros
+
+telemóveis
+a produzir
+referir
+agendado
+falado
+com sucesso
+sofrer
+faixas
+trilho
+bosque
 ]==])

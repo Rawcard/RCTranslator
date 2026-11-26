@@ -26885,4 +26885,442 @@ menguji
 
 
 
+kekhawatiran
+berkembang
+senapan
+lubang
+
+
+
+mendengarkan
+maks
+kawanan
+direkam
+relatif
+berbagi
+berkomitmen
+kepercayaan diri
+pukulan
+identitas
+petunjuk
+mengukur
+
+para pemilik
+postingan
+terungkap
+membagi
+
+terdampak
+disetujui
+mengklaim
+mengingat
+diperpanjang
+faktor
+
+
+lampu
+jutaan
+campuran
+dengan benar
+dikurangi
+persyaratan
+mengamankan
+selain itu
+menyalahkan
+dikumpulkan
+menentukan
+tampilan
+contoh
+dipecat
+diidentifikasi
+diluncurkan
+
+
+melewati
+
+tersisa
+mencetak
+
+visi
+kapan pun
+khawatir
+mengizinkan
+dimulai
+krisis
+
+
+
+momen
+seberang
+
+tetap tinggal
+
+
+perjuangan
+tema
+biasanya
+biasa saja
+
+terpilih
+kombinasi
+
+memotong
+keinginan
+
+
+ratusan
+
+sebagian besar
+tertawa
+dengan sempurna
+merekomendasikan
+dirujuk
+
+
+tidak mampu
+
+sayap
+
+menangani
+disutradarai
+hiburan
+
+
+menggantung
+
+
+maksimum
+menawarkan
+
+pengembalian
+baris
+saham
+tiket
+ke samping
+
+pukulan keras
+ikatan
+dikendalikan
+
+pengiriman
+pantas
+perangkat
+
+menikmati
+menjelaskan
+
+pertandingan
+
+
+
+mendaftar
+menabung
+bernyanyi
+alat
+peringatan
+
+dekade
+
+bantuan kecil
+tamu
+surga
+alur cerita
+kemungkinan
+
+mewakili
+ulasan
+
+mencari-cari
+kalimat
+
+terlatih
+sekumpulan
+
+
+biasanya sih
+
+
+permanen
+kesenangan
+
+penyimpanan
+cenderung
+ketat
+pada akhirnya
+tidak seperti
+tombol
+
+menangis
+
+
+ahli
+
+anugerah
+semoga
+mengidentifikasi
+pentingnya
+meletakkan
+yang terakhir
+objek
+mitra
+tampil
+perspektif
+mempromosikan
+kamar
+parah
+mengira
+korban
+para korban
+
+menghadiri
+memilih
+kedalaman
+mendapatkan
+keberadaan
+
+ekspresi
+
+
+asal
+praktik
+kelegaan
+diganti
+perlawanan
+
+agak
+
+
+
+diperbarui
+diperiksa
+konstan
+
+
+didorong
+kekaisaran
+
+
+insiden
+
+
+cetak
+
+menolak
+melaporkan
+
+secara signifikan
+secara luas
+
+
+
+luas
+dengan cermat
+terus-menerus
+kontes
+
+tergantung pada
+digambar
+
+
+membiarkan
+secara resmi
+porsi
+mentah
+
+diwakili
+sampel
+
+
+
+tidak diketahui
+bertanya-tanya
+terlampir
+diserang
+otomatis
+singkat
+
+dekade ini
+
+para ahli
+mengungkapkan
+fantasi
+
+pengenalan
+mengenali
+dikenali
+
+secara rutin
+
+
+bertahan hidup
+
+
+masa kecil
+perbandingan
+mencakup
+terperinci
+ongkos
+terluka
+
+musikal
+
+menentang
+terorganisir
+dilindungi
+
+kutipan
+pernyataan
+tersangka
+bersumpah
+
+dasi
+tren
+yard
+persetujuan
+
+
+mengandung
+
+setara
+
+didirikan
+fungsi
+menggantung di
+
+pulau
+mengangkat
+ditandai
+kenangan
+
+mengoperasikan
+balapan
+direkomendasikan
+menyingkirkan
+mandi
+
+putra
+tradisi
+
+
+
+mengakui
+
+secara efektif
+luas sekali
+menghadapi
+memperoleh
+berburu
+peningkatan
+
+
+didapat
+berjanji
+mengulang
+
+bau
+
+
+
+nada
+topik
+sangat luas
+pengunjung
+
+
+ada
+menuju ke
+melibatkan
+rapat
+
+praktis
+terutama sekali
+
+terlepas dari
+
+penyelamatan
+yang dihasilkan
+terburu-buru
+
+diuji
+trik
+
+grafik
+rumit
+konsekuensi
+dibagi
+sehari-hari
+
+bahaya
+bergabung
+pembunuh
+pelajaran
+
+penyayang
+
+
+usulan
+pengakuan
+bergulir
+
+situasi
+air mata
+diikat
+dituduh
+
+keyakinan
+
+pilihan-pilihan
+
+kontras
+
+menggambar
+di tempat lain
+membangun
+file
+pendiri
+bukit
+memukul
+meningkatkan
+
+longgar
+
+
+paket
+menunjuk
+proses
+
+pendukung
+
+ton
+asam
+
+
+
+klien
+
+menutupi
+penemuan
+dibahas
+mendorong
+menampilkan
+final
+
+rumus
+
+
+tidak bersalah
+kerugian
+
+
+operan
+
+memproduksi
+merujuk
+dijadwalkan
+diucapkan
+
+menderita
+
+jalan setapak
+
 ]==])
