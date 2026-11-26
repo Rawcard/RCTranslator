@@ -27823,4 +27823,504 @@ bàn làm việc
 tập phim
 
 khuôn viên đất
+hữu ích
+kinh dị
+nhãn
+bị khóa
+khỏa thân
+
+cao độ
+
+bị đẩy
+
+
+tiết lộ
+lãng mạn
+
+
+
+
+phúc lợi
+người chiến thắng
+
+
+kiến trúc
+đã cố gắng
+thay mặt
+các trung tâm
+buổi lễ
+truyện tranh
+cớm
+cắt giảm
+nhà thiết kế
+mặc đồ
+thuộc về điện
+được tuyển dụng
+đang tận hưởng
+đang bước vào
+
+đang mong đợi
+
+khách mời
+trao tay
+săn bắn
+các ngành
+giám khảo
+bộ dụng cụ
+phòng thí nghiệm
+
+bản đồ
+mới đây
+
+
+nguyên tắc
+phân biệt chủng tộc
+tài liệu tham khảo
+gợi cảm
+giải quyết
+đánh trúng
+ủng hộ
+số tiền
+
+đại tá
+sự thoải mái
+
+vết nứt
+boong
+
+
+thực phẩm
+được thuê
+
+cảm hứng
+
+các vị vua
+
+thấp nhất
+đài tưởng niệm
+thiểu số
+
+
+quà tặng
+đường ray
+độc giả
+thánh
+ăn cắp
+bị đánh cắp
+
+tiêu đề
+thăng trầm
+diễn viên
+được chôn
+
+kết luận
+
+bị thuyết phục
+
+mô tả
+
+bị lãng quên
+về phía trước
+các vị thần
+thuê
+nhảy lò cò
+đã cài đặt
+hạ cánh
+
+
+y tá
+đạt được
+hữu cơ
+quyền sở hữu
+người tham gia
+thơ ca
+nồi
+đã in
+nhớ lại
+
+vì lợi ích
+tờ
+ký
+tâm linh
+sợi dây
+bị ném
+ở nước ngoài
+được giao
+cộng sự
+giả định
+làm phiền
+phát sóng
+
+dọn dẹp
+cạnh tranh
+
+
+đã đóng góp
+
+nhà phê bình
+thảm họa
+như nhau
+đã hiểu ra
+tình bạn
+
+
+
+cả đời
+chất lỏng
+trang điểm
+câu chuyện kể
+được quan sát
+thỉnh thoảng
+chảo
+đăng bài
+có khả năng
+giảm
+phản ánh
+nhà nghiên cứu
+
+
+
+vỏ
+ngớ ngẩn
+
+thị trấn
+bản dịch
+có thể nhìn thấy
+sửa đổi
+góc
+giám mục
+
+
+
+
+
+thí nghiệm
+con cái
+
+
+diễn đàn
+
+ngày càng
+cực kỳ
+nhà báo
+
+
+được duy trì
+cối xay
+dịp
+nhịp độ
+hành khách
+sở hữu
+cuộc đua
+nhanh chóng
+
+
+
+có hình dạng
+
+phong cách
+môn học
+tệ
+phù hợp
+hợp lệ
+nông nghiệp
+bị cáo buộc
+ban nhạc
+
+cảnh sát
+con lạch
+
+triển lãm
+
+đám tang
+mật ong
+danh dự
+móc
+người nhập cư
+
+
+
+vùng đất
+di sản
+chỉ đơn thuần
+tù nhân
+lập trình
+xuất bản
+hối tiếc
+
+nhắc nhở
+khu nghỉ dưỡng
+
+đảo ngược
+thói quen
+đáng sợ
+định cư
+tội lỗi
+tóm tắt
+sự sống còn
+phòng bệnh
+
+lập luận
+đang ngủ
+
+
+cách cư xử
+
+
+toàn diện
+sự đồng ý
+bố
+các bệnh
+
+đã lái
+tần số
+chơi game
+trụ sở
+di sản văn hóa
+sáng kiến
+các cuộc phỏng vấn
+phong cảnh
+
+
+quyền riêng tư
+
+
+giảm bớt
+
+
+nơi cư trú
+khoảng
+ghi bàn
+các phần
+
+bị bao quanh
+bị đe dọa
+được chuyển
+ống
+các trường đại học
+đại sứ
+được trao giải
+
+ngực
+đã kết luận
+bông
+đã băng qua
+tá
+
+ngoại lệ
+mở rộng
+sang trọng
+
+
+
+
+inch
+đầu vào
+gõ cửa
+xa xỉ
+nhà sản xuất
+phong trào
+được vận hành
+được sơn
+thăm dò ý kiến
+được ưa thích
+được xếp hạng
+đề cập đến
+
+sự lặp lại
+phóng viên
+
+trình tự
+kéo dài
+
+khủng bố
+
+
+
+
+
+sự vắng mặt
+thuộc nông nghiệp
+vận động viên
+
+nhạc blues
+
+bò đực
+máy ảnh
+đóng góp
+sự đóng góp
+khoản đóng góp
+
+phủ nhận
+
+sự dễ dàng
+gia hạn
+được tạo ra
+di truyền
+kính
+ấn tượng sâu sắc
+được chỉ ra
+nhà đầu tư
+
+
+các bộ trưởng
+giám sát
+
+các hành khách
+bức ảnh
+nguyên lý
+nhà sản xuất phim
+tiến bộ
+cuộc mít tinh
+một cách nhanh chóng
+người đọc
+sự đại diện
+nhà hàng
+
+rễ
+mẫu thử
+
+
+xích đu
+đuôi
+
+sinh đôi
+sắp tới
+cựu chiến binh
+
+
+
+phạm tội
+bồi thường
+máy tính
+bảo tồn
+hiến pháp
+băng qua
+mật độ
+làm rơi
+giọt
+
+
+
+hạm đội
+nuôi dưỡng
+
+thiên tài
+
+chỉ dẫn
+bệnh viện
+ý định
+chuyện cười
+cơ khí
+công viên
+sự tham gia
+thời kỳ
+quý giá
+
+giả vờ
+nổi tiếng
+đã được chứng minh
+được yêu cầu
+khu dân cư
+
+vệ tinh
+lắc
+bờ
+đốm
+vật lộn
+
+thiếu niên
+nhiệt độ
+hộp số
+đồng phục
+bằng gỗ
+
+
+bùm
+
+nhãn hiệu
+nhiều thế kỷ
+cộng sản
+khiếu nại
+thành phần
+kết nối mạng
+sự đa dạng
+
+đêm trước
+khoa
+
+lính gác
+đang trốn
+nhân loại
+đổi mới
+nhạc cụ
+đầu tư
+lập pháp
+danh mục
+sách hướng dẫn
+các bà mẹ
+bị sát hại
+điều dưỡng
+bị chiếm đóng
+đang diễn ra
+nhà điều hành
+
+cú đấm
+
+
+phát hành
+chuyện tình
+
+đủ
+đã sống sót
+bị đình chỉ
+
+mô
+
+phiên tòa
+dưới lòng đất
+ảo
+đi dạo
+
+
+được sắp xếp
+
+bị thu hút
+sinh học
+tấm ván
+danh mục loại
+kiểm tra
+
+
+dám
+cơ sở dữ liệu
+
+phân biệt đối xử
+rối loạn
+được phân phối
+các quận
+miền
+
+
+
+cảnh quay
+người khổng lồ
+ngôi mộ
+triển khai
+
+phòng nghiên cứu
+văn học
+chật kín
+đàn piano
+lời khen
+
+hạn chế
+tên lửa
+phá hỏng
+
+nô lệ
+sự ổn định
+đá cuội
+biểu tượng
+thiết bị đầu cuối
 ]==])

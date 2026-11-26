@@ -27823,4 +27823,504 @@ mesa
 mga episode
 mga magsasaka
 bakuran ng lupa
+nakakatulong
+katatakutan
+
+nakakandado
+hubad
+
+
+payak
+itinulak
+itinataas
+likuran
+ibunyag
+romantiko
+mga iskor
+mga kapatid na babae
+mga yugto
+estratehiko
+kapakanan
+mga nanalo
+manggagawa
+
+arkitektura
+tinangka
+sa ngalan ng
+mga sentro
+seremonya
+komiks
+mga pulis
+mga bawas
+taga-disenyo
+nakabihis
+
+
+
+pumapasok
+establisimyento
+
+nagpapaliwanag
+
+iniabot
+pangangaso
+mga industriya
+mga hukom
+
+
+mga wika
+mga mapa
+bagong
+
+lumahok
+mga prinsipyo
+rasista
+mga sanggunian
+seksi
+lutasin
+tinamaan
+
+
+kawanihan
+koronel
+
+mga kontrol
+bitak
+
+mga hinihingi
+mga inhinyero
+mga pagkain
+
+
+inspirasyon
+institusyon
+mga hari
+
+pinakamababa
+alaala
+minorya
+mga opinyon
+mga pattern
+mga regalo
+
+mga mambabasa
+santo
+magnakaw
+ninakaw
+
+mga pamagat
+mga taas
+mga aktor
+inilibing
+nagmamalasakit
+konklusyon
+mga kontrata
+kumbinsido
+disente
+naglalarawan
+sentro ng lungsod
+
+
+mga diyos
+umupa
+lumukso
+naka-install
+paglapag
+
+namamahala
+nars
+makuha
+organiko
+pagmamay-ari
+mga kalahok
+tula
+palayok
+nakalimbag
+
+
+alang-alang
+pahina
+pumipirma
+espirituwal
+tali
+itinapon
+sa ibang bansa
+itinalaga
+
+inakala
+abalahin
+
+mamamayan
+
+makipagkumpitensya
+binubuo
+mga mamimili
+nag-ambag
+kuliglig
+mga kritiko
+sakuna
+pantay
+naisip
+pagkakaibigan
+paghawak
+mga susi
+mga abogado
+habambuhay
+likido
+
+salaysay
+naobserbahan
+paminsan-minsan
+kawali
+pag-post
+posibleng
+pagbawas
+sumalamin
+mga mananaliksik
+mapagkukunan
+mga agham
+nagsisilbi
+kabibe
+hangal
+kasunod
+mga bayan
+pagsasalin
+
+susog
+anggulo
+obispo
+mga channel
+karaniwang
+ikonekta
+mga disenyo
+negosyo
+eksperimento
+mga babaeng hayop
+mga natuklasan
+mga kompanya
+
+mga handog
+lalong
+
+mamamahayag
+mga aralin
+mga listahan
+pinananatili
+gilingan
+okasyon
+
+pasahero
+pag-aari
+mga karera
+
+regulasyon
+residente
+mga bato
+hinubog
+
+mga istilo
+mga asignatura
+
+angkop
+balido
+agrikultura
+umano
+mga banda
+komersyo
+
+sapa
+mga emosyon
+eksibisyon
+panloloko
+libing
+pulot
+
+kawit
+mga imigrante
+
+mga tagubilin
+ipakilala
+mga lupain
+pamana
+
+mga bilanggo
+
+paglalathala
+pagsisihan
+
+paalalahanan
+
+
+baligtarin
+nakagawian
+
+manirahan
+
+buod
+
+
+mga alon
+nangatwiran
+tulog
+
+nasimulan
+
+
+
+komprehensibo
+pahintulot
+
+mga sakit
+
+nagmaneho
+dalas
+
+punong-tanggapan
+pamanang kultural
+inisyatiba
+mga panayam
+
+lohika
+
+
+mga pamamaraan
+mga tubo
+binabawasan
+pagsasaalang-alang
+
+
+humigit-kumulang
+pag-iskor
+mga seksyon
+
+napapalibutan
+nanganganib
+inilipat
+tubo
+mga unibersidad
+embahador
+ginawaran
+pagbabangko
+dibdib
+nagtapos
+bulak
+tumawid
+dosena
+
+eksepsiyon
+palawakin
+magarbo
+napakaganda
+mga bayani
+mga butas
+impresyon
+mga pulgada
+
+kumatok
+luho
+mga tagagawa
+mga kilusan
+pinapatakbo
+pininturahan
+
+ginusto
+niranggo
+tumutukoy
+pag-alis
+pag-uulit
+
+mga panganib
+pagkakasunod-sunod
+banatin
+
+terorista
+
+mga ugnayan
+mga bersyon
+mga tinig
+mga hiling
+
+pang-agrikultura
+mga atleta
+mga oso
+
+mga kahon
+toro
+mga kamera
+mag-ambag
+kontribusyon
+mga kontribusyon
+mga mag-asawa
+tanggihan
+nararapat
+kadalian
+pahabain
+
+genetiko
+salamin sa mata
+humanga
+ipinahiwatig
+mga mamumuhunan
+nagsasangkot
+
+mga ministro
+pagsubaybay
+
+mga pasahero
+
+prinsipyo
+mga prodyuser
+progresibo
+rali
+mabilis na
+mambabasa
+representasyon
+mga restawran
+ibinubunyag
+mga ugat
+mga sample
+
+
+duyan
+buntot
+mga teksto
+
+paparating
+mga beterano
+mga argumento
+inaangkin
+kolum
+
+kompensasyon
+mga kompyuter
+konserbasyon
+konstitusyonal
+tawiran
+densidad
+nalalaglag
+mga patak
+elementarya
+etniko
+mga gastos
+plota
+ampon
+pundamental
+henyo
+lubha
+
+mga ospital
+intensyon
+mga biro
+mekanikal
+mga parke
+paglahok
+
+
+naghahanda
+magkunwari
+kilala
+napatunayan
+hiniling
+tirahan pang-residensyal
+mga singsing
+
+yugyugin
+pampang
+mga batik
+nahihirapan
+
+tinedyer
+mga temperatura
+transmisyon
+uniporme
+
+mga ad
+
+
+mga buto
+mga tatak
+mga siglo
+komunista
+reklamo
+
+mga koneksyon
+pagkakaiba-iba
+mga tungkulin
+bisperas
+
+
+mga bantay
+nagtatago
+sangkatauhan
+inobasyon
+mga instrumento
+mamuhunan
+pambatasan
+
+manwal
+mga ina
+
+pag-aalaga
+okupado
+patuloy
+
+
+
+riles ng tren
+pagpaparehistro
+mga release
+romansa
+isinumite
+
+nakaligtas
+sinuspinde
+mga teknolohiya
+tisyu
+mga uso
+mga paglilitis
+ilalim ng lupa
+
+mga paglalakad
+sugatan
+anunsyo
+isinaayos
+dumadalo
+naakit
+biyolohikal
+mga tabla
+mga kategorya
+mga tseke
+
+tungkol sa
+mangahas
+
+
+diskriminasyon
+karamdaman
+ipinamahagi
+mga distrito
+
+galugarin
+
+
+
+mga higante
+libingan
+
+imbestigahan
+laboratoryo
+pampanitikan
+siksikan
+piyano
+papuri
+
+mga paghihigpit
+
+sirain
+mga lihim
+alipin
+katatagan
+
+simbolo
+
 ]==])
