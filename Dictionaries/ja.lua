@@ -6772,7 +6772,7 @@ carcanet の その 百 magi
 慎重
 慎重 狙う
 慎重 引く
-
+慎重に
 carefully 収集
 世話少ない
 caress の 死
@@ -6861,7 +6861,7 @@ carriage 騎乗
 荷車 制御 捕獲 点 ユニット 東
 荷車 制御 捕獲 点 ユニット 北
 荷車 制御 捕獲 点 ユニット 南
-
+漫画映画
 彫る 熊 側面
 彫る 肉
 彫る 肉
@@ -6874,7 +6874,7 @@ carving 石 視覚
 連瀑 の 漆黒 petals
 連瀑 の petals
 連瀑 の roses
-
+現金
 cash 流れ
 
 樽 の aged ダラランン 赤
@@ -6899,7 +6899,7 @@ cash 流れ
 詠唱 投票
 城
 城 の sand
-
+カジュアル
 casual ゲーム
 casual ギルド
 casual プレイヤー
@@ -6942,8 +6942,8 @@ catastrophic 異常
 捕まえる 彼ら
 捕まえる あなた 後で
 
-
-
+ナマズ
+大聖堂
 catseye エリクサー
 catseye ultra ゴーグル
 捕まえた ある plainshawk
@@ -6977,12 +6977,12 @@ catseye ultra ゴーグル
 大釜 縄
 大釜 selector
 大釜 stir
-
+原因
 cause と 効果
 
-
-
-
+引き起こした
+引き起こす
+引き起こしている
 腐食性 琥珀
 腐食性 血
 腐食性 gas
@@ -6996,11 +6996,11 @@ cause と 効果
 腐食性 噴射
 腐食性 タール
 腐食性 タール クリア ボス バフ
-
+焼灼する
 cauterize 達人
 cauterize その 傷
 cauterize 傷
-
+焼灼された
 焼灼 核
 焼灼 炎
 焼灼 炎 充填
@@ -7008,7 +7008,7 @@ cauterize 傷
 焼灼 閃光
 焼灼 回復
 焼灼 打撃
-
+用心深い
 洞窟
 洞窟 discovery 発動
 洞窟 爆発
@@ -7016,7 +7016,7 @@ cauterize 傷
 洞窟 の scrolls クレジット
 洞窟-内
 cavernous 咆哮
-
+カーカー
 cayden 待ち伏せ クエスト クレジット
 
 cc ここ
@@ -7028,10 +7028,10 @@ cc その 雑魚
 
 
 
-
+やめる
 cease テレポート
 celebras 待つ
-
+祝う
 祝賀
 祝賀 持続時間
 迅速
@@ -7087,18 +7087,18 @@ celebras 待つ
 cenarius 入口 ダミー
 cenarius イベント 達人
 censer の 永遠 苦悶
-
+非難
 censure の 苦悶
 censure の 永遠 苦悶
 中心
 中心 aoi
-
+中央に置かれた
 central 炎 防護 盾
 centrifuge 核 パッシブ
 centrifuge 核 視覚
 centrifuge 盾
 ceramic 葬儀 urn
-
+確かな
 
 certificate の ownership
 certified ゴミ
@@ -7107,8 +7107,8 @@ cerulean 贈り物 の その 鶴
 cerulean 呪文糸
 chabal's 呪物
 
-
-
+もみ殻
+悔しさ
 連鎖
 連鎖 矢
 連鎖 燃やす
@@ -7140,7 +7140,7 @@ chabal's 呪物
 連鎖 精神
 連鎖 sparks
 連鎖 へ stables
-
+機関銃
 連鎖
 連鎖 料理
 連鎖 delivering
@@ -7166,9 +7166,9 @@ chabal's 呪物
 鎖 の torture
 鎖 の woe
 chainsaw 刃
-
-
-
+椅子
+議長を務めた
+チャクラ
 chakra 吸収
 chakra 流れ
 chalice の その 山 王の
@@ -7194,10 +7194,10 @@ chalice の その 山 王の
 挑戦者 は dazed
 挑戦者の 道
 挑戦者の 松明
-
+やりがいのある
 challenging 叫び
 
-
+カメレオン
 チャンピオン
 チャンピオン の hellscream
 チャンピオン の ramkahen
@@ -7409,7 +7409,7 @@ charbroiled 虎 ステーキ
 魅了 sully
 魅了 taylor
 魅了 woodland 生物
-
+魅了された
 焦げた 熊 kabobs
 焦げた 大地
 焦げた 狼 肉
@@ -7418,9 +7418,9 @@ charbroiled 虎 ステーキ
 追跡
 追跡 下
 追跡 彼ら
-
-
-
+追いかけている
+叱る
+叱られた
 
 chat 泡
 chat emote オーラ
@@ -7437,7 +7437,7 @@ cheaper ドルイド shapeshifting
 不正 選ぶ
 cheated 死
 チーター
-
+不正行為
 cheating 死
 確認
 確認 戦闘
@@ -7466,24 +7466,24 @@ cheating 死
 checking アカウント
 
 確認点
-
-
+ピヨピヨ
+声援
 cheer 上 yi-mo 放棄
-
+陽気な
 
 チーズ
 チーズ 頭
 チーズ それ
 チーズ 戦術
 チーター 疾走
-
+シェフ
 chef's 帽子
 cheiftain 打撃
 化学 爆弾
 化学 雲
 化学 炎
 化学 peel
-
+化学
 chen carries ある 樽
 chen's 祭り 醸造
 chen's 物語
@@ -7526,17 +7526,17 @@ chi-ji's 希望
 鶏 場所 ping
 鶏 網
 鶏 他の
-
+族長
 
 chieftain's トーテム 状態
 Chieftan'sコール
 chihozen binono - 衣装
 chihozen binono 樽 オーラ
-
+しもやけ
 子供
 子供 の tortolla
 子供2
-
+子供っぽい
 子供好き wonder
 
 children の デスウィング
@@ -7576,8 +7576,8 @@ children's 週 力 達人 へ 詠唱
 冷気 波
 冷気 風
 冷気 言葉
-
-
+寒気
+肌寒い
 chimaeron 能力
 chimaeron 近接 攻撃
 キメラショット
@@ -7587,25 +7587,25 @@ chimera 射撃 - 蛇
 キメラの レギンス
 キメラの 胴着
 china 国
-
+中国語
 
 
 chirping 箱
 chiseling 光線
 甲殻質 棘
-
+クロロホルム
 
 チョーの 爆風
 チョーの 花火
 チョーの 手 大砲
 チョーの teapot 達人
 chocking 砂
-
+チョコレート
 chocolate 祝賀 ケーキ
 chocolate クッキー
 chocolate 見本
 選択
-
+聖歌隊
 choke 'em 外
 窒息
 窒息 雲
@@ -7646,10 +7646,10 @@ choke 'em 外
 切る
 切る shadra
 切る 木
-
+コーラス
 chosen の エルーン
 chosen 一
-
+クリスマス
 多色 混沌
 多色 マント
 多色 篭手
@@ -7684,7 +7684,7 @@ chun tian 泉 rolls
 churning 泥
 churning 地面 視覚
 churning 胃 酸
-
+チャオ
 燃え殻
 燃え殻 刃
 燃え殻 fangs
@@ -7707,7 +7707,7 @@ cinderweb 繭
 cinderweb 繭 ダメージ
 cinderweb 卵 hatch
 
-
+映画館
 映像 - 精神 制御
 映像 タイマー
 
@@ -7722,7 +7722,7 @@ cintron-注入 包帯
 円 対象
 circlet の 秘術 かもしれない
 circular 吹雪
-
+サーカス
 citation 必要
 cities 内 塵
 citizen 衣装
@@ -7740,10 +7740,10 @@ claiming 水
 貝 chowder
 
 clamshell 帯
-
+一族
 拍手
 拍手 'em 内 irons
-
+拍手した
 衝突
 クラス
 クラス クレジット 効果
@@ -7916,7 +7916,7 @@ cleaning その shelf
 
 
 
-
+許可
 クリア詠唱
 clearcasting 発動
 クリア
@@ -7924,7 +7924,7 @@ clearcasting 発動
 クリア これ 部屋
 clearing コンテンツ
 clearing へ ボス
-
+明らかに
 clearly その 最高
 clearly その 最悪
 クリアクエスト
@@ -7937,10 +7937,10 @@ clearquests オーラ
 薙ぎ払い 発動
 肉切り包丁 bmrglbrm's whale dissection
 肉切り包丁 投げる
-
+切り裂き
 clefthide 脚 防具
-
-
+寛大
+握りしめる
 賢い
 賢い ashyo's 回復 球体
 賢い plant 変装
@@ -7952,7 +7952,7 @@ cleverly disguised バグ
 クリック へ 騎乗 発動
 
 
-
+クリフハンガー
 崖歩き 炎
 崖歩き 柱 位相 クエスト 05
 崖歩き 柱 位相 クエスト 06
@@ -8017,8 +8017,8 @@ clip それ 右 今
 遮蔽
 遮蔽 鶏
 遮蔽 鶏 マント
-
-
+ぶん殴る
+時計
 
 時計仕掛け 箱
 時計仕掛け ノーム
@@ -8052,13 +8052,13 @@ clip それ 右 今
 閉じた minded
 閉じた recruitment
 閉じた tesseract 効果
-
-
+閉まる
+閉店
 closing その ポータル
 布
 
 clothing 店
-
+凝固
 雲
 雲 オーラ
 クラウドバースト
@@ -8079,7 +8079,7 @@ clouded 精神
 clouded 反射
 雲ストライク
 cloudstrike 家族 兜
-
+曇り
 
 
 ピエロ
@@ -8088,8 +8088,8 @@ cloudstrike 家族 兜
 ピエロ世界
 棍棒
 棍棒 衝撃
-
-
+棍棒で殴られた
+何も知らない
 clump 確認
 clumsy 射撃
 集束 発射装置
@@ -8105,8 +8105,8 @@ clutched それ
 clutches の 邪悪
 co-強すぎ
 
-
-
+凝固する
+合体する
 
 coalescing 影
 粗い 爆破 粉
@@ -8153,9 +8153,9 @@ cobrahn 蛇 姿
 cobrascale 手袋
 cobrascale 頭巾
 チンコ
-
+オカメインコ
 繭
-
+繭に包まれた
 
 珈琲
 珈琲 破壊
@@ -8179,7 +8179,7 @@ coilfang 追跡者 パッシブ
 硬貨 の serendipity
 硬貨 きらめき
 硬貨 投げる
-
+偶然にも
 コールド
 冷たい 浄化
 コールドアイ
@@ -8245,7 +8245,7 @@ collateral ダメージ クレジット
 収集 fallout
 収集 奇妙 鉱石
 収集 完了
-
+衝突事故
 collosal 衝突
 香水
 香水 免疫
@@ -8255,7 +8255,7 @@ collosal 衝突
 色 combination
 色 私 impressed
 色-seein'
-
+カラフル
 
 巨大 甲殻
 巨大 薙ぎ払い
@@ -8316,8 +8316,8 @@ combo 点 遅延
 combo 点
 combo 殴る
 combobulating 噴射
-
-
+燃焼する
+可燃性の
 コンバスチョン
 燃焼 衝撃
 燃焼 周期的
@@ -8331,11 +8331,11 @@ combobulating 噴射
 一緒に来て
 来る後ろに
 comeback 王の
-
+コメディ
 来る
 彗星
 彗星の 跡
-
+快適な
 
 comfortable 革 帽子
 comfy raccoonskin 帽子
@@ -8351,7 +8351,7 @@ comfy racoonskin 帽子
 命令 悪魔
 命令 存在
 commandeered 大砲 効果
-
+司令官
 commander 立つ 準備完了
 commanders' かもしれない
 コマンディングシャウト
@@ -8369,24 +8369,24 @@ commune と その 祖先
 通信 故障
 通信 broke 下
 通信 は 鍵
-
+聖餐
 communique - 召喚 別の 対象
 共同体
-
+編成
 compact 収穫 死神
 compact 収穫 死神 道具
-
+圧縮された
 仲間
 仲間 chat 呪文
 仲間 周期的 回復
 仲間
-
+比べる
 compare ルーン
-
-
+コンパス
+強いられた
 compelling 幻視
 compelling 幻視 部分 02
-
+競争的な
 competitive 今夜
 完了
 完了 alterac 谷 日課 クエスト
@@ -8421,12 +8421,12 @@ completed 試練
 完了 確認
 完了 イベント - アライアンス
 完了 イベント - ホード
-
-
-
+複雑な
+構図
+堆肥化
 compound 目
-
-
+圧縮する
+妥協
 パソコン
 パソコン overheating
 パソコン science
@@ -8436,10 +8436,10 @@ concealing 霧
 concentrated 魅惑的 perfume こぼす
 concentrated irresistible 香水 こぼす
 concentrated 変異
-
+集中
 concentration オーラ
-
-
+心配している
+コンサート
 
 conclusion タイマー オーラ
 調合薬 衝撃
@@ -8456,15 +8456,15 @@ concussion 一撃
 衝撃 打撃
 衝撃 投げる
 衝撃 波
-
-
-
+糾弾
+凝結
+凝縮する
 
 
 condesned マナ 粉
 伝導性 盾
 伝導性 水
-
+導電性
 導管 レベル
 導管 過負荷
 導管 へ その 精神 領域
@@ -8475,23 +8475,23 @@ condesned マナ 粉
 円錐 の 稲妻
 円錐 呪文
 cones 壊れた
-
-
+告白する
+告白
 confessor 実績
 Confessor'sラス
 confidence の kros
-
+自信がある
 
 configure 包囲
 configure 包囲 - きれい 上
-
+確認する
 
 confirmation prompt 発動
 
 コンフラグレイト
 コンフラグレイト 自己 proc
 conflagrated 武器
-
+大火災
 conflagration 爆風
 confounding 一撃
 confounding 炎
@@ -8499,14 +8499,14 @@ confounding 炎
 混乱 cansis
 混乱 感じ
 混乱 オーガ
-
+混乱状態
 congeal 血
 凝固 血
 凝固 絶望
 凝固 絶望 視覚
 凝固 恐怖
 凝固 恐怖 視覚
-
+凝固中
 congealing 血
 おめでとう
 おめでとう オン
@@ -8553,7 +8553,7 @@ conjured アイテム
 conjured 水
 conjuring 食料
 conjuring 水
-
+接続された
 connected 領域
 接続
 接続 issues
@@ -8567,26 +8567,26 @@ Conqueror'sフレイム
 consecrated 武器
 コンセクレイション
 コンセクレイション 割引
-
+その結果
 conservator's 握り
 conservatory テレポート
-
-
+考慮する
+一貫した
 操作卓
 constant ルーン
 constellation 位相 効果
 constellation 位相 発動
-
-
-
+便秘
+憲法
+締め付ける
 constricting 鎖
 constricting レンド
-
+締め付け
 constriction トーテム オーラ
 constrictor 触手
 構築物 障壁
 構築物 hittin' ya
-
+建設中
 建設 バー movement
 建設 雲
 消費
@@ -8636,7 +8636,7 @@ constrictor 触手
 消費
 消費 効果
 消費 周期的
-
+連絡
 
 contagion の 腐敗
 container の rats
@@ -8712,8 +8712,8 @@ containment ビーム
 コンテンツ 創造者
 コンテンツ drought
 
-
-
+文脈
+大陸
 続ける
 contributing 何もない
 制御
@@ -8801,12 +8801,12 @@ coo 変身 furbolg dnd
 クールダウン2
 
 クールダウン 上
-
+冷却された
 cooling 息
 cooling 下
 cooling オフ
 coolup 平手打ち
-
+調整する
 coordinate より良い
 諦めろ
 諦めろ と seethe
@@ -8861,13 +8861,13 @@ corlok's 髑髏 弾幕
 corlok's 髑髏 弾幕 knockdown
 
 
-
+追い詰められた
 cornish rex 猫
 coronet の verdant 炎
-
-
+伍長
+法人
 corporeal 戻る
-
+実体性
 死体 爆発
 死体 爆発
 死体 爆発
@@ -9263,7 +9263,7 @@ cosmetic - 暖かい 手
 宇宙 粉砕 視覚 状態
 宇宙 打撃
 costs ある 腕 と ある 脚
-
+咳
 できた
 できた ある より良い
 できた ある より悪い
@@ -9288,20 +9288,20 @@ council の elders
 反撃 射撃
 反撃攻撃
 反撃チャージ
-
+反撃された
 反撃選ぶ
 カウンタースペル
 反撃ストライク
 国
 国 音楽
 coup de 優雅
-
+クーポン
 勇気
 
 進路 地図
 宮廷 の 骨 位相 変化
 宮廷 の 骨 準備
-
+いとこ
 覆う
 覆う その ヒーラー
 covered 内 watermelon
@@ -9310,12 +9310,12 @@ covering あなた
 牛 innards visible
 臆病者
 coward's 道 外
-
-
+臆病さ
+臆病
 cowardly citizen 発動
 cowardly 飛行
 cowardly 農民 発動
-
+すくむ
 cower 内 恐怖
 cowering 咆哮
 coyote 精神 depawn オーラ
@@ -9330,7 +9330,7 @@ cpu にて 100
 蟹 entrails
 蟹 輝き
 蟹 罠 視覚
-
+カニ
 割れ目 coconut
 割れ目 knuckles
 割れ目 射撃
@@ -9342,7 +9342,7 @@ cpu にて 100
 割れた 殻
 cracking 一撃
 cracking 石
-
+パチパチ
 パチパチ 炎
 パチパチ 炎
 パチパチ 怒り
@@ -9388,7 +9388,7 @@ cracking 石
 狡猾 呪文
 狡猾 虎 オパール
 狡猾 朱 縞瑪瑙
-
+詰め込み勉強
 
 
 cranberry サーバー
@@ -9429,7 +9429,7 @@ crashin' thrashin' 競走者 制御装置
 木箱 視覚
 crates 運んだ
 crates 殺す クレジット
-
+卑怯な
 這うもの 鉱山
 這うもの 鉱山 爆風
 這うもの 鉱山 制御装置 周期的
@@ -9452,7 +9452,7 @@ crayfish 騎乗 オーラ
 狂った マナ 回復
 狂った 考え
 狂った2
-
+クリーム
 クリエイト
 作成 aberration
 作成 忌まわしきもの
@@ -9890,7 +9890,7 @@ crayfish 騎乗 オーラ
 作成 zul's オーラ
 作成2
 クリエイトトーテム
-
+創造的な
 創造者 詠唱 見る 透明
 創造者 騎乗 鮫
 創造者 見る 透明
@@ -9945,8 +9945,8 @@ crayfish 騎乗 オーラ
 不気味 木箱 掴む
 不気味 木箱 パッシブ
 不気味 hop
-
-
+火葬する
+火葬
 
 crescendo の 苦しみ
 紋章 の 報復
@@ -9994,7 +9994,7 @@ crescendo の 苦しみ
 痛い lords
 痛い meme
 痛い worthy
-
+不自由にする
 cripple 状態
 衰弱 噛む
 衰弱 一撃
@@ -10029,7 +10029,7 @@ critically 重要
 小動物-killer 攻撃
 
 croc 軽食
-
+ワニ
 クロコリスク au gratin
 クロコリスク frag
 クロコリスク ガンボ
@@ -10048,7 +10048,7 @@ croc 軽食
 クロスボウ
 クロスボウ
 crossed 上
-
+しゃがむ
 烏
 烏 割引
 烏 宴
@@ -10074,9 +10074,9 @@ crucible の 魂 視覚
 粗野 scope
 粗野 黄昏 変装
 粗野 黄昏 変装 2
-
-
-
+残酷な
+残酷さ
+クルーズ
 崩れる
 崩れる 弧
 崩れる ruin
@@ -10142,7 +10142,7 @@ Crusher'sコール
 叫ぶ の その 死亡
 叫ぶ の その 空
 叫ぶ 外 内 絶望
-
+泣き虫
 
 
 泣く にて これ
@@ -10153,7 +10153,7 @@ cryomatic 16 凍結 レンズ
 crypt 甲虫 憎む
 crypt 甲虫 群れ
 
-
+暗号通貨
 水晶
 水晶 吸収 詠唱
 水晶 barbs
@@ -10222,7 +10222,7 @@ crystalized マナ 残留物
 結晶質 奔流
 結晶質 tangler
 結晶質 繋ぐ
-
+結晶化する
 結晶化 空気
 結晶化 大地
 結晶化 炎
@@ -10274,7 +10274,7 @@ cult 変装
 信者 頭巾
 cultivate packet の 種
 cultivated 力
-
+栽培
 まんこ
 カップ
 杯 の kafa
@@ -10301,8 +10301,8 @@ Cupid'sアロー
 
 curling 黒 cord
 curling 煙
-
-
+気難し屋
+通貨
 current メタ
 current 状態 の その ゲーム
 curruption の 戦争 きれい-上
@@ -10417,7 +10417,7 @@ Custom – Permanent Feign Death
 カスタム 衝撃 06
 カスタム 衝撃 07
 カスタム 歩く
-
+税関
 
 切る
 切る と 乾いた
@@ -10431,18 +10431,18 @@ Custom – Permanent Feign Death
 切る その 回復
 切る へ 黒
 切る へ その 追跡
-
-
+時間短縮
+かわいいね
 cutter レーザー
 cutter レーザー 対象
 cutting 刃
 cutting それ 閉じる
 cutting レーザー
 
-
+シアン
 cyanigosa 変身
-
-
+サイクル
+サイクリング
 
 サイクロン
 サイクロン アグロ
@@ -10479,7 +10479,7 @@ daedalian 翼
 短剣 投げる
 ダガー
 
-
+デイリー
 日課
 デイリークエスト
 
@@ -10532,7 +10532,7 @@ damaging tunnel 退屈させる 骨 パッシブ
 dampen 害
 dampen 害 装飾
 dampen 魔法
-
+減衰効果
 dampening 野原
 dampening 波
 乙女 による その shore 殺す クレジット
@@ -10754,7 +10754,7 @@ darkblaze 殺す クレジット
 ダークブリュー lager
 darkcrest taskmaster 生存
 
-
+暗くする
 darken 潜伏者
 darken 幻視
 
@@ -10864,13 +10864,13 @@ dartol's 棒
 データ 鉱夫の delight
 データ scan
 データ 流れ
-
-
+時代遅れの
+娘
 daughter の 炎
 daunting 唸る
 
 daunting 脚甲
-
+行こう
 夜明け
 夜明け treaders
 夜明けの 花 conversation starter 1
@@ -10891,12 +10891,12 @@ dawnstone 蟹
 日2
 
 日々
-
+昼間
 朦朧
 朦朧 免疫
 朦朧 免疫 キャンセル
 朦朧 自己
-
+ぼうっとした
 Dazed-アヴェンジャーシールド
 dazed と 混乱
 dazing 盾
@@ -10922,10 +10922,10 @@ de-weaponized mechanical 仲間
 停止 力 野原
 停止 夜 エルフ 月 水晶
 停止 ルーン
-
+無効化された
 deactivated 出現 調教師
 deactivated 砲塔 死 報告
-
+無効化中
 deactivating 力 source
 死亡
 死亡 と buried
@@ -10952,8 +10952,8 @@ deactivating 力 source
 死亡 地域
 死亡-目の intuition
 死亡2
-
-
+麻痺させる
+名射手
 死亡線
 致命的 酸
 致命的 狙う
@@ -11008,7 +11008,7 @@ deactivating 力 source
 死亡重さ
 deadwind 蜘蛛の巣
 死亡地域
-
+耳が聞こえなくなった
 耳をつんざく 遠吠え
 耳をつんざく 咆哮
 耳をつんざく 金切り声
@@ -11111,7 +11111,7 @@ Death Blossom 01
 deathblade ロケット 弾幕
 deathblood 毒液
 デス開花
-
+致命の一撃
 deathblow x11 ゴーグル
 デスボルト
 
@@ -11164,7 +11164,7 @@ deathsilk 肩当て
 
 debatably より良い
 debate 棍棒
-
+衰弱させる
 衰弱 ビーム
 衰弱 突撃
 衰弱 皮剥ぎ
@@ -11174,7 +11174,7 @@ debate 棍棒
 衰弱 打撃
 衰弱 触れる
 衰弱 毒液
-
+衰弱
 debit カード
 瓦礫
 デバフ
@@ -11186,16 +11186,16 @@ debit カード
 デバフ spam テスト
 デバフ uber 回復 上 時間
 デバフ2
-
-
+デバフを受けた
+デバッグ
 debug - オーラ 状態 道具 バグ
 debug - 操作卓 書く
 debug 作成 samophlange 手動
-
+首をはねる
 decapitating 殴る
 decapitating 打撃
 decapitating 薙ぎ払い
-
+斬首
 
 ディケイ
 腐敗 肉
@@ -11206,31 +11206,31 @@ deceitful 爆風
 deceptively 簡単
 deceptively 硬い
 
-
+全滅させること
 decimate 状態
 decimating 打撃
-
+大量殺戮
 decimation 刃
-
+解読する
 決定
 甲板 炎
 甲板 炎 ダメージ 周期的
 甲板 炎 出現
 甲板 の trades
 断る
-
+断られた
 declined その 招待
 declined その 蘇生
-
-
-
+デコード
+分解する
+解体中
 decontaminate 段階 1
 decontaminate 段階 2
 decontaminate 段階 3
-
+除染
 おとり
 おとり 爆発物
-
+減少
 decrease マナ 費用 - 秘術
 decrease マナ 費用 - 炎
 decrease マナ 費用 - 氷
@@ -11243,9 +11243,9 @@ decree の その 闇 lady
 
 decrepit 熱
 
+復号中
 
-
-
+専念した
 深い
 深い 咆哮
 深い 息
@@ -11344,8 +11344,8 @@ defiant と 激怒
 defias 変装
 defias 塔 ii
 defias 塔 iii
-
-
+除細動する
+汚す
 defile uther's 墓
 defiled 地面
 defiling オーラ
@@ -11354,7 +11354,7 @@ defiling 恐怖
 間違いなく 最後 ゲーム
 間違いなく 働く
 deflecting 風
-
+偏向
 deforestation クレジット
 巧み ametrine
 巧み 残り火 黄玉
@@ -11365,15 +11365,15 @@ deforestation クレジット
 巧み 虎 オパール
 巧み 朱 縞瑪瑙
 退廃
-
+退化
 degenerative 噛む
-
-
+劣化
+学位
 degreelessness モード
+度
 
 
-
-
+脱水
 遅延
 遅延 オーラ
 遅延 タイマー
@@ -11416,7 +11416,7 @@ deleted から その サーバー
 美味しい sagefish 尾
 
 
-
+錯乱した
 delirious 斬撃
 届ける
 届ける 酔った 雄鹿
@@ -11428,7 +11428,7 @@ delirious 斬撃
 届ける 蓮 種
 届ける スープ
 届ける stolen 馬
-
+救済
 delivering ある 樽 爆弾
 配達 見習い
 配達 荷車 開始 発動
@@ -11439,17 +11439,17 @@ delora 叫ぶ 排除 4
 大洪水
 大洪水 オーラ キャンセル
 大洪水 の 影
-
+妄想的な
 delusions の jin'do
 deluxe 麺 荷車
 deluxe 麺 荷車 道具
 deluxe 麺 スープ
-
+非物質化する
 dematerialize 防具
-
+認知症
 demo 叫び sensor
-
-
+民主主義
+取り壊す
 demolish 防具
 
 破城車 大砲
@@ -11554,15 +11554,15 @@ demolish 防具
 demonology ウォーロック
 悪魔 甲板
 悪魔 の その 過去
-
+士気をくじく
 士気低下 旗
 士気低下 mmmrrrggglll
 士気低下 咆哮
 士気低下 金切り声
 デモラライジングシャウト
-
+降格された
 denouement 精霊
-
+糾弾する
 密集 爆破 粉
 密集 ダイナマイト
 密集 残り火絹 包帯
@@ -11571,19 +11571,19 @@ denouement 精霊
 密集 石 像
 密集 研ぎ石
 dented 盾 の horuz killcrow
-
+歯医者
 
 
 
 dependable ダメージ
+依存している
 
-
-
+枯渇させる
 deplete その 鍵
-
+枯渇した
 depleted トーテム クレジット
 depleted-kyparium ロケット
-
+枯渇
 展開 爆弾-ボット
 展開 爆発 箱
 展開 butcherbot
@@ -11600,8 +11600,8 @@ depositing jungle ホップ
 depositing 液体 炎
 depositing 精神-kissed 水
 
-
-
+落ち込んだ
+うつ病
 
 深さ 突撃
 深さ 突撃 秒読み 脈動
@@ -11609,31 +11609,31 @@ depositing 精神-kissed 水
 deputize 工作員 の nozdormu
 deputy clunky 力 詠唱
 der'izu 集中
-
+脱線した
 
 dertrok 精神 制御
-
+彩度を下げる
 
 descent 中へ 狂気 テレポート
 
-
-
+説明文
+冒涜する
 冒涜された
 冒涜された 矢
 冒涜された 地面
 冒涜された 油
 冒涜された 武器
-
+冒涜
 desecration 腕
 
 deselect 自己
 砂漠
 砂漠 狐 interact
 脱走兵
-
+乾燥させる
 designate 対象
 
-
+やめておく
 デソレイス
 
 絶望
@@ -11736,15 +11736,15 @@ Despawn Summons
 必死 決意
 必死 速度
 必死 立つ
+にもかかわらず
 
-
-
+デザート
 dest 塵 爆発
+不安定化
 
-
-
+不安定にする
 destabilize 紺碧 dragonshrine
-
+不安定になった
 
 
 
@@ -11876,7 +11876,7 @@ detaunt テスト
 detected 脈動
 探知
 探知 効果
-
+悪化する
 決意
 決意
 決意 gore
@@ -11903,9 +11903,9 @@ detonating ルーン stones
 爆発 達人
 爆発 クエスト クレジット
 爆発 連続
-
+デトックス
 デバステイト
-
+打ちのめされた
 壊滅的 弧
 壊滅的 earthblow
 壊滅的 跳躍
@@ -11916,7 +11916,7 @@ detonating ルーン stones
 壊滅的 突き
 荒廃
 荒廃 発動
-
+開発する
 devestating 一撃
 devestating 粉砕
 逸脱 魚
@@ -11949,7 +11949,7 @@ devious 精神
 貪る マーロック
 貪る 水
 貪る 風
-
+むさぼり食われた
 devoured による 炎
 devourer's 胃
 貪る 忍び寄る
@@ -11959,10 +11959,10 @@ devourer's 胃
 ディヴァウリングプレイグ
 devout 信仰
 dew の 永遠 朝
-
+器用な
 dgk 紐 placeholder
-
-
+糖尿病
+ディアブロ
 diabolic 治療
 diagnostic 連続
 diagonal 滑る
@@ -11983,11 +11983,11 @@ diagonal 滑る 効果
 ダイアモンドリング
 ダイアモンドソウル
 ダイヤ-切る refractor scope
-
+下痢
 チンコ
 チンコ頭
-
-
+口述する
+独裁
 した
 した 誰か 死ぬ そこ
 した ない
@@ -12009,7 +12009,7 @@ didgeridoo の contemplation
 死んだ 怖い
 diemetradon 遠吠え
 
-
+食事制限
 
 差
 違う
@@ -12020,9 +12020,9 @@ diemetradon 遠吠え
 異なる 視点
 異なる2
 難しい
-
+難易度
 diffuse 魔法
-
+拡散
 diffusion 連鎖
 掘る のための artifacts
 掘る のための 宝
@@ -12071,19 +12071,19 @@ dimensional ripper - 範囲 52
 
 dimensional 吸収
 dimensius 給餌
-
+減らす
 diminish 力
 diminish 魂
 diminsh 力
 diminutive 繭
 dinah ダミー 呪文
 dingy 魔法使い 帽子
-
+夕食
 dinner 時間
 dino 姿
 dino 肉 クレジット
 dino-修復
-
+外交
 diplomatic 免疫
 ダイアビースト
 恐ろしい 獣 集中 運転手
@@ -12102,15 +12102,15 @@ direbrew 突撃
 direbrew's 武装解除
 direct ダメージ
 方向
-
-
+道順
+監督
 ダイアホーン 突撃
 ダイアホーン 突撃 衝撃
 ダイアホーン 変装
 ダイアホーン パッシブ
 ダイアホーン パッシブ 効果
 ダイアホーン runt
-
+哀歌
 
 Dirk'sRememberin'ポイズン
 泥
@@ -12150,12 +12150,12 @@ Dirk'sRememberin'ポイズン
 無効化 衝撃
 無効化 毒
 無効化 転送装置 クエスト クレジット
-
-
+デメリット
+反対する
 disallow 悪魔の 円 召喚
-
-
-
+消える
+がっかりした
+残念な
 ディスアーム
 武装解除 爆弾 ボット
 武装解除 持続時間 軽減
@@ -12165,7 +12165,7 @@ disallow 悪魔の 円 召喚
 武装解除 盾 テスト
 武装解除 テスト
 武装解除 罠
-
+武装解除された
 disarming 炎
 disarming 怒り
 disarming 怒り 効果
@@ -12180,27 +12180,27 @@ disciple の エルーン 透明化 q1
 disciplinary 行動
 disciplinary 棒
 修練
-
+規律正しい
 disciplined 詠唱者
 disciplined 力
 disciplines excluded オーラ
 disciplining 棒
 disco 球
 discolored 回復 ポーション
-
+混乱させる
 discombobulator 光線
 
-
+切断された
 disconnected 再び
 disconnected から サーバー
-
+不和
 discordant 奔流 視覚
 割引
-
-
+発見する
+発見された
 discreet 魔法
-
-
+話し合う
+軽蔑
 疾病
 病気 息
 病気 連打
@@ -12222,14 +12222,14 @@ disembodied jormungar 殺す クレジット
 エンチャント分解
 エンチャント分解 視覚
 ディスエンゲージ
-
+離脱中
 
 不満
 不満 怒り
 変装
 disguised マーモット
-
-
+嫌悪
+うんざりした
 きもい
 嫌悪 oozeling
 嫌悪 胞子
@@ -12238,19 +12238,19 @@ disguised マーモット
 落胆 一撃 iv
 落胆 一撃 v
 落胆 笑う
-
-
+不名誉な
+幻滅した
 崩壊
 崩壊 ビーム
 崩壊 ビーム 事前詠唱
 崩壊 レーザー
-
-
-
+分離
+嫌い
+解体する
 dismantle 防具
 dismantled 防具
-
-
+切断する
+切断中
 dismembering 死体
 解散
 解散 ガーゴイル
@@ -12274,12 +12274,12 @@ dismembering 死体
 降りる 一撃
 降りる 射撃
 降りる 急襲
-
-
+方向感覚を失わせる
+方向感覚を失った
 disorienting 咆哮
 disorienting 金切り声
 disorienting 粉砕
-
+派遣
 ディスペル
 解除 2
 解除 吹雪
@@ -12299,15 +12299,15 @@ disorienting 粉砕
 解除 罠
 dispell 血歯
 dispelling 分析
-
-
+分散
+散らす
 disperse neutralizing 工作員
-
+分散中
 ディスパージョン
 分散 爆弾 視覚
 分散 疾走
 分散 視覚
-
+押しのける
 displace 根
 displaced エネルギー
 転位
@@ -12338,13 +12338,13 @@ disrupted 虚無
 混乱
 混乱 光線
 disruptor 爆発
-
-
-
+論文
+消散する
+消散
 dissolve 防具
 dissolve 鉱石
 dissonance 野原
-
+距離
 distance 追跡者
 distant 炎
 distillation 完了
@@ -12424,12 +12424,12 @@ divided 我々 落下
 
 divining 巻物 呪文
 divining 忘我
+神性
 
-
-
-
-
-
+分断
+離婚
+めまい
+目が回る
 dizzying 靄
 dizzying 靄 装飾
 
@@ -12491,7 +12491,7 @@ docks 旗 中立 クリック
 docks 歩哨 点 追跡者 オーラ
 
 
-
+ドキュメンタリー
 回避
 回避 戻る
 回避 突撃
@@ -12537,11 +12537,11 @@ doggie 急降下 兜
 している dailies
 dojani eel 感電
 人形
-
-
+イルカ
+飼いならす
 支配
 支配 offensive 壮大 表彰
-
+支配的な
 dominant 精神
 支配
 支配 生物
@@ -12549,7 +12549,7 @@ dominant 精神
 支配 偉大 鮫 - triggered
 支配 精神
 支配 精神 防護
-
+支配された
 dominated パンダレン 自由 クレジット
 dominating 打撃
 支配

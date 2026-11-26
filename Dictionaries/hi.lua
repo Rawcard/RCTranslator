@@ -6768,13 +6768,13 @@ carapace का सूरज और छाया
 carcanet का वह सौ magi
 cardboard हत्यारा
 कार्डियो
-
-
+देखभाल
+सावधान
 careful निशाना
 
-
+ध्यान से
 carefully संग्रह
-
+लापरवाह
 caress का मौत
 
 carinda's प्रतिशोध
@@ -6798,7 +6798,7 @@ carriage सवारी
 
 
 carrion झुंड
-
+गाजर
 carrot साँस
 carrot साँस आह्वान
 carrot खोदो
@@ -6861,7 +6861,7 @@ carrot उछालो
 गाड़ी नियंत्रण कब्ज़ा बिंदु unit पूर्व
 गाड़ी नियंत्रण कब्ज़ा बिंदु unit उत्तर
 गाड़ी नियंत्रण कब्ज़ा बिंदु unit दक्षिण
-
+कार्टून
 carve भालू flank
 carve मांस
 carve मांस
@@ -6874,7 +6874,7 @@ carving पत्थर दृश्य
 झरना का ebon petals
 झरना का petals
 झरना का roses
-
+नकद
 cash प्रवाह
 
 cask का aged dalaran लाल
@@ -6894,12 +6894,12 @@ cask का peaked dalaran लाल
 मंत्र2
 मंत्र3
 मंत्री
-
+मंत्र डालना
 
 
 किला
 किला का रेत
-
+आकस्मिक
 
 casual गिल्ड
 casual खिलाड़ी
@@ -6913,7 +6913,7 @@ casual खिलाड़ी
 बिल्ली knocked कुछ के ऊपर
 बिल्ली प्रतिमा के साथ emerald आँखें
 बिल्ली2
-
+महाप्रलय
 cataclysm साँस
 
 cataclysm बलढालना
@@ -6941,8 +6941,8 @@ catalyst एक
 पकड़ो वह जल आत्मा
 पकड़ो उन्हें
 पकड़ो तुम बाद में
-
-
+श्रेणी
+कैटफ़िश
 
 catseye रसायन
 
@@ -6955,7 +6955,7 @@ caught में 8k
 caught बंद पहरा
 caught लाल handed
 caught ऊपर
-
+कड़ाह
 cauldron deposit जाँच
 cauldron diluted प्रभाव
 cauldron आयोजन पूर्ण
@@ -6980,9 +6980,9 @@ cauldron रस्सी
 
 cause और प्रभाव
 cause उन्माद
-
-
-
+कारण बना
+कारण बनता है
+पैदा करना
 कास्टिक amber
 कास्टिक रक्त
 कास्टिक गैस
@@ -6996,11 +6996,11 @@ cause उन्माद
 कास्टिक छिड़काव
 कास्टिक tar
 कास्टिक tar साफ़ बॉस बढ़ावा
-
+दागना
 cauterize स्वामी
 cauterize वह घाव
 cauterize घाव
-
+दागा गया
 cauterizing केंद्र
 cauterizing ज्वाला
 cauterizing ज्वाला charges
@@ -7016,7 +7016,7 @@ cauterizing प्रहार
 गुफा का scrolls श्रेय
 गुफा-में
 
-
+काँव
 cayden ambush खोज श्रेय
 
 cc यहाँ
@@ -7028,7 +7028,7 @@ cc वह सहायक
 
 
 
-
+बंद करना
 cease टेलीपोर्ट
 
 
@@ -7071,7 +7071,7 @@ celebration अवधि
 आकाशीय तूफ़ान
 आकाशीय प्रतियोगिता
 आकाशीय हवाएँ
-
+दिव्य प्राणी
 celestials बोनस
 celestials बोनस लूट
 celestials धक्का लूट
@@ -7087,7 +7087,7 @@ cenarion कवच
 cenarius प्रवेश द्वार पुतला
 cenarius आयोजन स्वामी
 censer का शाश्वत वेदना
-
+निंदा
 censure का वेदना
 censure का शाश्वत वेदना
 
@@ -7098,7 +7098,7 @@ centrifuge केंद्र निष्क्रिय
 centrifuge केंद्र दृश्य
 centrifuge ढाल
 
-
+निश्चित
 
 certificate का ownership
 certified गंदगी
@@ -7107,8 +7107,8 @@ cerulean उपहार का वह सारस
 
 
 
-
-
+भूसा
+खीज
 ज़ंजीर
 ज़ंजीर बिजली
 ज़ंजीर जलाओ
@@ -7133,14 +7133,14 @@ cerulean उपहार का वह सारस
 ज़ंजीर जाल
 ज़ंजीर दृश्य
 ज़ंजीर दृश्य 2
-
+ज़ंजीर में बंधा
 chained बिजली
 chained पकड़
 chained चंगा
 chained मन
 
 chained को stables
-
+मशीनगन
 
 chaining पकाना
 
@@ -7166,9 +7166,9 @@ chaining पकाना
 ज़ंजीरें का torture
 ज़ंजीरें का woe
 chainsaw फलक
-
-
-
+कुर्सी
+अध्यक्षता की
+चक्र
 chakra सोखना
 chakra प्रवाह
 chalice का वह पहाड़ राजा
@@ -7190,14 +7190,14 @@ chalice का वह पहाड़ राजा
 चुनौती मोड शुरू - प्रवाह
 चुनौती मोड शुरू - send आयोजन
 चुनौती veraku
-
+चुनौती देने वाला
 challenger है dazed
 challenger's रास्ता
 challenger's मशाल
-
+चुनौतीपूर्ण
 challenging चिल्लाना
 चलो
-
+गिरगिट
 चैंपियन
 चैंपियन का hellscream
 चैंपियन का ramkahen
@@ -7218,9 +7218,9 @@ champion's लावा coral
 
 champion's बाघ opal
 
+चैंपियनशिप
 
-
-
+मौका
 chance को बहाल स्वास्थ्य चालू मारो
 chance को बहाल माना चालू spellcast
 बदलो
@@ -7239,9 +7239,9 @@ chance को बहाल माना चालू spellcast
 बदलो वह strat
 बदलो2
 बदलो3
-
+बदल गया
 changed मेरा मन
-
+बदलाव
 changing वह subject
 प्रसारित करना
 प्रवाह वायु ढाल
@@ -7301,7 +7301,7 @@ chao संरक्षक आभा
 अराजक temperament
 chapel श्रेय
 chapel अदृश्यता
-
+अध्याय
 chapter 1 पूर्णता आयोजन
 chapter 2 पूर्णता आयोजन
 chapter और verse
@@ -7373,7 +7373,7 @@ charbroiled बाघ स्टेक
 आवेशित stormhammer बॉस emote
 आवेशित titanium specs
 आवेशित स्पर्श
-
+चार्ज हो रहा
 
 charging ox लहर
 charging ox लहर v2
@@ -7409,7 +7409,7 @@ charging ऊपर
 तावीज़ sully
 तावीज़ taylor
 तावीज़ woodland प्राणी
-
+मोहित
 charred भालू kabobs
 charred पृथ्वी
 charred भेड़िया मांस
@@ -7418,9 +7418,9 @@ charscale टाँग कवच
 
 chase नीचे
 chase उन्हें
-
-
-
+पीछा करते हुए
+डाँटना
+डाँटा गया
 बातचीत
 बातचीत बुलबुला
 बातचीत emote आभा
@@ -7432,7 +7432,7 @@ cheap गोली
 
 cheaper संयोजन moves
 cheaper ड्रूइड shapeshifting
-
+धोखा देना
 cheat मौत
 cheat उठाओ
 cheated मौत
@@ -7464,26 +7464,26 @@ cheating मौत
 जाँच आपका mail
 जाँच आपका messages
 
-
+चेकआउट
 जाँचबिंदु
-
-
+चीं चीं
+जयकार
 cheer ऊपर yi-mo त्याग
 
-
+चियर्स
 
 cheese सिर
 cheese यह
 
 
-
+रसोइया
 chef's टोपी
 cheiftain प्रहार
 chemical बम
 chemical बादल
 chemical ज्वालाएँ
 
-
+रसायन विज्ञान
 chen carries एक पीपा
 chen's festival काढ़ा
 
@@ -7502,7 +7502,7 @@ chests invisible किरण
 chewing रक्त splatters
 chewing बाहर
 
-
+ची
 chi बौछार
 chi धमाका
 chi काढ़ा
@@ -7519,24 +7519,24 @@ chi-ji निराशा beams चालू
 
 chi-ji's चुनौती
 chi-ji's आशा
-
+मुर्गी
 chicken खाना
 chicken क्रोध
 chicken कूदना
 
 chicken जाल
 chicken अन्य
-
+मुखिया
 
 chieftain's टोटम स्थिति
 chieftan's बुलाओ
 
 chihozen binono पीपा आभा
-
+शीतदंश
 बच्चा
 बच्चा का tortolla
 बच्चा2
-
+बचकाना
 बच्चाजैसा wonder
 
 children का deathwing
@@ -7577,7 +7577,7 @@ children's सप्ताह बल स्वामी को मंत्र
 ठिठुरन हवाएँ
 ठिठुरन शब्द
 
-
+ठंडा सा
 chimaeron क्षमताएँ
 chimaeron निकट attacks
 chimera गोली
@@ -7587,25 +7587,25 @@ chimeric दस्ताने
 chimeric पायजामा
 chimeric बनियान
 
-
+चीनी
 
 
 chirping डिब्बा
 chiseling किरण
 
-
+क्लोरोफ़ॉर्म
 
 cho's धमाका
 
 cho's हाथ तोप
 cho's teapot स्वामी
 
-
+चॉकलेट
 chocolate celebration केक
 chocolate बिस्कुट
 
 विकल्प
-
+गायक मंडली
 choke 'em बाहर
 दम घुटना
 दम घुटना बादल
@@ -7643,13 +7643,13 @@ chomp chomp श्रेय - आयोजन
 चुनो taoshi
 चुनो tenwu
 चुनो yalia sagewhisper
-
+काटना
 
 chop पेड़
-
+कोरस
 chosen का elune
 chosen एक
-
+क्रिसमस
 chromatic अराजकता
 chromatic लबादा
 chromatic दस्ताने
@@ -7666,7 +7666,7 @@ chromie फुसफुसाना
 
 
 chu's खोज मंत्र
-
+फेंकना
 chuck पीपा
 chuck पीपा
 chuck मांस
@@ -7684,7 +7684,7 @@ chum वह जल
 
 churning भूमि दृश्य
 churning stomach अम्ल
-
+चाओ
 अंगारा
 अंगारा फलक
 अंगारा fangs
@@ -7700,14 +7700,14 @@ cindercloth चोगा
 cindercloth बनियान
 
 cindergut जलाओ
-
+अंगारे
 
 cinderslither आभा
 
 cinderweb cocoon नुकसान
 cinderweb अंडा hatch
 
-
+सिनेमा
 cinematic - मन नियंत्रण
 cinematic टाइमर
 
@@ -7722,7 +7722,7 @@ cinematic टाइमर
 वृत्त लक्ष्य
 circlet का गूढ़ शक्ति
 
-
+सर्कस
 
 cities में धूल
 
@@ -7740,11 +7740,11 @@ clam पट्टी
 
 
 clamshell पट्टी
-
-
+कबीला
+ताली
 clap 'em में irons
-
-
+ताली बजाई
+टकराव
 वर्ग
 वर्ग श्रेय प्रभाव
 वर्ग dismissed
@@ -7754,9 +7754,9 @@ clap 'em में irons
 वर्ग swap
 वर्ग training श्रेय प्रभाव
 वर्ग training श्रेय आवधिक
-
+क्लासिक
 classical संगीत
-
+सहपाठी
 
 पंजा
 पंजा और rake नुकसान बोनस
@@ -7916,15 +7916,15 @@ cleanup कास्टिक tar
 
 
 
-
-
+मंज़ूरी
+मुफ़्त मंत्र
 clearcasting चालू
-
+साफ़ किया
 cleared के लिए टेलीपोर्ट
 cleared यह room
 clearing सामग्री
 clearing को बॉस
-
+स्पष्ट रूप से
 clearly वह सर्वश्रेष्ठ
 clearly वह सबसे बुरा
 साफ़ करनाकार्य
@@ -7937,11 +7937,11 @@ clearquests आभा
 चीरो चालू
 
 cleaver उछालो
-
+चीरना
 clefthide टाँग कवच
-
-
-
+क्षमादान
+भींचना
+चतुर
 clever ashyo's उपचार गोला
 clever plant भेस
 cleverly disguised बग
@@ -7952,7 +7952,7 @@ click वह गोला
 click को सवारी चालू
 
 
-
+रहस्यमय अंत
 cliffwalker आग
 cliffwalker post चरण खोज 05
 cliffwalker post चरण खोज 06
@@ -8017,13 +8017,13 @@ cloaked peeps दृश्य आभा
 
 
 cloaking chicken लबादा
-
-
+पीटना
+घड़ी
 
 clockwork डिब्बा
 clockwork नोम
 clockwork रॉकेट bot
-
+क्लोन
 clone खरगोश रूपांतर
 clone जादू
 clone स्वामी स्वास्थ्य
@@ -8052,13 +8052,13 @@ clone रूपांतर prep
 बंद minded
 बंद recruitment
 बंद tesseract प्रभाव
-
-
+बंद होता है
+समापन
 closing वह पोर्टल
 कपड़ा
 
 
-
+थक्का बनना
 बादल
 बादल आभा
 बादल विस्फोट
@@ -8079,23 +8079,23 @@ clouded मन
 
 बादलप्रहार
 cloudstrike परिवार शिरस्त्राण
+बादल छाए
+दबदबा
 
 
 
 
-
-
-
+जोकर
 
 club टक्कर
-
-
+डंडे से पीटा
+अनजान
 clump जाँच
 clumsy गोली
 
 cluster रॉकेट
 cluster गोली
-
+निर्णायक
 clutch है में हमारा रक्त
 clutch क्षण
 clutch का मौत
@@ -8105,8 +8105,8 @@ clutched यह
 clutches का बुराई
 
 
-
-
+जमना
+विलय होना
 
 coalescing छायाएँ
 coarse धमाका powder
@@ -8143,7 +8143,7 @@ cobalt skeleton चाबी
 
 cobalt triangle ढाल
 cobalt युद्ध talbuk
-
+कोबरा
 cobra शिशु
 cobra गोली
 cobra प्रहार
@@ -8152,10 +8152,10 @@ cobrahide टाँग कवच
 cobrahn सर्प रूप
 cobrascale दस्ताने
 cobrascale हुड
-
-
-
-
+मुर्गा
+कॉकटेल तोता
+कोकून
+कोकून में
 
 कॉफ़ी
 कॉफ़ी तोड़ो
@@ -8179,7 +8179,7 @@ coilfang पीछा करने वाला निष्क्रिय
 सिक्का का serendipity
 सिक्का sparkle
 सिक्का उछालो
-
+संयोग से
 ठंडा
 ठंडा cleanse
 ठंडा आँख
@@ -8208,7 +8208,7 @@ coliseum 5 मंत्रीगहना
 coliseum 5 चिकित्सक गहना
 coliseum 5 निकट गहना
 coliseum 5 टैंक गहना
-
+ढहना
 collapse चालू टैंक
 collapsing गुफा
 
@@ -8245,9 +8245,9 @@ collateral नुकसान श्रेय
 संग्रह fallout
 संग्रह strange ore
 collection पूर्ण
+टक्कर
 
-
-
+कोलोन
 
 cologne आवधिक आभा
 
@@ -8255,7 +8255,7 @@ cologne आवधिक आभा
 रंग combination
 रंग मुझे impressed
 रंग-seein'
-
+रंगबिरंगा
 
 
 colossal चीरो
@@ -8264,7 +8264,7 @@ colossal क्रोध
 colossal कुचलो
 colossal प्रहार
 colossal बुहारना
-
+विशालकाय
 colossus कुचलो
 column का तुषार
 column का प्रकाश
@@ -8316,9 +8316,9 @@ combining untainted आत्माएँ
 संयोजन अंक
 संयोजन घूँसा
 combobulating छिड़काव
-
-
-
+जल उठना
+ज्वलनशील
+दहन
 combustion टक्कर
 combustion आवधिक
 आना
@@ -8331,11 +8331,11 @@ combustion आवधिक
 आना के साथ मुझे
 आनापीछे
 comeback राजा
+कॉमेडी
+आता है
+धूमकेतु
 
-
-
-
-
+आरामदायक
 
 comfortable चमड़ा टोपी
 comfy raccoonskin टोपी
@@ -8351,11 +8351,11 @@ comfy racoonskin टोपी
 आदेश राक्षस
 आदेश presence
 commandeered तोप प्रभाव
-
+सेनापति
 commander खड़े तैयार
 commanders' शक्ति
 commanding चिल्लाना
-
+टिप्पणी करना
 
 commentator's आदेश
 
@@ -8369,21 +8369,21 @@ commune के साथ वह पूर्वज
 communication तोड़ोनीचे
 communication broke नीचे
 communication है चाबी
-
+परम प्रसाद
 communique - आह्वान another लक्ष्य
 
-
+टीम संरचना
 compact फ़सल reaper
 compact फ़सल reaper किट
-
+सघन
 साथी
 साथी बातचीत मंत्र
 साथी आवधिक चंगा
+कंपनी
 
 
-
-
-
+कंपास
+मजबूर
 compelling दृष्टि
 compelling दृष्टि भाग 02
 
@@ -8422,10 +8422,10 @@ completed परीक्षा
 पूर्णता आयोजन - गठबंधन
 पूर्णता आयोजन - भीड़
 
-
-
+रचना
+खाद बनाना
 compound आँख
-
+संपीड़ित करना
 
 
 
@@ -8438,8 +8438,8 @@ concealing कोहरा
 
 
 concentration आभा
-
-
+चिंतित होना
+संगीत समारोह
 
 conclusion टाइमर आभा
 concoction टक्कर
@@ -8456,15 +8456,15 @@ concussive पदाघात
 concussive प्रहार
 concussive फेंको
 concussive लहर
-
-
-
+भर्त्सना
+संघनन
+संघनित करना
 
 
 condesned माना powder
 conductive ढाल
 conductive जल
-
+चालकता
 conduit स्तर
 conduit अतिभार
 conduit को वह आत्मा साम्राज्य
@@ -8475,23 +8475,23 @@ conduit को वह आत्मा साम्राज्य
 शंकु का बिजली
 शंकु मंत्र
 cones टूटा
-
-
+कबूल करना
+स्वीकारोक्ति
 confessor उपलब्धि
 confessor's प्रकोप
 confidence का kros
-
+आत्मविश्वासी
 
 
 configure siege - साफ़ ऊपर
-
-
+पुष्टि करना
+पुष्टि
 confirmation prompt चालू
 
-
+भड़काना
 conflagrate स्वयं सक्रियण
 conflagrated हथियार
-
+भीषण आग
 conflagration धमाका
 confounding प्रहार
 confounding ज्वालाएँ
@@ -8499,14 +8499,14 @@ confounding ज्वालाएँ
 भ्रमित cansis
 भ्रमित feeling
 भ्रमित ogre
-
+उलझन
 congeal रक्त
 congealed रक्त
 congealed निराशा
 congealed निराशा दृश्य
 congealed आतंक
 congealed आतंक दृश्य
-
+जमता हुआ
 congealing रक्त
 बधाई
 बधाई चालू
@@ -8565,28 +8565,28 @@ conquest का वह ancients
 conquest अंक
 
 consecrated हथियार
-
+अभिषेक
 
 
 conservator's पकड़
 conservatory टेलीपोर्ट
-
-
-
+विचार करना
+सुसंगत
+कंसोल
 constant रून
 constellation चरण प्रभाव
 constellation चरण चालू
-
-
-
+कब्ज़
+संविधान
+सिकोड़ना
 constricting ज़ंजीरें
 
-
+संकुचन
 constriction टोटम आभा
 
 
 
-
+निर्माण करते हुए
 construction पट्टी movement
 construction बादल
 भक्षण
@@ -8636,12 +8636,12 @@ construction बादल
 खपत
 खपत प्रभाव
 खपत आवधिक
-
+संपर्क करना
 
 contagion का rot
 container का rats
 containment किरण
-
+चिंतन
 contender's रक्षा
 contender's dragonscale बेल्ट
 contender's dragonscale जूते
@@ -8713,7 +8713,7 @@ contender's wyrmhide कंधे
 सामग्री drought
 
 
-
+महाद्वीप
 
 contributing कुछ नहीं
 नियंत्रण
@@ -8753,7 +8753,7 @@ controlled pandaren freedom श्रेय
 convalescence का हवाएँ
 conventional ज्ञान
 conversing के साथ anduin
-
+रूपांतरण क्रिया
 conversion किरण
 
 convert रून परीक्षण
@@ -8801,14 +8801,14 @@ cookie's टोपी
 प्रतीक्षा
 
 कूलडाउन ऊपर
-
+ठंडा किया
 cooling साँस
 cooling नीचे
 cooling बंद
 
-
+समन्वय करना
 coordinate बेहतर
-
+सामना करना
 cope और seethe
 
 तांबा
@@ -8860,14 +8860,14 @@ corehound जूते
 corlok's खोपड़ी बौछार
 corlok's खोपड़ी बौछार knockdown
 
-
+कोना
 
 cornish rex बिल्ली
 coronet का verdant ज्वाला
+कॉर्पोरल
+निगम संस्था
 
-
-
-
+भौतिकता
 लाश विस्फोट
 लाश विस्फोट
 लाश विस्फोट
@@ -8878,7 +8878,7 @@ coronet का verdant ज्वाला
 लाश मकड़ी जाल प्रकट
 लाश टेलीपोर्ट
 लाश worm bait
-
+सही
 correct पीना
 correct समय period
 
@@ -8888,7 +8888,7 @@ corrode मांस
 corroded मन
 corroded saronite धार
 
-
+क्षरण
 संक्षारक अम्ल
 संक्षारक अम्ल साँस
 संक्षारक अम्ल थूक
@@ -9263,7 +9263,7 @@ cosmic कुचलो
 cosmic कुचलो दृश्य स्थिति
 cosmic प्रहार
 costs एक बाँह और एक टाँग
-
+खाँसी
 
 could होना बेहतर
 could होना बदतर
@@ -9288,34 +9288,34 @@ countdown को खींचो
 जवाबी गोली
 जवाबीहमला
 जवाबीधावा
-
+जवाब दिया गया
 जवाबीउठाओ
 जवाबीमंत्र
 जवाबीप्रहार
 
 country संगीत
 coup de कृपा
-
+कूपन
 साहस
 
 course नक्शा
 court का हड्डियाँ चरण shift
 court का हड्डियाँ prep
-
+चचेरा भाई
 ओट
 ओट वह चिकित्सक
 covered में watermelon
 covering तुम
 गाय
 गाय innards visible
-
+डरपोक
 coward's रास्ता बाहर
-
-
+कायरपना
+कायरता
 cowardly citizen चालू
 cowardly उड़ान
 cowardly peasant चालू
-
+दुबकना
 cower में भय
 cowering दहाड़
 coyote आत्मा depawn आभा
@@ -9330,19 +9330,19 @@ crab भेस
 
 crab चमक
 crab जाल दृश्य
-
+केकड़े
 
 
 crack गोली
 crack वह whip
-
+फटा हुआ
 cracked क्रिस्टल शीशी
 cracked पृथ्वी दृश्य
 cracked mogu रूनपत्थर
 cracked खोल
 cracking प्रहार
 cracking पत्थर
-
+चटचटाहट
 कड़कता ज्वाला
 कड़कता ज्वालाएँ
 कड़कता क्रोध
@@ -9388,7 +9388,7 @@ crafty लावा coral
 crafty मंत्र
 crafty बाघ opal
 
-
+रटना
 
 
 cranberry सर्वर
@@ -9409,7 +9409,7 @@ crane's गीत
 
 crash का क्रोध
 crash का लहरें
-
+दुर्घटनाग्रस्त
 
 crashin' thrashin' racer नियंत्रक
 
@@ -9429,7 +9429,7 @@ crashing लहरें
 पेटी दृश्य
 crates ढोया
 crates मारो श्रेय
-
+बुज़दिल
 crawler बारूदी
 crawler बारूदी धमाका
 crawler बारूदी नियंत्रक आवधिक
@@ -9452,7 +9452,7 @@ crayfish सवारी आभा
 पागल माना पुनर्जनन
 पागल विचार
 पागल2
-
+मलाई
 बनाओ
 बनाओ aberration
 बनाओ वीभत्स
@@ -9890,7 +9890,7 @@ crayfish सवारी आभा
 बनाओ zul's आभा
 बनाओ2
 बनाओटोटम
-
+रचनात्मक
 रचयिता मंत्र देखना अदृश्य
 रचयिता सवारी shark
 रचयिता देखना अदृश्य
@@ -9923,8 +9923,8 @@ crayfish सवारी आभा
 श्रेय कार्ड
 श्रेय के लिए arresting slaghammer
 श्रेय कहाँ श्रेय है due
-
-
+रेंगना
+लता
 creeper अंडा
 creeper अंडा anim replace किट
 creeper रस
@@ -9945,14 +9945,14 @@ creepy पेटी खोजो लक्ष्य
 creepy पेटी पकड़ो
 creepy पेटी निष्क्रिय
 
-
-
+दाह संस्कार करना
+दाह संस्कार
 crepuscular घूँघट
 crescendo का कष्ट
 शिखा का प्रतिशोध
 दल
 
-
+गहरा लाल
 crimson अम्ल
 crimson निष्कासन
 crimson रक्त का shu'ma
@@ -9989,12 +9989,12 @@ crimson प्रचंड तूफ़ान
 crimson दीवार
 crimson जल strider
 
+शर्मनाक
 
 
 
 
-
-
+अपंग करना
 cripple स्थिति
 crippling काटो
 crippling प्रहार
@@ -10021,7 +10021,7 @@ criteria पूर्ण
 
 
 
-
+छोटा जीव
 critter काटो
 
 
@@ -10029,7 +10029,7 @@ critter काटो
 critter-killer हमला
 
 
-
+मगरमच्छ
 
 
 
@@ -10037,7 +10037,7 @@ critter-killer हमला
 crocolisk सोना
 crocolisk स्टेक
 crocolisk रूपांतर
-
+क्रॉस
 
 cross नक्शा
 cross के ऊपर
@@ -10045,11 +10045,11 @@ cross साम्राज्य
 cross सर्वर
 cross वह पुल
 cross के माध्यम से
-
-
+क्रॉसबो
+क्रॉसबो कई
 crossed के ऊपर
-
-
+झुकना
+कौआ
 
 crow दावत
 crow गति
@@ -10074,10 +10074,10 @@ crude rubbing किट
 
 crude twilight भेस
 crude twilight भेस 2
-
-
-
-
+क्रूर
+क्रूरता
+क्रूज़
+ढहता हुआ
 crumbling चाप
 
 crumbling पत्थर
@@ -10142,7 +10142,7 @@ crusher's बुलाओ
 रोना का वह मृत
 रोना का वह आकाश
 रोना बाहर में निराशा
-
+रोंदू
 
 
 crying पर यह
@@ -10153,7 +10153,7 @@ cryomatic 16 जमाओ lens
 crypt scarab घृणा
 crypt scarab झुंड
 
-
+क्रिप्टोकरेंसी
 क्रिस्टल
 क्रिस्टल अवशोषित प्रवाह
 क्रिस्टल barbs
@@ -10222,7 +10222,7 @@ crystalized माना residue
 क्रिस्टलीय उछाल
 क्रिस्टलीय tangler
 क्रिस्टलीय tether
-
+क्रिस्टल बनना
 क्रिस्टलीकृत वायु
 क्रिस्टलीकृत पृथ्वी
 क्रिस्टलीकृत आग
@@ -10276,10 +10276,10 @@ cultivate packet का बीज
 cultivated शक्ति
 
 भोसड़ी
-
+कप
 cup का kafa
 cupid's तीर
-
+इलाज
 
 cure caribou छुपना
 cure रोग
@@ -10294,15 +10294,15 @@ cured मध्यम छुपना
 cured rugged छुपना
 cured thick छुपना
 
-
+जिज्ञासु
 curious bronze समयटुकड़ा
 curious oracle शिशु
 
 
 curling काला cord
 curling धुआँ
-
-
+चिड़चिड़ा बूढ़ा
+मुद्रा
 धारा meta
 धारा स्थिति का वह खेल
 curruption का युद्ध साफ़-ऊपर
@@ -10417,9 +10417,9 @@ custom 08 स्थिति
 custom टक्कर 06
 custom टक्कर 07
 custom चलो
+सीमा शुल्क
 
-
-
+काट
 cut और dry
 cut azerothian हीरा
 
@@ -10431,18 +10431,18 @@ cut बंद
 cut वह उपचार
 cut को काला
 cut को वह chase
-
-
+समय घटाना
+प्यारा सा
 
 cutter laser लक्ष्य
 cutting धार
 cutting यह बंद
 
 
-
+हल्का नीला
 cyanigosa रूपांतर
-
-
+चक्रण
+साइकिल चलाना
 
 चक्रवात
 चक्रवात आक्रोश
@@ -10477,9 +10477,9 @@ daedalian पंख
 कटार प्रहार iv
 कटार प्रहार v
 कटार फेंको
+खंजर
 
-
-
+दैनिक मिशन
 दैनिक
 दैनिक खोज
 
@@ -10521,7 +10521,7 @@ dalaran जादूगर भेस
 नुकसान परीक्षण
 क्षति
 नुकसान3
-
+क्षतिग्रस्त
 damaged building इनाम
 damaged गोता हेलमेट
 damaged ख़तरा copy
@@ -10563,12 +10563,12 @@ dan's भाप टैंक रूप
 
 
 danger आगे
-
+ख़तरनाक
 dangerous जल
 dangle जंगली carrot
 
 
-
+हिम्मती
 
 गहरा
 अंधकार animus
@@ -10754,7 +10754,7 @@ darkbrand कंधे
 गहराकाढ़ा lager
 darkcrest taskmaster जीवित
 
-
+अँधेरा करना
 
 darken दृष्टि
 
@@ -10849,12 +10849,12 @@ darting carp मौत
 darting ज्वालाएँ
 darting शिशु
 dartol's छड़
-
+डैश
 
 
 dash n' मारो
 dash का spice
-
+बाँका
 
 dashing प्रहार
 dashing प्रहार नहीं इस्तेमाल
@@ -10864,8 +10864,8 @@ dashing प्रहार सुरक्षा
 डेटा miner's delight
 डेटा scan
 डेटा धारा
-
-
+पुराना पड़ चुका
+बेटी
 daughter का ज्वाला
 daunting गुर्राना
 
@@ -10891,16 +10891,16 @@ dawnsteel कंधे
 दिन2
 
 दिन
-
-
+दिन का समय
+चकराहट
 daze प्रतिरक्षा
 daze प्रतिरक्षा रद्द
 daze स्वयं
-
+स्तब्ध
 dazed - avenger's ढाल
 dazed और भ्रमित
 dazing ढाल
-
+चकाचौंध
 dazzling विनाश
 dazzling विनाश पीछा करने वाला दृश्य
 dazzling विनाश आह्वान
@@ -10925,7 +10925,7 @@ deactivate रात एल्फ़ चाँद क्रिस्टल
 
 deactivated प्रकट संचालक
 deactivated बुर्ज मौत रिपोर्ट करें
-
+निष्क्रिय करते हुए
 deactivating शक्ति source
 मृत
 मृत और buried
@@ -10952,9 +10952,9 @@ deactivating शक्ति source
 मृत क्षेत्र
 मृत-eye's intuition
 मृत2
-
-
-
+सुन्न करना
+अचूक निशानेबाज़
+समय सीमा
 घातक अम्ल
 घातक निशाना
 घातक ametrine
@@ -11008,7 +11008,7 @@ deadmines बारूद
 
 deadwind जाल
 मृतक्षेत्र
-
+बहरा किया
 deafening चीख
 deafening दहाड़
 deafening चीख
@@ -11164,7 +11164,7 @@ deathwing's दीवार का आग
 
 debatably बेहतर
 
-
+कमज़ोर करना
 debilitating किरण
 debilitating धावा
 
@@ -11174,9 +11174,9 @@ debilitating छिड़काव
 debilitating प्रहार
 debilitating स्पर्श
 debilitating विष
-
+दुर्बलता
 debit कार्ड
-
+मलबा
 कमज़ोरी
 कमज़ोरी सभी resist
 कमज़ोरी expired
@@ -11186,16 +11186,16 @@ debit कार्ड
 कमज़ोरी spam परीक्षण
 कमज़ोरी uber चंगा के ऊपर समय
 कमज़ोरी2
-
-
+डिबफ़ लगा
+डीबग
 debug - आभा स्थिति किट बग
 debug - console लिखना
 debug बनाओ samophlange manual
-
+सिर काटना
 decapitating घूँसा
 decapitating प्रहार
 decapitating झपट्टा
-
+शिरच्छेद
 
 
 decay मांस
@@ -11205,13 +11205,13 @@ decayed ताकत
 deceitful धमाका
 deceptively आसान
 deceptively मुश्किल
-
-
+तय करना
+तबाह करना
 decimate स्थिति
 decimating प्रहार
-
+संहार
 decimation फलक
-
+समझना
 
 deck आग
 deck आग नुकसान आवधिक
@@ -11221,14 +11221,14 @@ deck का trades
 
 declined वह आमंत्रण
 declined वह पुनर्जीवित
-
-
-
+डिकोडिंग
+सड़ना
+विखंडन करते हुए
 decontaminate चरण 1
 decontaminate चरण 2
 decontaminate चरण 3
-
-
+परिशोधन
+छलावा
 decoy विस्फोटक
 
 decrease माना cost - गूढ़
@@ -11243,9 +11243,9 @@ decree का वह अंधकार lady
 
 
 
-
-
-
+डिक्रिप्ट करते हुए
+मरा
+समर्पित भाव
 गहरा
 गहरा bellow
 गहरा साँस
@@ -11289,7 +11289,7 @@ deepvein's अपडेट किट
 हार
 हार crushcog श्रेय
 हार वह metal शराब बनाने वाला
-
+पराजित
 
 defeated धक्का
 
@@ -11344,8 +11344,8 @@ defiant और क्रुद्ध
 defias भेस
 defias मीनार ii
 defias मीनार iii
-
-
+डिफ़िब्रिलेट करना
+अपवित्र करना
 
 defiled भूमि
 defiling आभा
@@ -11354,7 +11354,7 @@ defiling आभा
 definitely आखिरी खेल
 
 deflecting हवाएँ
-
+विक्षेपण
 deforestation श्रेय
 
 deft अंगारा topaz
@@ -11364,16 +11364,16 @@ deft लावा coral
 
 deft बाघ opal
 
-
-
+पतित
+पतन
 degenerative काटो
-
-
+ह्रास
+डिग्री
 degreelessness मोड
+डिग्रियाँ
 
 
-
-
+निर्जलित
 देरी
 देरी आभा
 देरी टाइमर
@@ -11407,16 +11407,16 @@ deleted से वह सर्वर
 नाज़ुक scarlet ruby
 नाज़ुक serpent's आँख
 नाज़ुक ध्वनि का गर्जन श्रेय
-
+स्वादिष्ट
 delicious आभा
 delicious chocolate केक
 delicious मछली
 delicious मांस
 
 
-
-
-
+प्रसन्न हुआ
+मनमोहक
+सन्निपाती
 delirious वार
 पहुँचाओ
 पहुँचाओ drunk stag
@@ -11428,7 +11428,7 @@ delirious वार
 पहुँचाओ lotus बीज
 पहुँचाओ सूप
 पहुँचाओ stolen घोड़ा
-
+मुक्ति
 delivering एक पीपा बम
 वितरण शिष्य
 वितरण गाड़ी शुरू चालू
@@ -11436,7 +11436,7 @@ delora चिल्लाओ exclusion 1
 delora चिल्लाओ exclusion 2
 delora चिल्लाओ exclusion 3
 delora चिल्लाओ exclusion 4
-
+जलप्रलय
 deluge आभा रद्द
 deluge का छाया
 
@@ -11444,12 +11444,12 @@ delusions का jin'do
 deluxe noodle गाड़ी
 deluxe noodle गाड़ी किट
 deluxe noodle सूप
-
+अभौतिक होना
 dematerialize कवच
-
+मनोभ्रंश
 demo चिल्लाना sensor
-
-
+लोकतंत्र
+ध्वस्त करना
 demolish कवच
 
 demolisher तोप
@@ -11554,15 +11554,15 @@ demolisher गोली
 demonology काला जादूगर
 राक्षस deck
 राक्षस का वह past
-
+हतोत्साहित करना
 demoralizing ध्वज
 
 demoralizing दहाड़
 demoralizing चीख
 demoralizing चिल्लाना
+पदावनत
 
-
-
+निंदा करना
 घना धमाका powder
 घना बारूद
 घना embersilk bandage
@@ -11571,19 +11571,19 @@ demoralizing चिल्लाना
 घना पत्थर प्रतिमा
 घना weightstone
 dented ढाल का horuz killcrow
+दंत चिकित्सक
 
-
-
+प्रस्थान
 
 dependable नुकसान
+आश्रित
 
-
-
+ख़ाली करना
 deplete वह चाबी
-
+ख़त्म हो गया
 depleted टोटम श्रेय
 depleted-kyparium रॉकेट
-
+कमी आना
 deploy बम-bot
 deploy धमाका डिब्बा
 
@@ -11599,9 +11599,9 @@ deploy tactical माना बम
 depositing जंगल hops
 depositing liquid आग
 depositing आत्मा-kissed जल
-
-
-
+भ्रष्टता
+उदास
+अवसाद
 
 depth धावा
 depth धावा countdown स्पंदन
@@ -11609,33 +11609,33 @@ depth धावा विस्फोट
 deputize agent का nozdormu
 deputy clunky बल मंत्र
 der'izu एकाग्रता
-
+पटरी से उतरा
 
 dertrok मन नियंत्रण
-
-
+रंग फीका करना
+उतरना
 descent में पागलपन टेलीपोर्ट
-
-
-
-
+वर्णन करना
+विवरण
+अपवित्रीकरण करना
+अपवित्र किया गया
 desecrated तीर
 desecrated भूमि
 desecrated तेल
 desecrated हथियार
-
+अपवित्रता
 desecration बाँह
 
 deselect स्वयं
 रेगिस्तान
 रेगिस्तान लोमड़ी interact
-
-
+भगोड़ा
+सुखाना
 designate लक्ष्य
 
+रुक जाना
 
-
-
+उजाड़
 निराशा
 निराशा stricken
 गायब
@@ -11727,7 +11727,7 @@ Despawn Summons
 गायब xuen
 गायब yu'lon
 गायब zeppelins
-
+हताश
 desperate प्रहार
 desperate रक्षा
 
@@ -11736,15 +11736,15 @@ desperate क्रोध
 
 desperate गति
 desperate खड़े
+के बावजूद
 
-
-
+मिठाई
 dest धूल विस्फोट
+अस्थिरता
 
+अस्थिर करना
 
-
-
-
+अस्थिर किया गया
 
 
 
@@ -11838,7 +11838,7 @@ destroying उन्हें
 विनाशकारी कवच मारो श्रेय
 विनाशकारी कवच powerup
 
-
+ब्योरा
 
 
 detained cultist श्रेय
@@ -11876,9 +11876,9 @@ detaunt परीक्षण
 detected स्पंदन
 पहचान
 पहचान प्रभाव
-
-
-
+बिगड़ना
+दृढ़ संकल्प
+दृढ़
 
 
 
@@ -11903,9 +11903,9 @@ detonating रून stones
 विस्फोट स्वामी
 विस्फोट खोज श्रेय
 विस्फोट sequence
-
-
-
+विषहरण
+तहस-नहस करना
+बर्बाद हुआ
 विनाशकारी चाप
 विनाशकारी earthblow
 विनाशकारी छलांग
@@ -11914,9 +11914,9 @@ detonating रून stones
 विनाशकारी कुचलो
 विनाशकारी फेंको
 विनाशकारी thrust
-
+तबाही
 devastation चालू
-
+विकसित करना
 devestating प्रहार
 devestating कुचलो
 deviate मछली
@@ -11936,7 +11936,7 @@ devilsaur दाँत
 devilsaur's पदाघात
 devious मन
 
-
+भक्ति
 devotion कवच increased
 devotion आभा
 निगलना
@@ -11949,7 +11949,7 @@ devotion आभा
 निगलना murloc
 निगलना जल
 निगलना हवा
-
+निगल लिया गया
 devoured द्वारा ज्वाला
 
 निगलना creep
@@ -11959,15 +11959,15 @@ devoured द्वारा ज्वाला
 निगलना महामारी
 devout आस्था
 dew का शाश्वत सुबह
+निपुण हाथ
 
-
-
-
+मधुमेह
+डियाब्लो
 
 
 
 diagonal slide प्रभाव
-
+संवाद
 
 
 
@@ -11983,11 +11983,11 @@ diagonal slide प्रभाव
 हीरा अंगूठी
 हीरा आत्मा
 हीरा-cut refractor scope
-
+दस्त
 लंड
 लंडसिर
-
-
+हुक्म देना
+तानाशाही
 किया
 किया कोई मरना वहाँ
 किया नहीं
@@ -12008,8 +12008,8 @@ didgeridoo का contemplation
 
 
 diemetradon चीख
-
-
+मरता है
+आहार
 
 
 
@@ -12020,9 +12020,9 @@ different उदाहरण
 
 
 
-
+कठिनाई
 diffuse जादू
-
+प्रसार
 diffusion ज़ंजीर
 खोदो के लिए artifacts
 खोदो के लिए खज़ाना
@@ -12059,7 +12059,7 @@ digestive स्क्रीन प्रभाव 3
 
 dilute झुलसा cauldron
 diluted ethereum सार
-
+मंद
 dim location आवधिक
 
 
@@ -12071,19 +12071,19 @@ dimensional ripper - क्षेत्र 52
 
 dimensional खींचना
 dimensius भोजन
-
+घटाना
 diminish शक्ति
 diminish आत्मा
 diminsh शक्ति
 
 dinah पुतला मंत्र
 dingy जादूगर टोपी
-
+रात का खाना
 dinner समय
 dino रूप
 dino मांस श्रेय
 
-
+कूटनीति
 diplomatic प्रतिरक्षा
 dire दानव
 dire दानव एकाग्रता driver
@@ -12101,16 +12101,16 @@ dire भेड़िया दृश्य
 direbrew धावा
 direbrew's निरस्त्र
 direct नुकसान
-
-
-
+दिशा
+रास्ते
+निर्देशक
 direhorn धावा
 direhorn धावा टक्कर
 direhorn भेस
 direhorn निष्क्रिय
 direhorn निष्क्रिय प्रभाव
 
-
+शोकगीत
 
 dirk's rememberin' विष
 
@@ -12151,11 +12151,11 @@ disabling टक्कर
 disabling विष
 disabling transporter खोज श्रेय
 
-
+असहमत
 disallow राक्षसी वृत्त आह्वान
-
-
-
+गायब होना
+निराश
+निराशाजनक
 निरस्त्र
 निरस्त्र बम bot
 निरस्त्र अवधि कमी
@@ -12165,7 +12165,7 @@ disallow राक्षसी वृत्त आह्वान
 निरस्त्र ढाल परीक्षण
 निरस्त्र परीक्षण
 निरस्त्र जाल
-
+निहत्था किया
 
 disarming क्रोध
 disarming क्रोध प्रभाव
@@ -12179,28 +12179,28 @@ discharged ऊर्जा
 disciple का elune अदृश्यता q1
 
 disciplinary छड़
-
-
+अनुशासन
+अनुशासित
 disciplined मंत्री
 disciplined शक्ति
 disciplines excluded आभा
 disciplining छड़
 disco गेंद
 discolored उपचार औषधि
-
+चकरा देना
 discombobulator किरण
 
-
+डिस्कनेक्ट
 disconnected फिर से
 disconnected से सर्वर
-
+कलह
 discordant उछाल दृश्य
+छूट
 
-
-
+खोजा गया
 discreet जादू
-
-
+चर्चा करना
+तिरस्कार
 बीमारी
 रोग साँस
 रोग buffet
@@ -12219,18 +12219,18 @@ discreet जादू
 रोग गिरा
 रोग गिरता बंद
 disembodied jormungar मारो श्रेय
-
+मोहभंग करना
 disenchant दृश्य
-
-
-
-
+हटना
+अलग होते हुए
+सुलझाव
+असंतुष्ट
 disgruntled क्रोध
 भेस
 
 
-
-
+घृणित महसूस
+घिनौना
 
 disgusting बीजाणु
 disheartening प्रहार ii
@@ -12238,19 +12238,19 @@ disheartening प्रहार iii
 disheartening प्रहार iv
 disheartening प्रहार v
 
-
-
-
+अपमानजनक
+मोहभंग हुआ
+विघटन
 disintegration किरण
 disintegration किरण precast
 
-
-
-
+विच्छेद
+नापसंद
+तोड़कर अलग करना
 dismantle कवच
 dismantled कवच
-
-
+अंग भंग करना
+अंग काटते हुए
 dismembering लाश
 
 
@@ -12259,7 +12259,7 @@ dismiss गोला का ascension
 
 dismiss पालतू जानवर
 dismiss रून हथियार
-
+उतरना सवारी से
 dismount भालू
 
 
@@ -12274,12 +12274,12 @@ dismounting धमाका
 dismounting प्रहार
 dismounting गोली
 dismounting झपट्टा
-
-
+दिशाभ्रमित करना
+दिशाभ्रमित
 disorienting दहाड़
 disorienting चीख
 disorienting कुचलो
-
+भेजना
 निवारण
 निवारण 2
 निवारण blizzard
@@ -12299,18 +12299,18 @@ disorienting कुचलो
 निवारण जाल
 dispell खूनदाँत
 
+फैलाव
+बिखेरना
 
-
-
-
+बिखरते हुए
 
 dispersion बम दृश्य
 
 dispersion दृश्य
-
+विस्थापित करना
 displace जड़ें
 displaced ऊर्जा
-
+विस्थापन
 displacement उपकरण
 
 displacer दानव
@@ -12323,7 +12323,7 @@ displacer दानव spree आभा
 प्रदर्शन transport globe
 प्रदर्शन young ironjaw
 dispose का संरक्षक
-
+बाधित करना
 disrupt अंधकार conclave अनुष्ठान
 disrupt दरवाज़ा
 disrupt जादू
@@ -12335,23 +12335,23 @@ disrupting दहाड़
 disrupting छायाएँ
 disrupting चिल्लाना
 disrupting वह कलाकृति
-
+व्यवधान
 disruption किरण
 disruptor विस्फोट
-
-
-
+शोध प्रबंध
+विलीन होना
+अपव्यय
 dissolve कवच
 
 dissonance क्षेत्र
-
+दूरी
 distance ट्रैकर
 distant ज्वाला
 distillation पूर्ण
 
 distilled ज्ञान
 distortion बम
-
+ध्यान भटकाना
 distract राक्षस मिसाइल
 distract राक्षस 2
 distract राक्षस stationary
@@ -12360,7 +12360,7 @@ distract परीक्षण
 
 distract-o-matic 9000 - हड्डी दृश्य
 distract-o-matic 9000 साफ़ ऊपर
-
+विचलित
 distracted द्वारा
 distracted दाएं अभी
 distracting राख
@@ -12368,7 +12368,7 @@ distracting सिक्का
 distracting पीड़ा
 distracting गोली
 distracting थूक
-
+ध्यान भंग
 distraction दृश्य
 distribute लूट
 
@@ -12424,12 +12424,12 @@ divided हम गिरो
 
 divining चर्मपत्र मंत्र
 
-
-
-
-
-
-
+दिव्यता
+विभाजन
+फूट
+तलाक
+चक्कर
+चक्कर आना
 dizzying धुंध
 dizzying धुंध सजावट
 
@@ -12491,7 +12491,7 @@ docks ध्वज neutral click
 docks प्रहरी बिंदु ट्रैकर आभा
 डॉक्टर
 
-
+वृत्तचित्र
 बचाव करना
 चकमा पीछे
 चकमा धावा
@@ -12506,7 +12506,7 @@ docks प्रहरी बिंदु ट्रैकर आभा
 चकमा वह mechanic
 चकमा2
 चकमा3
-
+करता है
 does कोई
 does यह hurt
 does यह बनाओ एक difference
@@ -12533,15 +12533,15 @@ does यह गिल्ड छापा
 doggie गोता शिरस्त्राण
 dogs घृणा मुझे
 dogs को location
+कर रहा
 
 
+गुड़िया
+डॉल्फ़िन
+पालतू बनाना
 
 
-
-
-
-
-
+प्रभावशाली
 dominant मन
 
 dominate प्राणी
@@ -12549,7 +12549,7 @@ dominate राक्षस
 dominate बढ़िया shark - triggered
 dominate मन
 dominate मन सुरक्षा
-
+दबाया गया
 dominated pandaren freedom श्रेय
 dominating प्रहार
 
@@ -12557,7 +12557,7 @@ domination आभा
 domination बिंदु भोज
 domination बिंदु cannons
 domination बिंदु commission
-
+प्रभुत्व क्षेत्र
 dominion का आत्मा
 dominion का वह empress
 dominion के ऊपर acherus
@@ -12651,7 +12651,7 @@ doomweed धुंध
 दरवाज़ा विस्फोट
 दरवाज़ा आग
 दरवाज़ापहरेदार
-
+नशा
 
 doren मारो श्रेय
 doren चरण shift

@@ -6768,13 +6768,13 @@ caravan חזותי
 carcanet של ה מאה magi
 cardboard מתנקש
 אירובי
-
-
+אכפתיות
+זהיר
 careful כוון
 careful משיכה
+בזהירות
 
-
-
+רשלן
 caress של מוות
 
 
@@ -6798,7 +6798,7 @@ carried ה קבוצה דלוק שלהם אחורה
 
 
 carrion נחיל
-
+גזר
 carrot נשימה
 carrot נשימה זימון
 
@@ -6861,7 +6861,7 @@ cart שליטה
 cart שליטה לכוד נקודה unit מזרח
 cart שליטה לכוד נקודה unit צפון
 cart שליטה לכוד נקודה unit דרום
-
+סרט מצויר
 carve דב flank
 carve בשר
 carve בשר
@@ -6874,7 +6874,7 @@ carving אבן חזותי
 cascade של ebon petals
 cascade של petals
 cascade של roses
-
+מזומן
 
 
 cask של aged dalaran אדום
@@ -6894,12 +6894,12 @@ cask של peaked dalaran אדום
 הטל2
 הטל3
 מטיל
-
+הטלת כישוף
 
 
 טירה
 טירה של חול
-
+קז'ואל
 
 casual גילד
 casual שחקן
@@ -6913,7 +6913,7 @@ casual שחקן
 חתול knocked משהו מעל
 חתול פסל עם emerald עיניים
 חתול2
-
+קטקליזמה
 cataclysm נשימה
 
 cataclysm כוחלזרוק
@@ -6941,9 +6941,9 @@ catapult range מבחן
 תפוס ה מים רוח
 תפוס אותם
 תפוס אתה מאוחר יותר
-
-
-
+קטגוריה
+שפמנון
+קתדרלה
 catseye שיקוי
 
 caught אחד plainshawk
@@ -6955,7 +6955,7 @@ caught ב 8k
 caught כבוי שומר
 caught אדום handed
 caught למעלה
-
+קדרה
 cauldron deposit בדיקה
 cauldron diluted אפקט
 cauldron אירוע השלם
@@ -6977,12 +6977,12 @@ cauldron רעל בדיקה
 
 
 
-
+סיבה
 cause ו אפקט
 
-
-
-
+גרם
+גורם
+גורם ל
 צורב amber
 צורב דם
 צורב gas
@@ -6996,11 +6996,11 @@ cause ו אפקט
 צורב תרסיס
 צורב tar
 צורב tar נקה בוס חיזוק
-
+לצרוב
 cauterize אדון
 cauterize ה פצע
 cauterize פצע
-
+נצרב
 cauterizing ליבה
 cauterizing להבה
 cauterizing להבה charges
@@ -7008,7 +7008,7 @@ cauterizing להבות
 cauterizing זיקוק
 cauterizing ריפוי
 cauterizing מכה
-
+זהיר מאוד
 מערה
 מערה discovery הפעל
 מערה פיצוץ
@@ -7016,7 +7016,7 @@ cauterizing מכה
 מערה של scrolls קרדיט
 מערה-ב
 
-
+קרקור
 cayden ambush משימה קרדיט
 
 cc כאן
@@ -7028,13 +7028,13 @@ cc ה adds
 
 
 
-
+לחדול
 cease שיגור
 
-
+לחגוג
 
 celebration משך
-
+מהירות תגובה
 
 שמימי alignment
 שמימי קרן
@@ -7071,7 +7071,7 @@ celebration משך
 שמימי סערה
 שמימי טורניר
 שמימי רוחות
-
+ישויות שמימיות
 
 celestials bonus שלל
 celestials דחוף שלל
@@ -7087,12 +7087,12 @@ cenarion קמע
 cenarius כניסה בובה
 cenarius אירוע אדון
 censer של נצחי agony
-
+גינוי
 censure של agony
 censure של נצחי agony
 
 
-
+ממורכז
 central להבה הגנה מגן
 centrifuge ליבה סביל
 centrifuge ליבה חזותי
@@ -7107,8 +7107,8 @@ cerulean מתנה של ה crane
 
 
 
-
-
+מוץ
+אכזבה
 שרשרת
 שרשרת ברק
 שרשרת שרוף
@@ -7140,7 +7140,7 @@ chained ריפוי
 chained נפש
 
 chained ל stables
-
+מקלע
 
 chaining בישול
 
@@ -7166,9 +7166,9 @@ chaining בישול
 שרשראות של torture
 שרשראות של woe
 chainsaw להב
-
-
-
+כיסא
+עמד בראש
+צ'אקרה
 chakra ניקוז
 
 chalice של ה הר kings
@@ -7194,10 +7194,10 @@ chalice של ה הר kings
 challenger הוא dazed
 challenger's שביל
 
-
+מאתגר
 challenging לצעוק
 
-
+זיקית
 אלוף
 אלוף של hellscream
 אלוף של ramkahen
@@ -7218,7 +7218,7 @@ champion's ענק citrine
 
 champion's נמר opal
 
-
+אליפות
 
 
 chance ל שחזר בריאות דלוק פגיעה
@@ -7239,9 +7239,9 @@ chance ל שחזר מאנה דלוק spellcast
 שינוי ה strat
 שינוי2
 שינוי3
-
+השתנה
 changed שלי נפש
-
+שינויים
 changing ה subject
 לאפיק
 ערוץ אוויר מגן
@@ -7301,7 +7301,7 @@ chao שומר הילה
 כאוטי temperament
 chapel קרדיט
 chapel היעלמות
-
+פרק
 chapter 1 השלמה אירוע
 chapter 2 השלמה אירוע
 chapter ו verse
@@ -7373,7 +7373,7 @@ charbroiled נמר steak
 טעון stormhammer בוס emote
 טעון titanium specs
 טעון מגע
-
+נטען
 
 charging ox גל
 charging ox גל v2
@@ -7409,35 +7409,35 @@ charging למעלה
 קמע sully
 קמע taylor
 קמע woodland יצור
-
+מכושף
 charred דב kabobs
 charred אדמה
 charred זאב בשר
 charscale רגל שריון
 
-
+מרדף
 chase למטה
 chase אותם
-
-
-
+רודף
+לנזוף
+ננזף
 שיחה
 שיחה בועה
 שיחה emote הילה
 שיחה הוא מת
 chaz's מבחן
-
+זול
 
 cheap ירייה
 
 cheaper שילוב moves
 cheaper דרואיד shapeshifting
-
+לרמות
 cheat מוות
 cheat בחר
 cheated מוות
-
-
+רמאי
+רמאות
 cheating מוות
 בדיקה
 בדיקה קרב
@@ -7464,26 +7464,26 @@ cheating מוות
 בדיקה שלך mail
 בדיקה שלך messages
 
-
+קופה
 בדיקהנקודה
 
-
+עידוד
 cheer למעלה yi-mo נטישה
-
-
+עליז
+לחיים
 
 cheese ראש
 
 
 
-
+שף
 chef's כובע
 cheiftain מכה
 chemical פצצה
 chemical ענן
 chemical להבות
 
-
+כימיה
 chen carries אחד חבית
 chen's festival משקה
 
@@ -7502,7 +7502,7 @@ chests invisible קרן
 chewing דם splatters
 chewing בחוץ
 
-
+צ'י
 chi מטח
 chi פיצוץ
 chi משקה
@@ -7519,7 +7519,7 @@ chi-ji ייאוש קרניים הפעל
 
 chi-ji's אתגר
 chi-ji's תקווה
-
+עוף
 chicken אוכל
 chicken זעם
 chicken לקפוץ
@@ -7532,11 +7532,11 @@ chieftain's טוטם מצב
 chieftan's קרא
 
 chihozen binono חבית הילה
-
+אבעבועות קור
 ילד
 ילד של tortolla
 ילד2
-
+ילדותי
 
 
 children של deathwing
@@ -7576,8 +7576,8 @@ children's שבוע כוח אדון ל הטל
 מצמרר גל
 מצמרר רוחות
 מצמרר words
-
-
+צמרמורת
+קריר
 chimaeron יכולות
 chimaeron קרבי התקפות
 chimera ירייה
@@ -7587,25 +7587,25 @@ chimeric כפפות
 chimeric מכנסיים
 chimeric אפוד
 
-
+סיני
 
 
 chirping קופסה
 chiseling קרן
 
-
+כלורופורם
 
 cho's פיצוץ
 
 cho's יד תותח
 cho's teapot אדון
 
+שוקולד
 
 
 
 
-
-
+מקהלה
 choke 'em בחוץ
 חנק
 חנק ענן
@@ -7643,13 +7643,13 @@ choose רוח
 
 
 
-
+לקצוץ
 
 chop עץ
-
+פזמון
 chosen של elune
 chosen אחד
-
+חג המולד
 chromatic כאוס
 chromatic גלימה
 chromatic כפפות
@@ -7684,7 +7684,7 @@ chum ה מים
 
 churning קרקע חזותי
 churning stomach חומצה
-
+צ'או
 
 cinder להב
 
@@ -7700,14 +7700,14 @@ cindercloth גלימה
 cindercloth אפוד
 
 cindergut שרוף
-
+גחלים
 
 cinderslither הילה
 
 cinderweb cocoon נזק
 cinderweb ביצה hatch
 
-
+קולנוע
 cinematic - נפש שליטה
 cinematic טיימר
 
@@ -7722,7 +7722,7 @@ cinematic טיימר
 מעגל מטרה
 circlet של נסתר עוצמה
 
-
+קרקס
 
 cities ב אבק
 
@@ -7732,7 +7732,7 @@ citrine טבעת של rapid ריפוי
 עיר
 עיר התקפות מגן onspawn
 ck line נזק מבחן
-
+טענה
 claim beach צד real estate
 
 claiming מים
@@ -7740,11 +7740,11 @@ clam סרגל
 
 
 
-
-
+שבט
+למחוא כפיים
 clap 'em ב irons
-
-
+מחא כפיים
+התנגשות
 מחלקה
 מחלקה קרדיט אפקט
 מחלקה dismissed
@@ -7756,7 +7756,7 @@ clap 'em ב irons
 מחלקה training קרדיט מחזורי
 
 
-
+חבר לכיתה
 
 טופר
 טופר ו rake נזק bonus
@@ -7916,15 +7916,15 @@ cleanup צורב tar
 
 
 
-
-
+אישור יציאה
+הטלה ללא עלות
 clearcasting הפעל
-
+נוקה
 cleared בשביל שיגור
 cleared זה room
 clearing תוכן
 clearing ל בוס
-
+בבירור
 clearly ה הטוב ביותר
 clearly ה הגרוע ביותר
 לנקותמשימה
@@ -7937,11 +7937,11 @@ cleave ה adds
 cleave הפעל
 
 cleaver זרוק
-
+ביקוע
 clefthide רגל שריון
-
-
-
+חנינה
+לקפוץ אגרוף
+חכם
 clever ashyo's ריפוי כדור
 
 cleverly disguised באג
@@ -7952,7 +7952,7 @@ click ה כדור
 click ל רכיבה הפעל
 
 
-
+מתח בסוף פרק
 cliffwalker אש
 cliffwalker post שלב משימה 05
 cliffwalker post שלב משימה 06
@@ -8017,13 +8017,13 @@ cloaked peeps חזותי הילה
 
 
 cloaking chicken גלימה
-
-
+להרביץ
+שעון
 
 clockwork קופסה
 clockwork גנום
 clockwork רקטה bot
-
+שיבוט
 clone bunny שינוי
 clone קסם
 clone אדון בריאות
@@ -8052,13 +8052,13 @@ clone שינוי prep
 סגור minded
 סגור recruitment
 סגור tesseract אפקט
-
-
+נסגר
+סגירה
 closing ה פורטל
 בד
 
 
-
+קרישה
 ענן
 ענן הילה
 ענן פיצוץ
@@ -8079,23 +8079,23 @@ clouded נפש
 clouded השתקפות
 ענןמכה
 cloudstrike משפחה קסדה
+מעונן
 
 
 
 
 
-
-
-
+ליצן
+מועדון
 club פגיעה
-
-
+הוכה באלה
+חסר מושג
 clump בדיקה
 clumsy ירייה
 
 cluster רקטה
 cluster ירייה
-
+קלאץ'
 clutch הוא ב שלנו דם
 clutch רגע
 clutch של מוות
@@ -8104,9 +8104,9 @@ clutch לשחק
 
 clutches של רשע
 
-
-
-
+מאמן
+להקריש
+להתלכד
 
 coalescing צללים
 
@@ -8143,7 +8143,7 @@ cobalt שלד מפתח
 
 cobalt triangle מגן
 cobalt מלחמה talbuk
-
+קוברה
 cobra גור
 cobra ירייה
 cobra מכה
@@ -8152,11 +8152,11 @@ cobrahide רגל שריון
 cobrahn נחש צורה
 cobrascale כפפות
 cobrascale ברדס
-
-
-
-
-
+תרנגול
+קוקטייל
+פקעת
+עטוף בפקעת
+קוד
 קפה
 קפה שבור
 תיבה הפעלה חזותי
@@ -8179,7 +8179,7 @@ coilfang עוקב סביל
 מטבע של serendipity
 מטבע sparkle
 מטבע זרוק
-
+במקרה
 קר
 קר cleanse
 קר עין
@@ -8208,7 +8208,7 @@ coliseum 5 מטילתכשיט
 coliseum 5 מרפא תכשיט
 coliseum 5 קרבי תכשיט
 coliseum 5 טנק תכשיט
-
+קריסה
 collapse דלוק טנק
 collapsing מערה
 
@@ -8245,9 +8245,9 @@ collecting שחור דם של yogg-saron
 
 collecting strange עפרה
 collection השלם
+התנגשות כלי רכב
 
-
-
+מי בושם
 
 cologne מחזורי הילה
 
@@ -8255,7 +8255,7 @@ cologne מחזורי הילה
 
 color אותי impressed
 
-
+ססגוני
 
 
 
@@ -8294,7 +8294,7 @@ column של רעם
 קרב valor
 קרב פצע קריטי
 
-
+לשלב
 combine blueprint חלקים
 
 combine מהות
@@ -8316,9 +8316,9 @@ combining untainted רוחות
 שילוב נקודות
 שילוב אגרוף
 combobulating תרסיס
-
-
-
+להתלקח
+דליק
+בעירה
 combustion פגיעה
 combustion מחזורי
 לבוא
@@ -8331,9 +8331,9 @@ combustion מחזורי
 לבוא עם אותי
 לבואאחורה
 לבואאחורה kings
+קומדיה
 
-
-
+שביט
 
 
 
@@ -8369,10 +8369,10 @@ commune עם ה ancestors
 communication שבורלמטה
 communication broke למטה
 communication הוא מפתח
-
+סעודת קודש
 communique - זימון another מטרה
-
-
+קהילה
+הרכב קבוצה
 
 compact harvest reaper ערכה
 
@@ -8380,13 +8380,13 @@ compact harvest reaper ערכה
 בן לוויה שיחה לחש
 בן לוויה מחזורי ריפוי
 
+להשוות
 
-
-
-
+מצפן
+נאלץ
 
 compelling vision חלק 02
-
+תחרותי
 
 להשלים
 השלם alterac valley יומי משימה
@@ -8422,12 +8422,12 @@ completed ניסיון
 השלמה אירוע - הברית
 השלמה אירוע - ההורד
 
-
-
+הרכב
+קומפוסטציה
 compound עין
-
-
-
+לדחוס
+פשרה
+מחשב
 
 
 
@@ -8439,7 +8439,7 @@ concealing ערפל
 
 concentration הילה
 
-
+קונצרט
 
 conclusion טיימר הילה
 concoction פגיעה
@@ -8456,15 +8456,15 @@ concussive רמיסה
 concussive מכה
 concussive זרוק
 concussive גל
-
-
-
+גינוי חריף
+עיבוי
+לעבות
 
 
 condesned מאנה powder
 conductive מגן
 conductive מים
-
+מוליכות
 conduit רמה
 conduit עומס יתר
 conduit ל ה רוח ממלכה
@@ -8475,23 +8475,23 @@ conduit ל ה רוח ממלכה
 חרוט של ברק
 חרוט לחש
 cones שבור
-
-
+להתוודות
+וידוי
 confessor הישג
 confessor's חמה
 confidence של kros
-
+בטוח בעצמו
 
 
 configure siege - נקי למעלה
-
+לאשר
 
 confirmation prompt הפעל
 
-
+להבעיר
 conflagrate עצמי proc
 conflagrated נשק
-
+תבערה
 conflagration פיצוץ
 confounding מכה
 confounding להבות
@@ -8506,7 +8506,7 @@ congealed ייאוש
 congealed ייאוש חזותי
 congealed טרור
 congealed טרור חזותי
-
+נקרש
 congealing דם
 מזל טוב
 מזל טוב דלוק
@@ -8553,9 +8553,9 @@ conjured פריטים
 conjured מים
 conjuring אוכל
 conjuring מים
-
+מחובר
 connected ממלכה
-
+חיבור
 
 connector מת
 conqueror לצעוק bonus
@@ -8565,28 +8565,28 @@ conquest של ה ancients
 conquest נקודות
 
 consecrated נשק
+הקדשה
 
-
-
+כתוצאה מכך
 conservator's אחיזה
 conservatory שיגור
-
-
-
+לשקול
+עקבי
+קונסולה
 constant רון
 constellation שלב אפקט
 constellation שלב הפעל
-
-
-
+עצירות
+חוקה
+לכווץ
 constricting שרשראות
 
-
+כיווץ
 constriction טוטם הילה
 
 
 
-
+בונה
 construction סרגל movement
 construction ענן
 צרוך
@@ -8641,7 +8641,7 @@ consumption מחזורי
 contagion של rot
 container של rats
 containment קרן
-
+הרהור
 
 contender's dragonscale חגורה
 contender's dragonscale מגפיים
@@ -8712,8 +8712,8 @@ contender's wyrmhide כתפיים
 תוכן בורא
 תוכן drought
 
-
-
+הקשר
+יבשת
 המשך
 contributing כלום
 שליטה
@@ -8753,9 +8753,9 @@ controlled pandaren freedom קרדיט
 convalescence של רוחות
 
 conversing עם anduin
-
+המרה
 conversion קרן
-
+להמיר
 convert רון מבחן
 convert ל משחק זמן
 convert ל זהב
@@ -8801,12 +8801,12 @@ cookie's כובע
 התקררות2
 
 cooldowns למעלה
-
+קורר
 cooling נשימה
 cooling למטה
 cooling כבוי
 
-
+לתאם
 coordinate טוב יותר
 
 cope ו seethe
@@ -8860,14 +8860,14 @@ corehound מגפיים
 corlok's גולגולת מטח
 corlok's גולגולת מטח knockdown
 
-
-
+פינה
+לכוד בפינה
 cornish rex חתול
 coronet של verdant להבה
+רב טוראי
+תאגיד
 
-
-
-
+גשמיות
 גופה פיצוץ
 גופה התפוצצות
 גופה פיצוץ
@@ -8888,7 +8888,7 @@ corrode בשר
 corroded נפש
 corroded saronite קצה
 
-
+קורוזיה
 מאכל חומצה
 מאכל חומצה נשימה
 מאכל חומצה יריקה
@@ -9263,7 +9263,7 @@ cosmic ניפוץ
 cosmic ניפוץ חזותי מצב
 cosmic מכה
 costs אחד זרוע ו אחד רגל
-
+שיעול
 
 could להיות טוב יותר
 could להיות גרוע יותר
@@ -9288,34 +9288,34 @@ countdown ל משוך
 נגד ירייה
 נגדהתקפה
 נגדמטען
-
+נוטרל
 נגדבחר
 נגדלחש
 נגדמכה
+ארץ
 
 
-
-
+קופון
 
 
 course מפה
 court של עצמות שלב shift
 court של עצמות prep
-
+בן דוד
 
 cover ה מרפא
 covered ב watermelon
 covering אתה
 פרה
 פרה innards visible
-
+פחדן
 coward's דרך בחוץ
-
-
+פחדנות
+מורך לב
 cowardly citizen הפעל
 cowardly מעוף
 cowardly peasant הפעל
-
+להתכווץ מפחד
 cower ב פחד
 cowering שאגה
 coyote רוח depawn הילה
@@ -9330,19 +9330,19 @@ cpu ב 100
 
 crab זוהר
 crab מלכודת חזותי
-
+סרטנים
 
 
 crack ירייה
 crack ה whip
-
+סדוק
 cracked גביש בקבוקון
 cracked אדמה חזותי
 cracked mogu רוןאבן
 
 cracking מכה
 cracking אבן
-
+פצפוץ
 מתפצח להבה
 מתפצח להבות
 מתפצח זעם
@@ -9388,7 +9388,7 @@ crafty פצצה
 crafty לחש
 crafty נמר opal
 
-
+חזרה בלחץ
 
 
 cranberry שרת
@@ -9409,7 +9409,7 @@ crane's ברכה
 
 crash של זעם
 crash של גלים
-
+התרסק
 
 crashin' thrashin' racer בקר
 
@@ -9429,7 +9429,7 @@ crashing גלים
 ארגז חזותי
 
 crates הרוג קרדיט
-
+מוג לב
 crawler מוקש
 crawler מוקש פיצוץ
 crawler מוקש בקר מחזורי
@@ -9452,7 +9452,7 @@ crazy alchemist's קסם שתייה
 crazy מאנה התחדשות
 
 
-
+שמנת
 צור
 צור aberration
 צור תועבה
@@ -9890,7 +9890,7 @@ crazy מאנה התחדשות
 צור zul's הילה
 צור2
 צורטוטם
-
+יצירתי
 בורא הטל רואה נעלם
 בורא רכיבה shark
 בורא רואה נעלם
@@ -9923,8 +9923,8 @@ crazy מאנה התחדשות
 קרדיט קלף
 קרדיט בשביל arresting slaghammer
 קרדיט איפה קרדיט הוא due
-
-
+זחילה
+רמש
 creeper ביצה
 creeper ביצה anim replace ערכה
 
@@ -9945,14 +9945,14 @@ creepy ארגז מצא מטרה
 creepy ארגז תפוס
 creepy ארגז סביל
 
-
-
+לשרוף גופה
+שריפת גופות
 
 crescendo של suffering
 crest של retribution
 צוות
-
-
+פשע
+ארגמן
 crimson חומצה
 crimson גירוש
 crimson דם של shu'ma
@@ -9989,12 +9989,12 @@ crimson שמש
 crimson קיר
 crimson מים strider
 
+קרינג'
 
 
 
 
-
-
+לשתק
 cripple מצב
 crippling נשיכה
 crippling מכה
@@ -10021,7 +10021,7 @@ criteria השלם
 
 
 
-
+יצור קטן
 critter נשיכה
 
 
@@ -10029,7 +10029,7 @@ critter נשיכה
 critter-killer התקפה
 
 
-
+תנין
 
 
 
@@ -10037,7 +10037,7 @@ critter-killer התקפה
 crocolisk לישון
 
 crocolisk שינוי
-
+צלב
 
 cross מפה
 cross מעל
@@ -10045,11 +10045,11 @@ cross ממלכה
 cross שרת
 cross זה גשר
 cross דרך
-
-
+קשת מכנית
+קשתות מכניות
 crossed מעל
-
-
+להתכופף
+עורב
 
 
 crow מהירות
@@ -10074,10 +10074,10 @@ crude rubbing ערכה
 
 
 
+אכזרי
 
-
-
-
+שייט
+מתפורר
 crumbling קשת
 
 crumbling אבן
@@ -10099,7 +10099,7 @@ crusader's spire ניצחון
 crusader's לבן warhorse
 crusader's חמה
 
-
+למחוץ
 crush שריון
 
 crush הפעל
@@ -10142,7 +10142,7 @@ crusher's קרא
 צעקה של ה מת
 צעקה של ה שמיים
 צעקה בחוץ ב ייאוש
-
+בכיין
 
 
 crying ב זה
@@ -10153,7 +10153,7 @@ cryomatic 16 הקפא lens
 
 crypt scarab נחיל
 
-
+מטבע קריפטו
 גביש
 גביש ספיגה ערוץ
 גביש barbs
@@ -10222,7 +10222,7 @@ crystalized מאנה residue
 גבישי נחשול
 גבישי tangler
 גבישי tether
-
+להתגבש
 crystallized אוויר
 crystallized אדמה
 crystallized אש
@@ -10274,12 +10274,12 @@ culling ה herd
 cultist ברדס
 cultivate packet של seeds
 cultivated כוח
-
+גידול
 כוס
 
 cup של kafa
 
-
+תרופה
 
 cure caribou להסתתר
 cure מחלה
@@ -10294,14 +10294,14 @@ cured בינוני להסתתר
 cured rugged להסתתר
 cured thick להסתתר
 
-
+סקרן
 curious bronze זמןחתיכה
 curious oracle גור
 
 
 curling שחור cord
 curling עשן
-
+זקן רטנן
 
 
 current מצב של ה משחק
@@ -10405,7 +10405,7 @@ curruption של מלחמה נקי-למעלה
 מקולל ל להיות רע
 מקולל veil
 מקולל vision של sargeras
-
+קללות
 curtain קרא
 curtain של כפור מצב
 custodian של זמן
@@ -10417,9 +10417,9 @@ custom 08 מצב
 custom פגיעה 06
 custom פגיעה 07
 custom הלך
+מכס
 
-
-
+לחתוך
 cut ו dry
 
 
@@ -10431,18 +10431,18 @@ cut scrap מתכת
 cut ה ריפוי
 cut ל שחור
 cut ל ה chase
-
-
+קיצור זמן
+חמוד
 
 cutter laser מטרה
 cutting קצה
 cutting it סגור
 
 
-
+ציאן
 cyanigosa שינוי
-
-
+מחזור
+רכיבה על אופניים
 
 ציקלון
 ציקלון תוקפנות
@@ -10477,9 +10477,9 @@ daedalian כנפיים
 פגיון מכה iv
 פגיון מכה v
 פגיון זרוק
+פגיונות
 
-
-
+משימות יומיות
 יומי
 יומי משימה
 
@@ -10521,7 +10521,7 @@ dalaran sewers חיית מחמד שיגור
 נזק מבחן
 נזקים
 נזק3
-
+ניזוק
 damaged בניין פרס
 damaged diving קסדה
 damaged איום copy
@@ -10532,7 +10532,7 @@ damaging tunnel bore עצם סביל
 
 dampen harm קוסמטי
 dampen קסם
-
+ריכוך
 dampening שדה
 dampening גל
 damsel על ידי ה shore הרוג קרדיט
@@ -10563,7 +10563,7 @@ dancing פלדה
 
 
 danger קדימה
-
+מסוכן
 dangerous מים
 dangle פראי carrot
 
@@ -10754,7 +10754,7 @@ darkbrand כתפיים
 כההמשקה lager
 darkcrest taskmaster חי
 
-
+להחשיך
 
 
 
@@ -10849,12 +10849,12 @@ darting carp מוות
 darting להבות
 darting גור
 
-
+זינוק
 
 
 dash n' הרוג
 dash של spice
-
+מהודר
 
 dashing מכה
 dashing מכה לא בשימוש
@@ -10865,7 +10865,7 @@ dashing מכה הגנה
 נתונים scan
 נתונים stream
 
-
+בת
 daughter של להבה
 daunting נהמה
 
@@ -10891,16 +10891,16 @@ dawnsteel כתפיים
 יום2
 
 ימים
-
+שעות היום
 
 daze חסינות
 daze חסינות בטל
 daze עצמי
-
+המום
 dazed - avenger's מגן
 dazed ו מבולבל
 dazing מגן
-
+מסנוור
 dazzling הרס
 dazzling הרס עוקב חזותי
 dazzling הרס זימון
@@ -10922,10 +10922,10 @@ deactivate כולם anvils
 deactivate כוח שדה
 deactivate לילה שדון ירח גביש
 
-
+מושבת
 deactivated הופעה מפעיל
 deactivated turret מוות דיווח
-
+משבית
 deactivating כוח source
 מת
 מת ו buried
@@ -10952,9 +10952,9 @@ deactivating כוח source
 מת אזור
 מת-eye's intuition
 מת2
-
-
-
+להקהות
+צלף
+מועד אחרון
 קטלני חומצה
 קטלני כוון
 קטלני ametrine
@@ -11005,10 +11005,10 @@ deactivating כוח source
 
 
 
-
+משקל מת
 מתרוח web
 מתאזור
-
+מחורש
 deafening יללה
 deafening שאגה
 deafening צווחה
@@ -11111,7 +11111,7 @@ death's דחוף
 deathblade רקטה מטח
 deathblood ארס
 מוותפריחה
-
+מכת מוות
 
 מוותברק
 
@@ -11164,7 +11164,7 @@ deathwing's קיר של אש
 
 debatably טוב יותר
 
-
+להחליש
 debilitating קרן
 debilitating מטען
 
@@ -11176,7 +11176,7 @@ debilitating מגע
 debilitating ארס
 
 debit קלף
-
+הריסות
 היחלשות
 היחלשות כולם resist
 היחלשות expired
@@ -11186,16 +11186,16 @@ debit קלף
 היחלשות spam מבחן
 היחלשות uber ריפוי מעל זמן
 היחלשות2
-
-
+נחלש
+ניפוי באגים
 debug - הילה מצב ערכה באג
 debug - console לכתוב
 debug צור samophlange manual
-
+לערוף ראש
 decapitating אגרוף
 decapitating מכה
 
-
+עריפת ראש
 
 
 decay בשר
@@ -11205,14 +11205,14 @@ decayed כוח
 deceitful פיצוץ
 deceptively קל
 deceptively קשה
-
-
+להחליט
+להשמיד לגמרי
 decimate מצב
 decimating מכה
-
+השמדה המונית
 decimation להב
-
-
+לפענח
+החלטה
 deck אש
 deck אש נזק מחזורי
 deck אש הופעה
@@ -11221,16 +11221,16 @@ deck של trades
 
 declined ה להזמין
 declined ה תחיה
-
-
-
+פענוח
+להירקב
+מפרק
 decontaminate שלב 1
 decontaminate שלב 2
 decontaminate שלב 3
-
-
+טיהור
+פתיון
 decoy נפיץ
-
+ירידה
 decrease מאנה cost - נסתר
 decrease מאנה cost - אש
 decrease מאנה cost - כפור
@@ -11243,7 +11243,7 @@ decree של ה אפל lady
 
 
 
-
+מפענח
 
 
 עמוק
@@ -11289,7 +11289,7 @@ deepvein's עדכון ערכה
 תבוסה
 תבוסה crushcog קרדיט
 תבוסה ה מתכת brewer
-
+הובס
 
 defeated הדיפה
 
@@ -11344,8 +11344,8 @@ defiant ו זועם
 
 defias מגדל ii
 defias מגדל iii
-
-
+לבצע דפיברילציה
+לטמא
 
 defiled קרקע
 defiling הילה
@@ -11354,7 +11354,7 @@ defiling הילה
 definitely אחרון משחק
 
 deflecting רוחות
-
+הסטה
 deforestation קרדיט
 
 deft גחלת topaz
@@ -11364,16 +11364,16 @@ deft ענק citrine
 
 deft נמר opal
 
-
+מנוון
 
 degenerative נשיכה
-
+השפלה
 
 degreelessness מצב
+מעלות
 
 
-
-
+מיובש
 עיכוב
 עיכוב הילה
 עיכוב טיימר
@@ -11386,7 +11386,7 @@ degreelessness מצב
 delete initial נשק
 
 delete ה משחק
-
+נמחק
 deleted מ ה שרת
 עדין arcanite converter
 עדין דם garnet
@@ -11407,16 +11407,16 @@ deleted מ ה שרת
 עדין scarlet ruby
 עדין serpent's עין
 עדין sound של רעם קרדיט
-
+טעים
 delicious הילה
 
 delicious דג
 delicious בשר
 
 
-
-
-
+שמח מאוד
+מענג
+הוזה
 delirious חתך
 
 
@@ -11428,7 +11428,7 @@ deliver אבוד hen
 
 
 deliver stolen סוס
-
+גאולה
 delivering אחד חבית פצצה
 delivery שוליה
 delivery cart התחל הפעל
@@ -11436,19 +11436,19 @@ delora צעקה exclusion 1
 delora צעקה exclusion 2
 delora צעקה exclusion 3
 delora צעקה exclusion 4
-
+מבול
 deluge הילה בטל
 deluge של צל
-
+הזוי
 delusions של jin'do
 
 deluxe noodle cart ערכה
 
-
+להתאדות
 dematerialize שריון
-
+דמנציה
 demo לצעוק sensor
-
+דמוקרטיה
 
 demolish שריון
 
@@ -11554,15 +11554,15 @@ demolisher ירייה
 demonology מכשף
 שדים deck
 שדים של ה past
-
+לדכא מורל
 demoralizing דגל
 
 demoralizing שאגה
 demoralizing צווחה
 demoralizing לצעוק
+הורד בדרגה
 
-
-
+להוקיע
 צפוף blasting powder
 צפוף dynamite
 צפוף embersilk bandage
@@ -11571,19 +11571,19 @@ demoralizing לצעוק
 צפוף אבן פסל
 צפוף weightstone
 dented מגן של horuz killcrow
-
+רופא שיניים
 
 
 
 dependable נזק
+תלותי
 
-
-
+לרוקן
 deplete ה מפתח
-
+מרוקן
 depleted טוטם קרדיט
 depleted-kyparium רקטה
-
+דלדול
 deploy פצצה-bot
 deploy בום קופסה
 
@@ -11600,8 +11600,8 @@ depositing ג'ונגל hops
 depositing liquid אש
 depositing רוח-kissed מים
 
-
-
+מדוכא
+דיכאון
 
 depth מטען
 depth מטען countdown פעימה
@@ -11609,33 +11609,33 @@ depth מטען פיצוץ
 deputize agent של nozdormu
 deputy clunky כוח הטל
 der'izu ריכוז
-
+ירד מהפסים
 
 dertrok נפש שליטה
-
-
+להוריד רוויה
+לרדת
 descent לתוך madness שיגור
-
-
-
-
+לתאר
+תיאור
+לחלל
+מחולל
 
 desecrated קרקע
 desecrated שמן
 desecrated נשק
-
+חילול
 desecration זרוע
 
 deselect עצמי
 מדבר
 מדבר שועל interact
-
-
+עריק
+לייבש
 designate מטרה
 
+לחדול מ
 
-
-
+שממה
 ייאוש
 ייאוש stricken
 היעלמות
@@ -11727,7 +11727,7 @@ Despawn Summons
 היעלמות xuen
 היעלמות yu'lon
 היעלמות zeppelins
-
+נואש
 desperate מכה
 
 
@@ -11736,17 +11736,17 @@ desperate זעם
 
 desperate מהירות
 desperate עמידה
+למרות
 
-
-
+קינוח
 dest אבק פיצוץ
+ערעור יציבות
 
+לערער
 
+מעורער
 
-
-
-
-
+גורל
 
 הרוס
 הרוס כולם drakes
@@ -11838,7 +11838,7 @@ destroying אותם
 הרסני קמע הרוג קרדיט
 הרסני קמע powerup
 
-
+פרט
 
 
 detained cultist קרדיט
@@ -11876,13 +11876,13 @@ detaunt מבחן
 detected פעימה
 זיהוי
 זיהוי אפקט
+להידרדר
+נחישות
+נחוש
 
 
 
-
-
-
-
+הרתעה
 deth מתכת
 deth מכה
 פיצוץ
@@ -11903,8 +11903,8 @@ detonating רון stones
 פיצוץ אדון
 פיצוץ משימה קרדיט
 פיצוץ sequence
-
-
+ניקוי רעלים
+להחריב
 
 הרסני קשת
 הרסני earthblow
@@ -11914,9 +11914,9 @@ detonating רון stones
 הרסני ניפוץ
 הרסני זרוק
 הרסני thrust
-
+חורבן
 devastation הפעל
-
+לפתח
 devestating מכה
 devestating ניפוץ
 deviate דג
@@ -11949,7 +11949,7 @@ devotion הילה
 זלול murloc
 זלול מים
 זלול רוח
-
+נטרף
 devoured על ידי להבה
 
 זולל creep
@@ -11959,15 +11959,15 @@ devoured על ידי להבה
 זולל מגפה
 
 dew של נצחי בוקר
+מיומן
 
-
-
-
+סוכרת
+דיאבלו
 
 
 
 diagonal slide אפקט
-
+דיאלוג
 
 
 
@@ -11983,11 +11983,11 @@ diamond סימון
 diamond טבעת
 diamond נשמה
 
-
+שלשול
 זין
 זיןראש
-
-
+מכתיב
+דיקטטורה
 עשה
 עשה מישהו למות שם
 עשה לא
@@ -12008,8 +12008,8 @@ didn't work לפני
 נפטר
 נפטר afraid
 diemetradon יללה
-
-
+מת עכשיו
+דיאטה
 
 
 
@@ -12020,9 +12020,9 @@ different מופע
 
 
 
-
+קושי
 diffuse קסם
-
+דיפוזיה
 diffusion שרשרת
 dig בשביל artifacts
 dig בשביל אוצר
@@ -12059,7 +12059,7 @@ digging דרך ה debris
 
 dilute כימשון cauldron
 diluted ethereum מהות
-
+עמום
 dim location מחזורי
 
 
@@ -12071,19 +12071,19 @@ dimensional ripper - אזור 52
 
 dimensional שאיבה
 
-
+להפחית
 diminish כוח
 diminish נשמה
 diminsh כוח
 
 dinah בובה לחש
 dingy wizard כובע
-
+ארוחת ערב
 dinner זמן
 dino צורה
 dino בשר קרדיט
 
-
+דיפלומטיה
 diplomatic חסינות
 dire חיה
 dire חיה ריכוז driver
@@ -12102,18 +12102,18 @@ direbrew מטען
 direbrew's פירוק נשק
 direct נזק
 
-
-
+הוראות הגעה
+במאי
 direhorn מטען
 direhorn מטען פגיעה
 
 direhorn סביל
 direhorn סביל אפקט
 
-
+קינה
 
 dirk's rememberin' רעל
-
+עפר
 dirt פיצוץ
 dirt ב שלך עיניים
 dirt mound deposit בדיקה
@@ -12150,12 +12150,12 @@ disabling להבים
 disabling פגיעה
 disabling רעל
 disabling transporter משימה קרדיט
-
-
+חסרונות
+לא מסכים
 disallow שדי מעגל זימון
-
-
-
+להיעלם
+מאוכזב
+מאכזב
 פירוק נשק
 פירוק נשק פצצה bot
 פירוק נשק משך reduction
@@ -12165,7 +12165,7 @@ disallow שדי מעגל זימון
 פירוק נשק מגן מבחן
 פירוק נשק מבחן
 פירוק נשק מלכודת
-
+פורק מנשקו
 disarming להבה
 disarming זעם
 disarming זעם אפקט
@@ -12179,28 +12179,28 @@ discharged אנרגיה
 disciple של elune היעלמות q1
 
 
-
-
+משמעת
+ממושמע
 disciplined מטיל
 disciplined כוח
 disciplines excluded הילה
 
 disco כדור
 discolored ריפוי קסם שתייה
-
+לבלבל
 discombobulator קרן
 
-
+מנותק
 disconnected שוב
 disconnected מ שרת
 
 discordant נחשול חזותי
-
-
-
+הנחה
+לגלות
+התגלה
 discreet קסם
-
-
+לדון
+בוז
 מחלה
 מחלה נשימה
 מחלה buffet
@@ -12219,18 +12219,18 @@ discreet קסם
 diseases נפל
 diseases נופל כבוי
 disembodied jormungar הרוג קרדיט
-
+לפרק כישוף
 disenchant חזותי
-
-
-
-
+להתנתק
+מתנתק
+התרה
+ממורמר
 disgruntled כעס
 
 
-
-
-
+גועל
+נגעל
+מגעיל
 
 
 disheartening מכה ii
@@ -12238,19 +12238,19 @@ disheartening מכה iii
 disheartening מכה iv
 disheartening מכה v
 
-
-
-
+מביש
+מאוכזב מהחיים
+התפוררות
 disintegration קרן
 disintegration קרן precast
 
-
-
-
+ניתוק
+לא אוהב
+לפרק
 dismantle שריון
 dismantled שריון
-
-
+לבתר
+מבתר
 dismembering גופה
 
 
@@ -12259,7 +12259,7 @@ dismiss כדור של ascension
 
 dismiss חיית מחמד
 dismiss רון נשק
-
+לרדת מהרכיבה
 dismount דב
 
 
@@ -12274,7 +12274,7 @@ dismounting פיצוץ
 dismounting מכה
 dismounting ירייה
 
-
+לבלבל כיוונים
 
 disorienting שאגה
 disorienting צרחה
@@ -12299,18 +12299,18 @@ disorienting ניפוץ
 ביטול מלכודת
 dispell דםשן
 
+פיזור
+לפזר
 
-
-
-
+מתפזר
 
 dispersion פצצה חזותי
 
 dispersion חזותי
-
+לעקור
 
 displaced אנרגיה
-
+עקירה
 
 
 displacer חיה
@@ -12323,7 +12323,7 @@ displacer חיה spree הילה
 תצוגה transport globe
 תצוגה young ironjaw
 dispose של שומר
-
+לשבש
 disrupt אפל conclave ritual
 disrupt שער
 disrupt קסם
@@ -12335,23 +12335,23 @@ disrupting שאגה
 disrupting צללים
 disrupting לצעוק
 disrupting ה חפץ
-
+שיבוש
 disruption קרן
 disruptor פיצוץ
-
-
-
+עבודת גמר
+להתפוגג
+התפוגגות
 dissolve שריון
 dissolve עפרה
 dissonance שדה
-
+מרחק
 
 distant להבה
 distillation השלם
 
 
 distortion פצצה
-
+להסיח את הדעת
 distract שד טיל
 distract שדים 2
 distract שדים stationary
@@ -12360,7 +12360,7 @@ distract מבחן
 
 distract-o-matic 9000 - עצם חזותי
 distract-o-matic 9000 נקי למעלה
-
+מוסח
 distracted על ידי
 distracted ימין עכשיו
 
@@ -12368,7 +12368,7 @@ distracting מטבע
 
 distracting ירייה
 distracting יריקה
-
+הסחת דעת
 distraction חזותי
 distribute שלל
 
@@ -12424,12 +12424,12 @@ diving סחיפה
 
 divining מגילה לחש
 
-
-
-
-
-
-
+אלוהות
+חלוקה
+פילוג
+גירושים
+סחרחורת
+מסוחרר
 
 dizzying haze קוסמטי
 
@@ -12491,7 +12491,7 @@ docks דגל neutral click
 docks זקיף נקודה tracker הילה
 רופא
 
-
+סרט תעודה
 להתחמק
 התחמקות אחורה
 התחמקות מטען
@@ -12506,7 +12506,7 @@ docks זקיף נקודה tracker הילה
 התחמקות ה mechanic
 התחמקות2
 התחמקות3
-
+עושה
 does מישהו
 
 does it עשה אחד difference
@@ -12533,15 +12533,15 @@ does זה גילד פשיטה
 doggie diving קסדה
 dogs hate אותי
 dogs ל location
+עושה עכשיו
 
 
 
+דולפין
+לביית
 
 
-
-
-
-
+דומיננטי
 dominant נפש
 
 dominate יצור
@@ -12557,7 +12557,7 @@ domination הילה
 domination נקודה banquet
 domination נקודה cannons
 domination נקודה commission
-
+שלטון
 dominion של נשמה
 dominion של ה empress
 dominion מעל acherus

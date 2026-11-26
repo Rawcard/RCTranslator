@@ -6768,13 +6768,13 @@ caravan ภาพ
 carcanet ของ ที่ ร้อย magi
 cardboard นักฆ่า
 คาร์ดิโอ
-
-
+การดูแล
+ระมัดระวัง
 careful เล็ง
 
-
+อย่างระมัดระวัง
 carefully การเก็บ
-
+สะเพร่า
 caress ของ ความตาย
 
 
@@ -6798,7 +6798,7 @@ carriage ขี่
 
 
 carrion รุมล้อม
-
+แครอท
 carrot ลมหายใจ
 carrot ลมหายใจ อัญเชิญ
 carrot ขุด
@@ -6861,7 +6861,7 @@ cart ควบคุม
 cart ควบคุม ยึด จุด unit ตะวันออก
 cart ควบคุม ยึด จุด unit เหนือ
 cart ควบคุม ยึด จุด unit ใต้
-
+การ์ตูนแอนิเมชัน
 carve หมี flank
 carve เนื้อหนัง
 carve เนื้อ
@@ -6874,7 +6874,7 @@ carving หิน ภาพ
 น้ำตก ของ ebon petals
 น้ำตก ของ petals
 น้ำตก ของ roses
-
+เงินสด
 
 
 cask ของ aged dalaran แดง
@@ -6894,12 +6894,12 @@ cask ของ peaked dalaran แดง
 ร่าย2
 ร่าย3
 ผู้ร่าย
-
+การร่ายเวท
 
 
 ปราสาท
 ปราสาท ของ ทราย
-
+สบายๆ
 
 casual กิลด์
 casual ผู้เล่น
@@ -6913,7 +6913,7 @@ casual ผู้เล่น
 แมว knocked บางอย่าง เหนือ
 แมว รูปปั้น กับ emerald ดวงตา
 แมว2
-
+มหันตภัย
 cataclysm ลมหายใจ
 
 cataclysm พลังร่ายมนตร์
@@ -6942,8 +6942,8 @@ catalyst หนึ่ง
 จับ พวกเขา
 จับ คุณ ทีหลัง
 
-
-
+ปลาดุก
+มหาวิหาร
 catseye ยาอายุวัฒนะ
 
 caught หนึ่ง plainshawk
@@ -6955,7 +6955,7 @@ caught ใน 8k
 caught ปิด ยาม
 caught แดง handed
 caught บน
-
+หม้อต้มยา
 cauldron deposit ตรวจสอบ
 cauldron diluted เอฟเฟกต์
 cauldron อีเวนต์ สำเร็จ
@@ -6977,12 +6977,12 @@ cauldron พิษ ตรวจสอบ
 
 
 
-
+สาเหตุ
 cause และ เอฟเฟกต์
 
-
-
-
+ทำให้เกิดแล้ว
+เป็นเหตุให้
+ก่อให้เกิด
 กัดกร่อน amber
 กัดกร่อน เลือด
 กัดกร่อน gas
@@ -6996,11 +6996,11 @@ cause และ เอฟเฟกต์
 กัดกร่อน พ่น
 กัดกร่อน tar
 กัดกร่อน tar ล้าง บอส บัฟ
-
+จี้ด้วยความร้อน
 cauterize นายท่าน
 cauterize ที่ บาดแผล
 cauterize บาดแผล
-
+ถูกจี้แผล
 cauterizing แกนกลาง
 cauterizing เปลวไฟ
 cauterizing เปลวไฟ charges
@@ -7008,7 +7008,7 @@ cauterizing เปลวไฟ
 cauterizing พลุไฟ
 cauterizing รักษา
 cauterizing จู่โจม
-
+รอบคอบ
 ถ้ำ
 ถ้ำ discovery กระตุ้น
 ถ้ำ ระเบิด
@@ -7016,7 +7016,7 @@ cauterizing จู่โจม
 ถ้ำ ของ scrolls เครดิต
 ถ้ำ-ใน
 
-
+กาเหว่า
 cayden ambush เควส เครดิต
 
 cc ที่นี่
@@ -7028,13 +7028,13 @@ cc ที่ ศัตรูเสริม
 
 
 
-
+ยุติ
 cease เทเลพอร์ต
 
-
+ฉลอง
 
 celebration ระยะเวลา
-
+ความรวดเร็ว
 
 สวรรค์ alignment
 สวรรค์ ลำแสง
@@ -7071,7 +7071,7 @@ celebration ระยะเวลา
 สวรรค์ พายุ
 สวรรค์ ทัวร์นาเมนต์
 สวรรค์ สายลม
-
+เหล่าเทพสวรรค์
 celestials โบนัส
 celestials โบนัส ของดรอป
 celestials ผลัก ของดรอป
@@ -7087,12 +7087,12 @@ cenarion เครื่องราง
 cenarius ทางเข้า หุ่นฝึก
 cenarius อีเวนต์ นายท่าน
 censer ของ นิรันดร์ agony
-
+การตำหนิ
 censure ของ agony
 censure ของ นิรันดร์ agony
+ศูนย์กลาง
 
-
-
+อยู่ตรงกลาง
 central เปลวไฟ การปกป้อง โล่
 centrifuge แกนกลาง พาสซีฟ
 centrifuge แกนกลาง ภาพ
@@ -7107,8 +7107,8 @@ cerulean ของขวัญ ของ ที่ นกกระเรีย�
 
 
 
-
-
+แกลบ
+ความผิดหวังอับอาย
 โซ่
 โซ่ สายฟ้า
 โซ่ เผา
@@ -7133,14 +7133,14 @@ cerulean ของขวัญ ของ ที่ นกกระเรีย�
 โซ่ กับดัก
 โซ่ ภาพ
 โซ่ ภาพ 2
-
+ถูกล่ามโซ่
 chained สายฟ้า
 chained กำ
 chained รักษา
 chained จิตใจ
 
 chained ไป stables
-
+ปืนกล
 
 chaining การปรุง
 
@@ -7166,9 +7166,9 @@ chaining การปรุง
 โซ่ตรวน ของ torture
 โซ่ตรวน ของ woe
 chainsaw ใบมีด
-
-
-
+เก้าอี้
+เป็นประธาน
+จักระ
 chakra ดูด
 
 chalice ของ ที่ ภูเขา kings
@@ -7190,14 +7190,14 @@ chalice ของ ที่ ภูเขา kings
 ความท้าทาย โหมด เริ่ม - ร่ายต่อเนื่อง
 ความท้าทาย โหมด เริ่ม - send อีเวนต์
 ความท้าทาย veraku
-
+ผู้ท้าชิง
 challenger คือ dazed
 challenger's ทาง
 challenger's คบเพลิง
-
+ท้าทาย
 challenging ตะโกน
 
-
+กิ้งก่าเปลี่ยนสี
 แชมป์เปี้ยน
 แชมป์เปี้ยน ของ hellscream
 แชมป์เปี้ยน ของ ramkahen
@@ -7218,7 +7218,7 @@ champion's ใหญ่โต citrine
 
 champion's เสือ opal
 
-
+การแข่งขันชิงแชมป์
 
 
 chance ไป คืนค่า พลังชีวิต เปิด ตี
@@ -7239,9 +7239,9 @@ chance ไป คืนค่า มานา เปิด spellcast
 เปลี่ยน ที่ strat
 เปลี่ยน2
 เปลี่ยน3
-
+เปลี่ยนไปแล้ว
 changed ของฉัน จิตใจ
-
+การเปลี่ยนแปลงต่างๆ
 changing ที่ subject
 ช่องทาง
 ร่ายต่อเนื่อง อากาศ โล่
@@ -7301,7 +7301,7 @@ chao ผู้พิทักษ์ ออร่า
 วุ่นวาย temperament
 chapel เครดิต
 chapel ล่องหน
-
+บท
 chapter 1 completion อีเวนต์
 chapter 2 completion อีเวนต์
 chapter และ verse
@@ -7373,7 +7373,7 @@ charbroiled เสือ steak
 อัดประจุ stormhammer บอส emote
 อัดประจุ titanium specs
 อัดประจุ สัมผัส
-
+กำลังชาร์จ
 
 charging ox คลื่น
 charging ox คลื่น v2
@@ -7409,7 +7409,7 @@ charging บน
 เครื่องราง sully
 เครื่องราง taylor
 เครื่องราง woodland สิ่งมีชีวิต
-
+ถูกมนต์สะกด
 charred หมี kabobs
 charred ดิน
 charred หมาป่า เนื้อ
@@ -7418,26 +7418,26 @@ charscale ขา เกราะ
 
 chase ล่าง
 chase พวกเขา
-
-
-
+กำลังไล่ล่า
+ลงโทษ
+ถูกลงโทษ
 แชท
 แชท ฟองอากาศ
 แชท emote ออร่า
 แชท คือ ตาย
 chaz's ทดสอบ
-
+ถูก
 
 cheap ยิง
 
 cheaper คอมโบ moves
 cheaper ดรูอิด shapeshifting
-
+โกง
 cheat ความตาย
 cheat หยิบ
 cheated ความตาย
-
-
+คนขี้โกง
+การโกง
 cheating ความตาย
 ตรวจสอบ
 ตรวจสอบ การต่อสู้
@@ -7464,26 +7464,26 @@ cheating ความตาย
 ตรวจสอบ ของคุณ mail
 ตรวจสอบ ของคุณ messages
 
-
+ชำระเงิน
 ตรวจสอบจุด
-
-
+จิ๊บๆ
+เชียร์
 cheer บน yi-mo ละทิ้ง
-
-
+ร่าเริง
+ไชโย
 ชีส
 ชีส หัว
 ชีส มัน
 ชีส strat
 
-
+เชฟ
 chef's หมวก
 cheiftain จู่โจม
 chemical ระเบิด
 chemical เมฆ
 chemical เปลวไฟ
 
-
+เคมี
 chen carries หนึ่ง ถังเบียร์
 chen's festival เบียร์
 
@@ -7502,7 +7502,7 @@ chests invisible ลำแสง
 chewing เลือด splatters
 chewing ออก
 
-
+ชี่
 chi ระดมยิง
 chi ระเบิด
 chi เบียร์
@@ -7519,24 +7519,24 @@ chi-ji สิ้นหวัง beams กระตุ้น
 
 chi-ji's ความท้าทาย
 chi-ji's ความหวัง
-
+ไก่
 chicken อาหาร
 chicken ความเดือดดาล
 chicken กระโดด
 
 chicken ตาข่าย
 chicken อื่น
-
+หัวหน้า
 
 chieftain's โทเทม สถานะ
 chieftan's เรียก
 
 chihozen binono ถังเบียร์ ออร่า
-
+ผื่นเหตุหนาว
 เด็ก
 เด็ก ของ tortolla
 เด็ก2
-
+เป็นเด็ก
 เด็กชอบ wonder
 
 children ของ deathwing
@@ -7576,8 +7576,8 @@ chilled ไป ที่ กระดูก
 เยือกเย็น คลื่น
 เยือกเย็น สายลม
 เยือกเย็น words
-
-
+หนาวสั่น
+หนาวนิดๆ
 chimaeron ความสามารถ
 chimaeron ประชิด attacks
 chimera ยิง
@@ -7587,25 +7587,25 @@ chimeric ถุงมือ
 chimeric เกราะขา
 chimeric เสื้อกั๊ก
 
-
+ภาษาจีน
 
 
 chirping กล่อง
 chiseling ลำแสง
 
-
+คลอโรฟอร์ม
 
 cho's ระเบิด
 
 cho's มือ ปืนใหญ่
 cho's teapot นายท่าน
 
-
+ช็อกโกแลต
 chocolate celebration เค้ก
 
 
 
-
+คณะนักร้อง
 รัดคอ 'em ออก
 สำลัก
 สำลัก เมฆ
@@ -7643,13 +7643,13 @@ choose วิญญาณ
 
 
 
-
+สับ
 
 chop ต้นไม้
-
+ท่อนฮุก
 chosen ของ elune
 chosen หนึ่ง
-
+คริสต์มาส
 chromatic ความโกลาหล
 chromatic เสื้อคลุม
 chromatic ถุงมือเหล็ก
@@ -7700,14 +7700,14 @@ cindercloth เสื้อคลุม
 cindercloth เสื้อกั๊ก
 
 cindergut เผา
-
+ถ่านไฟ
 
 cinderslither ออร่า
 
 cinderweb cocoon ความเสียหาย
 cinderweb ไข่ hatch
 
-
+โรงภาพยนตร์
 cinematic - จิตใจ ควบคุม
 cinematic ตัวจับเวลา
 
@@ -7722,7 +7722,7 @@ cinematic ตัวจับเวลา
 วงกลม เป้าหมาย
 circlet ของ เวทลึกลับ พลัง
 
-
+ละครสัตว์
 
 cities ใน ฝุ่น
 
@@ -7732,7 +7732,7 @@ citrine แหวน ของ rapid การรักษา
 เมือง
 เมือง attacks ผู้ป้องกัน onspawn
 ck line ดาเมจ ทดสอบ
-
+อ้างสิทธิ์
 claim ชายหาด ด้าน real estate
 
 
@@ -7740,11 +7740,11 @@ clam แถบ
 
 
 clamshell แถบ
-
-
+เผ่า
+ตบมือ
 clap 'em ใน irons
-
-
+ปรบมือแล้ว
+การปะทะ
 คลาส
 คลาส เครดิต เอฟเฟกต์
 คลาส dismissed
@@ -7756,7 +7756,7 @@ clap 'em ใน irons
 คลาส training เครดิต เป็นระยะ
 
 
-
+เพื่อนร่วมชั้น
 
 กรงเล็บ
 กรงเล็บ และ rake ความเสียหาย โบนัส
@@ -7916,15 +7916,15 @@ cleanup กัดกร่อน tar
 
 
 
-
-
+การอนุญาต
+ร่ายฟรี
 clearcasting กระตุ้น
-
+เคลียร์แล้ว
 cleared สำหรับ เทเลพอร์ต
 cleared นี้ room
 clearing เนื้อหา
 clearing ไป บอส
-
+อย่างชัดเจน
 clearly ที่ ดีที่สุด
 clearly ที่ แย่ที่สุด
 เคลียร์เควสต์
@@ -7937,10 +7937,10 @@ clearquests ออร่า
 ออก กระตุ้น
 
 cleaver โยน
-
+การผ่า
 clefthide ขา เกราะ
-
-
+ความเมตตา
+กำแน่น
 
 clever ashyo's การรักษา ทรงกลม
 clever plant ปลอมตัว
@@ -7952,7 +7952,7 @@ click ที่ ลูกแก้ว
 click ไป ขี่ กระตุ้น
 
 
-
+ตอนจบค้างคา
 cliffwalker ไฟ
 cliffwalker post เฟส เควส 05
 cliffwalker post เฟส เควส 06
@@ -8018,7 +8018,7 @@ clip นั้น ขวา ตอนนี้
 พรางตัว chicken
 พรางตัว chicken เสื้อคลุม
 
-
+นาฬิกา
 
 clockwork กล่อง
 clockwork โนม
@@ -8053,12 +8053,12 @@ clone แปลงร่าง prep
 ปิด recruitment
 ปิด tesseract เอฟเฟกต์
 
-
+การปิด
 closing ที่ พอร์ทัล
 ผ้า
 
 
-
+การแข็งตัวของเลือด
 เมฆ
 เมฆ ออร่า
 เมฆ ระเบิด
@@ -8079,23 +8079,23 @@ clouded จิตใจ
 
 เมฆตี
 cloudstrike ครอบครัว หมวกเกราะ
+มีเมฆมาก
 
 
 
 
 
-
-
-
+ตัวตลก
+คลับ
 club กระแทก
-
-
+ถูกกระบองตี
+ไม่รู้เรื่อง
 clump ตรวจสอบ
 clumsy ยิง
 
 cluster จรวด
 cluster ยิง
-
+ช่วงชี้ขาด
 clutch คือ ใน ของเรา เลือด
 clutch ชั่วขณะ
 clutch ของ ความตาย
@@ -8105,7 +8105,7 @@ clutched มัน
 clutches ของ ชั่วร้าย
 
 
-
+แข็งตัว
 
 
 coalescing เงา
@@ -8143,7 +8143,7 @@ cobalt skeleton กุญแจ
 
 cobalt triangle โล่
 cobalt สงคราม talbuk
-
+งูเห่า
 cobra ลูกมังกร
 cobra ยิง
 cobra จู่โจม
@@ -8152,11 +8152,11 @@ cobrahide ขา เกราะ
 cobrahn อสรพิษ ร่าง
 cobrascale ถุงมือ
 
-
-
-
-
-
+ไก่ตัวผู้
+นกค็อกคาเทล
+รังไหม
+ถูกห่อในรังไหม
+โค้ด
 กาแฟ
 กาแฟ ทำลาย
 หีบ การเปิดใช้ ภาพ
@@ -8179,7 +8179,7 @@ coilfang นักล่า พาสซีฟ
 เหรียญ ของ serendipity
 เหรียญ sparkle
 เหรียญ โยน
-
+บังเอิญ
 เย็น
 เย็น ชำระล้าง
 เย็น ตา
@@ -8208,7 +8208,7 @@ coliseum 5 ผู้ร่ายเครื่องประดับ
 coliseum 5 ฮีลเลอร์ เครื่องประดับ
 coliseum 5 ประชิด เครื่องประดับ
 coliseum 5 แทงค์ เครื่องประดับ
-
+การล่มสลาย
 collapse เปิด แทงค์
 collapsing ถ้ำ
 
@@ -8245,9 +8245,9 @@ collateral ความเสียหาย เครดิต
 การเก็บ fallout
 การเก็บ strange ore
 collection สำเร็จ
+การชน
 
-
-
+โคโลญ
 
 cologne เป็นระยะ ออร่า
 
@@ -8255,7 +8255,7 @@ cologne เป็นระยะ ออร่า
 
 color ฉัน impressed
 
-
+มีสีสัน
 
 
 colossal ออก
@@ -8264,7 +8264,7 @@ colossal เดือดดาล
 colossal ทุบ
 colossal จู่โจม
 colossal กวาด
-
+ยักษ์ใหญ่
 colossus ทุบ
 column ของ น้ำแข็ง
 column ของ แสง
@@ -8316,9 +8316,9 @@ combining untainted วิญญาณ
 คอมโบ แต้ม
 คอมโบ ต่อย
 combobulating พ่น
-
-
-
+ลุกไหม้
+ติดไฟได้
+การเผาไหม้
 combustion กระแทก
 combustion เป็นระยะ
 มา
@@ -8331,9 +8331,9 @@ combustion เป็นระยะ
 มา กับ ฉัน
 มาข้างหลัง
 มาข้างหลัง kings
+ตลก
 
-
-
+ดาวหาง
 
 
 
@@ -8351,7 +8351,7 @@ comfy racoonskin หมวก
 command ปีศาจ
 
 commandeered ปืนใหญ่ เอฟเฟกต์
-
+ผู้บัญชาการ
 commander ยืน พร้อม
 commanders' พลัง
 commanding ตะโกน
@@ -8369,24 +8369,24 @@ commune กับ ที่ ancestors
 communication ทำลายล่าง
 communication broke ล่าง
 communication คือ กุญแจ
-
+ศีลมหาสนิท
 communique - อัญเชิญ another เป้าหมาย
 
-
+การจัดทีม
 compact เก็บเกี่ยว reaper
 compact เก็บเกี่ยว reaper ชุด
-
+อัดแน่น
 เพื่อน
 เพื่อน แชท สเปล
 เพื่อน เป็นระยะ รักษา
 
+เปรียบ
 
-
-
-
+เข็มทิศ
+ถูกบังคับ
 
 compelling vision ส่วน 02
-
+แข่งขันสูง
 
 เสร็จสิ้น
 สำเร็จ alterac หุบเขา รายวัน เควส
@@ -8412,7 +8412,7 @@ compelling vision ส่วน 02
 สำเร็จ warsong gulch รายวัน เควส
 สำเร็จ warsong gulch เควส
 completed การทดสอบ
-
+โดยสิ้นเชิง
 
 
 
@@ -8423,10 +8423,10 @@ completion อีเวนต์ - พันธมิตร
 completion อีเวนต์ - ฝ่ายมาร
 
 
-
+การหมักปุ๋ย
 compound ตา
-
-
+บีบอัด
+การประนีประนอม
 
 
 
@@ -8438,8 +8438,8 @@ concealing หมอก
 
 
 concentration ออร่า
-
-
+เป็นห่วง
+คอนเสิร์ต
 
 conclusion ตัวจับเวลา ออร่า
 concoction กระแทก
@@ -8456,15 +8456,15 @@ concussive กระทืบ
 concussive จู่โจม
 concussive ขว้าง
 concussive คลื่น
-
-
-
+การประณาม
+การควบแน่น
+ควบแน่น
 
 
 condesned มานา powder
 conductive โล่
 conductive น้ำ
-
+การนำไฟฟ้า
 conduit เลเวล
 conduit โหลดเกิน
 conduit ไป ที่ วิญญาณ อาณาจักร
@@ -8475,8 +8475,8 @@ conduit ไป ที่ วิญญาณ อาณาจักร
 กรวย ของ ฟ้าผ่า
 กรวย สเปล
 cones แตกหัก
-
-
+สารภาพ
+คำสารภาพ
 confessor ความสำเร็จ
 confessor's พิโรธ
 confidence ของ kros
@@ -8485,13 +8485,13 @@ confidence ของ kros
 
 configure siege - สะอาด บน
 
-
+การยืนยัน
 confirmation prompt กระตุ้น
 
-
+จุดไฟ
 conflagrate ตนเอง ทำงาน
 conflagrated อาวุธ
-
+เพลิงไหม้ใหญ่
 conflagration ระเบิด
 confounding ระเบิด
 confounding เปลวไฟ
@@ -8499,14 +8499,14 @@ confounding เปลวไฟ
 สับสน cansis
 สับสน feeling
 สับสน ogre
-
+ความสับสน
 congeal เลือด
 congealed เลือด
 congealed สิ้นหวัง
 congealed สิ้นหวัง ภาพ
 congealed ความสยองขวัญ
 congealed ความสยองขวัญ ภาพ
-
+จับตัวเป็นก้อน
 congealing เลือด
 ยินดีด้วย
 ยินดีด้วย เปิด
@@ -8553,7 +8553,7 @@ congealing เลือด
 เสก น้ำ
 conjuring อาหาร
 conjuring น้ำ
-
+เชื่อมต่อแล้ว
 connected อาณาจักร
 
 
@@ -8565,23 +8565,23 @@ conquest ของ ที่ ancients
 conquest แต้ม
 
 consecrated อาวุธ
-
+การถวาย
 
 
 conservator's กำ
 conservatory เทเลพอร์ต
-
-
-
+พิจารณา
+สม่ำเสมอ
+คอนโซล
 constant รูน
 constellation เฟส เอฟเฟกต์
 constellation เฟส กระตุ้น
-
-
-
+ท้องผูก
+รัฐธรรมนูญ
+รัด
 constricting โซ่ตรวน
 
-
+การรัด
 constriction โทเทม ออร่า
 
 
@@ -8636,12 +8636,12 @@ consumed ความหวัง
 
 consumption เอฟเฟกต์
 consumption เป็นระยะ
-
+ติดต่อ
 
 contagion ของ เน่า
 container ของ rats
 containment ลำแสง
-
+การไตร่ตรอง
 contender's การป้องกัน
 contender's dragonscale เข็มขัด
 contender's dragonscale รองเท้าบู้ต
@@ -8712,8 +8712,8 @@ contender's wyrmhide ไหล่
 เนื้อหา ผู้สร้าง
 เนื้อหา drought
 
-
-
+บริบท
+ทวีป
 
 contributing ไม่มีอะไร
 ควบคุม
@@ -8753,9 +8753,9 @@ controlled pandaren freedom เครดิต
 convalescence ของ สายลม
 
 conversing กับ anduin
-
+การแปลง
 conversion ลำแสง
-
+แปลง
 convert รูน ทดสอบ
 convert ไป เกม เวลา
 convert ไป ทอง
@@ -8801,14 +8801,14 @@ cookie's หมวก
 คูลดาวน์2
 
 คูลดาวน์ บน
-
+เย็นลงแล้ว
 cooling ลมหายใจ
 cooling ล่าง
 cooling ปิด
 
-
+ประสานงาน
 coordinate ดีกว่า
-
+รับมือได้
 cope และ seethe
 
 ทองแดง
@@ -8861,13 +8861,13 @@ corlok's กะโหลก ระดมยิง
 corlok's กะโหลก ระดมยิง knockdown
 
 
-
+จนมุม
 cornish rex แมว
 coronet ของ verdant เปลวไฟ
+สิบโท
+บรรษัท
 
-
-
-
+ความเป็นรูปธรรม
 ศพ ระเบิด
 ศพ ระเบิด
 ศพ ระเบิด
@@ -8888,7 +8888,7 @@ corrode เนื้อหนัง
 corroded จิตใจ
 corroded saronite คม
 
-
+การกัดกร่อน
 กัดกร่อน กรด
 กัดกร่อน กรด ลมหายใจ
 กัดกร่อน กรด ถ่มน้ำลาย
@@ -9263,7 +9263,7 @@ cosmic ทุบ
 cosmic ทุบ ภาพ สถานะ
 cosmic จู่โจม
 costs หนึ่ง แขน และ หนึ่ง ขา
-
+ไอ
 
 could เป็น ดีกว่า
 could เป็น แย่กว่า
@@ -9288,34 +9288,34 @@ countdown ไป ดึง
 ตอบโต้ ยิง
 ตอบโต้โจมตี
 ตอบโต้พุ่งชาร์จ
-
+ถูกโต้กลับ
 ตอบโต้หยิบ
 ตอบโต้สเปล
 ตอบโต้ตี
+ประเทศ
 
 
-
-
+คูปอง
 
 
 course แผนที่
 court ของ กระดูก เฟส shift
 court ของ กระดูก prep
-
+ลูกพี่ลูกน้อง
 
 cover ที่ ฮีลเลอร์
 covered ใน watermelon
 covering คุณ
 วัว
 วัว innards visible
-
+คนขี้ขลาด
 coward's ทาง ออก
-
-
+ความขลาด
+ความขี้ขลาด
 cowardly citizen กระตุ้น
 cowardly การบิน
 cowardly peasant กระตุ้น
-
+หดตัวด้วยความกลัว
 cower ใน ทำให้กลัว
 cowering คำราม
 coyote วิญญาณ depawn ออร่า
@@ -9330,19 +9330,19 @@ crab ปลอมตัว
 
 
 crab กับดัก ภาพ
-
+ปู
 
 
 crack ยิง
 crack ที่ whip
-
+แตกร้าว
 cracked คริสตัล ขวดเล็ก
 cracked ดิน ภาพ
 cracked mogu รูนหิน
 
 cracking ระเบิด
 cracking หิน
-
+เสียงแตกเปรี๊ยะ
 แตกประกาย เปลวไฟ
 แตกประกาย เปลวไฟ
 แตกประกาย ความเดือดดาล
@@ -9388,7 +9388,7 @@ crafty ระเบิด
 crafty สเปล
 crafty เสือ opal
 
-
+การท่องจำ
 
 
 cranberry เซิร์ฟเวอร์
@@ -9409,7 +9409,7 @@ crane's พร
 
 crash ของ เดือดดาล
 crash ของ waves
-
+ชน
 
 crashin' thrashin' racer ตัวควบคุม
 
@@ -9429,7 +9429,7 @@ crashing คลื่น
 ลัง ภาพ
 crates ถือ
 crates สังหาร เครดิต
-
+ขี้ขลาด
 crawler ทุ่นระเบิด
 crawler ทุ่นระเบิด ระเบิด
 crawler ทุ่นระเบิด ตัวควบคุม เป็นระยะ
@@ -9452,7 +9452,7 @@ crazy alchemist's ยา
 crazy มานา regen
 
 
-
+ครีม
 สร้าง
 สร้าง aberration
 สร้าง สิ่งน่าขยะแขยง
@@ -9923,8 +9923,8 @@ crazy มานา regen
 เครดิต การ์ด
 เครดิต สำหรับ arresting slaghammer
 เครดิต ที่ไหน เครดิต คือ due
-
-
+คืบคลาน
+ไม้เลื้อย
 creeper ไข่
 creeper ไข่ anim replace ชุด
 
@@ -9945,14 +9945,14 @@ creepy ลัง หา เป้าหมาย
 creepy ลัง คว้า
 creepy ลัง พาสซีฟ
 
-
-
+เผาศพ
+การเผาศพ
 crepuscular ม่าน
 crescendo ของ suffering
 crest ของ retribution
 ลูกเรือ
 
-
+สีแดงเข้ม
 crimson กรด
 crimson เนรเทศ
 crimson เลือด ของ shu'ma
@@ -9989,12 +9989,12 @@ crimson พายุคลั่ง
 crimson กำแพง
 crimson น้ำ strider
 
+น่าอาย
 
 
 
 
-
-
+ทำให้พิการ
 cripple สถานะ
 crippling กัด
 crippling ระเบิด
@@ -10021,7 +10021,7 @@ criteria สำเร็จ
 
 
 
-
+สัตว์ตัวเล็ก
 critter กัด
 
 
@@ -10029,7 +10029,7 @@ critter กัด
 critter-killer โจมตี
 
 
-
+จระเข้
 
 
 
@@ -10037,7 +10037,7 @@ critter-killer โจมตี
 crocolisk นอน
 
 crocolisk แปลงร่าง
-
+กากบาท
 
 cross แผนที่
 cross เหนือ
@@ -10045,11 +10045,11 @@ cross อาณาจักร
 cross เซิร์ฟเวอร์
 cross นั้น สะพาน
 cross ผ่าน
-
-
+หน้าไม้
+หน้าไม้หลายคัน
 crossed เหนือ
-
-
+หมอบ
+อีกา
 
 
 crow ความเร็ว
@@ -10074,10 +10074,10 @@ crude rubbing ชุด
 
 crude twilight ปลอมตัว
 crude twilight ปลอมตัว 2
-
-
-
-
+โหดร้าย
+ความโหดร้าย
+ล่องเรือ
+พังทลาย
 crumbling ส่วนโค้ง
 
 crumbling หิน
@@ -10099,7 +10099,7 @@ crusader's spire ชัยชนะ
 crusader's ขาว warhorse
 crusader's พิโรธ
 
-
+บดขยี้
 crush เกราะ
 
 crush กระตุ้น
@@ -10142,7 +10142,7 @@ crusher's เรียก
 ร้อง ของ ที่ ตาย
 ร้อง ของ ที่ ท้องฟ้า
 ร้อง ออก ใน สิ้นหวัง
-
+ขี้แย
 
 
 crying ที่ นี้
@@ -10153,7 +10153,7 @@ cryomatic 16 แช่แข็ง lens
 crypt scarab เกลียด
 crypt scarab รุมล้อม
 
-
+สกุลเงินดิจิทัล
 คริสตัล
 คริสตัล ดูดซับ ร่ายต่อเนื่อง
 คริสตัล barbs
@@ -10222,7 +10222,7 @@ crystalized มานา residue
 ผลึก พุ่งพล่าน
 ผลึก tangler
 ผลึก tether
-
+ตกผลึก
 crystallized อากาศ
 crystallized ดิน
 crystallized ไฟ
@@ -10274,9 +10274,9 @@ cult ปลอมตัว
 
 cultivate packet ของ เมล็ด
 cultivated พลัง
-
+การเพาะปลูก
 หี
-
+ถ้วย
 cup ของ kafa
 cupid's ลูกธนู
 
@@ -10294,15 +10294,15 @@ cured กลาง ซ่อน
 cured rugged ซ่อน
 cured thick ซ่อน
 
-
+อยากรู้อยากเห็น
 curious bronze เวลาชิ้น
 curious oracle ลูกมังกร
 
 
 curling ดำ cord
 curling ควัน
-
-
+คนขี้บ่น
+สกุลเงิน
 
 current สถานะ ของ ที่ เกม
 curruption ของ สงคราม สะอาด-บน
@@ -10417,9 +10417,9 @@ custom 08 สถานะ
 custom กระแทก 06
 custom กระแทก 07
 custom เดิน
+ศุลกากร
 
-
-
+ตัด
 cut และ dry
 cut azerothian เพชร
 
@@ -10431,18 +10431,18 @@ cut ปิด
 cut ที่ การรักษา
 cut ไป ดำ
 cut ไป ที่ chase
-
-
+ลดคูลดาวน์
+น่ารักจัง
 
 cutter laser เป้าหมาย
 cutting คม
 cutting มัน ปิด
 
 
-
+สีฟ้าอมเขียว
 cyanigosa แปลงร่าง
 
-
+ปั่นจักรยาน
 
 พายุหมุน
 พายุหมุน ดึงความสนใจ
@@ -10467,7 +10467,7 @@ cyrukh ไฟ ชุด
 
 d'uuurps เครื่องตกแต่ง
 
-
+พ่อ
 dadanga's พร
 
 
@@ -10477,9 +10477,9 @@ dadanga's พร
 มีด จู่โจม iv
 มีด จู่โจม v
 มีด ขว้าง
+มีดสั้น
 
-
-
+ภารกิจรายวัน
 รายวัน
 รายวัน เควส
 
@@ -10521,7 +10521,7 @@ dalaran พ่อมด ปลอมตัว
 ความเสียหาย ทดสอบ
 ดาเมจ
 ความเสียหาย3
-
+เสียหาย
 damaged building รางวัล
 damaged ดำดิ่ง หมวกเกราะ
 damaged คุกคาม copy
@@ -10532,7 +10532,7 @@ damaging tunnel bore กระดูก พาสซีฟ
 
 dampen harm เครื่องตกแต่ง
 dampen เวทมนตร์
-
+การลดทอนพลัง
 dampening สนาม
 dampening คลื่น
 damsel โดย ที่ shore สังหาร เครดิต
@@ -10568,7 +10568,7 @@ dangerous น้ำ
 dangle ป่าเถื่อน carrot
 
 
-
+กล้าเสี่ยง
 
 มืด
 มืด animus
@@ -10754,7 +10754,7 @@ darkbrand ไหล่
 มืดเบียร์ lager
 darkcrest taskmaster มีชีวิต
 
-
+ทำให้มืด
 
 
 
@@ -10849,12 +10849,12 @@ darting carp ความตาย
 darting เปลวไฟ
 darting ลูกมังกร
 dartol's คทา
-
+พุ่งตัว
 
 
 dash n' สังหาร
 dash ของ spice
-
+หล่อเท่
 
 dashing จู่โจม
 dashing จู่โจม ไม่ used
@@ -10864,13 +10864,13 @@ dashing จู่โจม การปกป้อง
 ข้อมูล miner's delight
 ข้อมูล scan
 ข้อมูล ลำธาร
-
+ล้าสมัย
 
 daughter ของ เปลวไฟ
 daunting ขู่คำราม
 
 
-
+ไปกันเถอะ
 รุ่งอรุณ
 รุ่งอรุณ treaders
 dawn's ดอกไม้บาน conversation starter 1
@@ -10891,12 +10891,12 @@ dawnsteel ไหล่
 วัน2
 
 วัน
-
+กลางวัน
 
 daze ภูมิคุ้มกัน
 daze ภูมิคุ้มกัน ยกเลิก
 daze ตนเอง
-
+งุนงง
 dazed - avenger's โล่
 dazed และ สับสน
 dazing โล่
@@ -10922,10 +10922,10 @@ deactivate ทั้งหมด anvils
 deactivate พลัง สนาม
 deactivate กลางคืน เอลฟ์ พระจันทร์ คริสตัล
 
-
+ปิดใช้งาน
 deactivated ปรากฏ ผู้ดูแล
 deactivated ป้อมปืน ความตาย รายงาน
-
+กำลังปิดใช้งาน
 deactivating พลัง source
 ตาย
 ตาย และ buried
@@ -10952,9 +10952,9 @@ deactivating พลัง source
 ตาย โซน
 ตาย-eye's intuition
 ตาย2
-
-
-
+ทำให้ชา
+มือแม่นปืน
+กำหนดส่ง
 ร้ายแรง กรด
 ร้ายแรง เล็ง
 ร้ายแรง ametrine
@@ -11008,7 +11008,7 @@ deadmines ไดนาไมต์
 
 ตายลม web
 ตายโซน
-
+หูอื้อ
 deafening หอน
 deafening คำราม
 deafening กรีดร้อง
@@ -11111,7 +11111,7 @@ death's ผลัก
 deathblade จรวด ระดมยิง
 deathblood พิษ
 ความตายเบ่งบาน
-
+ฟาดดับ
 
 ความตายสายฟ้า
 
@@ -11164,7 +11164,7 @@ deathwing's กำแพง ของ ไฟ
 
 debatably ดีกว่า
 
-
+ทำให้อ่อนแอ
 debilitating ลำแสง
 debilitating พุ่งชาร์จ
 
@@ -11174,9 +11174,9 @@ debilitating พ่น
 debilitating จู่โจม
 debilitating สัมผัส
 debilitating พิษ
-
+ความอ่อนเพลีย
 debit การ์ด
-
+เศษซาก
 ดีบัฟ
 ดีบัฟ ทั้งหมด resist
 ดีบัฟ expired
@@ -11186,16 +11186,16 @@ debit การ์ด
 ดีบัฟ spam ทดสอบ
 ดีบัฟ uber รักษา เหนือ เวลา
 ดีบัฟ2
-
-
+ติดดีบัฟ
+ดีบัก
 debug - ออร่า สถานะ ชุด บั๊ก
 debug - console เขียน
 debug สร้าง samophlange manual
-
+ตัดหัว
 decapitating ต่อย
 decapitating จู่โจม
 decapitating ตวัด
-
+การตัดหัว
 
 ผุพัง
 ผุพัง เนื้อหนัง
@@ -11205,13 +11205,13 @@ decayed พลัง
 deceitful ระเบิด
 deceptively ง่าย
 deceptively ยาก
-
-
+ตัดสิน
+ทำลายย่อยยับ
 decimate สถานะ
 decimating จู่โจม
-
+การทำลายล้างครั้งใหญ่
 decimation ใบมีด
-
+ถอดรหัส
 
 deck ไฟ
 deck ไฟ ความเสียหาย เป็นระยะ
@@ -11221,14 +11221,14 @@ deck ของ trades
 
 declined ที่ เชิญ
 declined ที่ ฟื้นคืนชีพ
-
-
-
+การถอดรหัส
+ย่อยสลาย
+กำลังรื้อถอน
 decontaminate ด่าน 1
 decontaminate ด่าน 2
 decontaminate ด่าน 3
-
-
+การฆ่าเชื้อ
+เป้าล่อ
 decoy ระเบิด
 
 decrease มานา cost - เวทลึกลับ
@@ -11243,9 +11243,9 @@ decree ของ ที่ มืด lady
 
 
 
-
-
-
+กำลังถอดรหัส
+ตายแล้ว
+ทุ่มเทให้
 ลึก
 ลึก bellow
 ลึก ลมหายใจ
@@ -11344,8 +11344,8 @@ defiant และ โกรธเกรี้ยว
 defias ปลอมตัว
 defias หอคอย ii
 defias หอคอย iii
-
-
+กระตุกหัวใจ
+ทำให้แปดเปื้อน
 
 defiled พื้น
 defiling ออร่า
@@ -11354,7 +11354,7 @@ defiling ออร่า
 definitely สุดท้าย เกม
 
 deflecting สายลม
-
+การเบี่ยงเบน
 deforestation เครดิต
 
 deft ถ่านไฟ topaz
@@ -11365,15 +11365,15 @@ deft ใหญ่โต citrine
 deft เสือ opal
 
 
-
+การเสื่อม
 degenerative กัด
-
-
+การลดระดับ
+องศา
 degreelessness โหมด
+หลายองศา
 
 
-
-
+ขาดน้ำ
 ล่าช้า
 ล่าช้า ออร่า
 ล่าช้า ตัวจับเวลา
@@ -11415,8 +11415,8 @@ delicious เนื้อ
 
 
 
-
-
+น่ายินดี
+เพ้อ
 delirious ฟัน
 ส่งมอบ
 ส่งมอบ drunk stag
@@ -11428,7 +11428,7 @@ delirious ฟัน
 ส่งมอบ lotus เมล็ด
 ส่งมอบ soup
 ส่งมอบ stolen ม้า
-
+การปลดปล่อย
 delivering หนึ่ง ถังเบียร์ ระเบิด
 การส่งมอบ ลูกศิษย์
 การส่งมอบ cart เริ่ม กระตุ้น
@@ -11436,20 +11436,20 @@ delora ตะโกน exclusion 1
 delora ตะโกน exclusion 2
 delora ตะโกน exclusion 3
 delora ตะโกน exclusion 4
-
+น้ำท่วมใหญ่
 deluge ออร่า ยกเลิก
 deluge ของ เงา
-
+หลงผิด
 delusions ของ jin'do
 
 deluxe noodle cart ชุด
 
-
+สลายร่าง
 dematerialize เกราะ
-
+ภาวะสมองเสื่อม
 demo ตะโกน sensor
-
-
+ประชาธิปไตย
+รื้อถอน
 demolish เกราะ
 
 demolisher ปืนใหญ่
@@ -11554,15 +11554,15 @@ demolisher ยิง
 demonology พ่อมด
 
 demons ของ ที่ past
-
+ทำให้หมดกำลังใจ
 demoralizing ธง
 
 demoralizing คำราม
 demoralizing กรีดร้อง
 demoralizing ตะโกน
+ถูกลดตำแหน่ง
 
-
-
+ประณาม
 หนาแน่น blasting powder
 หนาแน่น ไดนาไมต์
 หนาแน่น embersilk bandage
@@ -11571,19 +11571,19 @@ demoralizing ตะโกน
 หนาแน่น หิน รูปปั้น
 หนาแน่น weightstone
 dented โล่ ของ horuz killcrow
+ทันตแพทย์
 
-
-
+การออกเดินทาง
 
 dependable ความเสียหาย
+ที่พึ่งพา
 
-
-
+ทำให้หมด
 deplete ที่ กุญแจ
-
+หมดเกลี้ยง
 depleted โทเทม เครดิต
 depleted-kyparium จรวด
-
+การหมดลง
 deploy ระเบิด-bot
 deploy บูม กล่อง
 
@@ -11599,9 +11599,9 @@ deploy tactical มานา ระเบิด
 depositing ป่าดงดิบ hops
 depositing liquid ไฟ
 depositing วิญญาณ-kissed น้ำ
-
-
-
+ความเลวทราม
+ซึมเศร้า
+โรคซึมเศร้า
 
 depth พุ่งชาร์จ
 depth พุ่งชาร์จ countdown สั่น
@@ -11609,33 +11609,33 @@ depth พุ่งชาร์จ การระเบิด
 deputize agent ของ nozdormu
 deputy clunky พลัง ร่าย
 der'izu สมาธิ
-
+ตกราง
 
 dertrok จิตใจ ควบคุม
-
-
+ลดความอิ่มสี
+ลงมา
 descent เข้าสู่ madness เทเลพอร์ต
 
-
-
-
+คำอธิบาย
+ลบหลู่
+ถูกลบหลู่
 desecrated ลูกธนู
 desecrated พื้น
 desecrated น้ำมัน
 desecrated อาวุธ
-
+การลบหลู่
 desecration แขน
 
 deselect ตนเอง
 ทะเลทราย
 ทะเลทราย สุนัขจิ้งจอก interact
-
-
+ผู้หนีทัพ
+ทำให้แห้ง
 designate เป้าหมาย
 
+หยุดกระทำ
 
-
-
+ความรกร้าง
 สิ้นหวัง
 สิ้นหวัง stricken
 หายไป
@@ -11736,17 +11736,17 @@ desperate เดือดดาล
 
 desperate ความเร็ว
 desperate ยืน
+ถึงแม้
 
-
-
+ของหวาน
 dest ฝุ่น ระเบิด
+การทำให้ไม่มั่นคง
 
+ทำให้ไม่มั่นคง
 
+ไม่มั่นคงแล้ว
 
-
-
-
-
+โชคชะตา
 
 ทำลาย
 ทำลาย ทั้งหมด drakes
@@ -11838,7 +11838,7 @@ destroying พวกเขา
 ทำลายล้าง เครื่องราง สังหาร เครดิต
 ทำลายล้าง เครื่องราง powerup
 
-
+รายละเอียด
 
 
 detained cultist เครดิต
@@ -11876,13 +11876,13 @@ detaunt ทดสอบ
 detected สั่น
 การตรวจจับ
 การตรวจจับ เอฟเฟกต์
-
-
+เสื่อมลง
+ความมุ่งมั่น
 
 determined เลือดนอง
 
 
-
+การยับยั้ง
 
 deth จู่โจม
 จุดระเบิด
@@ -11903,9 +11903,9 @@ detonating รูน stones
 การระเบิด นายท่าน
 การระเบิด เควส เครดิต
 การระเบิด sequence
-
-
-
+ดีท็อกซ์
+ทำลายราบ
+เสียใจมาก
 devastating ส่วนโค้ง
 
 devastating กระโดด
@@ -11914,9 +11914,9 @@ devastating กระแทก
 devastating ทุบ
 devastating ขว้าง
 
-
+ความหายนะ
 devastation กระตุ้น
-
+พัฒนา
 devestating ระเบิด
 devestating ทุบ
 deviate ปลา
@@ -11936,7 +11936,7 @@ devilsaur ฟัน
 devilsaur's กระทืบ
 devious จิตใจ
 
-
+ความศรัทธา
 devotion เกราะ increased
 devotion ออร่า
 กลืนกิน
@@ -11949,7 +11949,7 @@ devotion ออร่า
 กลืนกิน murloc
 กลืนกิน น้ำ
 กลืนกิน ลม
-
+ถูกกลืนกิน
 devoured โดย เปลวไฟ
 
 กลืนกิน creep
@@ -11959,10 +11959,10 @@ devoured โดย เปลวไฟ
 กลืนกิน โรคระบาด
 
 dew ของ นิรันดร์ เช้า
+คล่องมือ
 
-
-
-
+เบาหวาน
+ดิอาโบล
 
 
 
@@ -11983,11 +11983,11 @@ diagonal slide เอฟเฟกต์
 เพชร แหวน
 เพชร วิญญาณ
 เพชร-cut refractor scope
-
+ท้องเสีย
 ควย
 ควยหัว
-
-
+สั่งการ
+เผด็จการ
 ทำ
 ทำ ใครก็ตาม ตาย ที่นั่น
 ทำ ไม่
@@ -12009,10 +12009,10 @@ didgeridoo ของ contemplation
 
 diemetradon หอน
 
+อาหารการกิน
 
-
-
-
+ความต่าง
+แตกต่าง
 
 different พลังงาน
 different กลุ่ม
@@ -12020,9 +12020,9 @@ different อินสแตนซ์
 
 
 
-
+ความยาก
 diffuse เวทมนตร์
-
+การแพร่
 diffusion โซ่
 ขุด สำหรับ artifacts
 ขุด สำหรับ สมบัติ
@@ -12059,7 +12059,7 @@ digestive หน้าจอ เอฟเฟกต์ 3
 
 dilute โรคร้าย cauldron
 diluted ethereum แก่นสาร
-
+สลัว
 dim location เป็นระยะ
 
 
@@ -12071,19 +12071,19 @@ dimensional ripper - พื้นที่ 52
 
 dimensional ดูด
 dimensius ให้อาหาร
-
+ลดน้อยลง
 diminish พลัง
 diminish วิญญาณ
 diminsh พลัง
 
 dinah หุ่นฝึก สเปล
 dingy พ่อมด หมวก
-
+อาหารเย็น
 dinner เวลา
 dino ร่าง
 dino เนื้อ เครดิต
 
-
+การทูต
 diplomatic ภูมิคุ้มกัน
 dire อสูรกาย
 dire อสูรกาย สมาธิ driver
@@ -12101,16 +12101,16 @@ dire หมาป่า ภาพ
 direbrew พุ่งชาร์จ
 direbrew's ปลดอาวุธ
 direct ความเสียหาย
-
-
-
+ทิศทาง
+เส้นทางนำทาง
+ผู้กำกับ
 direhorn พุ่งชาร์จ
 direhorn พุ่งชาร์จ กระแทก
 direhorn ปลอมตัว
 direhorn พาสซีฟ
 direhorn พาสซีฟ เอฟเฟกต์
 
-
+เพลงไว้อาลัย
 
 dirk's rememberin' พิษ
 
@@ -12151,11 +12151,11 @@ disabling กระแทก
 disabling พิษ
 disabling transporter เควส เครดิต
 
-
+ไม่เห็นด้วย
 disallow ปีศาจ วงกลม อัญเชิญ
 
-
-
+ผิดหวัง
+น่าผิดหวัง
 ปลดอาวุธ
 ปลดอาวุธ ระเบิด bot
 ปลดอาวุธ ระยะเวลา reduction
@@ -12165,7 +12165,7 @@ disallow ปีศาจ วงกลม อัญเชิญ
 ปลดอาวุธ โล่ ทดสอบ
 ปลดอาวุธ ทดสอบ
 ปลดอาวุธ กับดัก
-
+ถูกปลดอาวุธ
 
 disarming ความเดือดดาล
 disarming ความเดือดดาล เอฟเฟกต์
@@ -12179,28 +12179,28 @@ discharged พลังงาน
 disciple ของ elune ล่องหน q1
 
 disciplinary คทา
-
-
+วินัย
+มีวินัย
 disciplined ผู้ร่าย
 disciplined พลัง
 disciplines excluded ออร่า
 disciplining คทา
 disco ลูก
 discolored การรักษา ยา
-
+ทำให้งง
 discombobulator ลำแสง
 
-
+ถูกตัดการเชื่อมต่อ
 disconnected อีกครั้ง
 disconnected จาก เซิร์ฟเวอร์
 
 discordant พุ่งพล่าน ภาพ
-
-
-
+ส่วนลด
+ค้นพบ
+ถูกค้นพบ
 discreet เวทมนตร์
-
-
+อภิปราย
+ความดูหมิ่น
 โรค
 โรค ลมหายใจ
 โรค buffet
@@ -12219,18 +12219,18 @@ diseased อาวุธ
 
 diseases ตกลงมา ปิด
 disembodied jormungar สังหาร เครดิต
-
+สลายเวท
 disenchant ภาพ
-
-
-
-
+ถอนตัว
+กำลังถอนตัว
+การคลายปม
+ไม่พอใจ
 disgruntled โกรธ
 ปลอมตัว
 
-
-
-
+ความรังเกียจ
+รังเกียจ
+น่าขยะแขยง
 
 disgusting สปอร์
 disheartening ระเบิด ii
@@ -12238,19 +12238,19 @@ disheartening ระเบิด iii
 disheartening ระเบิด iv
 disheartening ระเบิด v
 
-
-
-
+น่าอับอาย
+หมดศรัทธา
+การสลายตัว
 disintegration ลำแสง
 disintegration ลำแสง precast
 
-
-
-
+การแยกจากกัน
+ไม่ชอบ
+รื้อ
 dismantle เกราะ
 dismantled เกราะ
-
-
+ตัดแขนขา
+กำลังหั่น
 dismembering ศพ
 
 
@@ -12259,7 +12259,7 @@ dismiss ลูกแก้ว ของ ascension
 
 dismiss สัตว์เลี้ยง
 dismiss รูน อาวุธ
-
+ลงจากพาหนะ
 dismount หมี
 
 
@@ -12274,12 +12274,12 @@ dismounting ระเบิด
 dismounting ระเบิด
 dismounting ยิง
 dismounting โฉบ
-
-
+ทำให้สับสน
+สับสนทิศทาง
 disorienting คำราม
 disorienting กรีดร้อง
 disorienting ทุบ
-
+ส่งไป
 ขับไล่
 ขับไล่ 2
 ขับไล่ blizzard
@@ -12299,18 +12299,18 @@ disorienting ทุบ
 ขับไล่ กับดัก
 dispell เลือดฟัน
 
+การกระจาย
 
 
-
-
+กำลังกระจาย
 กระจาย
 กระจาย ระเบิด ภาพ
 กระจาย sprint
 กระจาย ภาพ
-
+แทนที่ตำแหน่ง
 displace ราก
 displaced พลังงาน
-
+การเคลื่อนที่
 displacement อุปกรณ์
 
 displacer อสูรกาย
@@ -12323,7 +12323,7 @@ displacer อสูรกาย spree ออร่า
 แสดง transport globe
 แสดง young ironjaw
 dispose ของ ผู้พิทักษ์
-
+ขัดขวาง
 disrupt มืด conclave ritual
 disrupt ประตู
 disrupt เวทมนตร์
@@ -12335,23 +12335,23 @@ disrupting คำราม
 disrupting เงา
 disrupting ตะโกน
 disrupting ที่ สิ่งประดิษฐ์
-
+การหยุดชะงัก
 disruption ลำแสง
 disruptor ระเบิด
-
-
-
+วิทยานิพนธ์
+สลายไป
+การสลาย
 dissolve เกราะ
 
 dissonance สนาม
-
+ระยะทาง
 distance ตัวติดตาม
 distant เปลวไฟ
 distillation สำเร็จ
 
 
 distortion ระเบิด
-
+เบี่ยงเบนความสนใจ
 distract ปีศาจ ขีปนาวุธ
 
 
@@ -12360,7 +12360,7 @@ distract ทดสอบ
 
 distract-o-matic 9000 - กระดูก ภาพ
 distract-o-matic 9000 สะอาด บน
-
+วอกแวก
 distracted โดย
 distracted ขวา ตอนนี้
 
@@ -12368,7 +12368,7 @@ distracting เหรียญ
 
 distracting ยิง
 distracting ถ่มน้ำลาย
-
+สิ่งรบกวน
 distraction ภาพ
 distribute ของดรอป
 
@@ -12424,12 +12424,12 @@ divided เรา ตก
 
 divining ม้วนคัมภีร์ สเปล
 
-
-
-
-
-
-
+ความเป็นเทพ
+การแบ่ง
+ความแตกแยก
+การหย่าร้าง
+อาการเวียนหัว
+เวียนหัว
 dizzying หมอกควัน
 dizzying หมอกควัน เครื่องตกแต่ง
 
@@ -12491,7 +12491,7 @@ docks ธง neutral click
 docks ยาม จุด ตัวติดตาม ออร่า
 หมอ
 
-
+สารคดี
 หลบ
 หลบ ข้างหลัง
 หลบ พุ่งชาร์จ
@@ -12533,12 +12533,12 @@ does นี้ กิลด์ บุก
 doggie ดำดิ่ง หมวกเกราะ
 dogs เกลียด ฉัน
 dogs ไป location
+กำลังทำ
 
 
-
-
-
-
+ตุ๊กตา
+โลมา
+ทำให้เชื่อง
 ความเหนือกว่า
 ความเหนือกว่า offensive grand commendation
 
@@ -12549,7 +12549,7 @@ dominant จิตใจ
 ครอบงำ ยอดเยี่ยม shark - triggered
 ครอบงำ จิตใจ
 ครอบงำ จิตใจ การปกป้อง
-
+ถูกครอบงำ
 dominated pandaren freedom เครดิต
 dominating จู่โจม
 การครอบงำ

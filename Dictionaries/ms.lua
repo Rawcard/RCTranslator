@@ -6772,7 +6772,7 @@ peduli
 hati-hati
 hati-hati bidik
 hati-hati menarik
-
+dengan hati-hati
 carefully mengumpulkan
 pedulikurang
 caress dari kematian
@@ -6861,7 +6861,7 @@ kereta kendali
 kereta kontrol tangkap titik unit timur
 kereta kontrol tangkap titik unit utara
 kereta kontrol tangkap titik unit selatan
-
+kartun
 ukir beruang sisi
 ukir daging
 ukir daging
@@ -6943,7 +6943,7 @@ tangkap mereka
 Jumpa nanti
 
 lele
-
+katedral
 catseye ramuan
 catseye ultra kacamata
 tertangkap plainshawk
@@ -6980,9 +6980,9 @@ kuali stir
 sebab
 sebab dan efek
 sebab insanity
-
-
-
+menyebabkan
+menyebabkannya
+sedang menyebabkan
 kaustik amber
 caustic darah
 kaustik gas
@@ -7000,7 +7000,7 @@ membakar
 membakar tuan
 membakar luka
 membakar luka
-
+luka dibakar
 cauterizing inti
 cauterizing nyala
 cauterizing nyala muatan
@@ -7016,7 +7016,7 @@ gua di
 gua dari gulungan kredit
 gua-di
 cavernous raung
-
+kaok
 Cayden sergapan misi kredit
 
 cc sini
@@ -7034,7 +7034,7 @@ celebras menunggu
 Meraikan
 perayaan
 perayaan duration
-
+kecepatan gerak
 
 surgawi kesejajaran
 surgawi sinar
@@ -7087,19 +7087,19 @@ cenarion tangkal
 Cenarius pintu masuk boneka
 Cenarius acara tuan
 censer dari abadi kesakitan
-
+kecaman
 censure dari kesakitan
 censure dari abadi kesakitan
 pusat
 pusat aoi
-
+terpusat
 central nyala perlindungan perisai
 centrifuge inti pasif
 centrifuge inti visual
 centrifuge perisai
 ceramic pemakaman urn
 pasti
-
+tentu saja
 certificate dari ownership
 bersertifikat sampah
 
@@ -7107,8 +7107,8 @@ cerulean hadiah dari bangau
 
 
 
-
-
+sekam
+kekecewaan
 rantai
 rantai petir
 rantai bakar
@@ -7140,7 +7140,7 @@ dirantai sembuhkan
 dirantai pikiran
 dirantai sparks
 dirantai ke stables
-
+senapan mesin
 merantai
 merantai memasak
 merantai delivering
@@ -7167,8 +7167,8 @@ rantai dari torture
 rantai dari woe
 chainsaw bilah
 
-
-
+memimpin rapat
+cakra
 chakra kuras
 chakra aliran
 chalice dari gunung raja
@@ -7197,7 +7197,7 @@ challenger's obor
 Mencabar
 Mencabar teriak
 
-
+bunglon
 juara
 juara dari hellscream
 juara dari ramkahen
@@ -7241,7 +7241,7 @@ ubah2
 ubah3
 berubah
 berubah milikku pikiran
-
+perubahan
 mengubah subjek
 saluran
 saluran udara perisai
@@ -7409,7 +7409,7 @@ pesona batu raksasa
 pesona sully
 pesona taylor
 pesona woodland makhluk
-
+terpesona
 hangus beruang kabobs
 hangus tanah
 hangus serigala daging
@@ -7419,8 +7419,8 @@ kejar
 kejar turun
 kejar mereka
 mengejar
-
-
+menegur
+ditegur
 obrolan
 obrolan gelembung
 obrolan emote aura
@@ -7436,8 +7436,8 @@ curang
 curang kematian
 curang pilih
 cheated kematian
-
-
+pencurang
+kecurangan
 cheating kematian
 periksa
 periksa tempur
@@ -7466,17 +7466,17 @@ periksa milikmu pesan
 memeriksa akun
 
 periksatitik
-
+cicit
 sorak
 sorak naik yi-mo tinggalkan
-
-
+ceria
+bersulang
 keju
 keju kepala
 keju itu
 keju strategi
 citah lari cepat
-
+koki
 chef's topi
 cheiftain pukulan
 kimia bom
@@ -7532,7 +7532,7 @@ chieftain's totem keadaan
 chieftan's panggil
 chihozen binono - kostum
 chihozen binono keg aura
-
+radang dingin
 kanak-kanak
 anak dari tortolla
 kanak-kanak2
@@ -7576,8 +7576,8 @@ mendinginkan sentuhan
 mendinginkan gelombang
 mendinginkan angin
 mendinginkan kata
-
-
+menggigil
+sejuk
 chimaeron kemampuan
 chimaeron jarak dekat serangan
 chimera tembakan
@@ -7593,7 +7593,7 @@ tionghoa2
 chirping kotak
 chiseling sinar
 berkitin paku
-
+kloroform
 
 cho's ledakan
 cho's kembang api
@@ -7707,7 +7707,7 @@ cinderweb kepompong
 cinderweb kepompong kerusakan
 cinderweb telur hatch
 
-
+bioskop
 sinematik - pikiran kendali
 sinematik pengatur waktu
 
@@ -7722,7 +7722,7 @@ lingkaran dari hidup persiapan
 lingkaran sasaran
 circlet dari misterius mungkin
 circular badai salju
-
+sirkus
 kutipan perlu
 cities di debu
 citizen kostum
@@ -7743,7 +7743,7 @@ clamshell pita
 klan
 tepuk
 tepuk 'em di irons
-
+bertepuk tangan
 bentrok
 kelas
 kelas kredit efek
@@ -7937,10 +7937,10 @@ belah adds
 tebasan pemicu
 golok bmrglbrm's paus dissection
 golok lempar
-
+membelah
 clefthide kaki baju besi
-
-
+grasi
+mengepal
 pintar
 pintar ashyo's penyembuhan bola
 pintar plant samaran
@@ -8017,7 +8017,7 @@ tersembunyi langkah
 penyamaran
 penyamaran ayam
 penyamaran ayam jubah
-
+menghajar
 
 
 jam kotak
@@ -8052,13 +8052,13 @@ tertutup circuit
 tutup berpikiran
 tutup perekrutan
 tertutup tesseract efek
-
-
+menutup
+penutupan
 closing portal
 kain
 
 pakaian toko
-
+pembekuan darah
 awan
 awan aura
 awan ledakan
@@ -8079,7 +8079,7 @@ clouded pikiran
 clouded pantulan
 awanserangan
 cloudstrike keluarga helm
-
+berawan
 pengaruh
 pengaruh mengejar
 badut
@@ -8088,7 +8088,7 @@ badut pesta
 badutdunia
 pentungan
 pentungan dampak
-
+dipentung
 Tak tahu apa-apa
 clump periksa
 clumsy tembakan
@@ -8105,8 +8105,8 @@ Clutch di saat akhir
 clutches dari jahat
 
 Jurulatih
-
-
+menggumpal
+menyatu
 coalescing energi
 coalescing bayangan
 kasar meledakkan bubuk
@@ -8143,7 +8143,7 @@ cobalt kerangka kunci
 
 cobalt triangle perisai
 cobalt perang talbuk
-
+kobra
 cobra tetasan
 cobra tembakan
 cobra pukulan
@@ -8152,10 +8152,10 @@ cobrahide kaki baju besi
 cobrahn ular bentuk
 cobrascale sarung tangan
 cobrascale tudung
-
-
+ayam jantan
+kakatua
 kepompong
-
+dikepompong
 kode
 kopi
 Rehat kopi
@@ -8179,7 +8179,7 @@ koin dari keberuntungan
 koin dari serendipity
 koin kilau
 koin lempar
-
+kebetulan
 dingin
 dingin sucikan
 dingin mata
@@ -8245,7 +8245,7 @@ mengumpulkan hangus granite
 mengumpulkan fallout
 mengumpulkan aneh bijih
 koleksi selesai
-
+tabrakan
 collosal tabrak
 parfum
 parfum kebal
@@ -8317,7 +8317,7 @@ kombo poin
 kombo pukul
 combobulating semprot
 
-
+mudah terbakar
 pembakaran
 pembakaran dampak
 pembakaran berkala
@@ -8331,7 +8331,7 @@ datang di teman-teman let's pergi
 datang dengan aku
 kembali
 kembali raja
-
+komedi
 datang
 komet
 comet's jejak
@@ -8351,7 +8351,7 @@ perintah argent skytalon
 perintah iblis
 perintah kehadiran
 commandeered meriam efek
-
+komandan
 commander berdiri siap
 commanders' mungkin
 commanding teriak
@@ -8372,10 +8372,10 @@ komunikasi adalah kunci
 komuni
 communique - panggil lain sasaran
 komunitas
-
+komposisi tim
 compact panen pencabut
 compact panen pencabut peralatan
-
+dipadatkan
 pendamping
 pendamping obrolan mantra
 pendamping berkala sembuhkan
@@ -8383,7 +8383,7 @@ perusahaan
 Bandingkan
 Bandingkan rune
 kompas
-
+terpaksa
 compelling penglihatan
 menarik penglihatan bagian 02
 Kompetitif
@@ -8422,11 +8422,11 @@ penyelesaian periksa
 penyelesaian acara - Aliansi
 penyelesaian acara - Gerombolan
 kompleks
-
-
+komposisi
+pengomposan
 compound mata
-
-
+mengompres
+kompromi
 komputer
 komputer kepanasan
 komputer sains
@@ -8436,7 +8436,7 @@ concealing kabut
 concentrated memikat perfume tumpah
 terkonsentrasi tak tertahankan parfum tumpah
 concentrated mutasi
-
+konsentrasi
 concentration aura
 
 Konsert
@@ -8457,14 +8457,14 @@ gegar pukulan
 gegar lempar
 gegar gelombang
 
-
-
+kondensasi
+memadatkan
 
 
 condesned mana bubuk
 conductive perisai
 conductive air
-
+konduktivitas
 saluran level
 saluran kelebihan beban
 saluran ke roh alam
@@ -8480,18 +8480,18 @@ mengaku
 confessor pencapaian
 confessor's murka
 confidence dari kros
-
+percaya diri
 
 configure pengepungan
 konfigurasi pengepungan - bersih atas
-
+mengonfirmasi
 konfirmasi
 konfirmasi prompt pemicu
 confirmed pembunuhan
-
+membakar habis
 conflagrate diri proc
 conflagrated senjata
-
+kebakaran besar
 conflagration ledakan
 confounding pukulan
 confounding nyala
@@ -8565,23 +8565,23 @@ penaklukan dari kuno
 penaklukan poin
 
 consecrated senjata
-
+pentahbisan
 consecration diskon
-
+akibatnya
 conservator's cengkeraman
 conservatory teleportasi
 pertimbangkan
-
+konsisten
 konsol
 constant rune
 constellation fase efek
 constellation fase pemicu
-
-
-
+sembelit
+konstitusi
+menyempitkan
 constricting rantai
 constricting koyak
-
+penyempitan
 constriction totem aura
 constrictor tentakel
 bangun barikade
@@ -8641,7 +8641,7 @@ kontak brann
 contagion dari busuk
 container dari rats
 containment sinar
-
+perenungan
 contender's pertahanan
 contender's dragonscale sabuk
 contender's dragonscale sepatu bot
@@ -8712,8 +8712,8 @@ Kandungan selesai
 Pencipta kandungan
 konten kekeringan
 
-
-
+konteks
+benua
 lanjutkan
 berkontribusi tidak ada
 kontrol
@@ -8753,7 +8753,7 @@ kontroversial topik
 convalescence dari angin
 konvensional kebijaksanaan
 conversing dengan anduin
-
+konversi
 conversion sinar
 ubah
 ubah rune uji
@@ -8801,7 +8801,7 @@ jeda atur ulang
 jeda2
 
 jeda atas
-
+didinginkan
 cooling napas
 cooling turun
 cooling mati
@@ -8861,13 +8861,13 @@ corlok's tengkorak gempuran
 corlok's tengkorak gempuran knockdown
 
 sudut
-
+terpojok
 cornish rex kucing
 coronet dari verdant nyala
-
+kopral
 Perbadanan
 corporeal kembali
-
+kejasmanian
 mayat ledakan
 mayat meledak
 mayat ledakan
@@ -9263,7 +9263,7 @@ kosmik hancurkan
 kosmik hancurkan visual keadaan
 kosmik pukulan
 costs sebuah lengan dan kaki
-
+batuk
 bisa
 Boleh jadi lebih baik
 Boleh jadi lebih teruk
@@ -9295,7 +9295,7 @@ penghitungserangan
 negara
 Muzik country
 coup de anugerah
-
+kupon
 keberanian
 
 jalur peta
@@ -9310,12 +9310,12 @@ lembu
 lembu innards visible
 pengecut
 coward's jalan keluar
-
-
+kepengecutan
+sifat pengecut
 pengecut warga pemicu
 cowardly penerbangan
 pengecut petani pemicu
-
+meringkuk
 cower di takut
 cowering aum
 coyote roh depawn aura
@@ -9342,7 +9342,7 @@ retak mogu runestone
 retak cangkang
 cracking pukulan
 cracking batu
-
+gemeretak
 berderak nyala
 berderak nyala
 berderak amarah
@@ -9388,7 +9388,7 @@ licik lava coral
 licik mantra
 licik harimau opal
 licik vermilion onyx
-
+sistem kebut semalam
 cranberry chutney
 cranberry helpings
 cranberry server
@@ -9429,7 +9429,7 @@ peti keadaan
 peti visual
 crates dibawa
 crates bunuh kredit
-
+penakut
 perayap tambang
 perayap tambang ledakan
 perayap tambang pengontrol berkala
@@ -9452,7 +9452,7 @@ gila kacamata
 gila mana regen
 gila pikiran
 gila2
-
+krim
 buat
 buat aberration
 buat kekejian
@@ -9945,8 +9945,8 @@ seram peti cari sasaran
 seram peti raih
 seram peti pasif
 seram hop
-
-
+mengkremasi
+kremasi
 
 crescendo dari penderitaan
 puncak dari pembalasan
@@ -10029,7 +10029,7 @@ makhluk-killer
 makhluk-killer serangan
 
 croc camilan
-
+buaya
 
 
 crocolisk gumbo
@@ -10046,7 +10046,7 @@ salib server
 salib itu jembatan
 salib melalui
 busur silang
-
+busur-busur silang
 crossed atas
 berjongkok
 gagak
@@ -10075,8 +10075,8 @@ kasar lingkup
 kasar senja samaran
 kasar senja samaran 2
 kejam
-
-
+kekejaman
+pelayaran
 runtuh
 runtuh busur
 runtuh ruin
@@ -10153,7 +10153,7 @@ cryomatic 16 bekukan lensa
 crypt kumbang benci
 crypt kumbang kerumunan
 
-
+mata uang kripto
 kristal
 kristal absorb saluran
 kristal barbs
@@ -10222,7 +10222,7 @@ kristal tidur
 kristal lonjakan
 kristal tangler
 kristal tali
-
+mengkristal
 crystallized udara
 crystallized tanah
 crystallized api
@@ -10274,7 +10274,7 @@ cult samaran
 pemuja tudung
 cultivate packet dari benih
 cultivated kekuatan
-
+budidaya
 puki
 cangkir
 cangkir dari kafa
@@ -10301,7 +10301,7 @@ penasaran wolvar anak anjing
 curiously lezat telur dadar
 curling hitam cord
 curling asap
-
+orang tua pemarah
 mata uang
 saat ini meta
 saat ini keadaan dari permainan
@@ -10405,7 +10405,7 @@ terkutuk swabby helm
 terkutuk ke jadi buruk
 terkutuk veil
 terkutuk penglihatan dari sargeras
-
+kutukan-kutukan
 curtain panggil
 curtain dari beku keadaan
 custodian dari waktu
@@ -10417,7 +10417,7 @@ khusus error
 khusus dampak 06
 khusus dampak 07
 khusus jalan
-
+bea cukai
 adatmantra03
 potong
 potong dan kering
@@ -10431,17 +10431,17 @@ potong scrap logam
 potong penyembuhan
 potong ke hitam
 potong ke kejar
-
-
+pengurangan waktu
+imut
 cutter laser
 cutter laser sasaran
 memotong tepi
 memotong itu tutup
 cutting laser
 
-
+sian
 cyanigosa ubah
-
+siklus
 bersepeda
 cycling Sukan
 topan
@@ -10479,7 +10479,7 @@ belati pukulan v
 belati lempar
 belati
 
-
+tugas harian
 harian
 harian misi
 
@@ -10532,7 +10532,7 @@ sialan itu
 dampen celaka
 dampen celaka kosmetik
 dampen sihir
-
+peredaman
 dampening lapangan
 dampening gelombang
 gadis oleh shore bunuh kredit
@@ -10754,7 +10754,7 @@ darkbrand bahu
 gelapminuman lager
 darkcrest taskmaster hidup
 
-
+menggelapkan
 darken pengintai
 darken penglihatan
 
@@ -10891,12 +10891,12 @@ hari satu pemain
 hari2
 
 hari
-
+siang hari
 pusing
 pusing kekebalan
 pusing kekebalan batal
 pusing diri
-
+pusing kepala
 dazed - avenger's perisai
 dazed dan bingung
 dazing perisai
@@ -10925,7 +10925,7 @@ nonaktifkan rune
 
 deactivated muncul penangan
 nonaktif menara kematian lapor
-
+menonaktifkan
 deactivating kekuatan source
 mati
 mati dan buried
@@ -10952,8 +10952,8 @@ mati angin
 mati zona
 mati-eye's intuition
 mati2
-
-
+mematikan rasa
+penembak jitu
 matigaris
 mematikan asam
 mematikan bidik
@@ -11008,7 +11008,7 @@ deadmines dinamit
 matiberat
 deadwind jaring
 matizona
-
+tuli
 memekakkan lolong
 memekakkan aum
 memekakkan jerit
@@ -11111,7 +11111,7 @@ kematian-warmed sabuk
 deathblade roket gempuran
 deathblood bisa
 kematianmekar
-
+pukulan maut
 deathblow x11 kacamata
 kematianpetir
 
@@ -11186,16 +11186,16 @@ pelemahan diri
 pelemahan spam uji
 pelemahan uber sembuhkan atas waktu
 pelemahan2
-
+terkena debuff
 
 debug - aura keadaan kit bug
 debug - konsol tulis
 debug buat samophlange manual
-
+memenggal
 decapitating pukul
 decapitating pukulan
 decapitating sabet
-
+pemenggalan
 decapitator's silet
 pembusukan
 pembusukan daging
@@ -11206,12 +11206,12 @@ deceitful ledakan
 menipu mudah
 menipu keras
 
-
+membinasakan
 decimate keadaan
 decimating pukulan
-
+pembinasaan
 decimation bilah
-
+menguraikan
 keputusan
 dek api
 dek api kerusakan berkala
@@ -11221,16 +11221,16 @@ dek dari trades
 tolak
 tolak undang
 tolak hidupkan
-
-
-
+pendekodean
+membusuk
+membongkar
 decontaminate panggung 1
 decontaminate panggung 2
 decontaminate panggung 3
-
+dekontaminasi
 umpan
 umpan peledak
-
+penurunan
 decrease mana biaya - misterius
 decrease mana biaya - api
 decrease mana biaya - beku
@@ -11243,8 +11243,8 @@ decree dari gelap nyonya
 
 decrepit demam
 
-
-
+mendekripsi
+mampus
 Berdedikasi
 dalam
 dalam raung
@@ -11344,8 +11344,8 @@ defiant dan murka
 defias samaran
 defias menara ii
 defias menara iii
-
-
+defibrilasi
+menodai
 defile uther's makam
 defiled tanah
 defiling aura
@@ -11354,7 +11354,7 @@ pasti
 pasti terakhir permainan
 pasti berfungsi
 deflecting angin
-
+pembelokan
 deforestation kredit
 cekatan ametrine
 deft bara topaz
@@ -11364,16 +11364,16 @@ cekatan lava karang
 deft raja topaz
 deft harimau opal
 cekatan vermilion onyx
-
-
+merosot
+degenerasi
 degenerative gigit
-
-
+degradasi
+gelar
 degreelessness mode
 derajat
 derajat celsius
 derajat fahrenheit
-
+dehidrasi
 Kelewatan
 Kelewatan aura
 tunda pengatur waktu
@@ -11414,9 +11414,9 @@ Sedap pancing
 lezat daging
 lezat roasted babi hutan
 lezat sagefish ekor
+senang sekali
 
-
-
+mengigau
 delirious tebas
 antar
 deliver mabuk rusa
@@ -11428,7 +11428,7 @@ deliver hilang hen
 deliver teratai benih
 deliver sup
 deliver stolen kuda
-
+pembebasan
 delivering keg bom
 pengiriman murid
 pengiriman kereta mulai pemicu
@@ -11439,14 +11439,14 @@ Delora teriak pengecualian 4
 banjir
 banjir aura batal
 banjir dari bayangan
-
+berkhayal
 delusions dari jin'do
 deluxe mie gerobak
 deluxe mie gerobak peralatan
 deluxe mie sup
-
+melenyapkan wujud
 dematerialize baju besi
-
+demensia
 demo teriak sensor
 Demokrasi
 hancurkan
@@ -11554,15 +11554,15 @@ iblis penangkal
 demonology tukang sihir
 iblis dek
 iblis dari masa lalu
-
+menurunkan moral
 melemahkan panji
 melemahkan mmmrrrggglll
 melemahkan aum
 melemahkan jerit
 melemahkan teriak
-
+diturunkan pangkat
 denouement arwah
-
+mencela
 padat meledakkan bubuk
 padat dynamite
 padat embersilk perban
@@ -11571,19 +11571,19 @@ padat mengasah batu
 padat batu patung
 padat weightstone
 dented perisai dari horuz killcrow
+dokter gigi
 
-
-
+keberangkatan
 
 dependable kerusakan
 
 
 habiskan
 habiskan kunci
-
+terkuras
 depleted totem kredit
 depleted-kyparium roket
-
+penipisan
 kerahkan bom-bot
 kerahkan ledakan kotak
 kerahkan butcherbot
@@ -11599,9 +11599,9 @@ kerahkan troop
 depositing hutan melompat
 depositing cairan api
 depositing roh-kissed air
-
-
-
+kebejatan
+depresi
+kemurungan
 
 kedalaman serbuan
 kedalaman serbuan hitung mundur denyut
@@ -11609,15 +11609,15 @@ kedalaman serbuan peledakan
 deputize agen dari nozdormu
 deputy clunky kekuatan lontar
 der'izu fokus
-
+anjlok
 
 dertrok pikiran kendali
-
+mengurangi saturasi
 
 descent ke dalam kegilaan teleportasi
 
-
-
+deskripsi
+menodai kesucian
 dinodai
 dinodai panah
 dinodai tanah
@@ -11630,10 +11630,10 @@ deselect diri
 gurun
 gurun rubah interact
 pembelot
-
+mengeringkan
 designate sasaran
 
-
+menghentikan
 
 
 putus asa
@@ -11738,13 +11738,13 @@ putus asa kecepatan
 putus asa berdiri
 
 
-
+makanan penutup
 dest debu ledakan
 destabilisasi
 destabilisasi matrix
 
 destabilize biru langit dragonshrine
-
+tidak stabil
 destabilizing energi
 takdir
 takdir fulfilled
@@ -11876,13 +11876,13 @@ deteksi bisikan
 detected denyut
 deteksi
 deteksi efek
-
+memburuk
 tekad
 bertekad
 bertekad gore
 bertekad shuffle
 bertekad tikam
-
+penangkalan
 deth logam
 deth pukulan
 ledakkan
@@ -11903,9 +11903,9 @@ peledakan
 peledakan tuan
 peledakan misi kredit
 peledakan urutan
-
-
-
+detoks
+meluluhlantakkan
+hancur hati
 menghancurkan busur
 menghancurkan earthblow
 menghancurkan lompat
@@ -11916,7 +11916,7 @@ menghancurkan lempar
 menghancurkan tusuk
 kehancuran
 kehancuran pemicu
-
+mengembangkan
 devestating pukulan
 devestating hancurkan
 menyimpang pancing
@@ -11949,7 +11949,7 @@ lahap mana
 lahap murloc
 lahap air
 lahap angin
-
+dilahap
 devoured oleh nyala
 devourer's perut
 melahap merayap
@@ -11959,7 +11959,7 @@ melahap kabut
 melahap wabah
 devout iman
 dew dari abadi pagi
-
+cekatan
 dgk tali placeholder
 
 
@@ -11967,7 +11967,7 @@ diabolic obat
 diagnostic urutan
 diagonal luncur
 diagonal luncur efek
-
+dialog
 
 
 
@@ -11983,11 +11983,11 @@ berlian tanda
 berlian cincin
 berlian jiwa
 berlian-potong refractor lingkup
-
+diare
 butoh
 butohkepala
-
-
+mendikte
+kediktatoran
 melakukan
 melakukan siapa saja mati sana
 melakukan tidak
@@ -12011,7 +12011,7 @@ diemetradon lolong
 
 
 
-
+selisih
 berbeda
 Pendekatan berbeza
 berbeda energi
@@ -12071,19 +12071,19 @@ dimensional ripper - area 52
 
 dimensional sedot
 dimensius memberi makan
-
+berkurang
 diminish kekuatan
 diminish jiwa
 diminsh kekuatan
 diminutive kepompong
 dinah boneka mantra
 dingy penyihir topi
-
+makan malam
 dinner waktu
 dino bentuk
 dino daging kredit
 dino-memperbaiki
-
+diplomasi
 diplomatic kekebalan
 parah binatang
 parah binatang fokus pengemudi
@@ -12102,7 +12102,7 @@ direbrew serbuan
 direbrew's lucuti
 direct kerusakan
 arah
-
+petunjuk arah
 Pengarah
 direhorn serbuan
 direhorn serbuan dampak
@@ -12110,7 +12110,7 @@ direhorn samaran
 direhorn pasif
 direhorn pasif efek
 direhorn runt
-
+ratapan
 
 dirk's rememberin' racun
 kotoran
@@ -12151,11 +12151,11 @@ melumpuhkan dampak
 melumpuhkan racun
 melumpuhkan transporter misi kredit
 Kelemahan
-
+tidak setuju
 disallow iblis lingkaran panggil
 
 
-
+mengecewakan
 lucuti
 lucuti bom bot
 lucuti duration pengurangan
@@ -12165,7 +12165,7 @@ lucuti diri
 lucuti perisai uji
 lucuti uji
 lucuti jebakan
-
+dilucuti
 disarming kobaran
 disarming amarah
 disarming amarah efek
@@ -12180,27 +12180,27 @@ disciple dari elune tak terlihat q1
 disciplinary aksi
 disciplinary tongkat
 disiplin
-
+berdisiplin
 disciplined penyihir
 disciplined kekuatan
 disciplines excluded aura
 disciplining tongkat
 disco bola
 discolored penyembuhan ramuan
-
+membingungkan
 discombobulator sinar
 Sambungan terputus
 terputus
 terputus lagi
 terputus dari server
-
+perselisihan
 discordant lonjakan visual
 diskon
 Menemui
 
 discreet sihir
 
-
+penghinaan
 penyakit
 penyakit napas
 penyakit buffet
@@ -12219,17 +12219,17 @@ penyakit applied
 penyakit jatuh
 penyakit jatuh mati
 disembodied jormungar bunuh kredit
-
+melebur pesona
 disenchant visual
 
-
-
-
+melepaskan diri
+penguraian
+tidak puas
 disgruntled kemarahan
 samaran
 
-
-
+jijik
+merasa jijik
 menjijikkan
 menjijikkan oozeling
 menjijikkan spora
@@ -12238,19 +12238,19 @@ disheartening pukulan iii
 disheartening pukulan iv
 disheartening pukulan v
 disheartening tawa
-
-
-
+tercela
+kecewa berat
+disintegrasi
 disintegration sinar
 disintegration sinar prarapal
 disintegration laser
-
-
+pemisahan
+tidak suka
 bongkar
 dismantle baju besi
 dismantled baju besi
-
-
+memutilasi
+memotong-motong
 dismembering mayat
 bubarkan
 bubarkan gargoyle
@@ -12274,8 +12274,8 @@ dismounting ledakan
 dismounting pukulan
 dismounting tembakan
 dismounting menukik
-
-
+mendisorientasi
+kehilangan arah
 disorienting aum
 disorienting jerit
 disorienting hancurkan
@@ -12300,14 +12300,14 @@ hilangkan jebakan
 dispell darahgigi
 dispelling analisis
 
-
+membubarkan
 disperse neutralizing agen
-
+menyebar keluar
 penyebaran
 penyebaran bom visual
 penyebaran lari cepat
 penyebaran visual
-
+menggeser
 displace akar
 displaced energi
 perpindahan
@@ -12338,9 +12338,9 @@ disrupting artefak
 gangguan
 gangguan sinar
 disruptor ledakan
-
-
-
+disertasi
+menghilang perlahan
+disipasi
 dissolve baju besi
 dissolve bijih
 dissonance lapangan
@@ -12424,12 +12424,12 @@ menyelam sapu
 
 divining gulungan mantra
 divining kesurupan
+keilahian
+divisi
+perpecahan
+perceraian
 
-
-
-
-
-
+pening
 dizzying kabut
 dizzying kabut kosmetik
 
@@ -12491,7 +12491,7 @@ docks panji netral klik
 docks penjaga titik pelacak aura
 doktor
 
-
+dokumenter
 hindar
 hindar belakang
 hindar serbuan
@@ -12538,10 +12538,10 @@ melakukan harian
 dojani eel sengat
 boneka
 Ikan lumba-lumba
-
+menjinakkan
 dominasi
 dominasi ofensif besar pujian
-
+dominan
 dominant pikiran
 kuasai
 kuasai makhluk
@@ -12549,7 +12549,7 @@ kuasai iblis
 kuasai hebat hiu - triggered
 kuasai pikiran
 kuasai pikiran perlindungan
-
+didominasi
 dominated pandaren kebebasan kredit
 dominating pukulan
 dominasi

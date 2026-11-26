@@ -6768,13 +6768,13 @@ caravan بصری
 carcanet از hundred magi
 cardboard قاتل
 ورزش هوازی
-
-
+مراقبت
+محتاط
 careful نشانه
 careful کشیدن
+با دقت
 
-
-
+بی‌دقت
 caress از مرگ
 
 
@@ -6798,7 +6798,7 @@ carried تیم روشن their عقب
 
 
 carrion ازدحام
-
+هویج
 carrot نفس
 carrot نفس احضار
 
@@ -6861,7 +6861,7 @@ cart کنترل
 cart کنترل اسارت نقطه unit east
 cart کنترل اسارت نقطه unit north
 cart کنترل اسارت نقطه unit south
-
+کارتون
 carve خرس flank
 carve گوشت
 
@@ -6874,7 +6874,7 @@ carving سنگ بصری
 cascade از ebon petals
 cascade از petals
 cascade از roses
-
+پول نقد
 
 cash فروشگاه
 cask از aged dalaran قرمز
@@ -6894,7 +6894,7 @@ cask از peaked dalaran قرمز
 طلسم2
 طلسم3
 جادوگر
-
+طلسم‌خوانی
 
 
 قلعه
@@ -6913,7 +6913,7 @@ casual بازیکن
 گربه knocked چیزی over
 گربه مجسمه با emerald چشم‌ها
 گربه2
-
+فاجعه بزرگ
 cataclysm نفس
 
 cataclysm نیروطلسم
@@ -6942,8 +6942,8 @@ catapult range آزمایش
 گرفتن آنها
 گرفتن تو بعدا
 
-
-
+گربه‌ماهی
+کلیسای جامع
 catseye اکسیر
 catseye ultra عینک
 caught یک plainshawk
@@ -6955,7 +6955,7 @@ caught در 8k
 caught خاموش نگهبان
 caught قرمز handed
 caught بالا
-
+پاتیل
 cauldron deposit بررسی
 cauldron diluted اثر
 cauldron رویداد کامل
@@ -6977,12 +6977,12 @@ cauldron زهر بررسی
 
 
 
-
+علت
 cause و اثر
 
-
-
-
+باعث شد
+باعث می‌شود
+باعث شدن
 سوزاننده amber
 سوزاننده خون
 سوزاننده گاز
@@ -6996,11 +6996,11 @@ cause و اثر
 سوزاننده افشانه
 سوزاننده tar
 سوزاننده tar پاکسازی رئیس تقویت
-
+داغ کردن زخم
 cauterize استاد
 cauterize زخم
 cauterize زخم
-
+داغ‌شده
 cauterizing هسته
 cauterizing شعله
 cauterizing شعله charges
@@ -7008,7 +7008,7 @@ cauterizing شعله‌ها
 cauterizing شعله
 cauterizing شفا
 cauterizing ضربه
-
+محتاطانه
 غار
 غار discovery فعال‌سازی
 غار انفجار
@@ -7016,7 +7016,7 @@ cauterizing ضربه
 غار از scrolls اعتبار
 غار-در
 
-
+قار قار
 cayden ambush مأموریت اعتبار
 
 cc اینجا
@@ -7028,13 +7028,13 @@ cc دشمنان
 
 
 
-
+متوقف کردن
 cease انتقال
 
 
 جشن
 جشن مدت
-
+سرعت عمل
 
 آسمانی alignment
 آسمانی پرتو
@@ -7071,7 +7071,7 @@ cease انتقال
 آسمانی طوفان
 آسمانی مسابقه
 آسمانی بادها
-
+موجودات آسمانی
 celestials پاداش
 celestials پاداش غنیمت
 celestials هل غنیمت
@@ -7087,7 +7087,7 @@ cenarion طلسم
 cenarius entrance عروسک
 cenarius رویداد استاد
 censer از ابدی agony
-
+نکوهش
 censure از agony
 censure از ابدی agony
 
@@ -7098,8 +7098,8 @@ centrifuge هسته غیرفعال
 centrifuge هسته بصری
 centrifuge سپر
 
-
-
+مطمئن
+قطعاً
 certificate از ownership
 
 
@@ -7107,8 +7107,8 @@ cerulean هدیه از crane
 
 
 
-
-
+کاه
+دلخوری
 زنجیر
 زنجیر صاعقه
 زنجیر سوزاندن
@@ -7133,14 +7133,14 @@ cerulean هدیه از crane
 زنجیر تله
 زنجیر بصری
 زنجیر بصری 2
-
+زنجیرشده
 chained صاعقه
 chained چنگ
 chained شفا
 chained ذهن
 
 chained به stables
-
+مسلسل
 
 chaining آشپزی
 
@@ -7167,8 +7167,8 @@ chaining آشپزی
 زنجیرها از woe
 chainsaw تیغه
 
-
-
+ریاست کرد
+چاکرا
 chakra تخلیه
 
 chalice از کوه kings
@@ -7190,14 +7190,14 @@ chalice از کوه kings
 چالش حالت شروع - کانال
 چالش حالت شروع - send رویداد
 چالش veraku
-
+مدعی
 challenger است dazed
 challenger's مسیر
 
-
+چالش‌برانگیز
 challenging فریاد
 
-
+آفتاب‌پرست
 قهرمان
 قهرمان از hellscream
 قهرمان از ramkahen
@@ -7218,7 +7218,7 @@ champion's گدازه مرجان
 
 champion's ببر opal
 
-
+قهرمانی
 
 
 chance به بازگرداندن سلامت روشن ضربه
@@ -7239,9 +7239,9 @@ chance به بازگرداندن مانا روشن spellcast
 تغییر strat
 تغییر2
 تغییر3
-
+تغییر کرد
 changed من ذهن
-
+تغییرات
 changing subject
 کانال
 کانال هوا سپر
@@ -7301,7 +7301,7 @@ chao نگهبان هاله
 آشفته temperament
 chapel اعتبار
 chapel نامرئی
-
+فصل
 chapter 1 تکمیل رویداد
 chapter 2 تکمیل رویداد
 chapter و verse
@@ -7373,7 +7373,7 @@ charbroiled ببر steak
 شارژشده stormhammer رئیس حرکت
 شارژشده titanium specs
 شارژشده لمس
-
+در حال شارژ
 
 charging ox موج
 charging ox موج v2
@@ -7415,29 +7415,29 @@ charred زمین
 charred گرگ meat
 charscale پا زره
 
-
+تعقیب
 chase پایین
 chase آنها
-
-
-
+در حال تعقیب
+تنبیه کردن
+تنبیه‌شده
 گفتگو
 گفتگو حباب
 گفتگو حرکت هاله
 گفتگو است مرده
 chaz's آزمایش
-
+ارزان
 
 cheap شلیک
 
 
 
-
+تقلب کردن
 cheat مرگ
 cheat برداشتن
 cheated مرگ
-
-
+متقلب
+تقلب
 cheating مرگ
 بررسی
 بررسی نبرد
@@ -7464,26 +7464,26 @@ cheating مرگ
 بررسی تو mail
 بررسی تو messages
 checking حساب
-
+صندوق پرداخت
 بررسینقطه
-
-
+جیک جیک
+تشویق
 cheer بالا yi-mo رها
-
-
+شاد
+به سلامتی
 
 
 cheese آن
 
 
-
+آشپز
 chef's کلاه
 cheiftain ضربه
 chemical بمب
 chemical ابر
 chemical شعله‌ها
 
-
+شیمی
 chen carries یک بشکه
 chen's جشن نوشیدنی
 chen's داستان
@@ -7502,7 +7502,7 @@ chests invisible پرتو
 chewing خون splatters
 chewing بیرون
 
-
+انرژی حیاتی
 chi رگبار
 chi انفجار
 chi نوشیدنی
@@ -7519,7 +7519,7 @@ chi-ji ناامیدی پرتوها فعال‌سازی
 
 chi-ji's چالش
 
-
+مرغ
 chicken غذا
 chicken خشم
 chicken پرش
@@ -7532,13 +7532,13 @@ chieftain's توتم وضعیت
 chieftan's فراخواندن
 
 chihozen binono بشکه هاله
-
+سرمازدگی
 
 child از tortolla
 
+بچگانه
 
-
-
+کودکان
 children از deathwing
 children از grave
 children's costume هاله
@@ -7576,8 +7576,8 @@ children's week نیرو استاد به طلسم
 سرد موج
 سرد بادها
 سرد words
-
-
+لرز
+خنک
 chimaeron توانایی‌ها
 chimaeron نزدیک حملات
 chimera شلیک
@@ -7587,25 +7587,25 @@ chimeric دستکش
 chimeric شلوار
 chimeric جلیقه
 
-
+چینی
 
 
 chirping جعبه
 chiseling پرتو
 
-
+کلروفرم
 
 cho's انفجار
 
 cho's hand توپ
 cho's teapot استاد
 
-
+شکلات
 chocolate جشن cake
 
 
 
-
+گروه کر
 choke 'em بیرون
 خفگی
 خفگی ابر
@@ -7646,10 +7646,10 @@ chomp chomp اعتبار - رویداد
 
 
 chop درخت
-
+همسرایی
 chosen از elune
 chosen یک
-
+کریسمس
 chromatic آشوب
 chromatic شنل
 chromatic دستکش
@@ -7666,7 +7666,7 @@ chromie دگرگونی
 
 
 chu's مأموریت طلسم
-
+پرتاب کردن
 chuck بشکه
 chuck بشکه
 
@@ -7684,7 +7684,7 @@ chum آب
 
 churning زمین بصری
 churning stomach اسید
-
+چائو
 
 cinder تیغه
 
@@ -7700,14 +7700,14 @@ cindercloth ردا
 cindercloth جلیقه
 
 cindergut سوزاندن
-
+خاکستر داغ
 
 cinderslither هاله
 
 cinderweb cocoon آسیب
 cinderweb تخم hatch
 
-
+سینما
 cinematic - ذهن کنترل
 cinematic زمان‌سنج
 
@@ -7722,7 +7722,7 @@ cinematic زمان‌سنج
 دایره هدف
 circlet از رازآلود قدرت
 
-
+سیرک
 
 cities در گرد
 
@@ -7740,10 +7740,10 @@ clam نوار
 
 
 
-
-
+طایفه
+دست زدن
 clap 'em در irons
-
+دست زد
 
 کلاس
 کلاس اعتبار اثر
@@ -7756,7 +7756,7 @@ clap 'em در irons
 کلاس training اعتبار دوره‌ای
 
 classical موسیقی
-
+همکلاسی
 
 چنگال
 چنگال و rake آسیب پاداش
@@ -7916,15 +7916,15 @@ cleanup سوزاننده tar
 
 
 
-
-
+ترخیص
+بی‌هزینه‌سازی
 clearcasting فعال‌سازی
-
+پاک‌شده
 cleared برای انتقال
 cleared این room
 clearing محتوا
 clearing به رئیس
-
+به‌وضوح
 clearly بهترین
 clearly بدترین
 پاکسازیمأموریت
@@ -7937,10 +7937,10 @@ cleave دشمنان
 cleave فعال‌سازی
 
 cleaver پرتاب
-
+شکافتن
 clefthide پا زره
-
-
+رحمت
+فشردن
 
 clever ashyo's شفا کره
 clever plant تغییرقیافه
@@ -7952,7 +7952,7 @@ click گوی
 click به سواری فعال‌سازی
 
 صخره
-
+تعلیق
 cliffwalker آتش
 cliffwalker post مرحله مأموریت 05
 cliffwalker post مرحله مأموریت 06
@@ -8018,12 +8018,12 @@ cloaked peeps بصری هاله
 
 cloaking chicken شنل
 
-
+ساعت
 
 clockwork جعبه
 
 clockwork راکت bot
-
+کلون
 clone bunny دگرگونی
 clone جادو
 clone استاد سلامت
@@ -8052,13 +8052,13 @@ clone دگرگونی prep
 
 
 closed tesseract اثر
-
+بسته می‌شود
 
 closing دروازه
 پارچه
+لباس‌ها
 
-
-
+لخته شدن
 ابر
 ابر هاله
 ابر انفجار
@@ -8079,23 +8079,23 @@ clouded ذهن
 clouded بازتاب
 ابرضربه
 cloudstrike family کلاه‌خود
+ابری
 
 
 
 
 
-
-
-
+دلقک
+باشگاه
 club برخورد
-
-
+با چماق زده
+بی‌خبر
 clump بررسی
 clumsy شلیک
 
 cluster راکت
 cluster شلیک
-
+حساس
 clutch است در our خون
 clutch لحظه
 clutch از مرگ
@@ -8104,9 +8104,9 @@ clutch بازی
 clutched آن
 clutches از شر
 
-
-
-
+مربی
+منعقد شدن
+به هم پیوستن
 
 coalescing سایه‌ها
 
@@ -8143,7 +8143,7 @@ cobalt skeleton کلید
 
 cobalt triangle سپر
 cobalt جنگ talbuk
-
+مار کبری
 cobra بچه
 cobra شلیک
 cobra ضربه
@@ -8152,11 +8152,11 @@ cobrahide پا زره
 cobrahn مار شکل
 cobrascale دستکش
 cobrascale کلاه
-
-
-
-
-
+خروس
+طوطی کوکاتیل
+پیله
+در پیله
+کد
 
 coffee شکستن
 صندوق فعال‌سازی بصری
@@ -8208,7 +8208,7 @@ coldwind انفجار
 coliseum 5 شفادهنده trinket
 coliseum 5 نزدیک trinket
 coliseum 5 تانک trinket
-
+فروپاشی
 collapse روشن تانک
 collapsing غار
 
@@ -8247,7 +8247,7 @@ collecting strange سنگ‌معدن
 collection کامل
 
 collosal برخورد
-
+ادکلن
 
 cologne دوره‌ای هاله
 
@@ -8255,7 +8255,7 @@ cologne دوره‌ای هاله
 
 color من impressed
 
-
+رنگارنگ
 
 
 
@@ -8264,7 +8264,7 @@ colossal خشم
 colossal خرد کردن
 colossal ضربه
 colossal جاروب
-
+غول‌پیکر
 colossus خرد کردن
 column از یخبندان
 column از نور
@@ -8294,7 +8294,7 @@ column از رعد
 نبرد valor
 نبرد زخم critical
 
-
+ترکیب کردن
 combine blueprint بخش‌ها
 
 combine جوهر
@@ -8316,9 +8316,9 @@ combo نقطه تأخیری
 combo امتیاز
 combo مشت
 combobulating افشانه
-
-
-
+سوختن
+قابل احتراق
+احتراق
 combustion برخورد
 combustion دوره‌ای
 آمدن
@@ -8331,9 +8331,9 @@ combustion دوره‌ای
 با من بیا
 آمدنعقب
 آمدنعقب kings
-
-
-
+کمدی
+می‌آید
+دنباله‌دار
 
 
 
@@ -8369,24 +8369,24 @@ commune با ancestors
 communication شکستنپایین
 communication broke پایین
 communication است کلید
-
+عشای ربانی
 communique - احضار another هدف
 
-
+ترکیب تیم
 
 compact harvest reaper کیت
-
+فشرده
 همراه
 همراه گفتگو طلسم
 همراه دوره‌ای شفا
 
 
 compare رون‌ها
-
-
+قطب‌نما
+مجبور
 compelling رؤیا
 compelling رؤیا بخش 02
-
+رقابتی
 
 کامل
 کامل alterac دره روزانه مأموریت
@@ -8422,12 +8422,12 @@ completed آزمون
 تکمیل رویداد - alliance
 تکمیل رویداد - horde
 
-
-
+ترکیب‌بندی
+کمپوست کردن
 compound چشم
-
-
-
+فشرده کردن
+سازش
+رایانه
 
 
 
@@ -8439,7 +8439,7 @@ compy زهر
 
 concentration هاله
 
-
+کنسرت
 
 conclusion زمان‌سنج هاله
 concoction برخورد
@@ -8456,15 +8456,15 @@ concussive لگد
 concussive ضربه
 concussive پرتاب
 concussive موج
+محکومیت اخلاقی
 
-
-
+متراکم کردن
 
 
 condesned مانا powder
 conductive سپر
 conductive آب
-
+رسانایی
 
 conduit اضافه‌بار
 conduit به روح realm
@@ -8475,23 +8475,23 @@ conduit به روح realm
 مخروط از آذرخش
 مخروط طلسم
 cones شکسته
-
-
+اعتراف کن
+اعتراف
 confessor دستاورد
 confessor's غضب
 confidence از kros
-
+مطمئن به خود
 
 
 configure siege - تمیز بالا
-
-
+تأیید کردن
+تأییدیه
 confirmation prompt فعال‌سازی
 
-
+شعله‌ور کردن
 conflagrate خود فعال‌سازی
 conflagrated سلاح
-
+حریق بزرگ
 conflagration انفجار
 confounding ضربه
 confounding شعله‌ها
@@ -8499,14 +8499,14 @@ confounding شعله‌ها
 
 confused احساس
 
-
+سردرگمی
 congeal خون
 congealed خون
 congealed ناامیدی
 congealed ناامیدی بصری
 congealed وحشت
 congealed وحشت بصری
-
+منعقد
 congealing خون
 تبریک
 تبریک روشن
@@ -8553,7 +8553,7 @@ conjured غذا
 conjured آب
 conjuring غذا
 conjuring آب
-
+متصل
 
 
 
@@ -8565,28 +8565,28 @@ conquest از ancients
 conquest امتیاز
 
 consecrated سلاح
+تقدیس
 
-
-
+در نتیجه
 conservator's چنگ
 conservatory انتقال
-
-
-
+در نظر گرفتن
+ثابت‌قدم
+کنسول
 constant رون
 constellation مرحله اثر
 constellation مرحله فعال‌سازی
+یبوست
 
-
-
+منقبض کردن
 constricting زنجیرها
 
-
+انقباض
 constriction توتم هاله
 
 
 
-
+در حال ساخت
 construction نوار movement
 construction ابر
 بلعیدن
@@ -8636,12 +8636,12 @@ consumed توسط hatred
 
 consumption اثر
 consumption دوره‌ای
-
+تماس
 
 contagion از rot
 container از rats
 containment پرتو
-
+تفکر
 contender's دفاع
 contender's dragonscale کمربند
 contender's dragonscale چکمه
@@ -8712,8 +8712,8 @@ contender's wyrmhide شانه‌ها
 محتوا آفریننده
 محتوا drought
 
-
-
+زمینه
+قاره
 
 contributing هیچ
 کنترل
@@ -8753,9 +8753,9 @@ controlled pandaren freedom اعتبار
 convalescence از بادها
 
 conversing با anduin
-
+تبدیل
 conversion پرتو
-
+تبدیل کردن
 convert رون آزمایش
 convert به بازی زمان
 convert به طلا
@@ -8801,7 +8801,7 @@ cool پایین
 آماده‌سازی2
 
 cooldowns بالا
-
+خنک‌شده
 cooling نفس
 cooling پایین
 cooling خاموش
@@ -8859,15 +8859,15 @@ corehound کمربند
 corehound چکمه
 corlok's جمجمه رگبار
 corlok's جمجمه رگبار knockdown
-
-
-
+ذرت
+گوشه
+گیر افتاده
 cornish rex گربه
 coronet از verdant شعله
+سرجوخه
+شرکت سهامی
 
-
-
-
+جسمانیت
 جسد انفجار
 جسد انفجار
 جسد انفجار
@@ -8878,7 +8878,7 @@ coronet از verdant شعله
 جسد عنکبوت web ظهور
 جسد انتقال
 جسد worm bait
-
+صحیح
 correct نوشیدن
 correct زمان period
 
@@ -8888,7 +8888,7 @@ corrode گوشت
 corroded ذهن
 corroded saronite لبه
 
-
+خوردگی
 خورنده اسید
 خورنده اسید نفس
 خورنده اسید تف
@@ -9263,7 +9263,7 @@ cosmic خرد کردن
 cosmic خرد کردن بصری وضعیت
 cosmic ضربه
 costs یک بازو و یک پا
-
+سرفه
 می‌توانست
 می‌توانست بودن بهتر
 می‌توانست بودن بدتر
@@ -9288,34 +9288,34 @@ countdown به کشیدن
 ضد شلیک
 ضدحمله
 ضدیورش
-
+خنثی‌شده
 ضدبرداشتن
 ضدطلسم
 ضدضربه
-
+کشور
 country موسیقی
 
+کوپن
 
-
-
+شجاع
 course نقشه
 court از استخوان‌ها مرحله shift
 court از استخوان‌ها prep
-
+پسرعمو
 
 cover شفادهنده
 covered در watermelon
 covering تو
 
 
-
+ترسو
 coward's راه بیرون
 
-
+بزدلی
 cowardly citizen فعال‌سازی
 cowardly پرواز
 cowardly peasant فعال‌سازی
-
+کز کردن
 cower در ترس
 cowering غرش
 coyote روح depawn هاله
@@ -9330,19 +9330,19 @@ cpu در 100
 خرچنگ entrails
 خرچنگ درخشش
 خرچنگ تله بصری
-
+خرچنگ‌ها
 
 
 crack شلیک
 crack whip
-
+ترک‌خورده
 cracked بلور شیشه
 cracked زمین بصری
 cracked mogu رونسنگ
 
 cracking ضربه
 cracking سنگ
-
+ترق‌تروق
 ترق‌وتروق شعله
 ترق‌وتروق شعله‌ها
 ترق‌وتروق خشم
@@ -9388,7 +9388,7 @@ crafty گدازه مرجان
 crafty طلسم
 crafty ببر opal
 
-
+خرخوانی
 
 
 cranberry سرور
@@ -9409,7 +9409,7 @@ crane's آواز
 برخورد
 برخورد از خشم
 برخورد از امواج
-
+سقوط کرد
 
 crashin' thrashin' racer کنترلر
 
@@ -9429,7 +9429,7 @@ crashing امواج
 جعبه بصری
 
 crates کشتن اعتبار
-
+بزدل
 crawler مین
 crawler مین انفجار
 crawler مین کنترلر دوره‌ای
@@ -9452,7 +9452,7 @@ crazy عینک
 crazy مانا بازسازی
 
 
-
+خامه
 ساختن
 ساختن aberration
 ساختن پلیدی
@@ -9890,7 +9890,7 @@ crazy مانا بازسازی
 ساختن zul's هاله
 ساختن2
 ساختنتوتم
-
+خلاق
 آفریننده طلسم دیدن نامرئی
 آفریننده سواری shark
 آفریننده دیدن نامرئی
@@ -9923,8 +9923,8 @@ crazy مانا بازسازی
 اعتبار کارت
 اعتبار برای arresting slaghammer
 اعتبار کجا اعتبار است due
-
-
+خزیدن
+خزنده
 creeper تخم
 creeper تخم anim replace کیت
 
@@ -9946,13 +9946,13 @@ creepy جعبه گرفتن
 creepy جعبه غیرفعال
 
 
-
+سوزاندن مرده
 
 crescendo از suffering
 crest از retribution
 خدمه
-
-
+جرم
+زرشکی
 crimson اسید
 crimson تبعید
 crimson خون از shu'ma
@@ -9989,12 +9989,12 @@ crimson مار
 crimson دیوار
 crimson آب strider
 
+خجالت‌آور
 
 
 
 
-
-
+فلج کردن
 cripple وضعیت
 crippling گاز
 crippling ضربه
@@ -10021,7 +10021,7 @@ critical ضربه
 
 
 
-
+جانور کوچک
 critter گاز
 
 
@@ -10029,7 +10029,7 @@ critter گاز
 critter-killer حمله
 
 
-
+تمساح
 
 
 
@@ -10037,7 +10037,7 @@ critter-killer حمله
 
 
 crocolisk دگرگونی
-
+صلیب
 
 cross نقشه
 
@@ -10045,11 +10045,11 @@ cross نقشه
 cross سرور
 cross آن پل
 
+کمان زنبورکی
+کمان‌های زنبورکی
 
-
-
-
-
+خم شدن
+کلاغ
 
 crow ضیافت
 crow سرعت
@@ -10074,10 +10074,10 @@ crude rubbing کیت
 
 crude twilight تغییرقیافه
 crude twilight تغییرقیافه 2
-
-
-
-
+بی‌رحم
+ستمگری
+سفر دریایی
+در حال فروریختن
 crumbling کمان
 
 crumbling سنگ
@@ -10099,7 +10099,7 @@ crusader's dragonscale زره سینه
 crusader's سفید warhorse
 crusader's غضب
 
-
+له کردن
 crush زره
 
 crush فعال‌سازی
@@ -10142,7 +10142,7 @@ crusher's فراخواندن
 فریاد از مرده
 فریاد از sky
 فریاد بیرون در ناامیدی
-
+بچه‌ننه
 
 
 crying در این
@@ -10153,7 +10153,7 @@ cryomatic 16 انجماد lens
 سرداب scarab hate
 سرداب scarab ازدحام
 سرداب scarabs
-
+رمزارز
 بلور
 بلور جذب کانال
 بلور barbs
@@ -10222,7 +10222,7 @@ crystalized مانا residue
 بلورین خیزش
 بلورین tangler
 بلورین tether
-
+متبلور شدن
 crystallized هوا
 crystallized زمین
 crystallized آتش
@@ -10274,9 +10274,9 @@ cult تغییرقیافه
 cultist کلاه
 cultivate packet از seeds
 cultivated قدرت
+کشت
 
-
-
+فنجان
 cup از kafa
 
 
@@ -10294,15 +10294,15 @@ cured متوسط پنهان
 cured rugged پنهان
 cured thick پنهان
 
-
+کنجکاو
 curious bronze زمانقطعه
 curious oracle بچه
 
 
 curling سیاه cord
 curling دود
-
-
+آدم بدخلق
+ارز
 
 current وضعیت از بازی
 curruption از جنگ تمیز-بالا
@@ -10405,7 +10405,7 @@ curruption از جنگ تمیز-بالا
 نفرین‌شده به بودن بد
 نفرین‌شده veil
 نفرین‌شده رؤیا از sargeras
-
+نفرین‌ها
 curtain فراخواندن
 curtain از یخبندان وضعیت
 custodian از زمان
@@ -10417,9 +10417,9 @@ custom 08 وضعیت
 custom برخورد 06
 custom برخورد 07
 
+گمرک
 
-
-
+بریدن
 cut و dry
 
 
@@ -10431,18 +10431,18 @@ cut scrap فلز
 cut شفا
 cut به سیاه
 cut به chase
-
-
+کاهش زمان
+بانمک
 
 cutter laser هدف
 cutting لبه
 cutting آن بستن
 
 
-
+فیروزه‌ای
 cyanigosa دگرگونی
-
-
+چرخه
+دوچرخه‌سواری
 
 گردباد
 گردباد خشم
@@ -10467,7 +10467,7 @@ cyrukh آتش کیت
 d رده
 d'uuurps آرایشی
 
-
+بابا
 dadanga's برکت
 
 daedalian بال‌ها
@@ -10477,9 +10477,9 @@ daedalian بال‌ها
 خنجر ضربه iv
 خنجر ضربه v
 خنجر پرتاب
+خنجرها
 
-
-
+مأموریت‌های روزانه
 روزانه
 روزانه مأموریت
 
@@ -10521,7 +10521,7 @@ dalaran wizard تغییرقیافه
 آسیب آزمایش
 آسیب2
 آسیب3
-
+آسیب‌دیده
 damaged ساختمان پاداش
 damaged diving کلاه‌خود
 damaged تهدید copy
@@ -10532,7 +10532,7 @@ damn آن
 
 dampen harm آرایشی
 dampen جادو
-
+میرایی
 dampening میدان
 dampening موج
 damsel توسط shore کشتن اعتبار
@@ -10563,12 +10563,12 @@ dancing فولاد
 
 خطر
 خطر جلو
-
+خطرناک
 dangerous آب
 dangle وحشی carrot
 
 
-
+جسورانه
 
 تاریک
 تاریک animus
@@ -10754,7 +10754,7 @@ darkbrand شانه‌ها
 تاریکنوشیدنی lager
 
 
-
+تاریک کردن
 
 darken رؤیا
 
@@ -10864,8 +10864,8 @@ dashing ضربه محافظت
 داده miner's delight
 داده scan
 داده stream
-
-
+قدیمی‌شده
+دختر
 daughter از شعله
 daunting غرش
 
@@ -10889,10 +10889,10 @@ dawnstone خرچنگ
 روز یک
 روز یک بازیکن
 روز2
+سپیده‌دم
 
-
-
-
+روز روشن
+گیجی موقت
 daze مصونیت
 daze مصونیت لغو
 daze خود
@@ -10922,10 +10922,10 @@ deactivate همه anvils
 deactivate نیرو میدان
 deactivate شب الف moon بلور
 deactivate رون‌ها
-
+غیرفعال‌شده
 deactivated ظهور متصدی
 deactivated turret مرگ report
-
+در حال غیرفعال‌سازی
 deactivating قدرت source
 مرده
 مرده و buried
@@ -10952,9 +10952,9 @@ deactivating قدرت source
 مرده منطقه
 مرده-eye's intuition
 مرده2
-
-
-
+بی‌حس کردن
+تیرانداز ماهر
+مهلت
 مرگبار اسید
 مرگبار نشانه
 مرگبار ametrine
@@ -11005,10 +11005,10 @@ deactivating قدرت source
 
 
 
-
+بار اضافی
 مردهباد web
 مردهمنطقه
-
+کرشده
 deafening زوزه
 deafening غرش
 deafening جیغ
@@ -11111,7 +11111,7 @@ death's هل
 deathblade راکت رگبار
 deathblood زهر
 مرگشکوفه
-
+ضربه مرگبار
 deathblow x11 عینک
 مرگصاعقه
 
@@ -11164,7 +11164,7 @@ deathwing's دیوار از آتش
 
 debatably بهتر
 
-
+تضعیف کردن
 debilitating پرتو
 debilitating یورش
 
@@ -11174,9 +11174,9 @@ debilitating افشانه
 debilitating ضربه
 debilitating لمس
 debilitating زهر
-
+ناتوانی
 debit کارت
-
+آوار
 تضعیف
 تضعیف همه resist
 تضعیف expired
@@ -11186,16 +11186,16 @@ debit کارت
 تضعیف spam آزمایش
 تضعیف uber شفا over زمان
 تضعیف2
-
-
+تضعیف شده
+اشکال‌زدایی
 debug - هاله وضعیت کیت اشکال
 
 debug ساختن samophlange manual
-
+سر بریدن
 decapitating مشت
 decapitating ضربه
 
-
+گردن زدن
 
 
 decay گوشت
@@ -11205,14 +11205,14 @@ decayed قدرت
 deceitful انفجار
 deceptively آسان
 deceptively سخت
-
+تصمیم گرفتن
 
 decimate وضعیت
 decimating ضربه
-
+قتل عام
 decimation تیغه
-
-
+رمزگشایی کردن
+تصمیم
 deck آتش
 deck آتش آسیب دوره‌ای
 deck آتش ظهور
@@ -11221,14 +11221,14 @@ deck از trades
 
 declined دعوت کن
 declined rez
-
-
-
+رمزگشایی
+تجزیه شدن
+در حال تجزیه
 decontaminate مرحله 1
 decontaminate مرحله 2
 decontaminate مرحله 3
-
-
+ضدعفونی
+طعمه
 decoy منفجره
 
 decrease مانا cost - رازآلود
@@ -11243,7 +11243,7 @@ decree از تاریک lady
 
 
 
-
+رمزگشایی کردن داده
 
 
 عمیق
@@ -11289,7 +11289,7 @@ deepvein's patch کیت
 
 defeat crushcog اعتبار
 defeat فلز brewer
-
+شکست‌خورده
 
 defeated پس‌زدن
 
@@ -11344,8 +11344,8 @@ defiant و خشمگین
 defias تغییرقیافه
 defias برج ii
 defias برج iii
-
-
+شوک قلبی دادن
+آلوده کردن
 defile uther's مقبره
 defiled زمین
 defiling هاله
@@ -11364,16 +11364,16 @@ deft گدازه مرجان
 
 deft ببر opal
 
-
-
+منحط
+انحطاط
 degenerative گاز
-
-
+تخریب
+درجه
 degreelessness حالت
+درجه‌ها
 
 
-
-
+کم‌آب
 تأخیر
 تأخیر هاله
 تأخیر زمان‌سنج
@@ -11386,7 +11386,7 @@ degreelessness حالت
 delete initial سلاح
 
 delete بازی
-
+حذف‌شده
 deleted از سرور
 ظریف arcanite converter
 ظریف خون garnet
@@ -11407,7 +11407,7 @@ deleted از سرور
 ظریف scarlet ruby
 ظریف serpent's چشم
 ظریف sound از رعد اعتبار
-
+خوشمزه
 delicious هاله
 
 delicious ماهی
@@ -11415,8 +11415,8 @@ delicious ماهی
 delicious roasted گراز
 
 
-
-
+دلپذیر
+هذیانی
 delirious برش
 
 deliver مست stag
@@ -11428,7 +11428,7 @@ deliver گمشده hen
 
 
 deliver stolen اسب
-
+رهایی
 delivering یک بشکه بمب
 delivery شاگرد
 delivery cart شروع فعال‌سازی
@@ -11436,20 +11436,20 @@ delora فریاد exclusion 1
 delora فریاد exclusion 2
 delora فریاد exclusion 3
 delora فریاد exclusion 4
-
+سیل
 deluge هاله لغو
 deluge از سایه
-
+توهمی
 delusions از jin'do
 
 deluxe noodle cart کیت
 
-
+غیرمادی شدن
 dematerialize زره
-
+زوال عقل
 demo فریاد sensor
-
-
+دموکراسی
+ویران کردن
 demolish زره
 
 demolisher توپ
@@ -11554,15 +11554,15 @@ demolisher شلیک
 
 دیوها deck
 دیوها از past
-
+روحیه را تضعیف کردن
 demoralizing پرچم
 
 demoralizing غرش
 demoralizing جیغ
 demoralizing فریاد
+تنزل رتبه
 
-
-
+محکوم کردن
 متراکم blasting powder
 متراکم dynamite
 متراکم embersilk bandage
@@ -11571,19 +11571,19 @@ demoralizing فریاد
 متراکم سنگ مجسمه
 متراکم weightstone
 dented سپر از horuz killcrow
+دندانپزشک
 
-
-
-
+عزیمت
+وابسته بودن
 dependable آسیب
+وابسته
 
-
-
+تهی کردن
 deplete کلید
-
+تهی‌شده
 depleted توتم اعتبار
 depleted-kyparium راکت
-
+کاهش منابع
 deploy بمب-bot
 deploy بوم جعبه
 
@@ -11599,9 +11599,9 @@ deploy tactical مانا بمب
 
 depositing liquid آتش
 depositing روح-kissed آب
-
-
-
+فساد اخلاقی
+افسرده
+افسردگی
 
 depth یورش
 depth یورش countdown ضربان
@@ -11609,31 +11609,31 @@ depth یورش انفجار
 deputize agent از nozdormu
 deputy clunky نیرو طلسم
 der'izu تمرکز
-
+از ریل خارج‌شده
 
 dertrok ذهن کنترل
-
-
+کم‌رنگ کردن
+پایین آمدن
 descent به madness انتقال
-
-
-
-
+توصیف کردن
+توضیحات
+هتک حرمت کردن
+هتک‌شده
 
 desecrated زمین
 desecrated روغن
 desecrated سلاح
-
+هتک حرمت
 desecration بازو
 
 deselect خود
 کویر
 کویر fox interact
-
-
+فراری از خدمت
+خشکاندن
 designate هدف
 
-
+دست کشیدن
 
 
 ناامیدی
@@ -11727,7 +11727,7 @@ designate هدف
 ناپدید شدن xuen
 ناپدید شدن yu'lon
 ناپدید شدن zeppelins
-
+ناامید
 desperate ضربه
 desperate دفاع
 
@@ -11736,17 +11736,17 @@ desperate خشم
 
 desperate سرعت
 desperate ایستادن
+با وجود
 
-
-
+دسر
 dest گرد انفجار
+بی‌ثباتی
 
+بی‌ثبات کردن
 
+بی‌ثبات‌شده
 
-
-
-
-
+سرنوشت
 
 نابود کردن
 نابود کردن همه drakes
@@ -11838,7 +11838,7 @@ destroying آنها
 ویرانگر طلسم کشتن اعتبار
 ویرانگر طلسم powerup
 
-
+جزئیات
 
 
 detained cultist اعتبار
@@ -11876,13 +11876,13 @@ detaunt آزمایش
 detected ضربان
 کشف
 کشف اثر
+بدتر شدن
+اراده
+مصمم
 
 
 
-
-
-
-
+بازدارندگی
 deth فلز
 deth ضربه
 انفجار
@@ -11903,9 +11903,9 @@ detonating رون stones
 انفجار استاد
 انفجار مأموریت اعتبار
 انفجار sequence
-
-
-
+سم‌زدایی
+ویران کردن کامل
+ویران‌شده
 ویرانگر کمان
 ویرانگر earthblow
 ویرانگر جهش
@@ -11914,9 +11914,9 @@ detonating رون stones
 ویرانگر خرد کردن
 ویرانگر پرتاب
 ویرانگر thrust
-
+ویرانگری
 devastation فعال‌سازی
-
+توسعه دادن
 devestating ضربه
 devestating خرد کردن
 deviate ماهی
@@ -11936,7 +11936,7 @@ devilsaur شلوار
 devilsaur's لگد
 devious ذهن
 
-
+ارادت
 devotion زره increased
 devotion هاله
 بلعیدن
@@ -11949,7 +11949,7 @@ devotion هاله
 بلعیدن murloc
 بلعیدن آب
 بلعیدن باد
-
+بلعیده‌شده
 devoured توسط شعله
 
 بلعنده creep
@@ -11959,10 +11959,10 @@ devoured توسط شعله
 بلعنده طاعون
 
 dew از ابدی صبح
+زبردست
 
-
-
-
+دیابت
+دیابلو
 
 
 
@@ -11983,11 +11983,11 @@ diamond نشان
 diamond حلقه
 diamond روح
 
+اسهال
 
 
-
-
-
+دیکته کردن
+دیکتاتوری
 انجام
 انجام هرکسی die آنجا
 انجام نه
@@ -12008,11 +12008,11 @@ die در یک آتش
 
 
 diemetradon زوزه
+می‌میرد
+رژیم غذایی
 
 
-
-
-
+متفاوت
 
 different انرژی
 different گروه
@@ -12020,7 +12020,7 @@ different گروه
 
 
 
-
+سختی
 diffuse جادو
 
 diffusion زنجیر
@@ -12059,7 +12059,7 @@ digging through debris
 
 dilute آفت cauldron
 diluted ethereum جوهر
-
+کم‌نور
 dim location دوره‌ای
 
 
@@ -12071,19 +12071,19 @@ dimensional ripper - منطقه 52
 
 dimensional مکیدن
 
-
+کاهش یافتن
 diminish قدرت
 diminish روح
 diminsh قدرت
 
 dinah عروسک طلسم
 dingy wizard کلاه
-
+شام
 dinner زمان
 dino شکل
 dino meat اعتبار
 
-
+دیپلماسی
 diplomatic مصونیت
 dire جانور
 dire جانور تمرکز driver
@@ -12101,19 +12101,19 @@ dire گرگ بصری
 direbrew یورش
 direbrew's خلع‌سلاح
 direct آسیب
-
-
-
+جهت
+راهنمای مسیر
+کارگردان
 direhorn یورش
 direhorn یورش برخورد
 direhorn تغییرقیافه
 direhorn غیرفعال
 direhorn غیرفعال اثر
 
-
+نوحه
 
 dirk's rememberin' زهر
-
+خاک
 dirt انفجار
 dirt در تو چشم‌ها
 dirt mound deposit بررسی
@@ -12150,12 +12150,12 @@ disabling تیغه‌ها
 disabling برخورد
 disabling زهر
 disabling transporter مأموریت اعتبار
-
+معایب
 
 disallow اهریمنی دایره احضار
 
-
-
+ناامیدشده
+ناامیدکننده
 خلع‌سلاح
 خلع‌سلاح بمب bot
 خلع‌سلاح مدت reduction
@@ -12165,7 +12165,7 @@ disallow اهریمنی دایره احضار
 خلع‌سلاح سپر آزمایش
 خلع‌سلاح آزمایش
 خلع‌سلاح تله
-
+خلع سلاح‌شده
 disarming شعله
 disarming خشم
 disarming خشم اثر
@@ -12179,8 +12179,8 @@ discharged انرژی
 disciple از elune نامرئی q1
 
 
-
-
+انضباط
+منضبط
 disciplined جادوگر
 disciplined قدرت
 disciplines excluded هاله
@@ -12190,17 +12190,17 @@ discolored شفا معجون
 
 discombobulator پرتو
 
-
+قطع‌شده
 
 disconnected از سرور
 
 discordant خیزش بصری
-
-
-
+تخفیف
+کشف کردن
+کشف‌شده
 discreet جادو
 
-
+تحقیر
 بیماری
 بیماری نفس
 بیماری buffet
@@ -12219,18 +12219,18 @@ discreet جادو
 diseases افتاده
 diseases افتادن خاموش
 disembodied jormungar کشتن اعتبار
-
+افسون‌زدایی
 disenchant بصری
-
-
-
-
+عقب‌نشینی کردن
+در حال جدا شدن
+رهاسازی
+ناراضی
 disgruntled خشم
 تغییرقیافه
 
-
-
-
+انزجار
+منزجر
+نفرت‌انگیز
 
 
 disheartening ضربه ii
@@ -12238,19 +12238,19 @@ disheartening ضربه iii
 disheartening ضربه iv
 disheartening ضربه v
 
-
-
-
+ننگین
+سرخورده
+متلاشی شدن
 disintegration پرتو
 disintegration پرتو precast
 
-
-
-
+گسست
+دوست نداشتن
+پیاده کردن
 dismantle زره
 dismantled زره
-
-
+تکه‌تکه کردن
+در حال تکه‌تکه کردن
 dismembering جسد
 
 
@@ -12259,7 +12259,7 @@ dismiss گوی از ascension
 
 dismiss حیوان
 dismiss رون سلاح
-
+پیاده شدن
 dismount خرس
 
 
@@ -12274,12 +12274,12 @@ dismounting انفجار
 dismounting ضربه
 dismounting شلیک
 
-
-
+منحرف کردن
+گیج و منگ
 disorienting غرش
 disorienting فریاد
 disorienting خرد کردن
-
+اعزام
 دفع
 دفع 2
 دفع blizzard
@@ -12299,18 +12299,18 @@ disorienting خرد کردن
 دفع تله
 
 
+پراکندگی
+پراکنده کردن
 
-
-
-
+در حال پراکنده شدن
 
 dispersion بمب بصری
 
 dispersion بصری
-
+جابه‌جا کردن
 
 displaced انرژی
-
+جابه‌جایی
 
 
 displacer جانور
@@ -12323,7 +12323,7 @@ displacer جانور spree هاله
 نمایش transport globe
 نمایش young ironjaw
 dispose از نگهبان
-
+مختل کردن
 disrupt تاریک conclave آیین
 disrupt دروازه
 disrupt جادو
@@ -12338,20 +12338,20 @@ disrupting شیء باستانی
 
 disruption پرتو
 disruptor انفجار
-
-
-
+پایان‌نامه
+از بین رفتن
+اتلاف
 dissolve زره
 dissolve سنگ‌معدن
 dissonance میدان
-
+فاصله
 
 distant شعله
 distillation کامل
 
 
 distortion بمب
-
+حواس را پرت کردن
 distract دیو موشک
 distract دیوها 2
 distract دیوها stationary
@@ -12360,7 +12360,7 @@ distract آزمایش
 
 distract-o-matic 9000 - استخوان بصری
 distract-o-matic 9000 تمیز بالا
-
+حواس‌پرت
 distracted توسط
 distracted راست اکنون
 
@@ -12368,7 +12368,7 @@ distracting سکه
 
 distracting شلیک
 distracting تف
-
+حواس‌پرتی
 distraction بصری
 distribute غنیمت
 
@@ -12424,12 +12424,12 @@ diving جاروب
 
 divining طومار طلسم
 
-
-
-
-
-
-
+الوهیت
+تقسیم
+تفرقه
+طلاق
+سرگیجه
+گیج و سرگردان
 
 dizzying haze آرایشی
 
@@ -12491,7 +12491,7 @@ docks پرچم neutral click
 docks نگهبان نقطه tracker هاله
 
 
-
+مستند
 جاخالی
 جاخالی عقب
 جاخالی یورش
@@ -12506,7 +12506,7 @@ docks نگهبان نقطه tracker هاله
 جاخالی mechanic
 جاخالی2
 جاخالی3
-
+انجام می‌دهد
 does هرکسی
 does آن hurt
 does آن ساختن یک difference
@@ -12533,15 +12533,15 @@ does این صنف حمله
 doggie diving کلاه‌خود
 dogs hate من
 dogs به location
+در حال انجام
 
 
 
+دلفین
+اهلی کردن
 
 
-
-
-
-
+غالب
 dominant ذهن
 
 dominate موجود
@@ -12549,7 +12549,7 @@ dominate دیو
 dominate عالی shark - triggered
 dominate ذهن
 dominate ذهن محافظت
-
+تحت سلطه
 dominated pandaren freedom اعتبار
 dominating ضربه
 

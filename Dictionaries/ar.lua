@@ -6768,13 +6768,13 @@ caravan مرئي
 carcanet من ال مئة magi
 cardboard قاتل
 تمارين القلب
-
+رعاية
 
 careful تصويب
 careful سحب
+بعناية
 
-
-
+مهمل
 caress من موت
 
 
@@ -6861,7 +6861,7 @@ cart تحكم
 cart تحكم أسر نقطة unit شرق
 cart تحكم أسر نقطة unit شمال
 cart تحكم أسر نقطة unit جنوب
-
+رسوم كرتونية
 carve دب flank
 carve لحم
 carve لحم
@@ -6874,7 +6874,7 @@ carving حجر مرئي
 cascade من ebon petals
 cascade من petals
 cascade من roses
-
+نقدا
 
 
 cask من aged dalaran أحمر
@@ -6894,7 +6894,7 @@ cask من peaked dalaran أحمر
 يلقي
 رمية
 ملقي
-
+إلقاء التعويذة
 
 
 قلعة
@@ -6913,7 +6913,7 @@ casual لاعب
 قطة knocked شيء فوق
 قطة تمثال مع emerald عيون
 قطة2
-
+كارثة كبرى
 cataclysm نفس
 
 cataclysm قوةيرمي
@@ -6942,8 +6942,8 @@ catapult range اختبار
 إمساك لهم
 إمساك أنت لاحقاً
 
-
-
+سمك السلور
+كاتدرائية
 catseye إكسير
 
 caught أحد plainshawk
@@ -6955,7 +6955,7 @@ caught في 8k
 caught إيقاف حرس
 caught أحمر handed
 caught أعلى
-
+مرجل
 cauldron deposit فحص
 cauldron diluted تأثير
 cauldron حدث إكمال
@@ -6977,12 +6977,12 @@ cauldron سم فحص
 
 
 
-
+سبب
 cause و تأثير
 
-
-
-
+تسبب
+يسبب
+مسببا
 كاوٍ amber
 كاوٍ دم
 كاوٍ gas
@@ -6996,11 +6996,11 @@ cause و تأثير
 كاوٍ رذاذ
 كاوٍ tar
 كاوٍ tar مسح زعيم تعزيز
-
+يكوي
 cauterize سيد
 cauterize ال جرح
 cauterize جرح
-
+مكوي
 cauterizing نواة
 cauterizing لهب
 cauterizing لهب charges
@@ -7008,7 +7008,7 @@ cauterizing لهب
 cauterizing شعلة
 cauterizing شفاء
 cauterizing ضربة
-
+متحفظ
 كهف
 كهف discovery تفعيل
 كهف انفجار
@@ -7016,7 +7016,7 @@ cauterizing ضربة
 كهف من scrolls رصيد
 كهف-في
 
-
+نعيق
 cayden ambush مهمة رصيد
 
 cc هنا
@@ -7028,13 +7028,13 @@ cc ال adds
 
 
 
-
+يكف
 cease انتقال
 
 
 
 celebration مدة
-
+سرعة البديهة
 
 سماوي alignment
 سماوي شعاع
@@ -7071,7 +7071,7 @@ celebration مدة
 سماوي عاصفة
 سماوي بطولة
 سماوي رياح
-
+السماويون
 
 celestials bonus غنيمة
 celestials دفع غنيمة
@@ -7087,18 +7087,18 @@ cenarion تعويذة
 cenarius مدخل دمية
 cenarius حدث سيد
 censer من أبدي agony
-
+توبيخ
 censure من agony
 censure من أبدي agony
 
 
-
+متمركز
 central لهب حماية درع
 centrifuge نواة سلبي
 centrifuge نواة مرئي
 centrifuge درع
 
-
+متأكد
 
 certificate من ownership
 certified مهملات
@@ -7107,8 +7107,8 @@ cerulean هدية من ال crane
 
 
 
-
-
+قش
+غيظ
 سلسلة
 سلسلة صاعقة
 سلسلة حرق
@@ -7133,14 +7133,14 @@ cerulean هدية من ال crane
 سلسلة فخ
 سلسلة مرئي
 سلسلة مرئي 2
-
+مقيد بالسلاسل
 chained صاعقة
 chained قبضة
 chained شفاء
 chained عقل
 
 chained إلى stables
-
+رشاش
 تسلسل
 تسلسل طبخ
 تسلسل delivering
@@ -7166,9 +7166,9 @@ chained إلى stables
 سلاسل من torture
 سلاسل من woe
 chainsaw نصل
-
-
-
+كرسي
+ترأس
+شاكرا
 chakra استنزاف
 
 chalice من ال جبل kings
@@ -7197,7 +7197,7 @@ challenger's ممر
 
 challenging يصرخ
 
-
+حرباء
 بطل
 بطل من hellscream
 بطل من ramkahen
@@ -7220,7 +7220,7 @@ champion's نمر opal
 
 
 
-
+فرصة
 chance إلى استعادة صحة تشغيل ضرب
 chance إلى استعادة مانا تشغيل spellcast
 تغيير
@@ -7239,9 +7239,9 @@ chance إلى استعادة مانا تشغيل spellcast
 تغيير ال strat
 تغيير2
 تغيير3
-
+تغير
 changed لي عقل
-
+تغييرات
 changing ال subject
 يُقنّن
 توجيه هواء درع
@@ -7373,7 +7373,7 @@ charbroiled نمر steak
 مشحون stormhammer زعيم إيماءة
 مشحون titanium specs
 مشحون لمس
-
+يشحن
 
 charging ox موجة
 charging ox موجة v2
@@ -7415,29 +7415,29 @@ charred أرض
 charred ذئب لحم
 charscale ساق درع
 
-
+مطاردة
 chase أسفل
 chase لهم
-
-
-
+يطارد
+يعاقب
+معاقب
 دردشة
 دردشة فقاعة
 دردشة إيماءة هالة
 دردشة هو ميت
 chaz's اختبار
-
+رخيص
 
 cheap طلقة
 
 cheaper مزيج moves
 cheaper درويد shapeshifting
-
+يغش
 cheat موت
 cheat التقاط
 cheated موت
-
-
+غشاش
+غش
 cheating موت
 فحص
 فحص قتال
@@ -7464,19 +7464,19 @@ cheating موت
 فحص لك mail
 فحص لك messages
 
-
+الدفع
 نقطة تفتيش
-
-
+زقزقة
+هتاف
 cheer أعلى yi-mo تخلٍ
-
-
+مبتهج
+في صحتك
 
 cheese رأس
 
 
 
-
+طاه
 chef's قبعة
 cheiftain ضربة
 chemical قنبلة
@@ -7502,7 +7502,7 @@ chests invisible شعاع
 chewing دم splatters
 chewing خارج
 
-
+تشي
 chi وابل
 chi انفجار
 chi مشروب
@@ -7519,24 +7519,24 @@ chi-ji يأس أشعة تفعيل
 chi-ji يجر
 chi-ji's تحدٍ
 chi-ji's أمل
-
+دجاج
 chicken طعام
 chicken غضب
 chicken يقفز
 
 chicken شبكة
 chicken آخر
-
+رئيس
 
 chieftain's طوطم حالة
 chieftan's استدعاء
 
 chihozen binono برميل هالة
-
+قضمة الصقيع
 طفل
 طفل من tortolla
 طفل2
-
+طفولي
 
 
 children من deathwing
@@ -7576,8 +7576,8 @@ children's أسبوع قوة سيد إلى إلقاء
 قارس موجة
 قارس رياح
 قارس words
-
-
+قشعريرة
+بارد قليلا
 chimaeron قدرات
 chimaeron التحام هجمات
 chimera طلقة
@@ -7587,25 +7587,25 @@ chimeric قفازات
 chimeric سروال
 chimeric صدرية
 
-
+صيني
 
 
 chirping صندوق
 chiseling شعاع
 
-
+كلوروفورم
 
 cho's انفجار
 
 cho's يد مدفع
 cho's teapot سيد
 
+شوكولاتة
 
 
 
 
-
-
+جوقة
 choke 'em خارج
 خنق
 خنق سحابة
@@ -7643,13 +7643,13 @@ choose روح
 
 
 
-
+يقطع
 
 chop شجرة
-
+لازمة
 chosen من elune
 chosen واحد
-
+عيد الميلاد
 chromatic فوضى
 chromatic عباءة
 chromatic قفازات
@@ -7684,7 +7684,7 @@ chum ال ماء
 
 churning أرض مرئي
 churning stomach حمض
-
+تشاو
 
 cinder نصل
 
@@ -7700,14 +7700,14 @@ cindercloth رداء
 cindercloth صدرية
 
 cindergut حرق
-
+جمر
 
 cinderslither هالة
 
 cinderweb cocoon ضرر
 cinderweb بيضة hatch
 
-
+سينما
 cinematic - عقل تحكم
 cinematic مؤقت
 
@@ -7722,7 +7722,7 @@ cintron-infused ضمادة
 دائرة هدف
 circlet من غامض قوة
 
-
+سيرك
 
 cities في غبار
 
@@ -7732,7 +7732,7 @@ citrine خاتم من rapid شفاء
 مدينة
 مدينة هجمات مدافع onspawn
 ck line ضرر اختبار
-
+ادعاء
 claim beach جانب real estate
 
 claiming مياه
@@ -7740,11 +7740,11 @@ clam شريط
 
 
 
-
-
+عشيرة
+يصفق
 clap 'em في irons
-
-
+صفق
+اشتباك
 فئة
 فئة رصيد تأثير
 فئة dismissed
@@ -7756,7 +7756,7 @@ clap 'em في irons
 فئة training رصيد دوري
 
 
-
+زميل الدراسة
 
 مخلب
 مخلب و rake ضرر bonus
@@ -7917,14 +7917,14 @@ cleanup كاوٍ tar
 
 
 
-
+إلقاء مجاني
 clearcasting تفعيل
-
+تم مسحه
 cleared لـ انتقال
 cleared هذا room
 clearing محتوى
 clearing إلى زعيم
-
+بوضوح
 clearly ال الأفضل
 clearly ال الأسوأ
 ينظفمهمة
@@ -7939,8 +7939,8 @@ cleave تفعيل
 cleaver رمي
 
 clefthide ساق درع
-
-
+رأفة
+يشد
 
 clever ashyo's شفاء كرة
 
@@ -7952,7 +7952,7 @@ cleverly disguised خلل
 ينقر إلى ركوب تفعيل
 
 
-
+نهاية مشوقة
 cliffwalker نار
 cliffwalker post مرحلة مهمة 05
 cliffwalker post مرحلة مهمة 06
@@ -8017,7 +8017,7 @@ cloaked peeps مرئي هالة
 
 
 cloaking chicken عباءة
-
+يضرب بقوة
 
 
 clockwork صندوق
@@ -8053,12 +8053,12 @@ clone تحويل prep
 مغلق recruitment
 مغلق tesseract تأثير
 
-
+إغلاق
 closing ال بوابة
 قماش
 
 
-
+تخثر
 سحابة
 سحابة هالة
 سحابة انفجار
@@ -8079,17 +8079,17 @@ clouded عقل
 clouded انعكاس
 سحابةضربة
 cloudstrike عائلة خوذة
+غائم
 
 
 
 
 
-
-
-
+مهرج
+نادي
 club صدمة
-
-
+مضروب بالهراوة
+جاهل
 clump فحص
 clumsy طلقة
 
@@ -8105,8 +8105,8 @@ clutch يلعب
 clutches من شر
 co-مبالغ في قوته
 
-
-
+يتخثر
+يندمج
 
 coalescing ظلال
 
@@ -8143,7 +8143,7 @@ cobalt هيكل عظمي مفتاح
 
 cobalt triangle درع
 cobalt حرب talbuk
-
+كوبرا
 cobra فرخ
 cobra طلقة
 cobra ضربة
@@ -8152,11 +8152,11 @@ cobrahide ساق درع
 cobrahn أفعى شكل
 cobrascale قفازات
 cobrascale غطاء
-
-
-
-
-
+ديك
+ببغاء الكوكتيل
+شرنقة
+في شرنقة
+رمز برمجي
 قهوة
 قهوة كسر
 صندوق تفعيل مرئي
@@ -8179,7 +8179,7 @@ coilfang متعقب سلبي
 عملة من serendipity
 عملة sparkle
 عملة رمي
-
+بالصدفة
 بارد
 بارد يُنقي
 بارد عين
@@ -8208,7 +8208,7 @@ coliseum 5 ملقيحلية
 coliseum 5 معالج حلية
 coliseum 5 التحام حلية
 coliseum 5 دبابة حلية
-
+انهيار
 collapse تشغيل دبابة
 collapsing كهف
 
@@ -8245,9 +8245,9 @@ collecting أسود دم من yogg-saron
 
 collecting strange خام
 collection إكمال
-
+تصادم
 collosal تعطل
-
+كولونيا
 cologne محصن
 cologne دوري هالة
 
@@ -8255,7 +8255,7 @@ cologne دوري هالة
 
 color لي impressed
 
-
+ملون زاه
 
 
 
@@ -8294,7 +8294,7 @@ column من رعد
 قتال valor
 قتال جرح حرج
 
-
+يجمع
 combine blueprint أجزاء
 
 combine جوهر
@@ -8316,8 +8316,8 @@ combining untainted أرواح
 مزيج نقاط
 مزيج لكمة
 combobulating رذاذ
-
-
+يحترق
+قابل للاشتعال
 
 combustion صدمة
 combustion دوري
@@ -8331,11 +8331,11 @@ combustion دوري
 يأتي مع لي
 يأتيللخلف
 يأتيللخلف kings
+كوميديا
 
+مذنب
 
-
-
-
+مريح جدا
 
 comfortable جلد قبعة
 comfy raccoonskin قبعة
@@ -8355,7 +8355,7 @@ commandeered مدفع تأثير
 commander وقوف جاهز
 commanders' قوة
 commanding يصرخ
-
+تعليق قصير
 
 
 
@@ -8369,24 +8369,24 @@ commune مع ال ancestors
 communication كسرأسفل
 communication broke أسفل
 communication هو مفتاح
-
+القربان
 communique - استدعاء another هدف
 
-
+تشكيلة
 
 compact harvest reaper عدة
-
+مضغوط
 رفيق
 رفيق دردشة تعويذة
 رفيق دوري شفاء
 
+يقارن
 
-
-
-
+بوصلة
+مضطر
 
 compelling vision جزء 02
-
+تنافسي
 
 يُكمل
 إكمال alterac valley يومي مهمة
@@ -8422,12 +8422,12 @@ completed تجربة
 إتمام حدث - التحالف
 إتمام حدث - الحشد
 
-
-
+تكوين
+تسميد
 compound عين
-
-
-
+يضغط
+حل وسط
+حاسوب
 
 
 
@@ -8438,8 +8438,8 @@ concealing ضباب
 
 
 concentration هالة
-
-
+قلق بشأن
+حفل موسيقي
 
 conclusion مؤقت هالة
 concoction صدمة
@@ -8456,15 +8456,15 @@ concussive دوس
 concussive ضربة
 concussive رمي
 concussive موجة
-
-
-
+إدانة
+تكثف
+يكثف
 
 
 condesned مانا powder
 conductive درع
 conductive ماء
-
+موصلية
 conduit مستوى
 conduit تحميل زائد
 conduit إلى ال روح مملكة
@@ -8475,23 +8475,23 @@ conduit إلى ال روح مملكة
 مخروط من برق
 مخروط تعويذة
 cones مكسور
-
-
+يعترف بذنبه
+اعتراف
 confessor إنجاز
 confessor's سخط
 confidence من kros
-
+واثق
 ضبط
 
 configure siege - نظيف أعلى
-
+يؤكد
 
 confirmation prompt تفعيل
 
-
+يشعل
 conflagrate ذاتي نشاط عشوائي
 conflagrated سلاح
-
+حريق هائل
 conflagration انفجار
 confounding ضربة
 confounding لهب
@@ -8555,7 +8555,7 @@ conjuring طعام
 conjuring ماء
 
 connected مملكة
-
+اتصال
 
 connector ميت
 conqueror يصرخ bonus
@@ -8565,28 +8565,28 @@ conquest من ال ancients
 conquest نقاط
 
 consecrated سلاح
+تكريس
 
-
-
+وبالتالي
 conservator's قبضة
 conservatory انتقال
 
-
-
+متسق
+وحدة تحكم
 constant رونة
 constellation مرحلة تأثير
 constellation مرحلة تفعيل
 
-
-
+دستور
+يضيق
 constricting سلاسل
 
-
+تضيق
 constriction طوطم هالة
 
 
 
-
+يبني
 construction شريط movement
 construction سحابة
 التهام
@@ -8636,12 +8636,12 @@ construction سحابة
 
 consumption تأثير
 consumption دوري
-
+اتصال مباشر
 
 contagion من rot
 container من rats
 containment شعاع
-
+تأمل
 
 contender's dragonscale حزام
 contender's dragonscale حذاء
@@ -8712,8 +8712,8 @@ contender's wyrmhide أكتاف
 محتوى خالق
 محتوى drought
 
-
-
+سياق
+قارة
 استمر
 contributing لا شيء
 تحكم
@@ -8755,7 +8755,7 @@ convalescence من رياح
 conversing مع anduin
 
 conversion شعاع
-
+يحول
 convert رونة اختبار
 convert إلى لعبة وقت
 convert إلى ذهب
@@ -8801,14 +8801,14 @@ cookie's قبعة
 برود
 
 تهدئة أعلى
-
+مبرد
 cooling نفس
 cooling أسفل
 cooling إيقاف
 
-
+ينسق
 coordinate أفضل
-
+يتأقلم
 cope و seethe
 
 نحاس
@@ -8860,14 +8860,14 @@ corehound حذاء
 corlok's جمجمة وابل
 corlok's جمجمة وابل knockdown
 
-
-
+ركن
+محاصر في الزاوية
 cornish rex قطة
 coronet من verdant لهب
+عريف
 
 
-
-
+جسدية
 جثة انفجار
 جثة انفجار
 جثة انفجار
@@ -8878,7 +8878,7 @@ coronet من verdant لهب
 جثة عنكبوت web ظهور
 جثة انتقال
 جثة worm bait
-
+صحيح
 correct يشرب
 correct وقت period
 
@@ -8888,7 +8888,7 @@ corrode لحم
 corroded عقل
 corroded saronite حافة
 
-
+تآكل
 أكّال حمض
 أكّال حمض نفس
 أكّال حمض بصق
@@ -9263,7 +9263,7 @@ cosmic سحق
 cosmic سحق مرئي حالة
 cosmic ضربة
 costs أحد ذراع و أحد ساق
-
+سعال
 
 could يكون أفضل
 could يكون أسوأ
@@ -9288,34 +9288,34 @@ countdown إلى سحب
 مضاد طلقة
 مضادهجوم
 مضاد돌진
-
+تم التصدي له
 مضادالتقاط
 مضادتعويذة
 مضادضربة
+بلد
 
 
-
-
+قسيمة
 
 
 course خريطة
 court من عظام مرحلة shift
 court من عظام prep
-
+ابن عم
 
 cover ال معالج
 covered في watermelon
 covering أنت
 بقرة
 بقرة innards visible
-
+جبان
 coward's طريق خارج
-
-
+جبن
+الجبن
 cowardly citizen تفعيل
 cowardly طيران
 cowardly peasant تفعيل
-
+يرتعد
 cower في خوف
 cowering زئير
 coyote روح depawn هالة
@@ -9330,12 +9330,12 @@ cpu في 100
 
 crab توهج
 crab فخ مرئي
-
+سرطانات
 
 
 crack طلقة
 crack ال whip
-
+متصدع
 cracked بلورة قارورة
 cracked أرض مرئي
 cracked mogu رونةحجر
@@ -9388,7 +9388,7 @@ cracking حجر
 ماكر تعويذة
 ماكر نمر opal
 ماكر vermilion onyx
-
+حشو
 
 
 cranberry خادم
@@ -9409,7 +9409,7 @@ crane's بركة
 تعطل
 تعطل من غضب
 تعطل من أمواج
-
+تحطم
 
 crashin' thrashin' racer متحكم
 
@@ -9429,7 +9429,7 @@ crashing أمواج
 صندوق مرئي
 
 crates قتل رصيد
-
+خسيس
 crawler لغم
 crawler لغم انفجار
 crawler لغم متحكم دوري
@@ -9452,7 +9452,7 @@ crazy alchemist's جرعة
 crazy مانا تجديد
 
 
-
+كريمة
 إنشاء
 إنشاء aberration
 إنشاء مسخ
@@ -9890,7 +9890,7 @@ crazy مانا تجديد
 إنشاء zul's هالة
 إنشاء2
 إنشاءطوطم
-
+مبدع
 خالق إلقاء يرى خفي
 خالق ركوب shark
 خالق يرى خفي
@@ -9923,8 +9923,8 @@ crazy مانا تجديد
 رصيد بطاقة
 رصيد لـ arresting slaghammer
 رصيد أين رصيد هو due
-
-
+يزحف
+زاحف
 creeper بيضة
 creeper بيضة anim replace عدة
 
@@ -9945,14 +9945,14 @@ creepy صندوق يجد هدف
 creepy صندوق إمساك
 creepy صندوق سلبي
 
-
-
+يحرق الجثة
+حرق الجثث
 
 crescendo من suffering
 crest من retribution
 طاقم
-
-
+جريمة
+قرمزي
 crimson حمض
 crimson نفي
 crimson دم من shu'ma
@@ -9989,12 +9989,12 @@ crimson شمس
 crimson جدار
 crimson ماء strider
 
+محرج جدا
 
 
 
 
-
-
+يشل
 cripple حالة
 crippling عض
 crippling ضربة
@@ -10021,7 +10021,7 @@ criteria إكمال
 
 
 
-
+مخلوق صغير
 critter عض
 
 
@@ -10029,7 +10029,7 @@ critter عض
 critter-killer هجوم
 
 
-
+تمساح
 
 
 
@@ -10037,7 +10037,7 @@ critter-killer هجوم
 crocolisk ينام
 
 crocolisk تحويل
-
+صليب
 
 cross خريطة
 cross فوق
@@ -10045,11 +10045,11 @@ cross مملكة
 cross خادم
 cross ذاك جسر
 cross عبر
-
-
+قوس ونشاب
+أقواس ونشاب
 crossed فوق
-
-
+يقرفص
+غراب
 
 
 crow سرعة
@@ -10074,10 +10074,10 @@ crude rubbing عدة
 
 
 
+قاس
 
-
-
-
+رحلة بحرية
+متداع
 crumbling قوس
 
 crumbling حجر
@@ -10099,7 +10099,7 @@ crusader's spire انتصار
 crusader's أبيض warhorse
 crusader's سخط
 
-
+يسحق
 crush درع
 
 crush تفعيل
@@ -10142,7 +10142,7 @@ crusher's استدعاء
 صرخة من ال ميت
 صرخة من ال سماء
 صرخة خارج في يأس
-
+بكاء
 
 
 crying في هذا
@@ -10153,7 +10153,7 @@ cryomatic 16 تجميد lens
 
 crypt scarab سرب
 
-
+عملة مشفرة
 بلورة
 بلورة امتصاص توجيه
 بلورة barbs
@@ -10222,7 +10222,7 @@ crystalized مانا residue
 بلوري اندفاع
 بلوري tangler
 بلوري tether
-
+يتبلور
 متبلور هواء
 متبلور أرض
 متبلور نار
@@ -10276,7 +10276,7 @@ cultivate packet من seeds
 cultivated قوة
 
 عضو أنثى
-
+كوب
 cup من kafa
 cupid's سهم
 
@@ -10294,14 +10294,14 @@ cured متوسط يختبئ
 cured rugged يختبئ
 cured thick يختبئ
 
-
+فضولي
 curious bronze وقتقطعة
 curious oracle فرخ
 
 
 curling أسود cord
 curling دخان
-
+عجوز نكد
 
 current ميتا
 current حالة من ال لعبة
@@ -10405,7 +10405,7 @@ curruption من حرب نظيف-أعلى
 ملعون إلى يكون سيء
 ملعون veil
 ملعون vision من sargeras
-
+لعنات
 curtain استدعاء
 curtain من صقيع حالة
 custodian من وقت
@@ -10417,7 +10417,7 @@ custom 08 حالة
 custom صدمة 06
 custom صدمة 07
 custom يمشي
-
+جمارك
 
 
 cut و dry
@@ -10431,7 +10431,7 @@ cut scrap معدن
 cut ال شفاء
 cut إلى أسود
 cut إلى ال chase
-
+تقليل الوقت
 
 
 cutter laser هدف
@@ -10439,10 +10439,10 @@ cutting حافة
 cutting it إغلاق
 
 
-
+سماوي
 cyanigosa تحويل
 
-
+ركوب الدراجات
 
 إعصار
 إعصار عدوان
@@ -10467,7 +10467,7 @@ cyrukh نار عدة
 
 d'uuurps تجميلي
 
-
+أبي
 dadanga's بركة
 
 daedalian أجنحة
@@ -10477,9 +10477,9 @@ daedalian أجنحة
 خنجر ضربة iv
 خنجر ضربة v
 خنجر رمي
+خناجر
 
-
-
+المهام اليومية
 يومي
 يومي مهمة
 
@@ -10521,7 +10521,7 @@ dalaran sewers حيوان أليف انتقال
 ضرر اختبار
 أضرار
 ضرر
-
+متضرر
 damaged مبنى مكافأة
 damaged diving خوذة
 damaged تهديد copy
@@ -10532,7 +10532,7 @@ damaging tunnel bore عظم سلبي
 
 dampen harm تجميلي
 dampen سحر
-
+تخميد
 dampening حقل
 dampening موجة
 damsel بواسطة ال shore قتل رصيد
@@ -10563,7 +10563,7 @@ dancing فولاذ
 
 
 danger أمام
-
+خطير
 dangerous ماء
 dangle بري carrot
 
@@ -10754,7 +10754,7 @@ darkbrand أكتاف
 داكنمشروب lager
 darkcrest taskmaster حي
 
-
+يظلم
 
 
 
@@ -10849,12 +10849,12 @@ darting carp موت
 darting لهب
 darting فرخ
 
-
+اندفاع
 
 
 dash n' قتل
 dash من spice
-
+أنيق
 
 dashing ضربة
 dashing ضربة لا مستخدم
@@ -10864,13 +10864,13 @@ dashing ضربة حماية
 بيانات miner's delight
 بيانات scan
 بيانات stream
-
-
+قديم الطراز
+ابنة
 daughter من لهب
 daunting هدير
 
 
-
+هيا بنا
 فجر
 فجر treaders
 dawn's زهرة conversation starter 1
@@ -10889,10 +10889,10 @@ dawnsteel أكتاف
 يوم واحد
 يوم واحد لاعب
 يوم2
-
+الفجر
 أيام
-
-
+النهار
+دوار
 daze مناعة
 daze مناعة إلغاء
 daze ذاتي
@@ -10900,7 +10900,7 @@ daze ذاتي
 dazed - avenger's درع
 dazed و محتار
 dazing درع
-
+مبهر
 dazzling دمار
 dazzling دمار متعقب مرئي
 dazzling دمار استدعاء
@@ -10922,10 +10922,10 @@ deactivate الجميع anvils
 deactivate قوة حقل
 deactivate ليل جني قمر بلورة
 
-
+معطل
 deactivated ظهور معالج
 deactivated turret موت إبلاغ
-
+يعطل
 deactivating قوة source
 ميت
 ميت و buried
@@ -10952,9 +10952,9 @@ deactivating قوة source
 ميت منطقة
 ميت-eye's intuition
 ميت
-
-
-
+يخدر
+قناص
+موعد نهائي
 مميت حمض
 مميت تصويب
 مميت ametrine
@@ -11008,7 +11008,7 @@ deactivating قوة source
 
 ميتريح web
 ميتمنطقة
-
+مصاب بالصمم
 deafening عواء
 deafening زئير
 deafening صرخة
@@ -11111,7 +11111,7 @@ death's دفع
 deathblade صاروخ وابل
 deathblood سم
 موتإزهار
-
+ضربة قاضية
 
 موتصاعقة
 
@@ -11164,7 +11164,7 @@ deathwing's جدار من نار
 
 debatably أفضل
 
-
+يضعف
 debilitating شعاع
 debilitating اندفاع
 
@@ -11176,7 +11176,7 @@ debilitating لمس
 debilitating سم
 
 debit بطاقة
-
+حطام
 إضعاف
 إضعاف الجميع resist
 إضعاف expired
@@ -11186,16 +11186,16 @@ debit بطاقة
 إضعاف spam اختبار
 إضعاف uber شفاء فوق وقت
 يُضعف
-
-
+مضعف
+تصحيح الأخطاء
 debug - هالة حالة عدة خلل
 debug - console يكتب
 debug إنشاء samophlange manual
-
+يقطع الرأس
 decapitating لكمة
 decapitating ضربة
 
-
+قطع الرأس
 
 
 decay لحم
@@ -11206,13 +11206,13 @@ deceitful انفجار
 deceptively سهل
 deceptively صعب
 
-
+يهلك
 decimate حالة
 decimating ضربة
-
+هلاك
 decimation نصل
-
-
+يفك الشفرة
+قرار
 deck نار
 deck نار ضرر دوري
 deck نار ظهور
@@ -11221,16 +11221,16 @@ deck من trades
 
 declined ال يدعو
 declined ال إحياء
-
-
-
+فك التشفير
+يتحلل
+تفكيك
 decontaminate مرحلة 1
 decontaminate مرحلة 2
 decontaminate مرحلة 3
-
+إزالة التلوث
 
 decoy متفجر
-
+انخفاض
 decrease مانا cost - غامض
 decrease مانا cost - نار
 decrease مانا cost - صقيع
@@ -11243,7 +11243,7 @@ decree من ال مظلم lady
 
 
 
-
+فك تشفير
 
 
 عميق
@@ -11344,8 +11344,8 @@ defiant و غاضب
 
 defias برج ii
 defias برج iii
-
-
+إنعاش القلب
+يدنس
 
 defiled أرض
 defiling هالة
@@ -11354,7 +11354,7 @@ defiling هالة
 definitely الأخير لعبة
 
 deflecting رياح
-
+انحراف مسار
 deforestation رصيد
 
 deft جمرة topaz
@@ -11364,16 +11364,16 @@ deft ضخم citrine
 
 deft نمر opal
 
-
-
+منحط
+تنكس
 degenerative عض
-
-
+تدهور
+درجة
 degreelessness وضع
 
 
 
-
+مجفف
 تأخير
 تأخير هالة
 تأخير مؤقت
@@ -11386,7 +11386,7 @@ degreelessness وضع
 delete initial سلاح
 
 delete ال لعبة
-
+محذوف
 deleted من ال خادم
 رقيق arcanite converter
 رقيق دم garnet
@@ -11407,7 +11407,7 @@ deleted من ال خادم
 رقيق scarlet ruby
 رقيق serpent's عين
 رقيق sound من رعد رصيد
-
+لذيذ
 delicious هالة
 
 delicious سمكة
@@ -11416,7 +11416,7 @@ delicious roasted خنزير بري
 
 
 
-
+هاذي
 delirious شق
 
 
@@ -11436,20 +11436,20 @@ delora صراخ exclusion 1
 delora صراخ exclusion 2
 delora صراخ exclusion 3
 delora صراخ exclusion 4
-
+طوفان
 deluge هالة إلغاء
 deluge من ظل
-
+واهم
 delusions من jin'do
 
 deluxe noodle cart عدة
 
-
+يتلاشى
 dematerialize درع
-
+خرف
 demo يصرخ sensor
-
-
+ديمقراطية
+يهدم
 demolish درع
 
 demolisher مدفع
@@ -11554,15 +11554,15 @@ demolisher طلقة
 demonology معالج أسود
 شياطين deck
 شياطين من ال past
-
+يحبط
 demoralizing راية
 
 demoralizing زئير
 demoralizing صرخة
 demoralizing يصرخ
+خفضت رتبته
 
-
-
+يشجب
 كثيف blasting powder
 كثيف dynamite
 كثيف embersilk ضمادة
@@ -11571,16 +11571,16 @@ demoralizing يصرخ
 كثيف حجر تمثال
 كثيف weightstone
 dented درع من horuz killcrow
+طبيب أسنان
 
-
-
+مغادرة
 
 dependable ضرر
 
 
-
+يستنزف
 deplete ال مفتاح
-
+مستنزف
 depleted طوطم رصيد
 depleted-kyparium صاروخ
 
@@ -11600,8 +11600,8 @@ depositing أدغال hops
 depositing liquid نار
 depositing روح-kissed ماء
 
-
-
+مكتئب
+اكتئاب
 
 depth اندفاع
 depth اندفاع countdown نبض
@@ -11609,33 +11609,33 @@ depth اندفاع تفجير
 deputize agent من nozdormu
 deputy clunky قوة إلقاء
 der'izu تركيز
-
+خرج عن مساره
 
 dertrok عقل تحكم
-
-
+إزالة التشبع
+ينزل
 descent إلى madness انتقال
 
-
-
-
+وصف
+يدنس المقدسات
+مدنس
 
 desecrated أرض
 desecrated زيت
 desecrated سلاح
-
+تدنيس
 desecration ذراع
 
 deselect ذاتي
 صحراء
 صحراء ثعلب interact
-
-
+هارب من الخدمة
+يجفف
 designate هدف
 
+يكف عن
 
-
-
+خراب
 يأس
 يأس stricken
 اختفاء
@@ -11727,7 +11727,7 @@ Despawn Summons
 اختفاء xuen
 اختفاء yu'lon
 اختفاء zeppelins
-
+يائس
 desperate ضربة
 
 
@@ -11736,15 +11736,15 @@ desperate غضب
 
 desperate سرعة
 desperate وقوف
+رغم
 
-
-
+حلوى
 dest غبار انفجار
+زعزعة الاستقرار
 
+يزعزع
 
-
-
-
+مزعزع
 
 
 
@@ -11838,7 +11838,7 @@ destroying لهم
 مدمر تعويذة قتل رصيد
 مدمر تعويذة powerup
 
-
+تفصيل
 
 تفاصيل
 detained cultist رصيد
@@ -11876,13 +11876,13 @@ detaunt اختبار
 detected نبض
 كشف
 كشف تأثير
+يتدهور
+عزيمة
 
 
 
 
-
-
-
+ردع
 deth معدن
 deth ضربة
 تفجير
@@ -11903,7 +11903,7 @@ detonating رونة stones
 تفجير سيد
 تفجير مهمة رصيد
 تفجير sequence
-
+تخلص من السموم
 
 
 مدمر قوس
@@ -11916,7 +11916,7 @@ detonating رونة stones
 مدمر thrust
 
 devastation تفعيل
-
+يطور
 devestating ضربة
 devestating سحق
 deviate سمكة
@@ -11936,7 +11936,7 @@ devilsaur سن
 devilsaur's دوس
 devious عقل
 
-
+إخلاص
 devotion درع increased
 devotion هالة
 التهام
@@ -11949,7 +11949,7 @@ devotion هالة
 التهام murloc
 التهام ماء
 التهام ريح
-
+مفترس
 devoured بواسطة لهب
 
 التهام creep
@@ -11959,15 +11959,15 @@ devoured بواسطة لهب
 التهام طاعون
 
 dew من أبدي صباح
+بارع
 
-
-
-
+سكري
+ديابلو
 
 
 
 diagonal slide تأثير
-
+حوار
 
 
 
@@ -11983,11 +11983,11 @@ diamond علامة
 diamond خاتم
 diamond روح
 
-
+إسهال
 قضيب
 قضيبرأس
-
-
+يملي
+ديكتاتورية
 فعل
 فعل أي أحد يموت هناك
 فعل لا
@@ -12009,7 +12009,7 @@ didn't يعمل قبل
 مات afraid
 diemetradon عواء
 
-
+نظام غذائي
 
 
 
@@ -12020,7 +12020,7 @@ different حالة
 
 
 صعب
-
+صعوبة
 diffuse سحر
 
 diffusion سلسلة
@@ -12059,7 +12059,7 @@ digging عبر ال debris
 
 dilute آفة cauldron
 diluted ethereum جوهر
-
+خافت
 dim location دوري
 
 
@@ -12071,19 +12071,19 @@ dimensional ripper - منطقة 52
 
 dimensional سحب
 
-
+يتضاءل
 diminish قوة
 diminish روح
 diminsh قوة
 
 dinah دمية تعويذة
 dingy wizard قبعة
-
+عشاء
 dinner وقت
 dino شكل
 dino لحم رصيد
 
-
+دبلوماسية
 diplomatic مناعة
 dire وحش
 dire وحش تركيز driver
@@ -12110,10 +12110,10 @@ direhorn اندفاع صدمة
 direhorn سلبي
 direhorn سلبي تأثير
 
-
+رثاء
 
 dirk's rememberin' سم
-
+تراب
 dirt انفجار
 dirt في لك عيون
 dirt mound deposit فحص
@@ -12150,12 +12150,12 @@ disabling نصال
 disabling صدمة
 disabling سم
 disabling transporter مهمة رصيد
-
-
+عيوب
+لا أوافق
 disallow شيطاني دائرة استدعاء
-
-
-
+يختفي
+خائب الأمل
+مخيب للآمال
 نزع سلاح
 نزع سلاح قنبلة bot
 نزع سلاح مدة reduction
@@ -12165,7 +12165,7 @@ disallow شيطاني دائرة استدعاء
 نزع سلاح درع اختبار
 نزع سلاح اختبار
 نزع سلاح فخ
-
+منزوع السلاح
 disarming لهيب
 disarming غضب
 disarming غضب تأثير
@@ -12179,28 +12179,28 @@ discharged طاقة
 disciple من elune خفاء q1
 
 
-
-
+انضباط
+منضبط
 disciplined ملقي
 disciplined قوة
 disciplines excluded هالة
 
 disco كرة
 discolored شفاء جرعة
-
+يربك
 discombobulator شعاع
 انقطاع
-
+منقطع
 disconnected مجدداً
 disconnected من خادم
-
+خلاف
 discordant اندفاع مرئي
-
-
-
+خصم سعر
+يكتشف
+مكتشف
 discreet سحر
 
-
+ازدراء
 مرض
 مرض نفس
 مرض buffet
@@ -12219,18 +12219,18 @@ discreet سحر
 diseases ساقط
 diseases ساقط إيقاف
 disembodied jormungar قتل رصيد
-
+فك السحر
 disenchant مرئي
-
-
-
-
+ينسحب
+ينفصل
+فك الارتباط
+ساخط
 disgruntled غضب
 
 
-
-
-
+اشمئزاز
+مشمئز
+مقرف
 
 
 disheartening ضربة ii
@@ -12238,19 +12238,19 @@ disheartening ضربة iii
 disheartening ضربة iv
 disheartening ضربة v
 
-
-
-
+مخز
+محبط
+تفكك
 disintegration شعاع
 disintegration شعاع precast
 
-
-
-
+انفصال
+يكره
+يفكك
 dismantle درع
 dismantled درع
-
-
+يقطع الأوصال
+تقطيع
 dismembering جثة
 يُصرف
 يُصرف gargoyle
@@ -12259,7 +12259,7 @@ dismembering جثة
 يُصرف orphaned mammoth
 يُصرف حيوان أليف
 يُصرف رونة سلاح
-
+يترجل
 dismount دب
 
 
@@ -12274,12 +12274,12 @@ dismounting انفجار
 dismounting ضربة
 dismounting طلقة
 
-
-
+يضلل
+مشوش
 disorienting زئير
 disorienting صراخ
 disorienting سحق
-
+إرسال
 يُبطل
 تبديد 2
 تبديد blizzard
@@ -12299,18 +12299,18 @@ disorienting سحق
 تبديد فخ
 dispell دمسن
 
+تفريق
+يفرق
 
-
-
-
+متفرق
 
 dispersion قنبلة مرئي
 
 dispersion مرئي
-
+يزيح
 
 displaced طاقة
-
+إزاحة
 
 
 displacer وحش
@@ -12323,7 +12323,7 @@ displacer وحش spree هالة
 عرض transport globe
 عرض young ironjaw
 dispose من حارس
-
+يعطل سير
 disrupt مظلم conclave ritual
 disrupt بوابة
 disrupt سحر
@@ -12338,20 +12338,20 @@ disrupting ال قطعة أثرية
 
 disruption شعاع
 disruptor انفجار
-
-
-
+أطروحة
+يتبدد
+تبدد
 dissolve درع
 dissolve خام
 dissonance حقل
-
+مسافة
 
 distant لهب
 distillation إكمال
 
 
 distortion قنبلة
-
+يشتت
 distract شيطان صاروخ
 distract شياطين 2
 distract شياطين stationary
@@ -12360,7 +12360,7 @@ distract اختبار
 
 distract-o-matic 9000 - عظم مرئي
 distract-o-matic 9000 نظيف أعلى
-
+مشتت الذهن
 distracted بواسطة
 distracted يمين الآن
 
@@ -12368,7 +12368,7 @@ distracting عملة
 
 distracting طلقة
 distracting بصق
-
+تشتيت
 distraction مرئي
 distribute غنيمة
 
@@ -12424,12 +12424,12 @@ diving اكتساح
 
 divining مخطوطة تعويذة
 
-
-
-
-
-
-
+ألوهية
+قسمة
+انقسام
+طلاق
+دوخة
+دائخ
 
 dizzying haze تجميلي
 
@@ -12491,7 +12491,7 @@ docks راية neutral ينقر
 docks حارس نقطة tracker هالة
 طبيب
 
-
+فيلم وثائقي
 يتحاشى
 مراوغة للخلف
 مراوغة اندفاع
@@ -12533,15 +12533,15 @@ does هذا نقابة غارة
 doggie diving خوذة
 dogs hate لي
 dogs إلى location
+يفعل الآن
 
 
 
+دلفين
+يروض
 
 
-
-
-
-
+مهيمن
 dominant عقل
 
 dominate مخلوق
@@ -12549,7 +12549,7 @@ dominate شيطان
 dominate عظيم shark - triggered
 dominate عقل
 dominate عقل حماية
-
+مسيطر عليه
 dominated باندارين freedom رصيد
 dominating ضربة
 

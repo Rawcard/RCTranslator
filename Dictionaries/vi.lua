@@ -6772,7 +6772,7 @@ chăm sóc
 cẩn thận
 cẩn thận nhắm
 cẩn thận kéo
-
+một cách cẩn thận
 carefully thu thập
 chăm sócít hơn
 caress của cái chết
@@ -6861,7 +6861,7 @@ xe kéo điều khiển
 xe kéo điều khiển chiếm điểm đơn vị đông
 xe kéo điều khiển chiếm điểm đơn vị bắc
 xe kéo điều khiển chiếm điểm đơn vị nam
-
+phim hoạt hình
 khắc gấu bên sườn
 khắc thịt
 khắc thịt
@@ -6874,7 +6874,7 @@ thác nước
 thác nước của ebon petals
 thác nước của petals
 thác nước của roses
-
+tiền mặt
 cash dòng chảy
 
 thùng của già dalaran đỏ
@@ -6942,8 +6942,8 @@ bắt nước tinh thần
 bắt họ
 Gặp lại sau nhé
 
-
-
+cá trê
+nhà thờ lớn
 catseye thuốc tiên
 catseye ultra kính bảo hộ
 bị bắt một plainshawk
@@ -6977,12 +6977,12 @@ vạc purification
 vạc dây thừng
 vạc selector
 vạc stir
-
+nguyên nhân
 cause và hiệu ứng
 
-
-
-
+đã gây ra
+gây ra
+đang gây ra
 ăn da amber
 ăn da máu
 ăn da gas
@@ -7000,7 +7000,7 @@ cause và hiệu ứng
 đốt bậc thầy
 đốt vết thương
 đốt vết thương
-
+đã được đốt
 đốt lõi
 đốt ngọn lửa
 đốt ngọn lửa điện tích
@@ -7008,7 +7008,7 @@ cause và hiệu ứng
 đốt pháo sáng
 đốt chữa lành
 đốt đòn đánh
-
+thận trọng
 hang động
 hang động discovery kích hoạt
 hang động vụ nổ
@@ -7016,7 +7016,7 @@ hang động trong
 hang động của scrolls tín dụng
 hang động-trong
 cavernous gầm
-
+quạ kêu
 cayden phục kích nhiệm vụ tín dụng
 
 cc đây
@@ -7028,7 +7028,7 @@ cc adds
 
 
 
-
+chấm dứt
 cease dịch chuyển
 celebras chờ đợi
 Ăn mừng
@@ -7087,12 +7087,12 @@ cenarion bùa hộ
 cenarius lối vào dummy
 cenarius sự kiện bậc thầy
 censer của vĩnh cửu đau đớn
-
+sự khiển trách
 censure của đau đớn
 censure của vĩnh cửu đau đớn
 trung tâm
 trung tâm aoi
-
+ở giữa
 central ngọn lửa bảo vệ khiên
 centrifuge lõi bị động
 centrifuge lõi hình ảnh
@@ -7107,8 +7107,8 @@ cerulean quà của sếu
 cerulean chỉ phép
 chabal's bùa
 
-
-
+trấu
+sự bực bội
 xích
 xích tia sét
 xích đốt
@@ -7140,7 +7140,7 @@ bị xích chữa lành
 bị xích mind
 bị xích sparks
 bị xích đến stables
-
+súng máy
 nối chuỗi
 nối chuỗi nấu ăn
 nối chuỗi delivering
@@ -7166,9 +7166,9 @@ xích của tai họa
 xích của torture
 xích của woe
 chainsaw lưỡi kiếm
-
-
-
+cái ghế
+đã chủ trì
+luân xa
 chakra rút cạn
 chakra dòng chảy
 chalice của núi vua
@@ -7197,7 +7197,7 @@ challenger's đuốc
 Đầy thử thách
 Đầy thử thách hét
 
-
+tắc kè hoa
 nhà vô địch
 nhà vô địch của hellscream
 nhà vô địch của ramkahen
@@ -7241,7 +7241,7 @@ thay đổi2
 thay đổi3
 đã thay đổi
 đã thay đổi của tôi mind
-
+những thay đổi
 changing subject
 kênh
 kênh không khí khiên
@@ -7409,7 +7409,7 @@ bùa đá khổng lồ
 bùa sully
 bùa taylor
 bùa woodland sinh vật
-
+bị mê hoặc
 cháy đen gấu kabobs
 cháy đen đất
 cháy đen sói thịt
@@ -7418,9 +7418,9 @@ charscale chân giáp
 đuổi theo
 đuổi theo xuống
 đuổi theo họ
-
-
-
+đang đuổi theo
+trừng phạt
+bị trừng phạt
 trò chuyện
 trò chuyện bong bóng
 trò chuyện emote hào quang
@@ -7436,8 +7436,8 @@ gian lận
 gian lận cái chết
 gian lận chọn
 cheated cái chết
-
-
+kẻ gian lận
+sự gian lận
 cheating cái chết
 
 check chiến đấu
@@ -7466,17 +7466,17 @@ check của bạn messages
 checking tài khoản
 
 
-
-
+chiếp chiếp
+cổ vũ
 cheer lên yi-mo bỏ rơi
-
-
+vui vẻ
+cạn ly
 phô mai
 phô mai đầu
 phô mai nó
 phô mai chiến thuật
 báo gêpa chạy nước rút
-
+đầu bếp
 chef's mũ
 cheiftain đòn đánh
 hóa chất bom
@@ -7502,7 +7502,7 @@ chests invisible tia
 chewing máu splatters
 chewing ra
 chewy tà ác taffy
-
+khí
 chi loạt đạn
 chi vụ nổ
 chi đồ uống
@@ -7526,13 +7526,13 @@ gà nhảy
 gà vị trí ping
 gà lưới
 gà khác
-
+tù trưởng
 
 chieftain's vật tổ trạng thái
 
 chihozen binono - trang phục
 chihozen binono thùng hào quang
-
+cước
 trẻ em
 đứa trẻ của tortolla
 trẻ em2
@@ -7576,8 +7576,8 @@ lạnh lẽo chạm
 lạnh lẽo sóng
 lạnh lẽo gió
 lạnh lẽo từ
-
-
+ớn lạnh
+se lạnh
 chimaeron kỹ năng
 chimaeron melee đòn tấn công
 
@@ -7587,20 +7587,20 @@ chimera shot - rắn
 chimeric quần
 chimeric áo gi lê
 china đất nước
-
+tiếng Trung
 
 
 chirping hộp
 chiseling tia
 vỏ kitin gai nhọn
-
+thuốc mê cloroform
 
 cho's vụ nổ
 cho's pháo hoa
 cho's tay đại bác
 cho's teapot bậc thầy
 chocking cát
-
+sô cô la
 chocolate lễ kỷ niệm bánh
 chocolate bánh quy
 chocolate mẫu
@@ -7646,10 +7646,10 @@ chọn yalia sagewhisper
 chặt
 chặt shadra
 chặt cây
-
+điệp khúc
 chosen của elune
 chosen một
-
+Giáng sinh
 đa sắc hỗn loạn
 đa sắc cloak
 đa sắc găng tay
@@ -7707,7 +7707,7 @@ cinderweb kén
 cinderweb kén sát thương
 cinderweb trứng hatch
 
-
+rạp chiếu phim
 điện ảnh - mind điều khiển
 điện ảnh đồng hồ
 
@@ -7722,7 +7722,7 @@ vòng tròn của cuộc sống chuẩn bị
 vòng tròn mục tiêu
 circlet của bí ẩn sức mạnh
 circular bão tuyết
-
+rạp xiếc
 citation cần
 cities trong bụi
 citizen trang phục
@@ -7740,10 +7740,10 @@ nghêu thanh
 nghêu chowder
 
 clamshell dải
-
+thị tộc
 vỗ tay
 vỗ tay 'em trong irons
-
+đã vỗ tay
 đụng độ
 lớp
 lớp tín dụng hiệu ứng
@@ -7917,7 +7917,7 @@ clear hoang dã loạt đạn
 
 
 
-
+niệm miễn phí
 clearcasting kích hoạt
 đã dọn
 đã dọn cho dịch chuyển
@@ -7939,8 +7939,8 @@ dao phay bmrglbrm's whale dissection
 dao phay ném
 
 clefthide chân giáp
-
-
+sự khoan hồng
+nghiến chặt
 khôn ngoan
 khôn ngoan ashyo's chữa lành quả cầu
 khôn ngoan plant ngụy trang
@@ -8017,8 +8017,8 @@ cloak biến hình phép thuật 06
 ẩn thân
 ẩn thân gà
 ẩn thân gà cloak
-
-
+nện
+đồng hồ
 
 cơ khí hộp
 cơ khí tiểu yêu
@@ -8052,13 +8052,13 @@ Suýt nữa
 đóng minded
 đóng recruitment
 đóng tesseract hiệu ứng
-
-
+đóng lại
+đóng cửa
 closing cổng
 vải
 
 clothing cửa hàng
-
+đông máu
 mây
 mây hào quang
 mây burst
@@ -8079,7 +8079,7 @@ clouded tác động
 clouded phản chiếu
 mâyđòn đánh
 cloudstrike gia đình mũ giáp
-
+nhiều mây
 
 
 chú hề
@@ -8088,7 +8088,7 @@ chú hề fiesta
 chú hềthế giới
 chùy
 chùy tác động
-
+bị đánh bằng gậy
 Mù tịt
 
 
@@ -8105,7 +8105,7 @@ Gánh vào phút chót
 clutches của tà ác
 
 Huấn luyện viên
-
+đông lại
 
 
 coalescing bóng tối
@@ -8143,7 +8143,7 @@ cobalt bộ xương chìa khóa
 
 cobalt triangle khiên
 cobalt chiến tranh talbuk
-
+rắn hổ mang
 cobra con non
 
 cobra đòn đánh
@@ -8152,11 +8152,11 @@ cobrahide chân giáp
 cobrahn rắn hình dạng
 
 cobrascale mũ trùm
-
-
+gà trống
+vẹt mào
 kén
-
-
+bị bọc kén
+mã nguồn
 cà phê
 Nghỉ giải lao cà phê
 rương kích hoạt hình ảnh
@@ -8179,7 +8179,7 @@ xu của may mắn
 xu của serendipity
 xu lấp lánh
 xu ném
-
+tình cờ
 lạnh
 lạnh thanh tẩy
 lạnh mắt
@@ -8317,7 +8317,7 @@ combo điểm
 combo đấm
 combobulating phun
 
-
+dễ cháy
 đốt cháy
 đốt cháy tác động
 đốt cháy periodic
@@ -8331,11 +8331,11 @@ nào
 đến với tôi
 
 comeback vua
-
+hài kịch
 đến
 sao chổi
 comet's dấu vết
-
+thoải mái
 
 comfortable da mũ
 comfy raccoonskin mũ
@@ -8351,11 +8351,11 @@ lệnh argent skytalon
 lệnh quỷ
 lệnh sự hiện diện
 commandeered đại bác hiệu ứng
-
+chỉ huy
 commander đứng sẵn sàng
 commanders' sức mạnh
 commanding hét
-
+bình luận ngắn
 comment dưới
 commentator's lệnh
 
@@ -8369,21 +8369,21 @@ commune với tổ tiên
 giao tiếp hỏng hóc
 giao tiếp broke xuống
 giao tiếp là chìa khóa
-
+thánh lễ
 communique - triệu hồi khác mục tiêu
 cộng đồng
-
+đội hình
 compact thu hoạch thần chết
 compact thu hoạch thần chết bộ dụng cụ
-
+nén chặt
 đồng hành
 đồng hành trò chuyện phép thuật
 đồng hành periodic chữa lành
 đại đội
 So sánh
 So sánh cổ ngữ
-
-
+la bàn
+bị buộc
 compelling thị giác
 compelling thị giác phần 02
 Mang tính cạnh tranh
@@ -8422,12 +8422,12 @@ hoàn thành check
 hoàn thành sự kiện - liên minh
 hoàn thành sự kiện - bộ lạc
 
-
-
+bố cục
+ủ phân
 compound mắt
-
-
-
+nén
+thỏa hiệp
+máy vi tính
 
 computer Khoa học
 
@@ -8436,9 +8436,9 @@ concealing sương mù
 concentrated quyến rũ perfume đổ
 concentrated irresistible nước hoa đổ
 concentrated đột biến
-
+sự tập trung
 concentration hào quang
-
+quan ngại
 Buổi hòa nhạc
 
 conclusion đồng hồ hào quang
@@ -8456,15 +8456,15 @@ chấn động giẫm
 chấn động đòn đánh
 chấn động ném
 chấn động sóng
-
-
-
+sự lên án
+sự ngưng tụ
+ngưng tụ
 
 
 condesned mana bột
 conductive khiên
 conductive nước
-
+độ dẫn điện
 ống dẫn cấp độ
 ống dẫn quá tải
 ống dẫn đến tinh thần vương quốc
@@ -8475,8 +8475,8 @@ nón của lửa
 nón của sét
 nón phép thuật
 cones vỡ
-
-
+thú nhận
+lời thú tội
 confessor thành tựu
 confessor's cơn thịnh nộ
 confidence của kros
@@ -8485,13 +8485,13 @@ confidence của kros
 configure vây hãm
 configure vây hãm - sạch lên
 
-
+sự xác nhận
 confirmation prompt kích hoạt
 
-
+thiêu đốt
 conflagrate bản thân proc
 conflagrated vũ khí
-
+đám cháy lớn
 conflagration vụ nổ
 confounding cú đánh
 confounding ngọn lửa
@@ -8499,14 +8499,14 @@ bối rối
 bối rối cansis
 bối rối cảm giác
 bối rối quỷ khổng lồ
-
+sự bối rối khó hiểu
 congeal máu
 đông đặc máu
 đông đặc tuyệt vọng
 đông đặc tuyệt vọng hình ảnh
 đông đặc khủng bố
 đông đặc khủng bố hình ảnh
-
+đông đặc
 congealing máu
 chúc mừng
 chúc mừng trên
@@ -8553,7 +8553,7 @@ conjured thức ăn
 conjured nước
 conjuring thức ăn
 conjuring nước
-
+đã kết nối
 connected vương quốc
 kết nối
 Sự cố kết nối
@@ -8565,28 +8565,28 @@ chinh phục của cổ nhân
 chinh phục điểm
 
 consecrated vũ khí
-
+sự thánh hiến
 consecration giảm giá
-
+do đó
 conservator's nắm
 conservatory dịch chuyển
-
+cân nhắc
 
 bảng điều khiển
 constant rune
 constellation giai đoạn hiệu ứng
 constellation giai đoạn kích hoạt
+táo bón
 
-
-
+siết chặt
 constricting xích
 
-
+sự siết chặt
 constriction vật tổ hào quang
 constrictor xúc tu
 cấu trúc chướng ngại
 cấu trúc hittin' ya
-
+đang xây dựng
 xây dựng thanh movement
 xây dựng mây
 tiêu thụ
@@ -8636,12 +8636,12 @@ nuốt chửng gió
 tiêu thụ
 tiêu thụ hiệu ứng
 tiêu thụ periodic
-
+liên lạc
 
 contagion của thối rữa
 container của rats
 containment tia
-
+sự suy ngẫm
 contender's phòng thủ
 
 
@@ -8712,8 +8712,8 @@ nội dung
 Nhà sáng tạo nội dung
 nội dung drought
 
-
-
+ngữ cảnh
+lục địa
 
 contributing không có gì
 điều khiển
@@ -8753,7 +8753,7 @@ controversial chủ đề
 convalescence của gió
 conventional trí tuệ
 conversing với anduin
-
+sự chuyển đổi
 conversion tia
 chuyển đổi
 chuyển đổi rune test
@@ -8801,14 +8801,14 @@ cooldown đặt lại
 đỉnhxuống2
 
 thời gian hồi lên
-
+đã nguội
 cooling hơi thở
 cooling xuống
 cooling tắt
 coolup tát
-
+phối hợp
 coordinate tốt hơn
-
+đương đầu
 cope và seethe
 
 
@@ -8861,13 +8861,13 @@ corlok's hộp sọ loạt đạn
 corlok's hộp sọ loạt đạn knockdown
 
 
-
+bị dồn vào góc
 cornish rex mèo
 coronet của verdant ngọn lửa
-
+hạ sĩ
 Tập đoàn
 corporeal trở về
-
+tính vật chất
 xác chết burst
 xác chết nổ
 xác chết vụ nổ
@@ -9263,7 +9263,7 @@ vũ trụ đập
 vũ trụ đập hình ảnh trạng thái
 vũ trụ đòn đánh
 costs một cánh tay và một chân
-
+ho
 có thể
 Cũng có thể tốt hơn
 Cũng có thể tệ hơn
@@ -9295,27 +9295,27 @@ phản đònđòn đánh
 đất nước
 Nhạc đồng quê
 coup de ân sủng
-
+phiếu giảm giá
 lòng dũng cảm
 
 khóa học map
 tòa án của xương giai đoạn dịch chuyển
 tòa án của xương chuẩn bị
-
+anh em họ
 che
 che người chữa
 covered trong watermelon
 covering bạn
 bò
 bò innards visible
-
+kẻ hèn nhát
 coward's đường ra
-
-
+sự hèn
+sự hèn nhát
 cowardly citizen kích hoạt
 cowardly chuyến bay
 cowardly nông dân kích hoạt
-
+co rúm
 cower trong sợ hãi
 cowering gầm
 coyote tinh thần depawn hào quang
@@ -9342,7 +9342,7 @@ nứt mogu đá cổ ngữ
 nứt vỏ
 cracking cú đánh
 cracking đá
-
+tiếng lách tách
 lách tách ngọn lửa
 lách tách ngọn lửa
 lách tách cơn thịnh nộ
@@ -9388,7 +9388,7 @@ xảo quyệt lava san hô
 xảo quyệt phép thuật
 xảo quyệt hổ opal
 xảo quyệt đỏ son đá mã não
-
+học nhồi nhét
 
 
 cranberry máy chủ
@@ -9429,7 +9429,7 @@ thùng trạng thái
 thùng hình ảnh
 crates mang
 crates giết tín dụng
-
+hèn hạ
 kẻ bò khai thác
 kẻ bò khai thác vụ nổ
 kẻ bò khai thác bộ điều khiển periodic
@@ -9890,7 +9890,7 @@ create zul'drak chuột
 create zul's hào quang
 
 
-
+sáng tạo
 người tạo tung thấy invis
 người tạo cưỡi cá mập
 người tạo thấy invis
@@ -9945,8 +9945,8 @@ rùng rợn thùng tìm mục tiêu
 rùng rợn thùng chộp
 rùng rợn thùng bị động
 rùng rợn hop
-
-
+hỏa táng
+sự hỏa táng
 
 crescendo của đau khổ
 mào của trả thù
@@ -9994,7 +9994,7 @@ ngượng behaviour
 ngượng lords
 ngượng meme
 ngượng worthy
-
+làm tàn phế
 cripple trạng thái
 làm tê liệt cắn
 làm tê liệt cú đánh
@@ -10029,7 +10029,7 @@ sinh vật nhỏ-killer
 sinh vật nhỏ-killer tấn công
 
 croc đồ ăn vặt
-
+cá sấu
 cá sấu au gratin
 cá sấu frag
 cá sấu gumbo
@@ -10045,10 +10045,10 @@ Liên máy chủ
 chéo máy chủ
 chéo rằng cầu
 chéo through
-
-
+nỏ
+những cây nỏ
 crossed trên
-
+ngồi xổm
 quạ
 quạ giảm giá
 quạ tiệc
@@ -10074,9 +10074,9 @@ thô chà xát bộ dụng cụ
 thô phạm vi
 thô hoàng hôn ngụy trang
 thô hoàng hôn ngụy trang 2
-
-
-
+tàn nhẫn
+sự tàn ác
+du thuyền
 vụn nát
 vụn nát cung
 vụn nát ruin
@@ -10153,7 +10153,7 @@ cryomatic 16 đóng băng thấu kính
 crypt bọ hung ghét
 crypt bọ hung bầy đàn
 
-
+tiền điện tử
 pha lê
 pha lê absorb kênh
 pha lê barbs
@@ -10222,7 +10222,7 @@ pha lê giấc ngủ
 pha lê dâng trào
 pha lê tangler
 pha lê dây buộc
-
+kết tinh
 kết tinh không khí
 kết tinh đất
 kết tinh lửa
@@ -10274,7 +10274,7 @@ cult ngụy trang
 kẻ sùng bái mũ trùm
 cultivate packet của hạt giống
 cultivated sức mạnh
-
+canh tác
 lồn
 cốc
 cốc của kafa
@@ -10301,8 +10301,8 @@ tò mò wolvar chó con
 
 curling đen cord
 curling khói
-
-
+ông già khó tính
+tiền tệ
 
 current trạng thái của trò chơi
 curruption của chiến tranh sạch-lên
@@ -10417,7 +10417,7 @@ tùy chỉnh error
 tùy chỉnh tác động 06
 tùy chỉnh tác động 07
 tùy chỉnh đi bộ
-
+hải quan
 
 cắt
 cắt và khô
@@ -10431,18 +10431,18 @@ cắt scrap kim loại
 cắt chữa lành
 cắt đến đen
 cắt đến đuổi theo
-
-
+giảm thời gian
+dễ thương
 cutter laze
 cutter laze mục tiêu
 cutting cạnh
 cutting nó đóng
 cutting laze
 
-
+màu lục lam
 cyanigosa biến đổi
-
-
+chu kỳ
+đạp xe
 cycling Thể thao
 
 
@@ -10479,7 +10479,7 @@ dao găm đòn đánh v
 dao găm ném
 
 
-
+nhiệm vụ hằng ngày
 hằng ngày
 hằng ngày nhiệm vụ
 
@@ -10532,7 +10532,7 @@ chết tiệt nó
 dampen làm hại
 dampen làm hại trang trí
 dampen phép thuật
-
+giảm chấn
 dampening cánh đồng
 dampening sóng
 thiếu nữ bởi shore giết tín dụng
@@ -10568,7 +10568,7 @@ nguy hiểm nước
 dangle hoang dã cà rốt
 
 
-
+liều lĩnh
 daring tháo ngòi
 tối
 tối animus
@@ -10754,7 +10754,7 @@ darkbrand vai
 tốiđồ uống lager
 darkcrest taskmaster sống
 
-
+làm tối
 darken kẻ rình rập
 darken thị giác
 
@@ -10864,7 +10864,7 @@ dữ liệu limit
 dữ liệu miner's delight
 dữ liệu scan
 dữ liệu dòng suối
-
+lỗi thời
 
 daughter của ngọn lửa
 daunting gầm gừ
@@ -10891,12 +10891,12 @@ ngày một người chơi
 ngày2
 
 ngày
-
+ban ngày
 choáng váng
 choáng váng miễn nhiễm
 choáng váng miễn nhiễm hủy
 choáng váng bản thân
-
+bị choáng
 dazed - của kẻ báo thù khiên
 dazed và bối rối
 dazing khiên
@@ -10922,10 +10922,10 @@ vô hiệu hóa tất cả anvils
 vô hiệu hóa lực cánh đồng
 vô hiệu hóa đêm tiên tộc mặt trăng pha lê
 vô hiệu hóa cổ ngữ
-
+đã tắt
 deactivated xuất hiện người điều khiển
 deactivated tháp pháo cái chết báo cáo
-
+đang tắt
 deactivating sức mạnh source
 chết
 chết và buried
@@ -10952,8 +10952,8 @@ chết gió
 chết zone
 chết-eye's intuition
 chết2
-
-
+làm tê
+xạ thủ
 chếtdòng
 deadly axit
 deadly nhắm
@@ -11008,7 +11008,7 @@ deadly đỏ son đá mã não
 chếttrọng lượng
 deadwind mạng nhện
 
-
+bị điếc
 điếc tai tru
 điếc tai gầm
 điếc tai rít
@@ -11111,7 +11111,7 @@ cái chết-warmed belt
 deathblade tên lửa loạt đạn
 deathblood nọc độc
 cái chếtnở
-
+đòn chí mạng
 deathblow x11 kính bảo hộ
 cái chếttia sét
 
@@ -11164,7 +11164,7 @@ deathwing's tường của lửa
 
 debatably tốt hơn
 debate chùy
-
+làm suy yếu
 debilitating tia
 debilitating xung phong
 debilitating lột da
@@ -11174,7 +11174,7 @@ debilitating phun
 debilitating đòn đánh
 debilitating chạm
 debilitating nọc độc
-
+sự suy nhược
 debit thẻ
 mảnh vụn
 
@@ -11186,16 +11186,16 @@ debuff bản thân
 
 debuff uber chữa lành trên time
 
-
-
+bị debuff
+gỡ lỗi
 debug - hào quang trạng thái bộ dụng cụ lỗi
 debug - bảng điều khiển viết
 
-
+chặt đầu
 decapitating đấm
 decapitating đòn đánh
 decapitating vuốt
-
+sự chặt đầu
 
 phân hủy
 phân hủy thịt
@@ -11205,13 +11205,13 @@ decayed sức mạnh
 deceitful vụ nổ
 deceptively dễ
 deceptively khó
-
+quyết định làm
 
 decimate trạng thái
 decimating đòn đánh
-
+sự tàn sát
 decimation lưỡi kiếm
-
+giải mã
 quyết định
 bộ bài lửa
 bộ bài lửa sát thương periodic
@@ -11221,13 +11221,13 @@ bộ bài của trades
 
 declined mời
 declined rez
+đang giải mã
 
-
-
+đang tháo dỡ
 decontaminate sân khấu 1
 decontaminate sân khấu 2
 decontaminate sân khấu 3
-
+khử nhiễm
 mồi nhử
 mồi nhử chất nổ
 
@@ -11243,8 +11243,8 @@ decree của tối quý bà
 
 decrepit sốt
 
-
-
+đang giải mật
+chết rồi
 Tận tâm
 sâu
 sâu gầm
@@ -11344,8 +11344,8 @@ defiant và nổi giận
 defias ngụy trang
 
 
-
-
+khử rung tim
+làm ô uế
 defile uther's lăng mộ
 defiled mặt đất
 defiling hào quang
@@ -11354,7 +11354,7 @@ defiling hào quang
 definitely cuối cùng trò chơi
 definitely hoạt động
 deflecting gió
-
+sự làm lệch
 deforestation tín dụng
 khéo léo ametrine
 khéo léo than hồng hoàng ngọc
@@ -11364,16 +11364,16 @@ khéo léo lava san hô
 khéo léo quân vương hoàng ngọc
 khéo léo hổ opal
 khéo léo đỏ son đá mã não
-
-
+thoái hóa
+sự thoái hóa
 degenerative cắn
-
-
+sự xuống cấp
+độ
 degreelessness chế độ
+các độ
 
 
-
-
+mất nước
 Sự trì hoãn
 Sự trì hoãn hào quang
 trì hoãn đồng hồ
@@ -11386,7 +11386,7 @@ trì hoãn pipe rejection nhảy
 xóa initial vũ khí
 xóa plans
 xóa trò chơi
-
+đã xóa bỏ
 deleted từ máy chủ
 mong manh arcanite converter
 mong manh máu ngọc hồng lựu
@@ -11414,9 +11414,9 @@ Ngon quá câu cá
 ngon thịt
 ngon roasted lợn rừng
 ngon sagefish đuôi
+vui mừng
 
-
-
+mê sảng
 delirious chém
 
 deliver say hươu đực
@@ -11428,7 +11428,7 @@ deliver cuộc sống-tên lửa
 deliver hoa sen hạt giống
 deliver súp
 deliver stolen ngựa
-
+sự giải thoát
 delivering một thùng bom
 giao hàng học việc
 giao hàng xe kéo bắt đầu kích hoạt
@@ -11439,14 +11439,14 @@ delora hét loại trừ 4
 đại hồng thủy
 đại hồng thủy hào quang hủy
 đại hồng thủy của bóng tối
-
+ảo tưởng
 delusions của jin'do
 deluxe mì xe kéo
 deluxe mì xe kéo bộ dụng cụ
 deluxe mì súp
-
+phi vật chất hóa
 dematerialize giáp
-
+chứng mất trí
 demo hét sensor
 Dân chủ
 
@@ -11554,15 +11554,15 @@ ma quỷ bảo hộ
 demonology phù thủy
 quỷ bộ bài
 quỷ của quá khứ
-
+làm mất tinh thần
 làm nhụt chí cờ
 làm nhụt chí mmmrrrggglll
 làm nhụt chí gầm
 làm nhụt chí rít
 làm nhụt chí hét
-
+bị giáng chức
 denouement đốm sáng
-
+tố cáo
 dày đặc nổ bột
 dày đặc dynamite
 dày đặc embersilk băng gạc
@@ -11571,19 +11571,19 @@ dày đặc mài đá
 dày đặc đá tượng
 dày đặc weightstone
 dented khiên của horuz killcrow
-
+nha sĩ
 đéo
-
-
+sự khởi hành
+phụ thuộc
 dependable sát thương
+lệ thuộc
 
-
-
+làm cạn kiệt
 deplete chìa khóa
-
+cạn kiệt
 depleted vật tổ tín dụng
 depleted-kyparium tên lửa
-
+sự cạn kiệt
 triển khai bom-bot
 triển khai bùng nổ hộp
 triển khai butcherbot
@@ -11599,9 +11599,9 @@ triển khai troop
 depositing rừng rậm nhảy
 depositing chất lỏng lửa
 depositing tinh thần-kissed nước
-
-
-
+sự sa đọa
+chán nản
+trầm cảm
 
 độ sâu xung phong
 độ sâu xung phong đếm ngược nhịp
@@ -11609,33 +11609,33 @@ depositing tinh thần-kissed nước
 deputize đặc vụ của nozdormu
 deputy clunky lực tung
 
-
+trật bánh
 
 dertrok mind điều khiển
-
-
+khử bão hòa
+đi xuống
 descent vào điên loạn dịch chuyển
 
-
+sự mô tả
 
 báng bổ
 báng bổ mũi tên
 báng bổ mặt đất
 báng bổ oil
 báng bổ vũ khí
-
+sự báng bổ
 desecration cánh tay
 
 deselect bản thân
 sa mạc
 sa mạc cáo interact
 kẻ đào ngũ
-
+làm khô
 designate mục tiêu
 
+ngừng lại
 
-
-
+sự hoang tàn
 tuyệt vọng
 tuyệt vọng stricken
 
@@ -11736,17 +11736,17 @@ tuyệt vọng cơn giận
 tuyệt vọng quyết tâm
 tuyệt vọng tốc độ
 tuyệt vọng đứng
+bất chấp
 
-
-
+món tráng miệng
 dest bụi vụ nổ
+sự bất ổn
 
-
-
+gây bất ổn
 destabilize xanh da trời dragonshrine
+bị mất ổn định
 
-
-
+định mệnh
 
 phá hủy
 phá hủy tất cả drakes
@@ -11876,13 +11876,13 @@ phát hiện tiếng thì thầm
 detected nhịp
 phát hiện
 phát hiện hiệu ứng
-
+xấu đi
 quyết tâm
 quyết đoán
 quyết đoán gore
 quyết đoán shuffle
 quyết đoán đâm
-
+sự răn đe
 deth kim loại
 deth đòn đánh
 kích nổ
@@ -11903,9 +11903,9 @@ kích nổ
 kích nổ bậc thầy
 kích nổ nhiệm vụ tín dụng
 kích nổ chuỗi
+thải độc
 
-
-
+suy sụp
 tàn phá cung
 tàn phá earthblow
 tàn phá nhảy
@@ -11949,7 +11949,7 @@ nuốt chửng mana
 nuốt chửng murloc
 nuốt chửng nước
 nuốt chửng gió
-
+bị nuốt chửng
 devoured bởi ngọn lửa
 devourer's dạ dày
 nuốt chửng bò
@@ -11959,15 +11959,15 @@ nuốt chửng sương mù
 nuốt chửng bệnh dịch
 devout đức tin
 dew của vĩnh cửu buổi sáng
-
+khéo tay
 dgk dây placeholder
-
+tiểu đường
 
 diabolic phương thuốc
 diagnostic chuỗi
 diagonal trượt
 diagonal trượt hiệu ứng
-
+đối thoại
 
 
 
@@ -11983,11 +11983,11 @@ kim cương dấu
 kim cương nhẫn
 kim cương linh hồn
 kim cương-cắt refractor phạm vi
-
+tiêu chảy
 cặc
 cặcđầu
-
-
+ra lệnh
+chế độ độc tài
 
 did anyone chết đó
 did không
@@ -12009,9 +12009,9 @@ chết điên
 đã chết afraid
 diemetradon tru
 
+chế độ ăn
 
-
-
+chênh lệch
 khác
 Cách tiếp cận khác
 khác năng lượng
@@ -12078,12 +12078,12 @@ diminsh sức mạnh
 diminutive kén
 dinah dummy phép thuật
 dingy phù thủy mũ
-
+bữa tối
 
 dino hình dạng
 dino thịt tín dụng
 dino-hàn gắn
-
+ngoại giao
 diplomatic miễn nhiễm
 khủng khiếp quái thú
 khủng khiếp quái thú focus tài xế
@@ -12102,7 +12102,7 @@ direbrew xung phong
 direbrew's tước vũ khí
 direct sát thương
 hướng
-
+chỉ đường
 Đạo diễn
 sừng dữ xung phong
 sừng dữ xung phong tác động
@@ -12110,7 +12110,7 @@ sừng dữ ngụy trang
 sừng dữ bị động
 sừng dữ bị động hiệu ứng
 sừng dữ runt
-
+bài ai ca
 
 
 bụi bẩn
@@ -12151,11 +12151,11 @@ vô hiệu hóa tác động
 vô hiệu hóa poison
 vô hiệu hóa máy vận chuyển nhiệm vụ tín dụng
 Nhược điểm
-
+không đồng ý
 disallow ma quỷ vòng tròn triệu hồi
 
-
-
+thất vọng
+đáng thất vọng
 tước vũ khí
 tước vũ khí bom bot
 tước vũ khí duration giảm
@@ -12165,7 +12165,7 @@ tước vũ khí bản thân
 tước vũ khí khiên test
 tước vũ khí test
 tước vũ khí bẫy
-
+bị tước vũ khí
 disarming ngọn lửa
 disarming cơn thịnh nộ
 disarming cơn thịnh nộ hiệu ứng
@@ -12180,27 +12180,27 @@ disciple của elune tàng hình q1
 disciplinary hành động
 disciplinary gậy
 kỷ luật
-
+có kỷ luật
 disciplined pháp sư
 disciplined sức mạnh
 disciplines excluded hào quang
 disciplining gậy
 disco quả bóng
 discolored chữa lành thuốc
-
+làm rối trí
 discombobulator tia
 Mất kết nối
 
 disconnected lại
 disconnected từ máy chủ
-
+bất hòa
 discordant dâng trào hình ảnh
 giảm giá
 Khám phá
-
+đã được khám phá
 discreet phép thuật
 
-
+khinh bỉ
 
 disease hơi thở
 
@@ -12219,17 +12219,17 @@ bệnh tật applied
 bệnh tật rơi
 bệnh tật rơi tắt
 disembodied jormungar giết tín dụng
-
+phân giải phép
 disenchant hình ảnh
 
-
-
+đang rút lui
+sự gỡ rối
 bất mãn
 bất mãn cơn giận
 ngụy trang
 
-
-
+sự ghê tởm
+ghê tởm
 kinh tởm
 kinh tởm oozeling
 kinh tởm bào tử
@@ -12238,19 +12238,19 @@ nản lòng cú đánh iii
 nản lòng cú đánh iv
 nản lòng cú đánh v
 nản lòng cười
-
-
+đáng hổ thẹn
+vỡ mộng
 tan rã
 tan rã tia
 tan rã tia niệm trước
 tan rã laze
-
-
-
+sự tách rời
+không thích
+tháo dỡ
 dismantle giáp
 dismantled giáp
-
-
+phanh thây
+đang phanh thây
 dismembering xác chết
 giải tán
 giải tán quỷ đá
@@ -12274,12 +12274,12 @@ xuống ngựa vụ nổ
 xuống ngựa cú đánh
 xuống ngựa shot
 xuống ngựa lao xuống
-
-
+làm mất phương hướng
+mất phương hướng
 disorienting gầm
 disorienting tiếng thét
 disorienting đập
-
+điều phái
 xua tan
 xua tan 2
 xua tan bão tuyết
@@ -12299,15 +12299,15 @@ xua tan poison
 xua tan bẫy
 dispell máurăng
 dispelling phân tích
-
+sự phân tán
 
 disperse neutralizing đặc vụ
-
+đang phân tán
 phân tán
 phân tán bom hình ảnh
 phân tán chạy nước rút
 phân tán hình ảnh
-
+thay chỗ
 displace rễ
 displaced năng lượng
 dịch chuyển
@@ -12338,13 +12338,13 @@ gây rối cổ vật
 gián đoạn
 gián đoạn tia
 disruptor vụ nổ
-
-
-
+luận án
+tiêu tan
+sự tiêu tan
 dissolve giáp
 dissolve quặng
 dissonance cánh đồng
-
+khoảng cách
 distance kẻ theo dấu
 distant ngọn lửa
 
@@ -12424,11 +12424,11 @@ lặn quét
 
 divining cuộn giấy phép thuật
 divining xuất thần
-
-
-
-
-
+thần tính
+sự phân chia
+sự chia rẽ
+ly hôn
+chóng mặt
 
 dizzying khói mù
 dizzying khói mù trang trí
@@ -12491,7 +12491,7 @@ docks cờ trung lập nhấp
 docks lính gác điểm kẻ theo dấu hào quang
 bác sĩ
 
-
+phim tài liệu
 
 
 dodge xung phong
@@ -12538,7 +12538,7 @@ chó đến vị trí
 dojani eel giật
 búp bê
 Cá heo
-
+thuần hóa
 thống trị
 thống trị offensive vĩ đại khen thưởng
 
@@ -12549,7 +12549,7 @@ thống trị quỷ
 thống trị tuyệt cá mập - triggered
 thống trị mind
 thống trị mind bảo vệ
-
+bị áp đảo
 dominated pandaren tự do tín dụng
 dominating đòn đánh
 thống trị

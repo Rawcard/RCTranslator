@@ -6772,7 +6772,7 @@ alaga
 mag-ingat
 mag-ingat tumutok
 mag-ingat humihila
-
+nang maingat
 carefully nangongolekta
 alagamas kaunti
 caress ng kamatayan
@@ -6941,9 +6941,9 @@ hulihin ako
 hulihin ang tubig espiritu
 salo sila
 Usap tayo mamaya
-
-
-
+kategorya
+hito
+katedral
 catseye eliksir
 catseye ultra salamin
 nahuli isang plainshawk
@@ -6977,12 +6977,12 @@ kaldero purification
 kaldero lubid
 kaldero selector
 kaldero stir
-
+sanhi
 cause at epekto
 
-
-
-
+naging sanhi
+nagiging sanhi
+nagdudulot
 nakakalason amber
 nakakalason dugo
 nakakalason gas
@@ -7000,7 +7000,7 @@ tuyuin
 tuyuin amo
 tuyuin ang sugat
 tuyuin sugat
-
+sinunog ang sugat
 pagpapaso ubod
 pagpapaso liyab
 pagpapaso liyab karga
@@ -7008,7 +7008,7 @@ pagpapaso liyab
 pagpapaso sinag
 pagpapaso pagalingin
 pagpapaso hampas
-
+mapag-ingat
 kuweba
 kuweba discovery pumutok
 kuweba pagsabog
@@ -7016,7 +7016,7 @@ kuweba sa
 kuweba ng scrolls kredito
 kuweba-sa
 cavernous atungal
-
+uwak na huni
 cayden tambang misyon kredito
 
 cc dito
@@ -7028,7 +7028,7 @@ cc ang adds
 
 
 
-
+itigil
 cease teleport
 celebras naghihintay
 Ipagdiwang
@@ -7087,19 +7087,19 @@ cenarion pananggalang
 cenarius pasukan manika
 cenarius kaganapan amo
 censer ng walang hanggan paghihirap
-
+pagsaway
 censure ng paghihirap
 censure ng walang hanggan paghihirap
 gitna
 gitna aoi
-
+nakasentro
 central liyab proteksyon kalasag
 centrifuge ubod pasibo
 centrifuge ubod biswal
 centrifuge kalasag
 ceramic libing urn
 
-
+tiyak na
 certificate ng ownership
 certified basura
 
@@ -7107,8 +7107,8 @@ cerulean regalo ng ang tagak
 cerulean spellthread
 chabal's fetish
 
-
-
+ipa
+pagkapahiya
 kadena
 kadena kidlat
 kadena sunugin
@@ -7140,7 +7140,7 @@ nakakadena pagalingin
 nakakadena isip
 nakakadena sparks
 nakakadena sa stables
-
+machine gun
 pagkakadena
 pagkakadena pagluluto
 pagkakadena delivering
@@ -7197,7 +7197,7 @@ ng manghahamon sulo
 Mapaghamon
 Mapaghamon sigaw
 
-
+hunyango
 kampeon
 kampeon ng hellscream
 kampeon ng ramkahen
@@ -7241,7 +7241,7 @@ palitan2
 palitan3
 binago
 binago aking isip
-
+mga pagbabago
 changing ang subject
 channel
 channel hangin kalasag
@@ -7409,7 +7409,7 @@ pang-akit bato higante
 pang-akit sully
 pang-akit taylor
 pang-akit woodland nilalang
-
+nabighani
 nasunog oso kabobs
 nasunog lupa
 nasunog lobo karne
@@ -7418,9 +7418,9 @@ charscale binti baluti
 habulin
 habulin pababa
 habulin sila
-
-
-
+humahabol
+pagsabihan
+pinagsabihan
 chat
 chat bula
 chat emote aura
@@ -7437,7 +7437,7 @@ mandaya kamatayan
 mandaya piliin
 cheated kamatayan
 daya
-
+pandaraya
 cheating kamatayan
 suriin
 suriin labanan
@@ -7466,24 +7466,24 @@ suriin iyong messages
 checking account
 
 suriinpuntos
-
-
+siyap
+hiyaw ng suporta
 cheer pataas yi-mo iwanan
-
-
+masayahin
+tagay
 keso
 keso ulo
 keso ito
 keso estratehiya
 cheetah takbo
-
+kusinero
 chef's sombrero
 cheiftain hampas
 kemikal bomba
 kemikal ulap
 kemikal liyab
 kemikal peel
-
+kimika
 chen carries isang bariles
 chen's Pistang inumin
 chen's kuwento
@@ -7532,7 +7532,7 @@ chieftain's totem kalagayan
 chieftan's tawag
 chihozen binono - kostyum
 chihozen binono bariles aura
-
+pamumula sa lamig
 bata
 bata ng tortolla
 bata2
@@ -7576,8 +7576,8 @@ nakakatakot hipo
 nakakatakot alon
 nakakatakot hangin
 nakakatakot salita
-
-
+panginginig
+malamig-lamig
 chimaeron kakayahan
 chimaeron malapitan atake
 chimera putok
@@ -7587,7 +7587,7 @@ chimeric guwantes
 chimeric pantalon
 chimeric tsaleko
 china bansa
-
+Intsik
 
 
 chirping kahon
@@ -7600,7 +7600,7 @@ cho paputok
 cho kamay kanyon
 cho teapot amo
 chocking buhangin
-
+tsokolate
 chocolate pagdiriwang keyk
 chocolate biskwit
 chocolate halimbawa
@@ -7646,10 +7646,10 @@ pumili yalia sagewhisper
 tagain
 tagain shadra
 tagain puno
-
+koro ng kanta
 chosen ng elune
 chosen isa
-
+Pasko
 makulay kaguluhan
 makulay balabal
 makulay guwantes
@@ -7707,7 +7707,7 @@ cinderweb supot
 cinderweb supot pinsala
 cinderweb itlog hatch
 cinderweb filament
-
+sinehan
 cinematic - isip kontrol
 cinematic timer
 cinnabar bijou
@@ -7722,7 +7722,7 @@ bilog ng buhay paghahanda
 bilog target
 circlet ng mahiwaga lakas
 circular blizzard
-
+sirko
 citation kailangan
 cities sa alikabok
 citizen kostyum
@@ -7732,7 +7732,7 @@ citrine singsing ng mabilis paggaling
 lungsod
 lungsod atake tagapagtanggol onspawn
 ck linya pinsala pagsubok
-
+angkinin
 claim dalampasigan gilid tunay estate
 claiming labi
 claiming tubig
@@ -7740,10 +7740,10 @@ kabibe bar
 kabibe chowder
 
 clamshell banda
-
+angkan
 palakpak
 palakpak 'em sa irons
-
+pumalakpak na
 banggaan
 klase
 klase kredito epekto
@@ -7924,7 +7924,7 @@ nalinis para teleport
 nalinis ito silid
 clearing nilalaman
 clearing sa boss
-
+malinaw
 clearly ang pinakamahusay
 clearly ang pinakamasama
 linisinmisyon
@@ -7937,10 +7937,10 @@ biyakin ang adds
 biyak trigger
 panghiwa bmrglbrm's whale dissection
 panghiwa ihagis
-
+pagtaga
 clefthide binti baluti
-
-
+awa
+ikuyom
 
 clever ashyo's paggaling globo
 clever plant pagbabalatkayo
@@ -7950,7 +7950,7 @@ i-click ako
 i-click ang lever
 i-click ang bilog
 i-click sa sakay pumutok
-
+kliyente
 
 Cliffhanger
 cliffwalker apoy
@@ -8017,8 +8017,8 @@ nakatago hakbang
 pagkukubli
 pagkukubli manok
 pagkukubli manok balabal
-
-
+bugbugin
+orasan
 
 orasan kahon
 orasan gnome
@@ -8052,13 +8052,13 @@ sarado circuit
 sarado minded
 sarado recruitment
 sarado tesseract epekto
-
-
+nagsasara
+pagsasara
 closing ang portal
 tela
 damit
 clothing tindahan
-
+pamumuo ng dugo
 ulap
 ulap aura
 ulap pagputok
@@ -8088,7 +8088,7 @@ payaso fiesta
 payasomundo
 pamalo
 pamalo epekto
-
+pinalo ng pamalo
 Walang alam
 clump suriin
 clumsy putok
@@ -8105,7 +8105,7 @@ Clutch sa dulo
 clutches ng masama
 
 Coach
-
+mamuo
 
 
 coalescing anino
@@ -8143,7 +8143,7 @@ kobalt kalansay susi
 kobalt tenderizer
 kobalt triangle kalasag
 kobalt digmaan talbuk
-
+kobra
 cobra inakay
 cobra putok
 cobra hampas
@@ -8155,7 +8155,7 @@ cobrascale talukbong
 titi
 
 supot
-
+nakabalot sa cocoon
 
 kape
 Coffee break
@@ -8179,7 +8179,7 @@ barya ng suwerte
 barya ng serendipity
 barya kislap
 barya ihagis
-
+nagkataon
 malamig
 malamig linisin
 malamig mata
@@ -8218,7 +8218,7 @@ gumuguho takipsilim portal
 kwelyo kalagayan
 collateral pinsala aura
 collateral pinsala kredito
-
+kasamahan
 tipunin
 tipunin pinagpala tubig
 tipunin blushleaf kunin
@@ -8316,7 +8316,7 @@ combo puntos naantala
 combo puntos
 combo suntok
 combobulating iwisik
-
+magliyab
 
 pagkasunog
 pagkasunog epekto
@@ -8331,11 +8331,11 @@ halika sa mga tsong tayo na pumunta
 halika kasama ako
 halikalikod
 comeback hari
-
+komedya
 dumarating
 kometa
 comet's bakas
-
+komportable
 
 comfortable katad sombrero
 comfy raccoonskin sombrero
@@ -8351,11 +8351,11 @@ utos argent skytalon
 utos demonyo
 utos presensya
 commandeered kanyon epekto
-
+komandante
 commander tumayo handa
 commanders' lakas
 commanding sigaw
-
+komento
 comment ibaba
 commentator's utos
 
@@ -8369,21 +8369,21 @@ commune kasama ang ninuno
 komunikasyon pagkasira
 komunikasyon broke pababa
 komunikasyon ay susi
-
+komunyon
 communique - tawagin iba pa target
 komunidad
-
+komposisyon ng team
 compact ani mangaani
 compact ani mangaani kit
-
+siksik
 kasama
 kasama chat orasyon
 kasama pana-panahon pagalingin
 kumpanya
 Ihambing
 Ihambing runes
-
-
+kompas
+napilitan
 compelling pangitain
 compelling pangitain bahagi 02
 Mapagkumpitensya
@@ -8421,12 +8421,12 @@ pagkumpleto aura
 pagkumpleto suriin
 pagkumpleto kaganapan - alyansa
 pagkumpleto kaganapan - horde
-
-
-
+masalimuot
+komposisyon
+pag-compost
 compound mata
-
-
+i-compress
+kompromiso
 kompyuter
 kompyuter overheating
 kompyuter Agham
@@ -8436,7 +8436,7 @@ concealing hamog
 concentrated kaakit-akit perfume tapon
 concentrated irresistible pabango tapon
 concentrated mutasyon
-
+konsentrasyon
 concentration aura
 
 Konsiyerto
@@ -8456,15 +8456,15 @@ nakabibingi apakan
 nakabibingi hampas
 nakabibingi ihagis
 nakabibingi alon
-
-
-
+pagkondena
+kondensasyon
+i-condense
 
 
 condesned mana pulbura
 conductive kalasag
 conductive tubig
-
+konduktibidad
 daluyan antas
 daluyan sobrang karga
 daluyan sa ang espiritu kaharian
@@ -8475,23 +8475,23 @@ kono ng apoy
 kono ng kidlat
 kono orasyon
 cones basag
-
-
+magtapat
+pagtatapat
 confessor tagumpay
 confessor's poot
 confidence ng kros
-
+kumpiyansa
 
 configure pagsalakay
 configure pagsalakay - malinis pataas
-
-
+kumpirmahin
+kumpirmasyon
 confirmation prompt pumutok
 
 
 conflagrate sarili proc
 conflagrated sandata
-
+malaking sunog
 conflagration pagsabog
 confounding suntok
 confounding liyab
@@ -8506,7 +8506,7 @@ namuo kawalan ng pag-asa
 namuo kawalan ng pag-asa biswal
 namuo lagim
 namuo lagim biswal
-
+namumuo
 congealing dugo
 binabati kita
 binabati kita sa
@@ -8553,7 +8553,7 @@ conjured pagkain
 conjured tubig
 conjuring pagkain
 conjuring tubig
-
+nakakonekta
 connected kaharian
 koneksyon
 May problema sa connection
@@ -8565,28 +8565,28 @@ pananakop ng ang sinauna
 pananakop puntos
 
 consecrated sandata
-
+konsagrasyon
 consecration diskwento
-
+dahil dito
 conservator's hawak
 conservatory teleport
-
-
+isaalang-alang
+pare-pareho
 console
 constant rune
 constellation yugto epekto
 constellation yugto pumutok
-
-
-
+pagtitibi
+saligang batas
+sakalin nang mahigpit
 constricting tanikala
 
-
+paghigpit
 constriction totem aura
 constrictor galamay
 itayo harang
 itayo hittin' ya
-
+nagtatayo
 konstruksyon bar movement
 konstruksyon ulap
 lamunin
@@ -8636,12 +8636,12 @@ lumalamon hangin
 pagkonsumo
 pagkonsumo epekto
 pagkonsumo pana-panahon
-
+kontak
 
 contagion ng bulok
 container ng rats
 containment sinag
-
+pagmumuni-muni
 ng manlalaban depensa
 ng manlalaban kaliskis ng dragon sinturon
 ng manlalaban kaliskis ng dragon bota
@@ -8712,8 +8712,8 @@ Tapos na ang content
 Content creator
 nilalaman drought
 
-
-
+konteksto
+kontinente
 
 contributing wala
 kontrol
@@ -8753,7 +8753,7 @@ controversial paksa
 convalescence ng hangin
 conventional karunungan
 conversing kasama anduin
-
+pagpapalit
 conversion sinag
 gawing
 gawing rune pagsubok
@@ -8806,7 +8806,7 @@ cooling hininga
 cooling pababa
 cooling sarado
 coolup sampal
-
+i-coordinate
 coordinate mas mabuti
 tanggapin mo
 tanggapin mo at seethe
@@ -8860,14 +8860,14 @@ corehound bota
 corlok's bungo barahe
 corlok's bungo barahe knockdown
 
-
-
+sulok
+nasukol
 cornish rex pusa
 coronet ng verdant liyab
-
+kabo
 Korporasyon
 corporeal balik
-
+pagkamaterial
 bangkay pagputok
 bangkay sumabog
 bangkay pagsabog
@@ -9263,7 +9263,7 @@ kosmiko durugin
 kosmiko durugin biswal kalagayan
 kosmiko hampas
 costs isang braso at isang binti
-
+ubo
 maaari
 Pwede pang gumanda
 Pwede pang lumala
@@ -9295,13 +9295,13 @@ kontrahampas
 bansa
 Country music
 coup de biyaya
-
+kupon
 tapang
 
 kurso mapa
 korte ng buto yugto ilipat
 korte ng buto paghahanda
-
+pinsan
 takpan
 takpan ang manggagamot
 covered sa watermelon
@@ -9310,12 +9310,12 @@ baka
 baka innards visible
 duwag
 coward's daan labas
-
-
+kaduwagan
+pagkaduwag
 cowardly citizen pumutok
 cowardly paglipad
 cowardly magsasaka pumutok
-
+mangilabot
 cower sa takot
 cowering atungal
 coyote espiritu depawn aura
@@ -9330,7 +9330,7 @@ alimango pagbabalatkayo
 alimango entrails
 alimango ningning
 alimango bitag biswal
-
+mga alimango
 bitak coconut
 bitak knuckles
 bitak putok
@@ -9342,7 +9342,7 @@ basag mogu runestone
 basag kabibe
 cracking suntok
 cracking bato
-
+lagitik
 lumalagitik liyab
 lumalagitik liyab
 lumalagitik galit
@@ -9388,7 +9388,7 @@ tuso lava koral
 tuso orasyon
 tuso tigre opal
 tuso pula oniks
-
+pagsisiksik ng aral
 
 
 cranberry server
@@ -9429,7 +9429,7 @@ kahon kalagayan
 kahon biswal
 crates dinala
 crates patayin kredito
-
+maduwag
 gumagapang minahin
 gumagapang minahin pagsabog
 gumagapang minahin kontrolador pana-panahon
@@ -9452,7 +9452,7 @@ baliw salamin
 baliw mana regen
 baliw isipan
 baliw2
-
+krema
 likhain
 likhain aberration
 likhain kasuklam-suklam
@@ -9890,7 +9890,7 @@ likhain zul'drak daga
 likhain zul's aura
 likhain2
 likhaintotem
-
+malikhain
 lumikha gawin tingnan di-nakikita
 lumikha sakay pating
 lumikha tingnan di-nakikita
@@ -9945,13 +9945,13 @@ nakakatakot kahon hanapin target
 nakakatakot kahon agawin
 nakakatakot kahon pasibo
 nakakatakot hop
-
-
+i-cremate
+kremasyon
 
 crescendo ng pagdurusa
 tuktok ng paghihiganti
 tripulante
-
+krimen
 pulang-pula
 pulang-pula asido
 pulang-pula itaboy
@@ -9994,7 +9994,7 @@ nakakahiya behaviour
 nakakahiya lords
 nakakahiya meme
 nakakahiya worthy
-
+lumpuhin
 cripple kalagayan
 nakakalumpo kagat
 nakakalumpo suntok
@@ -10029,7 +10029,7 @@ maliit na hayop-killer
 maliit na hayop-killer atake
 
 croc meryenda
-
+buwaya
 buwaya au gratin
 buwaya frag
 buwaya gumbo
@@ -10045,10 +10045,10 @@ Cross realm
 krus server
 krus na tulay
 krus sa pamamagitan
-
-
+pana na makina
+mga crossbow
 crossed sa ibabaw
-
+yumuko
 uwak
 uwak diskwento
 uwak handaan
@@ -10076,7 +10076,7 @@ magaspang takipsilim pagbabalatkayo
 magaspang takipsilim pagbabalatkayo 2
 
 
-
+paglalayag
 gumuguho
 gumuguho arko
 gumuguho ruin
@@ -10222,7 +10222,7 @@ kristal tulog
 kristal pagsulpot
 kristal tangler
 kristal tali
-
+mag-kristal
 kristal hangin
 kristal lupa
 kristal apoy
@@ -10274,7 +10274,7 @@ cult pagbabalatkayo
 kultista talukbong
 cultivate packet ng binhi
 cultivated kapangyarihan
-
+paglilinang
 pepe
 tasa
 tasa ng kafa
@@ -10301,8 +10301,8 @@ mausisa wolvar tuta
 
 curling itim cord
 curling usok
-
-
+masungit na matanda
+pera ng bansa
 
 current kalagayan ng ang laro
 curruption ng digmaan malinis-pataas
@@ -10405,7 +10405,7 @@ isinumpa swabby helmet
 isinumpa sa maging masama
 isinumpa veil
 isinumpa pangitain ng sargeras
-
+mga sumpa
 curtain tawag
 curtain ng namuong hamog kalagayan
 custodian ng oras
@@ -10417,7 +10417,7 @@ custom error
 custom epekto 06
 custom epekto 07
 custom maglakad
-
+adwana
 
 putulin
 putulin at tuyo
@@ -10431,7 +10431,7 @@ putulin scrap metal
 putulin ang paggaling
 putulin sa itim
 putulin sa ang habulin
-
+bawas oras
 
 cutter laser
 cutter laser target
@@ -10441,8 +10441,8 @@ cutting laser
 
 
 cyanigosa baguhin
-
-
+siklo
+pagbibisikleta
 cycling Isport
 buhawi
 buhawi aggro
@@ -10477,9 +10477,9 @@ punyal hampas iii
 punyal hampas iv
 punyal hampas v
 punyal itapon
+mga punyal
 
-
-
+mga daily
 araw-araw
 araw-araw na misyon
 
@@ -10532,7 +10532,7 @@ shet
 dampen pinsala
 dampen pinsala pampaganda
 dampen mahika
-
+pagpapahina ng epekto
 dampening bukid
 dampening alon
 dalaga ni ang shore patayin kredito
@@ -10568,7 +10568,7 @@ delikado tubig
 dangle mabangis karot
 
 
-
+mapangahas na
 daring i-defuse
 madilim
 madilim animus
@@ -10754,7 +10754,7 @@ darkbrand balikat
 madilimtimpla lager
 darkcrest taskmaster buhay
 
-
+padilimin
 darken tagabantay
 darken pangitain
 
@@ -10896,7 +10896,7 @@ pagkalito
 pagkalito kaligtasan
 pagkalito kaligtasan kanselahin
 pagkalito sarili
-
+nahilo
 dazed - ng tagapaghiganti kalasag
 dazed at nalilito
 dazing kalasag
@@ -10922,10 +10922,10 @@ i-deactivate lahat anvils
 i-deactivate lakas bukid
 i-deactivate gabi elf buwan kristal
 i-deactivate runes
-
+na-deactivate
 deactivated lumitaw tagapangasiwa
 deactivated turret kamatayan ulat
-
+nagde-deactivate
 deactivating kapangyarihan source
 patay
 patay at buried
@@ -10952,8 +10952,8 @@ patay hangin
 patay sona
 patay-eye's intuition
 patay2
-
-
+pamanhirin
+asintado
 pataylinya
 nakamamatay asido
 nakamamatay tumutok
@@ -11008,7 +11008,7 @@ deadmines dinamita
 pataytimbang
 deadwind web
 pataysona
-
+nabingi
 nakabibingi alulong
 nakabibingi atungal
 nakabibingi tili
@@ -11111,7 +11111,7 @@ kamatayan-warmed sinturon
 deathblade rocket barahe
 deathblood kamandag
 kamatayanmamukadkad
-
+nakamamatay na hampas
 deathblow x11 salamin
 kamatayankidlat
 
@@ -11164,7 +11164,7 @@ deathwing's pader ng apoy
 
 debatably mas mabuti
 debate pamalo
-
+pahinain
 nakakapanghina sinag
 nakakapanghina salakay
 nakakapanghina talupan
@@ -11174,7 +11174,7 @@ nakakapanghina iwisik
 nakakapanghina hampas
 nakakapanghina hipo
 nakakapanghina kamandag
-
+panghihina
 debit baraha
 guho
 panghina
@@ -11186,16 +11186,16 @@ panghina sarili
 panghina spam pagsubok
 panghina uber pagalingin sa ibabaw oras
 panghina2
-
+na-debuff
 
 debug - aura kalagayan kit bug
 debug - console isulat
 debug likhain samophlange manual
-
+pugutan
 decapitating suntok
 decapitating hampas
 decapitating sipa
-
+pagpugot
 
 pagkabulok
 pagkabulok laman
@@ -11205,13 +11205,13 @@ decayed lakas
 deceitful pagsabog
 deceptively madali
 deceptively mahirap
-
-
+magpasya
+lipulin nang lubos
 decimate kalagayan
 decimating hampas
-
+pagpuksa
 decimation talim
-
+i-decipher
 desisyon
 baraha apoy
 baraha apoy pinsala pana-panahon
@@ -11221,16 +11221,16 @@ baraha ng trades
 
 declined ang anyayahan
 declined ang rez
-
-
-
+pag-decode
+mabulok
+nagbabaklas
 decontaminate entablado 1
 decontaminate entablado 2
 decontaminate entablado 3
-
+dekontaminasyon
 pain
 pain pasabog
-
+pagbaba
 decrease mana halaga - mahiwaga
 decrease mana halaga - apoy
 decrease mana halaga - namuong hamog
@@ -11243,7 +11243,7 @@ decree ng ang madilim ginang
 
 decrepit lagnat
 
-
+nagde-decrypt
 
 Dedikado
 malalim
@@ -11344,8 +11344,8 @@ defiant at galit na galit
 defias pagbabalatkayo
 defias tore ii
 defias tore iii
-
-
+i-defibrillate
+dungisan
 defile uther's libingan
 defiled lupa
 defiling aura
@@ -11354,7 +11354,7 @@ defiling aura
 definitely huli laro
 definitely gumagana
 deflecting hangin
-
+paglihis
 deforestation kredito
 maliksi ametrine
 maliksi baga topaz
@@ -11364,13 +11364,13 @@ maliksi lava koral
 maliksi hari topaz
 maliksi tigre opal
 maliksi pula oniks
-
+nabubulok
 
 degenerative kagat
-
-
+pagbaba ng kalidad
+digri
 degreelessness mode
-
+mga digri
 
 
 
@@ -11386,7 +11386,7 @@ naantala pipe rejection talon
 burahin initial sandata
 burahin plans
 burahin ang laro
-
+binura
 deleted mula ang server
 marupok arcanite converter
 marupok dugo garnet
@@ -11414,9 +11414,9 @@ Masarap mangisda
 Masarap karne
 masarap roasted baboy-ramo
 masarap sagefish buntot
-
-
-
+natutuwa
+kaaya-aya
+nagdedeliryo
 delirious hiwa
 ihatid
 ihatid lasing usa
@@ -11439,17 +11439,17 @@ delora sigaw pagbubukod 4
 baha
 baha aura kanselahin
 baha ng anino
-
+nagdedeliryo sa ilusyon
 delusions ng jin'do
 deluxe pansit kariton
 deluxe pansit kariton kit
 deluxe pansit sopas
 
 dematerialize baluti
-
+demensya
 demo sigaw sensor
 Demokrasya
-
+gibain
 demolish baluti
 
 tagawasak kanyon
@@ -11554,15 +11554,15 @@ demonyo pananggalang
 demonology mangkukulam
 demonyo baraha
 demonyo ng ang nakaraan
-
+pahinain ang loob
 nakakapanghina bandila
 nakakapanghina mmmrrrggglll
 nakakapanghina atungal
 nakakapanghina tili
 nakakapanghina sigaw
-
+na-demote
 denouement multo
-
+tuligsain
 makapal pagsabog pulbura
 makapal dinamita
 makapal embersilk benda
@@ -11571,7 +11571,7 @@ makapal paghahasa bato
 makapal bato estatwa
 makapal weightstone
 dented kalasag ng horuz killcrow
-
+dentista
 
 
 
@@ -11580,10 +11580,10 @@ dependable pinsala
 
 
 deplete ang susi
-
+naubos
 depleted totem kredito
 depleted-kyparium rocket
-
+pagkaubos
 ipadala bomba-bot
 ipadala pagsabog kahon
 ipadala butcherbot
@@ -11599,9 +11599,9 @@ ipadala troop
 depositing jungle hops
 depositing likido apoy
 depositing espiritu-kissed tubig
-
-
-
+kasamaan
+nalulumbay
+depresyon
 depsawn frostborn axemaster
 lalim salakay
 lalim salakay pagbibilang pintig
@@ -11609,33 +11609,33 @@ lalim salakay pagsabog
 deputize ahente ng nozdormu
 deputy clunky lakas gawin
 der'izu pokus
-
+nadiskaril
 
 dertrok isip kontrol
-
+bawasan ang kulay
 
 descent sa loob kabaliwan teleport
-
-
-
+ilarawan
+paglalarawan
+lapastanganin
 nilapastangan
 nilapastangan palaso
 nilapastangan lupa
 nilapastangan langis
 nilapastangan sandata
-
+paglapastangan
 desecration braso
 
 deselect sarili
 disyerto
 disyerto soro interact
 tumakas
-
+patuyuin
 designate target
 
 
 
-
+pagkatiwangwang
 kawalan ng pag-asa
 kawalan ng pag-asa stricken
 mawala
@@ -11736,17 +11736,17 @@ desperado galit
 desperado paninindigan
 desperado bilis
 desperado tumayo
+sa kabila ng
 
-
-
+panghimagas
 dest alikabok pagsabog
+destabilisasyon
 
-
-
+i-destabilize
 destabilize asul dragonshrine
+na-destabilize
 
-
-
+tadhana
 
 wasakin
 wasakin lahat drakes
@@ -11838,7 +11838,7 @@ mapanira pananggalang
 mapanira pananggalang patayin kredito
 mapanira pananggalang powerup
 
-
+detalye
 
 
 detained kultista kredito
@@ -11876,13 +11876,13 @@ tuklasin bulong
 detected pintig
 pagtuklas
 pagtuklas epekto
-
+lumala
 determinasyon
 determinado
 determinado gore
 determinado shuffle
 determinado saksakin
-
+pagpigil
 deth metal
 deth hampas
 pasabugin
@@ -11905,7 +11905,7 @@ pagsabog misyon kredito
 pagsabog pagkakasunod
 
 
-
+wasak
 mapangwasak arko
 mapangwasak earthblow
 mapangwasak lundag
@@ -11916,7 +11916,7 @@ mapangwasak ihagis
 mapangwasak saksak
 pagkawasak
 pagkawasak pumutok
-
+bumuo
 devestating suntok
 devestating durugin
 lumihis isda
@@ -11959,15 +11959,15 @@ lumalamon hamog
 lumalamon salot
 devout pananampalataya
 dew ng walang hanggan umaga
-
+mahusay ang kamay
 dgk tali placeholder
-
+diyabetis
 
 diabolic lunas
 diagnostic pagkakasunod
 diagonal dausdos
 diagonal dausdos epekto
-
+diyalogo
 
 
 
@@ -11983,11 +11983,11 @@ brilyante marka
 brilyante singsing
 brilyante kaluluwa
 brilyante-putulin refractor saklaw
-
+pagtatae
 titi
 titiulo
-
-
+nagdidikta
+diktadura
 ginawa
 ginawa sinuman mamatay doon
 ginawa hindi
@@ -12008,8 +12008,8 @@ mamatay galit
 namatay
 namatay takot
 diemetradon alulong
-
-
+namamatay
+diyeta
 
 
 iba
@@ -12071,19 +12071,19 @@ dimensional ripper - lugar 52
 
 dimensional sipsipin
 dimensius pagpapakain
-
+bawasan
 diminish kapangyarihan
 diminish kaluluwa
 diminsh kapangyarihan
 diminutive supot
 dinah manika orasyon
 dingy salamangkero sombrero
-
+hapunan
 dinner oras
 dino anyo
 dino karne kredito
 dino-pagkumpuni
-
+diplomasya
 diplomatic kaligtasan
 nakakatakot hayop
 nakakatakot hayop pokus tsuper
@@ -12102,7 +12102,7 @@ direbrew salakay
 direbrew's agawan ng armas
 direct pinsala
 direksyon
-
+mga direksyon
 Direktor
 direhorn salakay
 direhorn salakay epekto
@@ -12110,7 +12110,7 @@ direhorn pagbabalatkayo
 direhorn pasibo
 direhorn pasibo epekto
 direhorn runt
-
+panaghoy
 
 dirk's rememberin' lason
 dumi
@@ -12151,11 +12151,11 @@ nakakabaldado epekto
 nakakabaldado lason
 nakakabaldado transporter misyon kredito
 Kahinaan
-
+hindi sang-ayon
 disallow demonyo bilog tawagin
+maglaho na
 
-
-
+nakakadismaya
 agawan ng armas
 agawan ng armas bomba bot
 agawan ng armas tagal pagbawas
@@ -12165,7 +12165,7 @@ agawan ng armas sarili
 agawan ng armas kalasag pagsubok
 agawan ng armas pagsubok
 agawan ng armas bitag
-
+dinisarmahan
 disarming apoy
 disarming galit
 disarming galit epekto
@@ -12180,27 +12180,27 @@ disciple ng elune pagkadi-nakikita q1
 disciplinary aksyon
 disciplinary tungkod
 disiplina
-
+disiplinado
 disciplined mangkukulam
 disciplined kapangyarihan
 disciplines excluded aura
 disciplining tungkod
 disco bola
 discolored paggaling inumin
-
+lituhin
 discombobulator sinag
 Disconnect
-
+nadiskonekta
 disconnected muli
 disconnected mula server
 
 discordant pagsulpot biswal
 diskwento
 Tuklasin
-
+natuklasan
 discreet mahika
-
-
+pag-usapan
+paghamak
 sakit
 sakit hininga
 sakit latigo
@@ -12222,14 +12222,14 @@ disembodied jormungar patayin kredito
 
 disenchant biswal
 
-
-
+umaatras
+pagkalas
 disgustado
 disgustado galit
 pagbabalatkayo
 disguised marmot
-
-
+pagkasuklam
+nasusuklam
 kadiri
 nakakadiri oozeling
 nakakadiri spora
@@ -12238,19 +12238,19 @@ nakakapanghina suntok iii
 nakakapanghina suntok iv
 nakakapanghina suntok v
 nakakapanghina tawa
-
-
+walang dangal
+nadismaya
 pagkawatak-watak
 pagkawatak-watak sinag
 pagkawatak-watak sinag precast
 pagkawatak-watak laser
+pagkakahiwalay
 
-
-
+baklasin
 dismantle baluti
 dismantled baluti
-
-
+putul-putulin
+pumuputol
 dismembering bangkay
 pauwiin
 pauwiin gargoyle
@@ -12274,7 +12274,7 @@ pagbaba pagsabog
 pagbaba suntok
 pagbaba putok
 pagbaba sumibol
-
+lituhin ang direksyon
 
 disorienting atungal
 disorienting tili
@@ -12300,9 +12300,9 @@ iwaksi bitag
 dispell dugongipin
 dispelling pagsusuri
 
-
+ikalat
 disperse neutralizing ahente
-
+kumakalat na
 pagkalat
 pagkalat bomba biswal
 pagkalat takbo
@@ -12338,13 +12338,13 @@ gumagambala ang artifact
 pagkagambala
 pagkagambala sinag
 disruptor pagsabog
-
+disertasyon
 
 
 dissolve baluti
 dissolve mineral
 dissonance bukid
-
+distansya
 distance tagatunton
 distant liyab
 distillation kumpleto
@@ -12424,12 +12424,12 @@ pagsisid walisin
 
 divining balumbon orasyon
 divining trance
-
-
-
-
-
-
+pagka-diyos
+dibisyon
+pagkakawatak-watak
+diborsyo
+pagkahilo sa ulo
+nahihilo
 dizzying ulap
 dizzying ulap pampaganda
 
@@ -12491,7 +12491,7 @@ docks bandila neutral i-click
 docks bantay puntos tagatunton aura
 doktor
 
-
+dokumentaryo
 iwasan
 iwasan likod
 iwasan salakay
@@ -12538,10 +12538,10 @@ ginagawa dailies
 dojani eel kuryente
 manika
 Dolphin
-
+paamuin
 kapangyarihan
 kapangyarihan offensive dakila parangal
-
+nangingibabaw
 dominant isip
 maghari
 maghari nilalang
@@ -12549,7 +12549,7 @@ maghari demonyo
 maghari dakila pating - triggered
 maghari isip
 maghari isip proteksyon
-
+dinomina
 dominated pandaren kalayaan kredito
 dominating hampas
 paghahari
