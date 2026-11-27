@@ -12652,7 +12652,7 @@ door התפוצצות
 door אש
 
 
-
+כפיל
 doren הרוג קרדיט
 doren שלב shift
 dormus החזק camels anim
@@ -12676,16 +12676,16 @@ dos ו don'ts
 כפול-להב lunge
 כפול-קצה thrash
 כפול-stitched woolen כתפיים
-
-
+ספק
+מפוקפק
 doubting נפש
 douse brazier אש
 douse נצחי להבה
 douse אש
 douse להבות
 douse roof אש
-
-
+הוצף
+הרטבה
 
 dousing להבות
 למטה
@@ -12694,15 +12694,15 @@ dousing להבות
 למטה ל אדמה
 למטה ל ה wire
 downhill מאז
-
-
-
+הורדה
+מוריד
+צמצום
 
 למטהזמן
 downwind של altairus
 dowse נצחי להבה
-
-
+חיפוש מים
+מנמנם
 dozing הילה עיכוב
 נזק
 נזק מטיל קריטי נזק bonus
@@ -12731,7 +12731,7 @@ draenei רוח חזותי 2
 draenei survivor מוהלם
 draenei tomb שומר לחש
 
-
+טיוטה
 drag גוף
 drag מוקש cart
 drag מוקש cart בדיקה
@@ -12861,7 +12861,7 @@ dragonstrike מכנסיים
 ניקוז ה חלש
 ניקוז עולם עץ חזותי
 ניקוז עולם עץ חזותי 2
-
+מרוקן כוח
 
 drained של כוח
 ניקוז מכה
@@ -12902,10 +12902,10 @@ drakuru מוות
 drakuru היעלמות blightblood
 drakuru שינוי
 drakuru's גולגולת טיל
+דרמה
 
-
-
-
+דרמטי
+שתה
 draught של מלחמה
 משוך
 משוך עתיק glyphs
@@ -12928,7 +12928,7 @@ draught של מלחמה
 משוך sports
 משוך vita
 משוך מים sample
-
+חסרונות בעבודה
 drawing ערכה
 drawn קסם
 drawn נשמה
@@ -13018,9 +13018,9 @@ dreamweave אפוד
 dreamwraps של ה אור
 
 
-
+ספוג
 drenched ב mojo
-
+שמלה
 
 
 dressed ל impress קרדיט
@@ -13030,7 +13030,7 @@ dressed ל הרוג
 
 
 drifting vapors של ה שלג lily
-
+מקדחה
 drill שריון
 drill מטען
 
@@ -13067,11 +13067,11 @@ drill מטען
 לשתות בקבוקון
 לשתות מים
 לשתות wine
+שתייה
 
+משקאות
 
-
-
-
+נסיעה
 
 
 
@@ -13132,9 +13132,9 @@ drone התגרות
 הפל zanzil's שיקוי
 הפל-כבוי מחזורי
 הפל2
-
+טיפה
 droplet של y'shaarj
-
+נושר
 נפל
 נפל נשק
 droppin פצצות
@@ -13147,7 +13147,7 @@ drostan דלוק הופעה
 drowned gilnean רוח מעוף
 drowned מסך אפקט
 drowned מצב
-
+טביעה
 drowning מוות
 drowning militia בובה
 drowning vehicle יציאה בובה
@@ -13195,7 +13195,7 @@ drunken גולגולת crack
 drunken sleeping לישון
 
 
-
+יבש
 
 
 
@@ -13205,21 +13205,21 @@ dual להבים
 
 dual wield 2h מבחן
 ducal's סוס הפעל
-
+אחי הגבר
 due ל
-
+דו-קרב
 duel הילה בדיקה
 duel הילה בדיקה 01
 duel דגל
 duel ניצחון
-
-
+דו-קרבן
+משעמם
 dull chitinous ריכוז
 dull emberstone ריכוז
 dull pyreshell ריכוז
 dull rhyolite ריכוז
 
-
+טיפש גמור
 
 
 dumb תחת
@@ -13360,12 +13360,12 @@ dwarven גרזן
 
 
 
-
+להצטמק
 dyamite פיצוץ
 
 dying נשימה
 dying קללה
-
+דינמי
 
 dynamite הילה
 dynamite פיצוץ
@@ -13375,7 +13375,7 @@ dynasty של פלדה
 כל
 כל אחר
 eadric הישג
-
+להוט מאוד
 נשר
 נשר טופר
 נשר עין
@@ -13393,9 +13393,9 @@ eaglebane צמידים
 מוקדם משחק
 מוקדם בוקר מחר
 מוקדם הצג
-
-
-
+להרוויח
+אוזניות
+אוזניים
 אדמה
 אדמה קרן
 אדמה פיצוץ
@@ -13480,7 +13480,7 @@ earthguard relieved קרדיט
 earthliving חזותי
 earthliving נשק
 earthpeace שריון חזה
-
+רעידת אדמה
 earthquake מצלמה shake
 
 earthquake הפעל
@@ -13490,10 +13490,10 @@ earthshadow טבעת
 earthsoul מגפיים
 אדמהמכה
 
-
+קל יותר
 easier said than גמור
 easier said than גמור phrase
-
+בקלות
 מזרח
 מזרח frostwolf warmaster
 מזרח צד
@@ -13501,7 +13501,7 @@ easier said than גמור phrase
 מזרח survey השלם
 מזרח מקדש arrival scene
 מזרח מקדש עשן פצצה
-
+פסחא
 easter lay noblegarden ביצה הילה
 eastern אש הילה
 
@@ -13539,8 +13539,8 @@ eastern אש הילה
 לאכול דרך רשת
 לאכול trog
 לאכול2
-
-
+נאכל
+אוכל עכשיו
 
 
 
@@ -13572,7 +13572,7 @@ ebonsteel חגורה buckle
 
 ebonweave כפפות
 ebonweave גלימה
-
+ספר אלקטרוני
 
 echo פיצוץ
 echo של archimonde
@@ -13585,7 +13585,7 @@ echoes מ ה past
 echoes של אור
 echoes של lordaeron
 echoes של memory
-
+מהדהד
 echoing קרב לצעוק
 echoing שאגה
 echoweb רעלן
@@ -13594,23 +13594,23 @@ eck נשיכה
 
 eck יריקה
 
-
+ליקוי
 eclipse אנרגיה
 eclipse סמן
 eclipse איפוס
 eclipse חזותי
 
-
-
-
-
+אקולוגיה
+כלכלה כמדע
+כלכלה
+מערכת אקולוגית
 
 
 
 קצה
 קצה של חורף
 edicts של ה רעם מלך
-
+נערך
 
 
 
@@ -13618,12 +13618,12 @@ eerie ערפל
 eerie גולגולת
 eerie smolderthorn אליל
 אפקט
-
+יעיל
 effective קבוצה
-
-
+תסיסה
+יעילות
 efficiency הוא מפתח
-
+חסכוני
 
 
 
@@ -13653,15 +13653,15 @@ effulgent פראי jade
 ביצה yolk
 ביצה-splosive מטח
 
-
-
+יציאה החוצה
+הא
 ei שלב
 
 שמונה
-
-
-
-
+שמונה עשרה
+שמיני
+שמונים
+אחד מהשניים
 either או
 
 eject כולם passengers
@@ -13689,7 +13689,7 @@ ejection לחש
 
 
 
-
+מרפק
 elder קמע
 
 elder shu bandage חזותי
@@ -13720,7 +13720,7 @@ electrical עומס יתר primer
 electrical הלם
 electrical סערה
 electrical סערה pre-מטרה
-
+מחושמל
 electrified שרשראות
 
 electrified קרקע
@@ -13735,8 +13735,8 @@ electro-magnetic פעימה
 electro-הלם
 electro-הלם therapy
 electro-מכה
-
-
+לחשמל
+התחשמלות
 
 electromagnetic מחסום
 
@@ -13744,7 +13744,7 @@ electromagnetic מחסום
 electromagnetic פעימה
 electromancer ju'le קרדיט
 
-
+הלם חשמלי
 electrostatic מטען
 
 
@@ -13756,7 +13756,7 @@ elegon שלל
 elegon הופעה קוסמטי
 elekk dispersion קרן
 elekk dispersion קרן - הרוג קרדיט
-
+יסוד
 יסודי
 יסודי שריון
 יסודי backwards מוות
@@ -13845,11 +13845,11 @@ elementium טרור
 
 elements סרגל
 elendilad זימון script
-
+פיל
 elevator הדיפה
-
+אחת עשרה
 שדון
-
+עילית
 
 אליקסיר
 שיקוי אדון
@@ -13951,26 +13951,26 @@ elune's response אפקט
 elune's ritual של מלחמה
 elune's מגע
 elune's חמה
-
+חמקמק
 elusive משקה
 elusive משקה קוסמטי
 elusive כוח
-
+חמקמקות
 elven device הפעלה ping
 
 elwynn יער
 elwynn יער זאב
 
-
-
+דוא"ל
+לשחרר
 embalming ענן
 embarrass אותו
-
-
+נבוך
+מביך מאוד
 
 embarrassing לשחק
 embarrassing עצמך
-
+מבוכה
 embedded להב
 embedded חנית
 גחלת פיצוץ
@@ -14037,7 +14037,7 @@ embrace של ה shale עכביש
 embrace של ה עכביש
 embrace של ה twisting nether
 embrace של ה vampyr
-
+אזמרגד
 emerald acorn אפקט
 emerald תיק
 emerald מטח
@@ -14058,13 +14058,13 @@ emerald גשם
 
 
 
-
+לצאת
 emerge מ שלג
 emerge מ שלג - kun lai
 emerge מצב
 emerge זימון
 emerge חזותי
-
+הופעה
 
 
 
@@ -14084,7 +14084,7 @@ emergency רקטה pack
 emergency רקטה-pack
 emergency רקטה-pack xtreme
 emergency שיגור
-
+רוממות
 
 emissary של ייאוש קרדיט
 emissary של אימה קרדיט
@@ -14114,12 +14114,12 @@ emote דבר
 emote דבר exclamation
 emote דבר question
 
-
+רגשי
 emotional מחסום
 
+דופק אלקטרומגנטי
 
-
-
+אמפתיה
 empathy של אבן
 
 
@@ -14205,7 +14205,7 @@ enable unit מסגרת
 enable vehicle יכולות
 enable worgen altered צורה
 
-
+לכלוא בכלוב
 
 
 
@@ -14610,11 +14610,11 @@ enchanter's ברדס
 מפגש
 מפגש אירוע
 מפגש הופעה
-
+עודד
 
 encroaching weed buddy הילה
 
-
+עמוס
 encumbered אזהרה
 סוף
 סוף ambush
@@ -14662,7 +14662,7 @@ enduring רוח
 אויב דלוק שלך שמאל
 אויב דלוק שלך ימין
 אויב spotted
-
+אנרגטי
 
 הטען
 הטען דם רון
@@ -14733,18 +14733,18 @@ energizing ניפוץ
 אנרגיה usage
 אנרגיה vortex
 אנרגיה2
+להתיש
+מותש
 
-
-
-
-
+להחליש מאוד
+מוחלש
 enfeebling מכה
 
 enforcers מוכן
-
+להתעסק
 engage ב יהיה
 
-
+אירוסין
 engaging ב שלוש
 
 engine אש
@@ -14753,14 +14753,14 @@ engine דלוק אש
 
 הנדסה
 הנדסה specialization
-
+אנגלית
 english בבקשה
 
 
 
 engraved truesilver טבעת
 engulf ב להבות
-
+נבלע
 engulfed פיצוץ
 engulfed ב להבות
 בולע חושך
@@ -14788,7 +14788,7 @@ enhanced אינטלקט
 enhanced כוח
 enhanced sunder שריון
 enhancement שמאן
-
+חידה
 
 
 
@@ -14797,14 +14797,14 @@ enigmatic קדמוני diamond
 enigmatic צלרוח diamond
 
 
-
-
+ליהנות
+מהנה
 enjoying אחד קר אחד
 
+להגדיל
 
-
-
-
+נאור
+הארה
 enohar's נפיץ arrow
 
 enormous gyreworm מצב
@@ -14841,17 +14841,17 @@ enraging מכה
 enriched lasher שורש
 
 
-
+לשעבד
 enslave שד
 enslave gronn קוסמטי
 
 enslaved נשמה סביל
-
+ללכוד
 
 
 ensnaring מלכודת
 ensorcelled nerubian שריון חזה
-
+לסבך
 entangliing שורש חזותי
 entangling אחיזה
 entangling רשת
@@ -14876,17 +14876,17 @@ entangling ירייה
 כניסה2
 entering הילה
 entering שדה קרב
-
-
-
-
+נלהב
+מפתה מאוד
+שלם
+לקבור
 entrails שינוי
 כניסה
-
+לכידה
 
 
 entrapping roots זימון
-
+יזם
 entropic הילה
 
 entropius גוף
@@ -14897,14 +14897,14 @@ enveloping חושך
 
 
 enveloping רוחות
-
+להרעיל
 envenomed פגיון זרוק
 
 envenomed ירייה
-
+סביבה
 
 envoker's מגן
-
+קנאה
 
 
 eoin's חבית
@@ -14914,13 +14914,13 @@ ephemeral כוח
 אפי כשל
 אפי סגול חולצה flex
 אפיכניסה
+אנין טעם
+
+התגלות
+פרק בסדרה
 
 
-
-
-
-
-
+שוויון
 
 לצייד
 צייד flamethrower
@@ -14929,14 +14929,14 @@ ephemeral כוח
 צייד נשק
 צייד2
 ציוד
-
+למגר
 eranikus ה chained invisiibility
 eric's מטען
 eric's pocket קסם שתייה
-
+אממ
 eroding גשם
-
-
+לטעות
+שגיאה
 error - לא while mounted
 
 erunak vision הילה 01
@@ -14947,7 +14947,7 @@ erunak's ברק
 
 erunak's meatstick חזותי
 
-
+להתפרץ
 erupting אש
 erupting להבה
 erupting קרח
@@ -14956,9 +14956,9 @@ erupting pool של כעס
 
 
 erupting מים
-
+התפרצות
 escalating כוח
-
+הסלמה
 לברוח
 לברוח artist
 לברוח טפרים
@@ -14983,7 +14983,7 @@ escorting ה נסיך
 eskhandar's זעם
 
 
-
+ספורט אלקטרוני
 espresso אבק
 
 מהות flow
@@ -15021,12 +15021,12 @@ espresso אבק
 מהות של wrathion
 מהות של y'shaarj
 מהות של yu'lon
+חיוני
+ביסודו
 
 
-
-
-
-
+זמן הגעה
+וכו'
 
 
 
@@ -15093,27 +15093,27 @@ eternium runed להב
 ettin's פה
 etymidian יציאה בובה
 etymidian רוכב חסינות
-
-
+אופוריה
+אירופה
 evacuee היעלמות
 
 evacuee reaches דרקוןכימשון
 
-
+אוונגליזם
 evanor's prison שרשראות
 
-
-
-
+אידוי
+התחמקות
+מתחמק
 
 evasive הילה
 
 
 
+אפילו
 
 
-
-
+ערב
 evening לחסום
 
 אירוע
@@ -15161,7 +15161,7 @@ eversong battered ארגז מלכודת בובה
 כלאיפה
 evict נשמה
 evicted נשמה
-
+ראיות
 evidence סמן
 evidence סמן נעלם
 רשע
@@ -15174,7 +15174,7 @@ evidence סמן נעלם
 רשע הוא אחד נקודה של view
 רשע שיגור חזותי רק
 רשע twin
-
+לבקר את הבטן
 eviscerate ו envenom bonus נזק
 eviscerate ו envenom discount
 
@@ -15185,18 +15185,18 @@ eviscerator's כפפות
 
 
 
-
+העלאה באוב
 
 evoker מחלקה
-
+אבולוציה
 ewer של jormungar דם
-
+מדויק לגמרי
 בדיוק
 בדיוק correct
 בדיוק ימין
 בדיוק ה אותו
 בדיוק מה אני needed
-
+נעלה
 exalted הילה
 exalted הילה אפקט
 exalted shattered שמש offensive הילה
@@ -15205,14 +15205,14 @@ exalted עם
 
 examine jade פסל
 
-
+דוגמה
 exarch's כישוף
 exceeded שלי expectations
 exceeded ה hype
+מצוין
 
 
-
-
+חוץ מ
 exception ל ה rule
 exceptional בריאות
 exceptional מאנה
@@ -15224,7 +15224,7 @@ exchange פריט
 
 סלח לי
 excuse אותי בבקשה
-
+להוציא להורג
 execute forsaken אסיר
 
 execute שלב
@@ -15233,23 +15233,23 @@ execute אסיר
 
 execute ה plan
 
+הוצאה להורג
 
-
-
-
-
-
+תליין
+מוציא לפועל
+תרגיל
+לנשוף
 
 exhausted אבל עדיין הולך
 
 
+מתיש
+תשישות
 
-
-
-
-
-
-
+להמריץ
+התרוממות רוח
+גלות
+להתקיים
 יציאה
 יציאה deathmatch
 יציאה עזרה מצב
@@ -15272,16 +15272,16 @@ exodar פורטל מצב
 
 exorcise רוחות
 exorcising manifestation של כעס
+גירוש שדים
 
-
-
+מגרש שדים
 
 
 expanded נפש
 
 expansive נפש
 expansive נשמה
-
+לצפות
 expect ה unexpected
 expect ה הגרוע ביותר
 expected לא פחות
@@ -15299,7 +15299,7 @@ Prophet of the Flame Transform 02
 ניסיון
 ניסיון הוא ה הטוב ביותר teacher
 ניסיון2
-
+מנוסה
 experienced guide היעלמות הפעל
 experienced שחקנים
 
@@ -15326,10 +15326,10 @@ experiment ערוץ
 מומחה tailor
 
 
-
+להסביר
 explain ה להילחם
 explain עצמך
-
+הסבר
 
 
 התפוצצות
@@ -15386,11 +15386,11 @@ exploded דג
 מתפוצץ רעם אבן
 
 explodo-rockets שמאל
-
+ניצול
 exploit חולשה
 exploited חולשה
-
-
+מנצל
+חוקר
 
 פיצוץ
 פיצוץ fade רחוק
@@ -15449,7 +15449,7 @@ exposed לב
 expunge רעל
 
 
-
+לנקז דם
 
 
 extending שלנו coverage - נטישה
@@ -15458,12 +15458,12 @@ extermination קרן
 
 external התקררות
 
-
+לכבות
 extinguish כולם חיים
 extinguish אש
 extinguish אש attempt
 extinguish להבות
-
+מכבה
 
 extra action כפתור cover לחש
 extra נזק היחלשות
@@ -15479,19 +15479,19 @@ extract של ה afterlife
 extract שמן
 extract שמן אפקט
 
+חוץ לימודי
 
 
 
-
-
-
+חגיגה גדולה
+קיצוני
 extreme בישול
 
 extreme hozen-fu אפקט
 
 
 extreme-פגיעה חור puncher
-
+מאוד מאוד
 
 
 עין
@@ -15605,7 +15605,7 @@ Corrupting Crash Targeting
 פנים2
 faceless איפוס
 faceless טרנספורמציה
-
+יד על הפנים
 faces של doom
 facet של נצח
 
@@ -15613,12 +15613,12 @@ facing ערוץ
 facing ערוץ קרן
 
 facing wrong דרך
-
+פלג
 faction שינוי
 
 
 
-
+עובדות
 
 fade שריון
 fade בחוץ
@@ -15633,7 +15633,7 @@ faded יער סמל
 faded יער מדליה
 faded יער מדליון
 faded לתוך twilight
-
+דועך
 fading שחיתות
 fading אור
 fading יהיה
@@ -15662,9 +15662,9 @@ fahrad's true צורה
 כישלון
 כישלון טיימר הילה
 
-
+מתעלף
 faintly-זוהר herb
-
+הוגן
 fair ו square
 fair מספיק
 fair רחוק clip
@@ -15673,7 +15673,7 @@ fair נקודה
 
 fair אזהרה
 
-
+מזויף
 fake דם spurt
 fake מוות
 fake ירייה
@@ -15728,12 +15728,12 @@ falcon's קרא
 נופל vase פיצוץ
 
 falls כבוי
-
+שקרי
 false התחל
 
-
-
-
+לגמגם
+משפחה שלי
+תהילה
 
 משפחה
 משפחה משחק זמן
@@ -15741,7 +15741,7 @@ false התחל
 משפחה issue
 משפחה jewels
 משפחה2
-
+מפורסם
 fan של bananas
 fan של להבים
 fan של feathers
@@ -15752,7 +15752,7 @@ fanatic להב
 fanatic להב אפקט
 
 fanatical מכה
-
+קנאות
 
 fancy עליון כובע
 fandral בורא הילה
@@ -15762,7 +15762,7 @@ fandral's להבה
 ניב של ה גביש עכביש
 fanged גלימה pin
 fangs של ה ירח
-
+פנטסטי
 fantasy ספר
 רחוק
 רחוק רחוק
@@ -15776,7 +15776,7 @@ fantasy ספר
 רחוק sight טוטם
 רחוק עליון
 רחוק-seeing עיניים
-
+פרידה
 fargo flintlocke משימה נעלם אחד
 fargo flintlocke משימה נעלם b
 חרישה
@@ -15803,7 +15803,7 @@ farming זה בוס
 מהיר track
 מהיר2
 fastening שרשרת
-
+מהר יותר
 faster regrowth הטל
 
 fat תחת
@@ -15829,11 +15829,11 @@ fate רון של fleet רגליים
 fate רון של nigh invincibility
 fate רון של קדמוני אנרגיה
 fate רון של unsurpassed vigor
-
+אבא שלי
 father winter's עוזר
 father winter's עוזר unsummon
 
-
+עייפות
 
 
 favor של ה kings
@@ -15869,7 +15869,7 @@ favorable רוחות
 פחדפחות
 פחדפחות enabler
 fearless שאגה
-
+פחדים
 fearsome יללה
 fearsome שאגה
 fearwurm תג
@@ -15894,13 +15894,13 @@ feathered זעם
 feathered זהב earring
 
 feathered raptor זרוע
-
+קל כנוצה
 feathers של זעם
 feathery ציקלון פיצוץ
 feathery פיצוץ
-
-
-
+תכונה
+פוריות
+האכיל
 feeble גוף
 
 האכל
@@ -15934,13 +15934,13 @@ feeble גוף
 האכל young
 האכלאחורה
 האכלאחורה proc
-
+מאכיל
 
 feeding טירוף
 feeding סלע falcon
 feeding ה חיה
 feeding ה brood
-
+להרגיש
 feel טוב יותר
 feel ה שרוף
 feel ה flavor
@@ -15954,7 +15954,7 @@ feeling טוב על זה אחד
 feeling laid אחורה
 feeling עייף
 feeling גרוע יותר
-
+מרגיש
 
 feels like אתמול
 רגליים
@@ -15963,8 +15963,8 @@ feels like אתמול
 fei li שומר הילה
 feign ו drown
 feign מוות
-
-
+מעושה
+הטעיה
 
 
 
@@ -16156,7 +16156,7 @@ felsteel מגן קוץ
 
 felstrom תחייה
 felsworn gas מסכה
-
+הרגיש
 
 
 
@@ -16194,7 +16194,7 @@ fengir's הילה
 פראי vermling
 
 
-
+להתסיס
 fern feeder טיל
 fern feeder טיל אפקט
 fern feeder חזותי
@@ -16202,11 +16202,11 @@ ferocious נשיכה
 
 ferocious טופר
 ferocious הכעס
-
+פראות
 fertile קרקע
 
-
-
+דשן
+להט
 fester דם
 festered דם
 festering נשיכה
@@ -16275,7 +16275,7 @@ feverish מוותנשיכה
 
 
 
-
+סיפורת
 שדה
 שדה disruption
 שדה goal
@@ -16384,10 +16384,10 @@ fieroclast מטח
 לוהט web spin
 לוהט כנפיים
 לוהט חמה
+חמש עשרה
 
-
-
-
+חמישי
+חמישים
 
 fifty אחוז
 להילחם
@@ -16406,7 +16406,7 @@ fighting דג
 fighting מרפא rescued הילה
 
 
-
+מריבות
 
 figment של doubt
 figments של longing
@@ -16441,8 +16441,8 @@ figurine - ruby נחש
 
 
 figurine - twilight נחש
-
-
+קובץ
+פילה
 filet של redgill
 
 fill 15 מעגל
@@ -16468,14 +16468,14 @@ fillet עיוור cavefish
 fillet ענק catfish
 fillet של טירוף
 fillet royal נזירדג
-
+מילוי
 filling חבית
 filling ריק jar
 filling בקבוקון
 filling חבית
 filling marmot חור
-
-
+סרט
+מסנן
 
 filthling סביל
 
@@ -16497,10 +16497,10 @@ final שלב
 final מטח
 
 final חמה
-
+סיום
 finale השלמה שלב
 finale פיצוץ
-
+סוף סוף
 finally גמור בשביל tonight
 finally נפל
 
@@ -16533,7 +16533,7 @@ finally קיבל ב
 מצא2
 finding jaina קרדיט
 finding sylvanas קרדיט
-
+מוצא
 בסדר
 בסדר bloodscalp dinnerware
 בסדר גביש candelabra
@@ -16553,7 +16553,7 @@ finding sylvanas קרדיט
 אצבע
 אצבע של מוות
 אצבע של מוות coolup
-
+אצבעות
 
 fingers של כפור
 fingers של ה damned
@@ -16734,18 +16734,18 @@ fire's זוהר
 אשפריחה
 אשברק
 אשפצצה
-
+נשיפת אש
 אשפיצוץ
 
-
+חזיזים
 firefighting ציוד
-
+גחלילית
 אשצורה
 אששומר
 
 firegut פחד סערה
 
-
+זרנוק
 Firelands Object Visual
 
 fireproof רשת
@@ -16813,7 +16813,7 @@ firing שדה תותח
 דג snack
 דג tails
 דג זרוק
-
+דייג
 
 fisherman's כובע מצב
 דיג
@@ -16824,7 +16824,7 @@ fisherman's כובע מצב
 דיג poles
 דיג raft
 fishliver שמן
-
+חשוד כמו דג
 
 
 אגרוף cleave
@@ -16837,7 +16837,7 @@ fishliver שמן
 אגרוף ניפוץ
 אגרוף נשק
 אגרוף weapons
-
+קרב אגרופים
 
 אגרופים של נסתר זעם
 אגרופים של להבה
@@ -16848,7 +16848,7 @@ fishliver שמן
 אגרופים של ברק
 אגרופים של אבן
 fitful חלום
-
+כושר
 חמש
 חמש ארבע שלוש שניים אחד
 חמש ללכת
@@ -16859,7 +16859,7 @@ fitful חלום
 חמש-ירייה
 
 
-
+להתקבע
 fixate כעס
 fixate קרן קוסמטי
 fixate שד בורא
@@ -16869,16 +16869,16 @@ fixate דלוק כתום carrier
 fixate onhit סביל
 fixate כיוון
 fixate הפעל
-
+מקובע
 fixated זינוק
 fixated זעם
 fixated זעם primer
-
+תוקן
 fixing ה issue
 fizzcrank parachute שיגור מטרה
 fizzcrank pilot - gett כבוי plane
 
-
+לפשל
 
 fizzy משקה
 
@@ -16892,7 +16892,7 @@ fizzy אנרגיה לשתות
 דגל משימה
 דגל wodin's mantid shanker
 flagged בשביל שחקן נגד שחקן
-
+דגלים
 
 flail של go'rath
 flak מטח
@@ -16900,7 +16900,7 @@ flak מטח פגיעה
 flak תותח
 flak אש
 flak אש פגיעה
-
+לא אמין
 להבה
 להבה שריון ערכה
 להבה arrow
@@ -17129,10 +17129,10 @@ flameward מופעל
 flammable שמן
 flank ה בוס
 flank אותם
+איגוף
 
 
-
-
+לנפנף
 זיקוק
 זיקוק gun
 זיקוק למעלה
@@ -17201,12 +17201,12 @@ flashback מסך אפקט
 בקבוקון של titanic כוח
 בקבוקון של winter's נשיכה
 בקבוקון למעלה
-
-
+בקבוקונים
+שטוח
 flat נזק reduction
 flat spin מצב
 flattery יהיה קבל אתה nowhere
-
+להפליץ
 flawless aquatic קרב-אבן
 
 flawless קרב-אבן
@@ -17219,10 +17219,10 @@ flawless humanoid קרב-אבן
 flawless קסם קרב-אבן
 flawless mechanical קרב-אבן
 flawless מת חי קרב-אבן
-
+לפשוט עור
 flayed חי
 flayed בשר
-
+פושט עור
 
 
 
@@ -17251,12 +17251,12 @@ fleshbeast שינוי
 fleshwerks שלב
 fletcher's כפפות
 fletcher's כפפות של ה phoenix
-
+להתגאות
 flex בחר
 flex פשיטה
 
-
-
+גמיש
+מתגאה בשרירים
 
 flickering להבה
 flickering להבות
@@ -17276,7 +17276,7 @@ flickering להבות
 מעוף ל sholazar
 מעוף ל sholazar מחזורי
 מעוף חזותי מצב
-
+להשליך
 fling להב
 
 
@@ -17298,15 +17298,15 @@ flip ל light's תקווה
 
 
 flitterling אבק
-
-
+לצוף
+צף
 floating מוות
 
 floating רוח
 floating vortex אפקט
 
 flock קרא
-
+הצפה
 flood ה שיחה
 
 floor הוא lava
@@ -17317,7 +17317,7 @@ flooz פגיעה
 flooz הפרעה
 
 flour פיצוץ
-
+לשגשג
 flow של gratitude
 flow של knowledge
 flow של ה elements
@@ -17329,12 +17329,12 @@ flow של זמן
 פרח כוח
 פרח scaling
 פרח shower
-
+פרחים
 flowers של ה מת
 
 fluid like מים
 fluid טיימר חיזוק
-
+זורמות
 fluorescent ירוק mechanostrider
 
 flurry גרזן
@@ -17344,9 +17344,9 @@ flurry של טפרים
 flurry של אגרופים
 flurry של שיניים
 flurry של xuen
-
+להוריד מים
 flute של ה ancients
-
+לרפרף
 
 
 
@@ -17450,16 +17450,16 @@ foaming זעם
 ממוקד מכות
 ממוקד יהיה
 ממוקד חמה
-
+מתמקד
 ערפל
 ערפל של שחיתות
 ערפל של ה kualdir
 ערפל של זמן
-
+ערפילי
 folded רוח ברזל
 
 
-
+חבר'ה
 לעקוב
 עקוב אותה
 עקוב אותו
@@ -17473,12 +17473,12 @@ folded רוח ברזל
 עקוב אותנו
 עקוב שלך gut
 עקוב2
-
+עוקב
 
 following זה
-
+עוקב אחרי
 לעקובדרך
-
+פחד להחמיץ
 אוכל
 אוכל שבור
 אוכל חיזוק
@@ -17496,7 +17496,7 @@ fool's זהב
 
 
 
-
+כדורגל
 
 foothold מתקפה song
 
@@ -17525,11 +17525,11 @@ footwraps של quenched אש
 בשביל אתה
 בשביל שלך information
 בשביל2
-
-
+ללקט
+איפוק
 forbidden קסם
 forbidding ים הילה
-
+תחושה רעה
 forbosi throws ל tayemba
 כוח
 כוח ו verve
@@ -17602,7 +17602,7 @@ forcecast זימון שמאן
 forcecast זימון zepik
 forcecast switch ל seat 3
 כוחלזרוק trapcap
-
+כפוי
 
 forced פתח edict של temperance
 forced ל choose
@@ -17627,7 +17627,7 @@ forced ל choose
 תקיף זרוק
 תקיף פראי jade
 
-
+תחזית
 foreman's מוקסם קסדה
 
 foreman's reinforced קסדה
@@ -17662,21 +17662,21 @@ forgemaster הופעה קוסמטי
 forgemaster's גרזן
 
 forgemaster's שרביט
-
+לשכוח
 forget על it
 
-
+שוכח
 forgewire גרזן
-
+חישול
 forgive אותי
-
-
+מחילה מלאה
+שכחתי
 forgotten הילה
 forgotten depths פצצה
 forgotten hills זימון
 
 
-
+מזלג
 forked להב חזותי
 forked אש-ירייה
 
@@ -17693,7 +17693,7 @@ forlorn spire מצלמה blackout
 צורה של rokkaram
 צורה של ה moonstalker
 formal לבן חולצה
-
+מבנה
 formation grounds שיגור
 forming מסגרת של atiesh
 forming קבוצה
@@ -17707,9 +17707,9 @@ forsaken מגפה ענן
 
 
 fort grookin מלחמה prep
-
+צד חזק
 fortification של shattrath
-
+מבוצר
 fortified שבוע
 fortify אבן הילה
 fortifying משקה
@@ -17722,16 +17722,16 @@ fortifying משקה
 חוסן הפעל
 
 
+למרבה המזל
 
-
-
+ארבעים
 קדימה
 קדימה thrust
 
 
 fossilized גור
 
-
+נלחם
 מטונף
 מטונף פיצוץ
 מטונף צינה
@@ -17746,9 +17746,9 @@ fossilized גור
 מטונף stream
 מטונף ארס
 מטונף מים
-
+טינופת
 foulstream טוטם
-
+נמצא
 found אויב
 found מטרה
 foundations של courage
@@ -17759,8 +17759,8 @@ fountain של skulls
 ארבע שעה פשיטה
 ארבע חתיכה bonus
 ארבע senses משקה
-
-
+ארבע עשרה
+רביעי
 שועל
 שועל ערכה
 
@@ -17769,7 +17769,7 @@ fountain של skulls
 fps הפל
 fps משחק
 
-
+שבר
 
 
 fractured chimera's עין
@@ -17788,12 +17788,12 @@ frail נשמה
 
 
 מסגרת
-
+צרפת
 
 
 frantic זינוק
 
-
+מרופט
 freak בחוץ
 freakin' laser קרן
 שחרר
@@ -17841,7 +17841,7 @@ freakin' laser קרן
 
 
 
-
+פרילנסר
 freewind אמיץ
 הקפאה
 הקפא anim
@@ -17876,7 +17876,7 @@ freewind אמיץ
 מקפיא רוח
 מקפיא רוחות
 freezya פיצוץ
-
+צרפתית
 frenetic הסתערות
 מטורף מתקפה
 מטורף bloodthirst
@@ -17916,22 +17916,22 @@ frenzyheart's זעם
 טרי lockout
 טרי pine scent
 טרי התחל
-
+שנה ראשונה
 freya בובה
 freya בובה כחול
 freya בובה ירוק
 freya בובה צהוב
 freya זימון תיבה
 freya's קמע
-
+יום שישי
 friday's זרוע של law
-
+מטוגן
 חבר
 חבר הוסף
 חבר של ה blackmaw
 חבר request sent
 חבר2
-
+ידידותי
 friendly הברית spectators
 
 friendly גילד
@@ -17939,9 +17939,9 @@ friendly ההורד spectators
 friendly npc defensive לחש
 
 חברים
+בהלה
 
-
-
+להפחיד
 
 
 frightened provincial חייל
@@ -17962,7 +17962,7 @@ frigid frostling infrigidate הילה
 frigid אחיזה
 
 frill פיצוץ
-
+צפרדע
 
 
 frog אהבה
@@ -17977,7 +17977,7 @@ frog אהבה
 מ2
 חזית
 חזית תותח
-
+חזיתי
 כפור
 כפור ספיגה
 כפור שריון
@@ -18226,18 +18226,18 @@ frozengore's הדיפה
 frs משימה קרדיט
 פרי
 פרי bowl
-
-
+מתוסכל
+מתסכל
 frustratingly קשה
-
-
+תסכול
+לטגן
 frying pan מכה
 זיין
 תסתלק
 זיין זה
 זיין זה
 לך תזדיין
-
+דפוק
 fucked למעלה
 מזוין
 מזוין אשפה
@@ -18246,7 +18246,7 @@ fucked למעלה
 מזוין עזוב אותי alone
 מזוין מטומטם
 מזוין useless
-
+דלק
 fuel חבית
 fuel טנק תוקפנות
 מלא
@@ -18279,8 +18279,8 @@ fuel טנק תוקפנות
 
 
 fully weaponized mechanical בן לוויה
-
-
+הרעמה
+גמגום ידיים
 fumper מלכודת
 
 כיף
@@ -18301,7 +18301,7 @@ fungal פיצוץ
 fungal מכה
 
 funky monkey משקה
-
+מצחיק
 funny מספיק
 funny thing הוא
 funny אתה mention
@@ -18337,8 +18337,8 @@ furnace אש b
 furnace אש c
 furnace אש חזותי
 furnace אבן
-
-
+פרוותי
+יתרה מזאת
 זעם
 זעם של al'akir
 זעם של cho'gall
@@ -18371,7 +18371,7 @@ furnace אבן
 זעם לוחם
 
 furyhammer's חסינות
-
+נתיך
 fuse שריון
 fuse שריון הטענה
 fuse ברק
@@ -18381,14 +18381,14 @@ fuse מתכת
 fused שריון
 
 
-
+היתוך
 fusion ליבה
 fusion ליבה trample
 fusion אגרוף
 fusion חתך
 fusion מהירות
 future דלוק אש
-
+לידיעתך
 
 
 ga'trul שלב shift
@@ -18411,12 +18411,12 @@ gahz'rilla קוץ
 gahz'rilla קוץ הדיפה
 gahz'rilla קוץ מטרה picker
 
-
+לזכות
 
 gain solar כוח
 gain whirlwind נשק
 gaining מהירות
-
+גלקסיה
 galaxy מוח
 
 gale כוח
@@ -18426,9 +18426,9 @@ gale מכה
 gale רוח
 gale רוחות
 gall's פיצוץ
-
-
-
+ספינת מפרש
+גלריה
+דהירה
 משחק
 משחק changer
 משחק crashed
@@ -18458,12 +18458,12 @@ gamon שרשרת 2
 
 
 gan'jo's תחייה
-
+כנופיה
 
 gank כיתה
-
-
-
+נרצח בהפתעה
+הריגה בהפתעה
+פער
 gap לקפוץ
 
 gaping פצע
@@ -18482,7 +18482,7 @@ gargoyle פיצוץ
 gargoyle צורה
 gargoyle יריקה הילה
 gargoyle מכה
-
+שום
 garok's קרב
 garr שריון היחלשות
 
@@ -18493,7 +18493,7 @@ garrosh זינוק
 garrosh שינוי
 
 garrosh's zeppelin דלוק אש
-
+חניקה בחוט
 garrote - השתקה
 
 
@@ -18510,7 +18510,7 @@ gaseous bloat הגנה
 
 
 gasping בשביל נשימה
-
+נפוח מגזים
 
 gastric פיצוץ
 שער
@@ -18546,7 +18546,7 @@ gather warp chaser דם
 gather מים
 gathered משקה
 
-
+לקט
 
 
 
@@ -18564,10 +18564,10 @@ gathering ה יער לב
 כפפות של ה ברזל מגדל
 כפפות של ה ים
 כפפות של unbound devotion
-
+נתן
 gavis greyshield קרדיט
 
-
+הומו
 gazban מים צורה
 מבט
 מבט של occu'thar
@@ -18576,7 +18576,7 @@ gazban מים צורה
 מבט של ה שחור נסיך
 
 gdkp לרוץ
-
+תמ"ג
 ציוד
 ציוד בדיקה
 ציוד icon
@@ -18605,36 +18605,36 @@ geist קיר הלך
 אבן חן perfection
 אבן חן studded band
 אבן חן-studded עור חגורה
-
+ליטוש אבנים
 
 gemmed ו מוקסם
 gemmed נחושת כפפות
 
 
-
+כללי
 general שיחה
 
 
 
 generate זעם
-
-
+גנרי
+בראשית
 
 
 
 genn greymane worgen שינוי
 
-
-
+ז'אנר
+עדין
 
 gentleman הרוג קרדיט
-
+אמיתי
 genuinely כיף
 
-
+גאוגרפיה
 geosynchronous עולם spinner
-
-
+גרמנית
+גרמניה
 קח
 קבל אחד אחיזה
 קבל אחד hogtied razormane
@@ -18738,7 +18738,7 @@ ghastly שאגה
 רוח-forged legplates
 רוח-forged כתפיים
 ghostbusters קרן
-
+נעלם לי
 רוחצורה
 
 רפאים
@@ -18792,7 +18792,7 @@ giantmaim צמידים
 
 giantstalker אחד
 
-
+דיו
 
 gidwin's נשק שמן
 giest זרוק
@@ -18825,7 +18825,7 @@ giest זרוק
 מתנה של ה xavian
 מתנה של twilight
 מתנה turn-ב
-
+ג'יגה-ביט
 gigantic מכה
 
 gigantic קסדה sparkle
@@ -18845,16 +18845,16 @@ gilneas אלוף
 gilneas זימון אדון הילה
 
 ginseng תה
-
+ג'ירפה
 giraffe צורה
 
 
 girdle של insight
 girdle של ruination
 girdle של ה שחר
+בחורה
 
-
-
+חברה שלי
 
 giselda שינוי dnd
 
@@ -18902,7 +18902,7 @@ giselda שינוי dnd
 given ימין click instruction
 given זה
 
-
+נתינה
 giving אחד יד
 
 gizlock's בובה
@@ -18929,8 +18929,8 @@ gjalerbron אסיר נשמה relay
 קרחוני אפוד
 קרחוני waistband
 קרחוני wrists
-
-
+להקפיא
+קרחון
 
 glad ל להיות אחורה
 glad ל עזרה
@@ -18938,7 +18938,7 @@ glad you're כאן
 
 glade singer מדליון
 
-
+להב כפול
 glaive מטח
 glaive פגיעה
 
@@ -18948,10 +18948,10 @@ glaive זרוק
 
 זוהר
 זוהר של ה tribunal
-
+זכוכית
 glass דיג bobber
 glass להסתתר
-
+נוצץ
 
 glimpse של madness
 נוצץ באג sparkle
@@ -18972,7 +18972,7 @@ glittering רעל
 
 glob של machine fluid
 glob של sticky goo
-
+גלובלי
 global התקררות
 global אותו
 global thermal sapper מטען
@@ -19501,14 +19501,14 @@ glutinous רעל
 סמל של zen מעוף
 סמל של zen meditation
 סמל של zen posture
-
+מנהל משחק
 
 
 gnarl's bough בובה
 
-
+לחרוק שיניים
 gnashing שיניים
-
+לכרסם
 gnaw עצם
 
 
@@ -19664,7 +19664,7 @@ gob כיתה לחש override
 
 
 
-
+יאללה יאללה
 הולך
 הולך לא כאן
 הולך backwards
@@ -19686,9 +19686,9 @@ gob כיתה לחש override
 זהב farming
 זהב מדליה
 זהב2
+זהוב
 
-
-
+גולף
 
 
 טוב
@@ -19730,7 +19730,7 @@ gob כיתה לחש override
 להתראות2
 
 gorefiend's אחיזה
-
+גורילה
 קיבל
 קיבל אחד idea
 קיבל buffed
@@ -19741,36 +19741,36 @@ gorefiend's אחיזה
 קיבל sidetracked
 קיבל work ב ה בוקר
 קיבל אתה
-
+תפסתי אותך
 
 gotta לרוץ
 gotta work מחר
-
-
-
+ממשלה
+ממוצע ציונים
+ג'י-פי-אס
 תפוס
 תפוס משהו ל לאכול
 תפוס ה chance
 grabbing אחד לשתות
 grabbing אוכל
+חינני
+ציון
 
+טקס סיום
 
+סבא רבא
+סבתא
+סבתא רבתא
+סבא
 
+ענב
 
-
-
-
-
-
-
-
-
-
-
+דשא
+אסיר תודה
 מזל טוב
 
 graveyard לרוץ
-
+כוח משיכה
 
 
 
@@ -19788,16 +19788,16 @@ graveyard לרוץ
 נהדר2
 גדול היעלמות
 
-
+חמדן
 ירוק
 ירוק אש הוא רע
 ירוק דגל
 
 אפור
 
+הצקה לשחקנים
 
-
-
+גריל
 
 grind בשביל שעות
 grind pays כבוי
@@ -19817,12 +19817,12 @@ grinding זהב
 קבוצה project
 קבוצה למעלה
 קבוצה2
-
+לצמוח
 grow מ it
 grow למעלה
 
-
-
+תעוף מפה
+חייב לזוז
 שומר
 שומר דרואיד
 שומר של עתיק kings
@@ -19855,47 +19855,47 @@ guess מה
 גילד vote
 גילד website
 גילד2
+חבר גילדה
+חבר לגילדה
+גילדות
+
+אשם
 
 
-
-
-
-
-
-
+בחור
 
 guys אנחנו can לעשות זה
-
-
+חדר כושר
+התעמלות
 מזל טוב
 
 
-
-
+בית גידול
+האקר
 היה
 היה אחד feeling
 היה אחד טוב חלום
 היה אחד nightmare
 היה לא
 
-
-
-
+חחחח
+חחחחח
+ברד
 שיער
 חצי
 חצי asleep
 חצי בריאות
 חצי מאנה
 halfway שם
-
+ליל כל הקדושים
 halls של ברק
 halls של אבן
 
 
 hammer של justice
 hammer של חמה
-
-
+אוגר
+גיד הברך
 יד
 יד ב יד
 יד של freedom
@@ -19904,10 +19904,10 @@ hammer של חמה
 יד של sacrifice
 יד של salvation
 יד son
-
+ידית
 
 handle ה adds
-
+ידיים
 hang ב שם
 hang ב שם phrase
 hang דלוק
@@ -19935,20 +19935,20 @@ hang דלוק
 קשה פעמים
 קשה work pays כבוי
 קשה2
-
+הארדקור
 
 hardcore גילד
 hardcore שחקן
+קשה יותר
+כמעט לא
 
 
-
-
-
-
+מזיק
+קשוח
 יש
 יש לא חיים
 יש לא
-
+האשטאג
 זירוז
 זירוז makes waste
 מהירות
@@ -19956,8 +19956,8 @@ hardcore שחקן
 
 hate זה משחק
 
-
-
+שנוא
+שונא
 hating זה
 
 יש
@@ -19972,9 +19972,9 @@ hating זה
 יש2
 havent cleared זה room
 havent played ב years
-
+בעל
 having כיף
-
+נץ
 הוא
 הוא believes
 הוא brings

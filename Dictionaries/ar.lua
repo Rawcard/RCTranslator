@@ -12652,7 +12652,7 @@ door انفجار
 door نار
 
 
-
+شبيه
 doren قتل رصيد
 doren مرحلة shift
 dormus إمساك camels anim
@@ -12676,16 +12676,16 @@ dos و don'ts
 مزدوج-نصل lunge
 مزدوج-حافة thrash
 مزدوج-stitched woolen أكتاف
-
-
+شك
+مشكوك فيه
 doubting عقل
 douse brazier نيران
 douse أبدي لهب
 douse نار
 douse لهب
 douse roof نار
-
-
+مبلل
+غمر
 
 dousing لهب
 أسفل
@@ -12694,15 +12694,15 @@ dousing لهب
 أسفل إلى أرض
 أسفل إلى ال wire
 downhill منذ
-
-
-
-
+تنزيل
+جار التنزيل
+تقليص
+الطابق السفلي
 وقت التوقف
 downwind من altairus
 dowse أبدي لهب
-
-
+التنقيب عن الماء
+يغفو
 dozing هالة تأخير
 هجوم
 هجوم ملقي حرج ضرر bonus
@@ -12731,7 +12731,7 @@ draconic غضب
 درينائي survivor مصعوق
 درينائي tomb حارس تعويذة
 
-
+مسودة
 drag جسد
 drag لغم cart
 drag لغم cart فحص
@@ -12861,7 +12861,7 @@ dragonstrike سروال
 استنزاف ال ضعيف
 استنزاف عالم شجرة مرئي
 استنزاف عالم شجرة مرئي 2
-
+مستنزف الطاقة
 
 drained من قوة
 استنزاف ضربة
@@ -12902,10 +12902,10 @@ drakuru موت
 drakuru اختفاء blightblood
 drakuru تحويل
 drakuru's جمجمة صاروخ
+دراما
 
-
-
-
+درامي
+شرب
 draught من حرب
 سحب
 سحب قديم glyphs
@@ -13018,9 +13018,9 @@ dreamweave صدرية
 dreamwraps من ال نور
 
 
-
+غارق
 drenched في mojo
-
+فستان
 
 
 dressed إلى impress رصيد
@@ -13030,7 +13030,7 @@ dressed إلى قتل
 
 
 drifting vapors من ال ثلج lily
-
+مثقاب
 drill درع
 drill اندفاع
 
@@ -13067,14 +13067,14 @@ drill اندفاع
 يشرب قارورة
 يشرب ماء
 يشرب نبيذ
+الشرب
+
+مشروبات
 
 
 
 
-
-
-
-
+سائق
 driving رصيد
 
 
@@ -13132,9 +13132,9 @@ drone استفزاز
 إسقاط zanzil's إكسير
 إسقاط-إيقاف دوري
 يسقط
-
+قطيرة
 droplet من y'shaarj
-
+متسرب من الدراسة
 ساقط
 ساقط سلاح
 droppin قنابل
@@ -13147,7 +13147,7 @@ drostan تشغيل ظهور
 drowned gilnean روح طيران
 drowned شاشة تأثير
 drowned حالة
-
+غرق
 drowning موت
 drowning militia دمية
 drowning vehicle مخرج دمية
@@ -13195,7 +13195,7 @@ drunken جمجمة crack
 drunken sleeping ينام
 
 
-
+جاف
 
 
 
@@ -13205,27 +13205,27 @@ dual نصال
 
 dual wield 2h اختبار
 ducal's حصان تفعيل
-
+يا صاح
 due إلى
-
+مبارزة
 duel هالة فحص
 duel هالة فحص 01
 duel علم
 duel انتصار
-
+مبارز
 
 dull chitinous تركيز
 dull emberstone تركيز
 dull pyreshell تركيز
 dull rhyolite تركيز
 
-
+بليد
 
 
 dumb مؤخرة
 dumb لعنة
 
-
+أحمق تماما
 دمية
 دمية - lab
 دمية عدوان
@@ -13360,12 +13360,12 @@ dwarven فأس
 
 
 
-
+يتضاءل تدريجيا
 dyamite انفجار
 أحتضر
 أحتضر نفس
 أحتضر لعنة
-
+ديناميكي
 
 dynamite هالة
 dynamite انفجار
@@ -13375,7 +13375,7 @@ dynasty من فولاذ
 كل
 كل آخر
 eadric إنجاز
-
+متلهف
 نسر
 نسر مخلب
 نسر عين
@@ -13387,15 +13387,15 @@ eagle's صرخة
 eaglebane أساور
 أذن
 أذن-o-scope
-
+في وقت سابق
 مبكراً
 مبكر adoption قتل رصيد
 مبكر لعبة
 مبكر صباح غدا
 مبكر إظهار
 
-
-
+سماعات
+آذان
 أرض
 أرض شعاع
 أرض انفجار
@@ -13480,7 +13480,7 @@ earthguard relieved رصيد
 earthliving مرئي
 earthliving سلاح
 earthpeace درع صدري
-
+زلزال
 earthquake كاميرا shake
 
 earthquake تفعيل
@@ -13490,10 +13490,10 @@ earthshadow خاتم
 earthsoul حذاء
 أرضضربة
 
-
+أسهل
 easier said than منتهي
 easier said than منتهي phrase
-
+بسهولة
 شرق
 شرق frostwolf warmaster
 شرق جانب
@@ -13501,7 +13501,7 @@ easier said than منتهي phrase
 شرق survey إكمال
 شرق معبد arrival scene
 شرق معبد دخان قنبلة
-
+عيد الفصح
 easter lay noblegarden بيضة هالة
 eastern نار هالة
 
@@ -13539,8 +13539,8 @@ eastern نار هالة
 يأكل عبر شبكة
 يأكل trog
 يأكل2
-
-
+مأكول
+يأكل الآن
 
 
 
@@ -13572,7 +13572,7 @@ ebonsteel حزام buckle
 
 ebonweave قفازات
 ebonweave رداء
-
+كتاب إلكتروني
 
 echo انفجار
 echo من archimonde
@@ -13585,7 +13585,7 @@ echoes من ال past
 echoes من نور
 echoes من lordaeron
 echoes من memory
-
+مدوي
 echoing معركة يصرخ
 echoing زئير
 echoweb سم
@@ -13594,16 +13594,16 @@ eck عض
 
 eck بصق
 
-
+كسوف
 eclipse طاقة
 eclipse علامة
 eclipse يُعيد
 eclipse مرئي
 
-
-
-
-
+علم البيئة
+علم الاقتصاد
+اقتصاد
+نظام بيئي
 
 
 
@@ -13618,12 +13618,12 @@ eerie ضباب
 eerie جمجمة
 eerie smolderthorn صنم
 تأثير
-
+فعال
 effective فريق
-
-
+فوران
+كفاءة
 efficiency هو مفتاح
-
+كفء
 
 
 
@@ -13653,15 +13653,15 @@ effulgent بري jade
 بيضة yolk
 بيضة-splosive وابل
 
-
-
+خروج
+إيه
 ei مرحلة
 
 ثمانية
-
-
-
-
+ثمانية عشر
+الثامن
+ثمانون
+أي منهما
 either أو
 
 eject الجميع passengers
@@ -13689,7 +13689,7 @@ ejection تعويذة
 
 
 
-
+كوع
 elder تعويذة
 
 elder shu ضمادة مرئي
@@ -13720,7 +13720,7 @@ electrical تحميل زائد primer
 electrical صدمة
 electrical عاصفة
 electrical عاصفة pre-هدف
-
+مكهرب
 electrified سلاسل
 
 electrified أرض
@@ -13735,8 +13735,8 @@ electro-magnetic نبض
 electro-صدمة
 electro-صدمة therapy
 electro-ضربة
-
-
+يصعق بالكهرباء
+صعق كهربائي
 
 electromagnetic حاجز
 
@@ -13744,7 +13744,7 @@ electromagnetic حاجز
 electromagnetic نبض
 electromancer ju'le رصيد
 
-
+صدمة كهربائية
 electrostatic اندفاع
 
 
@@ -13845,11 +13845,11 @@ elementium إرهاب
 
 elements شريط
 elendilad استدعاء script
-
+فيل
 elevator ارتداد
-
+أحد عشر
 جني
-
+نخبة
 
 إكسير
 إكسير سيد
@@ -13951,26 +13951,26 @@ elune's response تأثير
 elune's ritual من حرب
 elune's لمس
 elune's سخط
-
+مراوغ
 elusive مشروب
 elusive مشروب تجميلي
 elusive قوة
-
+مراوغة
 elven device تفعيل ping
 
 elwynn غابة
 elwynn غابة ذئب
 
-
-
+بريد إلكتروني
+يحرر
 embalming سحابة
 embarrass له
 
-
+مخز ومحرج
 
 embarrassing يلعب
 embarrassing نفسك
-
+إحراج
 embedded نصل
 embedded رمح
 جمرة انفجار
@@ -14037,7 +14037,7 @@ embrace من ال shale عنكبوت
 embrace من ال عنكبوت
 embrace من ال twisting nether
 embrace من ال vampyr
-
+زمرد
 emerald acorn تأثير
 emerald حقيبة
 emerald وابل
@@ -14058,7 +14058,7 @@ emerald مطر
 
 
 
-
+يخرج
 emerge من ثلج
 emerge من ثلج - kun lai
 emerge حالة
@@ -14084,7 +14084,7 @@ emergency صاروخ pack
 emergency صاروخ-pack
 emergency صاروخ-pack xtreme
 emergency انتقال
-
+سمو
 
 emissary من يأس رصيد
 emissary من رعب رصيد
@@ -14114,12 +14114,12 @@ emissary من hate رصيد
 إيماءة تحدث exclamation
 إيماءة تحدث question
 إيماءة يعمل
-
+عاطفي
 emotional حاجز
 
+نبضة كهرومغناطيسية
 
-
-
+تعاطف
 empathy من حجر
 
 
@@ -14192,7 +14192,7 @@ emperor's قوة
 
 empyreal تركيز شعاع
 
-
+يمكن
 enable نصال cue
 enable caravan حدث
 
@@ -14205,10 +14205,10 @@ enable unit إطار
 enable vehicle قدرات
 enable وورغن altered شكل
 
+يحبس في قفص
 
 
-
-
+يغلف
 
 
 encase في amber
@@ -14611,10 +14611,10 @@ enchanter's قلنسوة
 مواجهة حدث
 مواجهة ظهور
 
-
+تشجيع
 encroaching weed buddy هالة
 
-
+مثقل
 encumbered تحذير
 نهاية
 نهاية ambush
@@ -14642,10 +14642,10 @@ endless غضب
 endless موجة
 endless أمواج
 endless سخط
-
+قدرة التحمل
 endurance من niuzao
 
-
+يتحمل
 endure ال تحول
 
 enduring إكسير من wisdom
@@ -14662,7 +14662,7 @@ enduring روح
 عدو تشغيل لك يسار
 عدو تشغيل لك يمين
 عدو spotted
-
+نشيط
 
 تنشيط
 تنشيط دم رونة
@@ -14733,18 +14733,18 @@ energizing سحق
 طاقة usage
 طاقة vortex
 طاقة
+يوهن
 
 
-
-
-
+يضعف جدا
+موهن
 enfeebling ضربة
 
 enforcers جاهز
-
+يشتبك
 engage في سوف
-
-
+مخطوب
+خطوبة
 engaging في ثلاثة
 
 engine نار
@@ -14753,14 +14753,14 @@ engine تشغيل نار
 
 هندسة
 هندسة specialization
-
+الإنجليزية
 english من فضلك
 
 
 
 engraved truesilver خاتم
 engulf في لهب
-
+مبتلع
 engulfed انفجار
 engulfed في لهب
 التهام ظلام
@@ -14788,7 +14788,7 @@ enhanced ذكاء
 enhanced قوة
 enhanced sunder درع
 enhancement شامان
-
+لغز
 
 
 
@@ -14797,16 +14797,16 @@ enigmatic بدائي diamond
 enigmatic ظلروح diamond
 
 
-
+يستمتع
 
 enjoying أحد بارد واحد
 
+يكبر
 
-
-
-
+مستنير
+تنوير
 enohar's متفجر سهم
-
+هائل
 enormous gyreworm حالة
 enormous gyreworm تحويل
 كافٍ
@@ -14841,17 +14841,17 @@ enormous gyreworm تحويل
 enriched lasher تجذير
 
 
-
+يستعبد
 enslave شيطان
 enslave gronn تجميلي
 
 enslaved روح سلبي
-
-
+يوقع في الفخ
+عالق في الفخ
 
 ensnaring فخ
 ensorcelled nerubian درع صدري
-
+يورط
 entangliing تجذير مرئي
 entangling قبضة
 entangling شبكة
@@ -14876,17 +14876,17 @@ entangling طلقة
 دخول2
 entering هالة
 entering ساحة معركة
-
-
-
-
+متحمس جدا
+مغر
+كامل
+يدفن
 entrails تحويل
 مدخل
-
-
+إيقاع
+محاصر في فخ
 
 entrapping roots استدعاء
-
+رائد أعمال
 entropic هالة
 
 entropius جسد
@@ -14897,14 +14897,14 @@ enveloping ظلام
 
 
 enveloping رياح
-
+يسمم
 envenomed خنجر رمي
 
 envenomed طلقة
-
+بيئة
 
 envoker's درع
-
+حسد
 
 
 eoin's برميل
@@ -14914,13 +14914,13 @@ ephemeral قوة
 ملحمي فشل
 ملحمي بنفسجي قميص flex
 ملحميدخول
+ذواق
 
 
 
+متساو
 
-
-
-
+مساواة
 
 يجهز
 تجهيز flamethrower
@@ -14929,7 +14929,7 @@ ephemeral قوة
 تجهيز سلاح
 يُجهز
 معدات
-
+يستأصل
 eranikus ال chained invisiibility
 eric's اندفاع
 eric's pocket جرعة
@@ -14947,7 +14947,7 @@ erunak's برق
 
 erunak's meatstick مرئي
 
-
+يثور
 erupting نار
 erupting لهب
 erupting جليد
@@ -14956,9 +14956,9 @@ erupting pool من غضب
 
 
 erupting ماء
-
+ثوران
 escalating قوة
-
+تصعيد
 يهرب
 يهرب artist
 يهرب مخالب
@@ -14982,8 +14982,8 @@ escorting ال أمير
 
 eskhandar's غضب
 
-
-
+خاصة
+الرياضات الإلكترونية
 espresso غبار
 
 جوهر flow
@@ -15021,12 +15021,12 @@ espresso غبار
 جوهر من wrathion
 جوهر من y'shaarj
 جوهر من yu'lon
+ضروري
+في الأساس
 
 
-
-
-
-
+وقت الوصول
+إلخ
 
 
 
@@ -15093,18 +15093,18 @@ eternium runed نصل
 ettin's فم
 etymidian مخرج دمية
 etymidian راكب مناعة
-
-
+نشوة
+أوروبا
 evacuee اختفاء
 
 evacuee reaches تنينآفة
 
-
+تبشير
 evanor's prison سلاسل
-
-
-
-
+يتبخر
+تبخر
+مراوغة الهجوم
+متهرب
 
 evasive هالة
 
@@ -15113,7 +15113,7 @@ evasive هالة
 
 
 
-
+مساء
 evening يحظر
 
 حدث
@@ -15126,7 +15126,7 @@ evening يحظر
 حدث success
 حدث مؤقت تعزيز
 
-
+في النهاية
 ever heard من thinking
 ever-محترق torch
 evergrove درويد تحويل crow
@@ -15174,7 +15174,7 @@ evidence علامة خفي
 شر هو أحد نقطة من view
 شر انتقال مرئي فقط
 شر twin
-
+ينزع الأحشاء
 eviscerate و envenom bonus ضرر
 eviscerate و envenom discount
 
@@ -15185,34 +15185,34 @@ eviscerator's قفازات
 
 
 
-
+استحضار
 مستحضر
 مستحضر فئة
-
+تطور
 ewer من jormungar دم
-
+دقيق جدا
 بالضبط
 بالضبط correct
 بالضبط يمين
 بالضبط ال نفس
 بالضبط ماذا أنا needed
-
+ممجد
 exalted هالة
 exalted هالة تأثير
 exalted shattered شمس offensive هالة
 exalted مع
-
+امتحان
 
 examine jade تمثال
-
-
+يفحص
+مثال
 exarch's سحر
 exceeded لي expectations
 exceeded ال hype
 
 excellent يعمل
 
-
+ما عدا
 exception إلى ال rule
 exceptional صحة
 exceptional مانا
@@ -15224,7 +15224,7 @@ exchange عنصر
 
 عذراً
 excuse لي من فضلك
-
+ينفذ
 execute forsaken سجين
 execute الانتظار العام reduced
 execute مرحلة
@@ -15233,23 +15233,23 @@ execute سجين
 
 execute ال plan
 
+إعدام
 
-
-
-
-
-
+جلاد
+منفذ الوصية
+تمرين
+زفير
 منهك
 منهك لكن مازال ذاهب
 منهك feeling
 منهك ram
+مرهق
 
 
-
-
-
-
-
+ينعش
+ابتهاج
+منفى
+يوجد
 مخرج
 مخرج deathmatch
 مخرج يساعد وضع
@@ -15272,16 +15272,16 @@ exodar valiant's راية
 
 exorcise أرواح
 exorcising manifestation من غضب
+طرد الأرواح
 
-
-
+طارد الأرواح
 
 
 expanded عقل
-
+توسعة
 expansive عقل
 expansive روح
-
+يتوقع
 expect ال unexpected
 expect ال الأسوأ
 expected لا أقل
@@ -15294,12 +15294,12 @@ expedition شعلة
 طرد miasma
 expelled فساد
 Prophet of the Flame Transform 02
-
+غال
 
 خبرة
 خبرة هو ال الأفضل teacher
 خبرة2
-
+ذو خبرة
 experienced guide اختفاء تفعيل
 experienced لاعبون
 
@@ -15386,11 +15386,11 @@ exploded سمكة
 انفجار رعد حجر
 
 explodo-rockets يسار
-
+استغلال
 exploit ضعف
 exploited ضعف
-
-
+يستغل
+مستكشف
 
 انفجار
 انفجار fade بعيد
@@ -15442,15 +15442,15 @@ expose razorthorn تجذير
 expose ذاتي
 
 expose ضعف
-
+مكشوف
 exposed قلب
 
 
 expunge سم
 
 
-
-
+يستنزف الدم
+استنزاف الدم
 
 extending لنا coverage - تخلٍ
 extending ال غارة
@@ -15458,13 +15458,13 @@ extermination شعاع
 
 external تهدئة
 
-
+يطفئ
 extinguish الجميع حياة
 extinguish نار
 extinguish نار attempt
 extinguish لهب
-
-
+إطفاء
+إضافي جدا
 extra action زر cover تعويذة
 extra ضرر إضعاف
 extra كبير خوذة sparkle
@@ -15479,12 +15479,12 @@ extract من ال afterlife
 extract زيت
 extract زيت تأثير
 
+لاصفي
+استثنائي
 
 
-
-
-
-
+استعراض ضخم
+متطرف
 extreme طبخ
 
 extreme hozen-fu تأثير
@@ -15605,7 +15605,7 @@ Corrupting Crash Targeting
 وجه2
 faceless يُعيد
 faceless تحول
-
+ضرب الجبين
 faces من doom
 facet من أبدية
 
@@ -15613,12 +15613,12 @@ facing توجيه
 facing توجيه شعاع
 
 facing wrong طريق
-
+فصيل
 faction تغيير
 
 
 
-
+حقائق
 
 fade درع
 fade خارج
@@ -15661,10 +15661,10 @@ fahrad's true شكل
 فشل تجربة
 فشل
 فشل مؤقت هالة
-
-
+إغماء
+يغمى عليه
 faintly-متوهج herb
-
+عادل
 fair و square
 fair كافٍ
 fair بعيد clip
@@ -15673,7 +15673,7 @@ fair نقطة
 
 fair تحذير
 
-
+مزيف
 fake دم spurt
 fake موت
 fake طلقة
@@ -15728,13 +15728,13 @@ falcon's استدعاء
 ساقط vase انفجار
 
 falls إيقاف
-
+خاطئ
 false ابدأ
 
-
-
-
-
+يتعثر
+عائلتي
+شهرة
+مألوف
 عائلة
 عائلة لعبة وقت
 عائلة نقابة
@@ -15752,7 +15752,7 @@ fanatic نصل
 fanatic نصل تأثير
 
 fanatical ضربة
-
+تعصب
 
 fancy أعلى قبعة
 fandral خالق هالة
@@ -15776,7 +15776,7 @@ fantasy كتاب
 بعيد sight طوطم
 بعيد متفوق
 بعيد-seeing عيون
-
+وداع
 fargo flintlocke مهمة خفي أحد
 fargo flintlocke مهمة خفي b
 زراعة
@@ -15803,9 +15803,9 @@ farming هذا زعيم
 سريع track
 سريع
 fastening سلسلة
-
+أسرع
 faster regrowth إلقاء
-
+سمين
 fat مؤخرة
 fat طويل-fat
 fat طويل-flop
@@ -15819,7 +15819,7 @@ fatal ضربة تفعيل
 fatal ضربة
 fatal ضربات
 fatal جرح
-
+وفاة
 
 fate من ال kor'thik
 fate من ال sra'thik
@@ -15829,11 +15829,11 @@ fate رونة من fleet أقدام
 fate رونة من nigh invincibility
 fate رونة من بدائي طاقة
 fate رونة من unsurpassed vigor
-
+أب
 father winter's مساعد
 father winter's مساعد unsummon
 
-
+تعب
 
 
 favor من ال kings
@@ -15894,13 +15894,13 @@ feathered غضب
 feathered ذهب earring
 
 feathered raptor ذراع
-
+خفيف كالريشة
 feathers من غضب
 feathery إعصار انفجار
 feathery تفجير
 
-
-
+خصوبة
+شبعان
 feeble جسد
 
 يُغذي
@@ -15934,13 +15934,13 @@ feeble جسد
 إطعام young
 يُغذيللخلف
 feedback نشاط عشوائي
-
+مغذي
 
 feeding هياج
 feeding صخرة falcon
 feeding ال وحش
 feeding ال brood
-
+يشعر
 feel أفضل
 feel ال حرق
 feel ال flavor
@@ -15954,7 +15954,7 @@ feeling جيد حول هذا واحد
 feeling laid للخلف
 feeling متعب
 feeling أسوأ
-
+يشعر ب
 
 feels like أمس
 أقدام
@@ -15963,7 +15963,7 @@ feels like أمس
 fei li حارس هالة
 feign و drown
 feign موت
-
+مصطنع
 
 
 
@@ -16131,7 +16131,7 @@ feline بركة
 
 
 
-
+سقط
 fell لعنة تأثير
 fell إيقاف
 
@@ -16194,7 +16194,7 @@ fengir's هالة
 متوحش vermling
 
 
-
+يخمر
 fern feeder صاروخ
 fern feeder صاروخ تأثير
 fern feeder مرئي
@@ -16202,11 +16202,11 @@ ferocious عض
 
 ferocious مخلب
 ferocious إغضاب
-
+شراسة
 fertile أرض
 
-
-
+سماد
+حماسة
 fester دم
 festered دم
 festering عض
@@ -16258,10 +16258,10 @@ fetid لحم pile مرئي
 fetish ربط
 fetish من hir'eek
 fetish شامان
-
+ثأر
 feugen سلسلة
 feugen tesla سلبي
-
+حمى
 fever عض
 feverbite اختفاء
 fevered دم
@@ -16384,10 +16384,10 @@ fieroclast وابل
 ناري web spin
 ناري أجنحة
 ناري سخط
-
+خمسة عشر
 fifteen طبقات
-
-
+الخامس
+خمسون
 
 fifty بالمئة
 يقاتل
@@ -16406,7 +16406,7 @@ fighting سمكة
 fighting معالج rescued هالة
 
 
-
+معارك صغيرة
 
 figment من doubt
 figments من longing
@@ -16441,8 +16441,8 @@ figurine - ruby أفعى
 figurine - truesilver خنزير بري
 
 figurine - twilight أفعى
-
-
+ملف
+فيليه
 filet من redgill
 
 fill 15 دائرة
@@ -16468,13 +16468,13 @@ fillet أعمى cavefish
 fillet عملاق catfish
 fillet من هياج
 fillet royal راهبسمكة
-
+حشوة
 filling برميل
 filling فارغ jar
 filling قارورة
 filling برميل
 filling marmot حفرة
-
+فيلم
 
 
 filthling سلبي
@@ -16497,10 +16497,10 @@ final مرحلة
 final وابل
 
 final سخط
-
+الختام
 finale إتمام مرحلة
 finale انفجار
-
+أخيرا
 finally منتهي لـ tonight
 finally ساقط
 
@@ -16553,7 +16553,7 @@ finding sylvanas رصيد
 إصبع
 إصبع من موت
 إصبع من موت coolup
-
+أصابع
 
 fingers من صقيع
 fingers من ال damned
@@ -16734,18 +16734,18 @@ fire's توهج
 نارإزهار
 نارصاعقة
 نارقنبلة
-
+نفث النار
 نارانفجار
 
-
+مفرقعات
 firefighting معدات
-
+يراعة
 نارشكل
 نارحارس
 
 firegut خوف عاصفة
 
-
+خرطوم الإطفاء
 Firelands Object Visual
 
 fireproof شبكة
@@ -16778,7 +16778,7 @@ fireworks انفجار
 
 firey يد
 firey صواريخ
-
+إطلاق النار
 firing حقل مدفع
 الأول
 إسعافات أولية
@@ -16813,7 +16813,7 @@ firing حقل مدفع
 سمكة snack
 سمكة tails
 سمكة رمي
-
+صياد سمك
 
 fisherman's قبعة حالة
 صيد
@@ -16824,9 +16824,9 @@ fisherman's قبعة حالة
 صيد poles
 صيد raft
 fishliver زيت
+مريب
 
-
-
+شق أرضي
 قبضة cleave
 قبضة من cho'gall
 قبضة من غضب range bonus
@@ -16837,8 +16837,8 @@ fishliver زيت
 قبضة سحق
 قبضة سلاح
 قبضة weapons
-
-
+عراك بالأيدي
+ملاكمة بالأيدي
 قبضات من غامض غضب
 قبضات من لهب
 قبضات من flurry
@@ -16848,7 +16848,7 @@ fishliver زيت
 قبضات من برق
 قبضات من حجر
 fitful حلم
-
+لياقة
 خمسة
 خمسة أربعة ثلاثة اثنان واحد
 خمسة يذهب
@@ -16857,9 +16857,9 @@ fitful حلم
 خمسة بالمئة يُمحى
 خمسة طبقات
 خمسة-طلقة
+يصلح
 
-
-
+يثبت على
 fixate غضب
 fixate شعاع تجميلي
 fixate شيطان خالق
@@ -16869,11 +16869,11 @@ fixate تشغيل برتقالي carrier
 fixate onhit سلبي
 fixate استهداف
 fixate تفعيل
-
+مثبت على
 fixated قفزة
 fixated غضب
 fixated غضب primer
-
+مصلح
 fixing ال issue
 fizzcrank parachute انتقال هدف
 fizzcrank pilot - gett إيقاف plane
@@ -16892,7 +16892,7 @@ fizzy طاقة يشرب
 علم مهمة
 علم wodin's mantid shanker
 flagged لـ لاعب ضد لاعب
-
+أعلام
 
 flail من go'rath
 flak وابل
@@ -16900,7 +16900,7 @@ flak وابل صدمة
 flak مدفع
 flak نار
 flak نار صدمة
-
+غير موثوق
 لهب
 لهب درع عدة
 لهب سهم
@@ -17129,10 +17129,10 @@ flameward مُفعّل
 flammable زيت
 flank ال زعيم
 flank لهم
+التفاف
 
 
-
-
+رفرفة
 شعلة
 شعلة gun
 شعلة أعلى
@@ -17201,12 +17201,12 @@ flashback شاشة تأثير
 قارورة من titanic قوة
 قارورة من winter's عض
 قارورة أعلى
-
-
+قوارير
+مسطح
 flat ضرر reduction
 flat spin حالة
 flattery سوف احصل أنت nowhere
-
+يطلق ريحا
 flawless aquatic معركة-حجر
 
 flawless معركة-حجر
@@ -17219,15 +17219,15 @@ flawless humanoid معركة-حجر
 flawless سحر معركة-حجر
 flawless mechanical معركة-حجر
 flawless غير ميت معركة-حجر
-
+يسلخ
 flayed حي
 flayed لحم
-
+سالخ
 
 
 
 fledgling colossus انتقال
-
+يفر
 flee قتال
 flee إلى ال ظلال
 
@@ -17251,12 +17251,12 @@ fleshbeast تحويل
 fleshwerks مرحلة
 fletcher's قفازات
 fletcher's قفازات من ال phoenix
-
+يستعرض
 flex التقاط
 flex غارة
 
-
-
+مرن
+يستعرض عضلاته
 
 flickering لهب
 flickering لهب
@@ -17276,7 +17276,7 @@ flickering لهب
 طيران إلى sholazar
 طيران إلى sholazar دوري
 طيران مرئي حالة
-
+يقذف
 fling نصل
 
 
@@ -17298,15 +17298,15 @@ flip إلى light's أمل
 
 
 flitterling غبار
-
-
+يطفو
+طافي
 floating موت
 
 floating روح
 floating vortex تأثير
-
+سرب
 flock استدعاء
-
+فيضان
 flood ال دردشة
 
 floor هو lava
@@ -17315,9 +17315,9 @@ floor مخطوطة
 
 flooz صدمة
 flooz مقاطعة
-
+فشل ذريع
 flour انفجار
-
+يزدهر
 flow من gratitude
 flow من knowledge
 flow من ال elements
@@ -17329,12 +17329,12 @@ flow من وقت
 زهرة قوة
 زهرة scaling
 زهرة shower
-
+زهور
 flowers من ال ميت
 
 fluid like ماء
 fluid مؤقت تعزيز
-
+سيولة
 fluorescent أخضر mechanostrider
 
 flurry فأس
@@ -17344,9 +17344,9 @@ flurry من مخالب
 flurry من قبضات
 flurry من أسنان
 flurry من xuen
-
+يشطف
 flute من ال ancients
-
+يرفرف
 
 
 
@@ -17450,16 +17450,16 @@ foaming غضب
 مركّز ضربات
 مركّز سوف
 مركّز سخط
-
+يركز
 ضباب
 ضباب من فساد
 ضباب من ال kualdir
 ضباب من وقت
-
+ضبابي
 folded شبح حديد
 
 
-
+يا جماعة
 يتبع
 اتبع لها
 اتبع له
@@ -17474,11 +17474,11 @@ folded شبح حديد
 اتبع لك gut
 يتبع
 
-
+متابعة
 following ذاك
 
 يتبععبر
-
+الخوف من الفوات
 طعام
 طعام كسر
 طعام تعزيز
@@ -17495,8 +17495,8 @@ fool's لعنة
 fool's ذهب
 
 
-
-
+قدم
+كرة القدم
 
 foothold هجوم song
 
@@ -17525,11 +17525,11 @@ footwraps من quenched نار
 لـ أنت
 لـ لك information
 لـ2
-
-
+يبحث عن الطعام
+صبر
 forbidden سحر
 forbidding بحر هالة
-
+نذير شؤم
 forbosi throws إلى tayemba
 قوة
 قوة و verve
@@ -17602,7 +17602,7 @@ forcecast استدعاء شامان
 forcecast استدعاء zepik
 forcecast switch إلى seat 3
 قوةيرمي trapcap
-
+إجباري
 
 forced فتح edict من temperance
 forced إلى choose
@@ -17639,7 +17639,7 @@ foreman's reinforced خوذة
 غابة step
 غابة sup
 
-
+إلى الأبد
 
 forge رصيد
 forge جمرة
@@ -17662,21 +17662,21 @@ forgemaster ظهور تجميلي
 forgemaster's فأس
 
 forgemaster's عصا
-
+ينسى
 forget حول it
 
-
+ينسى دائما
 forgewire فأس
-
+تشكيل المعادن
 forgive لي
-
-
+مسامحة
+نسيت
 forgotten هالة
 forgotten depths قنبلة
 forgotten hills استدعاء
 
 
-
+شوكة
 forked نصل مرئي
 forked نار-طلقة
 
@@ -17693,7 +17693,7 @@ forlorn spire كاميرا blackout
 شكل من rokkaram
 شكل من ال moonstalker
 formal أبيض قميص
-
+تشكيلة عسكرية
 formation grounds انتقال
 forming إطار من atiesh
 forming مجموعة
@@ -17707,7 +17707,7 @@ forsaken طاعون سحابة
 
 
 fort grookin حرب prep
-
+نقطة قوة
 fortification من shattrath
 
 fortified أسبوع
@@ -17722,9 +17722,9 @@ fortifying مشروب
 صلابة تفعيل
 
 
+لحسن الحظ
 
-
-
+أربعون
 للأمام
 للأمام thrust
 
@@ -17746,9 +17746,9 @@ fossilized فرخ
 قذر stream
 قذر سم
 قذر مياه
-
+قذارة
 foulstream طوطم
-
+وجد
 found عدو
 found هدف
 foundations من courage
@@ -17759,8 +17759,8 @@ fountain من skulls
 أربعة ساعة غارة
 أربعة قطعة bonus
 أربعة senses مشروب
-
-
+أربعة عشر
+الرابع
 ثعلب
 ثعلب عدة
 
@@ -17785,15 +17785,15 @@ fragmentation قنبلة
 fragrant هواء analysis
 
 frail روح
-
+هشاشة
 
 إطار
-
-
+فرنسا
+محموم
 
 frantic قفزة
 
-
+مهترئ
 freak خارج
 freakin' laser شعاع
 حرر
@@ -17841,7 +17841,7 @@ freakin' laser شعاع
 
 
 
-
+عامل مستقل
 freewind شجاع
 تجمد
 تجميد anim
@@ -17876,7 +17876,7 @@ freewind شجاع
 تجميد ريح
 تجميد رياح
 freezya انفجار
-
+فرنسي
 frenetic اندفاع
 هائج هجوم
 هائج bloodthirst
@@ -17916,22 +17916,22 @@ frenzyheart's غضب
 طازج lockout
 طازج pine scent
 طازج ابدأ
-
+طالب سنة أولى
 freya دمية
 freya دمية أزرق
 freya دمية أخضر
 freya دمية أصفر
 freya استدعاء صندوق
 freya's تعويذة
-
+الجمعة
 friday's ذراع من law
-
+مقلي
 صديق
 صديق أضف
 صديق من ال blackmaw
 صديق request sent
 صديق2
-
+ودود
 friendly التحالف spectators
 
 friendly نقابة
@@ -17939,9 +17939,9 @@ friendly الحشد spectators
 friendly npc defensive تعويذة
 
 أصدقاء
+ذعر
 
-
-
+يخيف
 
 
 frightened provincial جندي
@@ -17962,7 +17962,7 @@ frigid frostling infrigidate هالة
 frigid قبضة
 
 frill انفجار
-
+ضفدع
 
 
 frog يحب
@@ -17977,7 +17977,7 @@ frog يحب
 من2
 أمام
 أمام مدفع
-
+أمامي
 صقيع
 صقيع امتصاص
 صقيع درع
@@ -18173,7 +18173,7 @@ frostwoven سروال
 frostwoven رداء
 frostwoven أكتاف
 
-
+مثلج
 frosty طائر carpet
 
 frosty حالة
@@ -18226,11 +18226,11 @@ frozengore's ارتداد
 frs مهمة رصيد
 فاكهة
 فاكهة bowl
-
-
+محبط جدا
+مثير للإحباط
 frustratingly صعب
-
-
+إحباط
+يقلي
 frying pan ضربة
 لعنة
 ابتعد عني
@@ -18246,7 +18246,7 @@ fucked أعلى
 ملعون غادر لي alone
 ملعون غبي
 ملعون useless
-
+وقود
 fuel برميل
 fuel دبابة عدوان
 ممتلئ
@@ -18279,8 +18279,8 @@ fuel دبابة عدوان
 
 
 fully weaponized mechanical رفيق
-
-
+انفجار مدو
+تخبط
 fumper فخ
 
 ممتع
@@ -18301,7 +18301,7 @@ fungal انفجار
 fungal ضربة
 
 funky monkey مشروب
-
+مضحك
 funny كافٍ
 funny thing هو
 funny أنت mention
@@ -18337,7 +18337,7 @@ furnace نار b
 furnace نار c
 furnace نار مرئي
 furnace حجر
-
+فروي
 
 غضب
 غضب من al'akir
@@ -18371,7 +18371,7 @@ furnace حجر
 غضب محارب
 
 furyhammer's مناعة
-
+صمام
 fuse درع
 fuse درع توجيه
 fuse برق
@@ -18381,14 +18381,14 @@ fuse معدن
 fused درع
 
 
-
+اندماج
 fusion نواة
 fusion نواة trample
 fusion لكمة
 fusion شق
 fusion سرعة
 future تشغيل نار
-
+للعلم
 
 
 ga'trul مرحلة shift
@@ -18411,12 +18411,12 @@ gahz'rilla مسمار
 gahz'rilla مسمار ارتداد
 gahz'rilla مسمار هدف picker
 
-
+يكسب شيئا
 
 gain solar قوة
 gain whirlwind سلاح
 gaining سرعة
-
+مجرة
 galaxy دماغ
 
 gale قوة
@@ -18426,9 +18426,9 @@ gale ضربة
 gale ريح
 gale رياح
 gall's انفجار
-
-
-
+غليون
+معرض فني
+عدو سريع
 لعبة
 لعبة changer
 لعبة crashed
@@ -18458,12 +18458,12 @@ gamon سلسلة 2
 
 
 gan'jo's بعث
-
+عصابة
 يباغت
 يباغت فرقة
-
-
-
+تعرض للقتل
+قتل اللاعبين
+فجوة
 gap يقفز
 
 gaping جرح
@@ -18482,7 +18482,7 @@ gargoyle انفجار
 gargoyle شكل
 gargoyle بصق هالة
 gargoyle ضربة
-
+ثوم
 garok's معركة
 garr درع إضعاف
 
@@ -18493,7 +18493,7 @@ garrosh قفزة
 garrosh تحويل
 
 garrosh's zeppelin تشغيل نار
-
+خنق بالسلك
 garrote - إسكات
 
 
@@ -18510,7 +18510,7 @@ gaseous bloat حماية
 
 
 gasping لـ نفس
-
+منتفخ بالغاز
 
 gastric انفجار
 بوابة
@@ -18546,7 +18546,7 @@ gather warp chaser دم
 gather ماء
 gathered مشروب
 
-
+جامع
 
 
 
@@ -18564,10 +18564,10 @@ gathering ال غابة قلب
 قفازات من ال حديد برج
 قفازات من ال بحر
 قفازات من unbound devotion
-
+أعطى
 gavis greyshield رصيد
 
-
+مثلي
 gazban ماء شكل
 تحديق
 تحديق من occu'thar
@@ -18576,7 +18576,7 @@ gazban ماء شكل
 تحديق من ال أسود أمير
 الانتظار العام
 gdkp يركض
-
+الناتج المحلي
 معدات
 معدات فحص
 معدات icon
@@ -18605,7 +18605,7 @@ geist جدار يمشي
 جوهرة perfection
 جوهرة studded band
 جوهرة-studded جلد حزام
-
+قطع الأحجار الكريمة
 
 gemmed و مسحور
 gemmed نحاس قفازات
@@ -18615,26 +18615,26 @@ gemmed نحاس قفازات
 general دردشة
 
 
-
+يولد
 generate غضب
-
-
+عام وشائع
+التكوين
 
 
 
 genn greymane وورغن تحويل
 
-
+نوع فني
 
 
 gentleman قتل رصيد
-
+حقيقي
 genuinely ممتع
 
-
+جغرافيا
 geosynchronous عالم spinner
-
-
+ألماني
+ألمانيا
 احصل
 احصل أحد قبضة
 احصل أحد hogtied razormane
@@ -18680,7 +18680,7 @@ geosynchronous عالم spinner
 احصل مع ال مرات
 احصل wrecked
 احصل لك رأس خارج
-
+يحصل
 
 getting حول مع ال shado-pan
 getting أفضل
@@ -18738,9 +18738,9 @@ ghastly زئير
 شبح-forged legplates
 شبح-forged أكتاف
 ghostbusters شعاع
-
+تجاهلني
 شبحشكل
-
+الاختفاء المفاجئ
 شبحي
 شبحي backfire
 شبحي مخلب
@@ -18792,7 +18792,7 @@ giantmaim أساور
 
 giantstalker أحد
 
-
+هيا يا حصان
 
 gidwin's سلاح زيت
 giest رمي
@@ -18825,7 +18825,7 @@ giest رمي
 هدية من ال xavian
 هدية من twilight
 هدية turn-في
-
+جيجابت
 gigantic ضربة
 
 gigantic خوذة sparkle
@@ -18845,17 +18845,17 @@ gilneas بطل
 gilneas استدعاء سيد هالة
 
 ginseng شاي
-
+زرافة
 giraffe شكل
 
 
 girdle من insight
 girdle من ruination
 girdle من ال فجر
+فتاة
 
-
-
-
+صديقة
+فتيات
 giselda تحويل dnd
 
 يعطي
@@ -18898,11 +18898,11 @@ giselda تحويل dnd
 يعطي صيف scorchling incense
 يعطي ماء دلو
 يعطي2
-
+معطى
 given يمين ينقر instruction
 given ذاك
 
-
+إعطاء
 giving أحد يد
 
 gizlock's دمية
@@ -18929,8 +18929,8 @@ gjalerbron سجين روح relay
 جليدي صدرية
 جليدي waistband
 جليدي wrists
-
-
+يجمد
+نهر جليدي
 
 glad إلى يكون للخلف
 glad إلى يساعد
@@ -18948,7 +18948,7 @@ glaive رمي
 
 توهج
 توهج من ال tribunal
-
+زجاج
 glass صيد bobber
 glass يختبئ
 
@@ -18981,7 +18981,7 @@ global thermonuclear حرب
 
 
 glopgut rescue مرحلة
-
+مجيد
 
 glory من ال ancestors
 glory من ال jouster
@@ -19501,14 +19501,14 @@ glutinous سم
 رمز من zen طيران
 رمز من zen meditation
 رمز من zen posture
-
+مدير اللعبة
 
 
 gnarl's bough دمية
 
-
+صرير الأسنان
 gnashing أسنان
-
+يقضم
 gnaw عظم
 
 
@@ -19605,9 +19605,9 @@ gnomish x-شعاع specs
 يذهب غرب
 يذهب2
 
+ماعز
 
-
-
+خرافي
 gob فرقة شعلة
 gob فرقة سيد heartbeat
 gob فرقة سيد استدعاء
@@ -19661,10 +19661,10 @@ gob فرقة تعويذة override
 غوبلن nurse شفاء تعويذة
 
 
+إلهة
 
 
-
-
+يلا يلا
 ذاهب
 ذاهب غائب
 ذاهب backwards
@@ -19686,9 +19686,9 @@ gob فرقة تعويذة override
 ذهب farming
 ذهب ميدالية
 ذهب2
+ذهبي
 
-
-
+غولف
 
 
 جيد
@@ -19730,7 +19730,7 @@ gob فرقة تعويذة override
 مع السلامة2
 
 gorefiend's قبضة
-
+غوريلا
 حصل
 حصل أحد idea
 حصل buffed
@@ -19741,13 +19741,13 @@ gorefiend's قبضة
 حصل sidetracked
 حصل يعمل في ال صباح
 حصل أنت
-
+أمسكتك
 
 gotta يركض
 gotta يعمل غدا
 
-
-
+المعدل
+جي بي إس
 إمساك
 إمساك شيء إلى يأكل
 إمساك ال chance
@@ -19755,22 +19755,22 @@ grabbing أحد يشرب
 grabbing طعام
 
 
+خريج
 
 
+الجد
+الجدة
+جدتي
+جدي
 
-
-
-
-
-
-
+عنب
 رسومات
-
-
+عشب
+ممتن
 تهانينا
 
 graveyard يركض
-
+الجاذبية
 
 gray تحليل
 
@@ -19792,12 +19792,12 @@ gray تحليل
 أخضر
 أخضر نار هو سيء
 أخضر علم
-
+تحيات طيبة
 رمادي
 يؤذي
-
-
-
+إزعاج اللاعبين
+خطير جدا
+شواية
 
 grind لـ ساعات
 grind pays إيقاف
@@ -19821,8 +19821,8 @@ grinding ذهب
 grow من it
 grow أعلى
 
-
-
+انقلع
+يجب أن أذهب
 حارس
 حارس درويد
 حارس من قديم kings
@@ -19855,31 +19855,31 @@ guess ماذا
 نقابة vote
 نقابة website
 نقابة2
+عضو النقابة
+زميل النقابة
 
-
-
-
+ذنب
 
 
 
 
 
 guys نحن can يفعل هذا
-
-
+صالة رياضية
+جمباز
 تهانينا
 
 حبيبي
-
-
+موطن
+هاكر
 كان
 كان أحد feeling
 كان أحد جيد حلم
 كان أحد nightmare
 كان لا
-
-
-
+هاها
+هاهاها
+هاهاهاها
 
 شعر
 نصف
@@ -19887,15 +19887,15 @@ guys نحن can يفعل هذا
 نصف صحة
 نصف مانا
 halfway هناك
-
+الهالوين
 halls من برق
 halls من حجر
 
 
 hammer من justice
 hammer من سخط
-
-
+هامستر
+وتر الركبة
 يد
 يد في يد
 يد من freedom
@@ -19904,10 +19904,10 @@ hammer من سخط
 يد من sacrifice
 يد من salvation
 يد son
-
+مقبض
 
 handle ال adds
-
+أيدي
 hang في هناك
 hang في هناك phrase
 hang تشغيل
@@ -19935,16 +19935,16 @@ hang تشغيل
 صعب مرات
 صعب يعمل pays إيقاف
 صعب2
-
+متشدد
 
 hardcore نقابة
 hardcore لاعب
+أصعب
+بالكاد يذكر
 
 
-
-
-
-
+ضار
+قاسي
 لديه
 لديه لا حياة
 لديه لا
@@ -19956,10 +19956,10 @@ hardcore لاعب
 
 hate هذا لعبة
 
-
+مكروه
 
 hating هذا
-
+يطارد كالشبح
 يملك
 يملك أحد جيد يوم
 يملك أحد جيد واحد
@@ -19972,9 +19972,9 @@ hating هذا
 يملك2
 havent cleared هذا room
 havent played في years
-
+امتلاك
 having ممتع
-
+صقر
 هو
 هو believes
 هو brings

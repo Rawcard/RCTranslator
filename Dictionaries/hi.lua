@@ -12652,7 +12652,7 @@ doomweed धुंध
 दरवाज़ा आग
 दरवाज़ापहरेदार
 नशा
-
+हमशक्ल
 doren मारो श्रेय
 doren चरण shift
 dormus थामो camels anim
@@ -12676,16 +12676,16 @@ dos और don'ts
 दोगुना-फलक lunge
 दोगुना-धार thrash
 दोगुना-stitched woolen कंधे
-
-
+संदेह
+संदिग्ध सा
 doubting मन
 
 douse शाश्वत ज्वाला
 douse आग
 douse ज्वालाएँ
 douse roof आग
-
-
+भीगा हुआ
+भिगोना
 
 dousing ज्वालाएँ
 नीचे
@@ -12694,15 +12694,15 @@ dousing ज्वालाएँ
 नीचे को पृथ्वी
 नीचे को वह wire
 downhill से
-
-
-
-
+डाउनलोड
+डाउनलोड हो रहा
+छँटनी
+नीचे की मंज़िल
 नीचेसमय
 downwind का altairus
 dowse शाश्वत ज्वाला
-
-
+पानी खोजना
+झपकी लेना
 dozing आभा देरी
 हमला
 हमला मंत्री क्रिटिकल नुकसान बोनस
@@ -12731,7 +12731,7 @@ draenei आत्मा दृश्य 2
 
 draenei tomb संरक्षक मंत्र
 
-
+मसौदा
 drag शरीर
 drag बारूदी गाड़ी
 drag बारूदी गाड़ी जाँच
@@ -12861,7 +12861,7 @@ dragonstrike पायजामा
 सोखना वह कमज़ोर
 सोखना दुनिया पेड़ दृश्य
 सोखना दुनिया पेड़ दृश्य 2
-
+थका हुआ खाली
 
 drained का शक्ति
 draining प्रहार
@@ -12902,10 +12902,10 @@ drakuru मौत
 drakuru गायब blightblood
 drakuru रूपांतर
 drakuru's खोपड़ी मिसाइल
+नाटक
 
-
-
-
+नाटकीय
+पिया
 draught का युद्ध
 खींचो
 खींचो प्राचीन glyphs
@@ -12928,7 +12928,7 @@ draught का युद्ध
 खींचो sports
 खींचो vita
 खींचो जल sample
-
+कमियाँ
 drawing किट
 drawn जादू
 drawn आत्मा
@@ -13018,7 +13018,7 @@ dreamweave बनियान
 dreamwraps का वह प्रकाश
 
 
-
+तरबतर
 drenched में mojo
 
 
@@ -13030,7 +13030,7 @@ dressed को मारो
 dried needle कुकुरमुत्ता
 
 drifting vapors का वह बर्फ lily
-
+ड्रिल
 drill कवच
 drill धावा
 
@@ -13069,7 +13069,7 @@ drill धावा
 पीना wine
 
 
-
+पेय
 टपक
 
 
@@ -13132,9 +13132,9 @@ drone उकसाना
 बूँद zanzil's रसायन
 बूँद-बंद आवधिक
 बूँद2
-
+बूँद
 droplet का y'shaarj
-
+पढ़ाई छोड़ने वाला
 गिरा
 गिरा हथियार
 droppin बम
@@ -13147,7 +13147,7 @@ drostan चालू प्रकट
 drowned gilnean आत्मा उड़ान
 drowned स्क्रीन प्रभाव
 drowned स्थिति
-
+डूबना
 drowning मौत
 drowning militia पुतला
 drowning वाहन निकास पुतला
@@ -13195,7 +13195,7 @@ drunken खोपड़ी crack
 drunken sleeping सोना
 
 
-
+सूखा
 
 
 dryad छद्मावरण
@@ -13207,25 +13207,25 @@ dual wield 2h परीक्षण
 ducal's घोड़ा चालू
 
 due को
-
+द्वंद्व
 duel आभा जाँच
 duel आभा जाँच 01
 duel झंडा
 duel विजय
-
-
+द्वंद्वयोद्धा
+नीरस
 dull chitinous एकाग्रता
 dull emberstone एकाग्रता
 dull pyreshell एकाग्रता
 dull rhyolite एकाग्रता
 
-
+मंदबुद्धि
 
 
 dumb गाँड
 dumb चोदना
 dumb विचार
-
+बेवकूफ़ आदमी
 पुतला
 पुतला - lab
 पुतला आक्रोश
@@ -13360,12 +13360,12 @@ dwarven कुल्हाड़ी
 
 
 
-
+घटते जाना
 dyamite विस्फोट
 
 dying साँस
 dying शाप
-
+गतिशील
 बारूद
 बारूद आभा
 बारूद धमाका
@@ -13387,14 +13387,14 @@ eagle's चीख
 eaglebane कलाईबंद
 कान
 कान-o-scope
-
+पहले ही
 जल्दी
 जल्दी adoption मारो श्रेय
 जल्दी खेल
 जल्दी सुबह कल
 जल्दी दिखाओ
-
-
+कमाना
+ईयरफ़ोन
 
 पृथ्वी
 पृथ्वी किरण
@@ -13480,7 +13480,7 @@ earthliving बीज
 earthliving दृश्य
 earthliving हथियार
 earthpeace कवच
-
+भूकंप
 earthquake कैमरा shake
 
 earthquake चालू
@@ -13493,7 +13493,7 @@ earthsoul जूते
 
 easier said से हो गया
 easier said से हो गया वाक्यांश
-
+आसानी से
 पूर्व
 पूर्व frostwolf warmaster
 पूर्व ओर
@@ -13501,7 +13501,7 @@ easier said से हो गया वाक्यांश
 पूर्व सर्वेक्षण पूर्ण
 पूर्व मंदिर arrival scene
 पूर्व मंदिर धुआँ बम
-
+ईस्टर
 easter lay noblegarden अंडा आभा
 eastern आग आभा
 
@@ -13539,15 +13539,15 @@ eastern आग आभा
 खाना के माध्यम से जाल
 खाना trog
 खाना2
-
-
+खाया हुआ
+खाते हुए
 eating dragon's nest noodle सूप
 
 eating noodle सूप
 eating pandaren treasures noodle सूप
 
 eating वह नारंगी
-
+खाता है
 eavesdropping श्रेय
 ebon फलक aspirant's पताका
 ebon फलक ध्वज
@@ -13572,7 +13572,7 @@ ebonsteel बेल्ट buckle
 
 ebonweave दस्ताने
 ebonweave चोगा
-
+ई-बुक
 echeyakee's कृपा
 प्रतिध्वनि धमाका
 प्रतिध्वनि का archimonde
@@ -13585,7 +13585,7 @@ echoes से वह past
 echoes का प्रकाश
 echoes का lordaeron
 echoes का memory
-
+गूँजता
 echoing लड़ाई चिल्लाना
 echoing दहाड़
 echoweb विष
@@ -13594,23 +13594,23 @@ eck काटो
 
 eck थूक
 
-
+ग्रहण
 eclipse ऊर्जा
 eclipse चिह्न
 eclipse रीसेट
 eclipse दृश्य
 
-
-
-
-
+पारिस्थितिकी
+अर्थशास्त्र
+अर्थव्यवस्था
+पारिस्थितिकी तंत्र
 
 
 edgar's अनुष्ठान
 धार
 धार का सर्दी
 edicts का वह गर्जन राजा
-
+संपादित
 
 edward's अंतर्दृष्टि
 
@@ -13618,14 +13618,14 @@ eerie कोहरा
 eerie खोपड़ी
 eerie smolderthorn मूर्ति
 प्रभाव
-
+प्रभावी
 effective टीम
-
-
+बुदबुदाहट
+दक्षता
 efficiency है चाबी
-
+कुशल
 efficient खेती
-
+प्रस्फुटन
 
 effulgent आदिम हीरा
 effulgent shadowspirit हीरा
@@ -13654,14 +13654,14 @@ effulgent जंगली jade
 अंडा-splosive बौछार
 
 
-
+एह
 ei चरण
 eidolon कारागार
 आठ
-
-
-
-
+अठारह
+आठवाँ
+अस्सी
+या तो
 either या
 बाहर
 बाहर सभी यात्री
@@ -13689,7 +13689,7 @@ ejection मंत्र
 
 
 
-
+कोहनी
 elder तावीज़
 
 elder shu bandage दृश्य
@@ -13720,7 +13720,7 @@ electrical अतिभार primer
 electrical झटका
 electrical तूफ़ान
 electrical तूफ़ान pre-लक्ष्य
-
+विद्युतीकृत
 electrified ज़ंजीरें
 
 electrified भूमि
@@ -13735,8 +13735,8 @@ electro-magnetic स्पंदन
 electro-झटका
 electro-झटका therapy
 electro-प्रहार
-
-
+बिजली का झटका देना
+करंट से मौत
 electroflux दृष्टि enhancers
 electromagnetic अवरोध
 electromagnetic निर्वहन
@@ -13744,7 +13744,7 @@ electromagnetic निर्वहन
 electromagnetic स्पंदन
 electromancer ju'le श्रेय
 
-
+विद्युत आघात
 electrostatic धावा
 
 
@@ -13845,9 +13845,9 @@ elementium आतंक
 
 elements पट्टी
 elendilad आह्वान script
-
+हाथी
 elevator धक्का
-
+ग्यारह
 एल्फ़
 
 
@@ -13951,26 +13951,26 @@ elune's response प्रभाव
 elune's अनुष्ठान का युद्ध
 elune's स्पर्श
 elune's प्रकोप
-
+मायावी
 elusive काढ़ा
 elusive काढ़ा सजावट
 elusive शक्ति
-
+मायावीपन
 elven उपकरण सक्रियण ping
 
 elwynn जंगल
 elwynn जंगल भेड़िया
 
 
-
+मुक्त करना
 embalming बादल
 embarrass उसे
-
-
+शर्मिंदा होना
+शर्मनाक बात
 
 embarrassing खेलना
 embarrassing स्वयं
-
+शर्मिंदगी
 embedded फलक
 embedded भाला
 अंगारा धमाका
@@ -14037,7 +14037,7 @@ embrace का वह shale मकड़ी
 embrace का वह मकड़ी
 embrace का वह twisting nether
 embrace का वह vampyr
-
+पन्ना
 emerald acorn प्रभाव
 emerald थैला
 emerald बौछार
@@ -14058,13 +14058,13 @@ emerald बारिश
 
 
 
-
+उभरना
 emerge से बर्फ
 emerge से बर्फ - kun lai
 emerge स्थिति
 emerge आह्वान
 emerge दृश्य
-
+उद्भव
 आपातकाल
 आपातकाल bailout
 आपातकाल bailout xtreme
@@ -14084,7 +14084,7 @@ emerge दृश्य
 आपातकाल रॉकेट-झुंड
 आपातकाल रॉकेट-झुंड xtreme
 आपातकाल टेलीपोर्ट
-
+श्रेष्ठता
 
 emissary का निराशा श्रेय
 emissary का भय श्रेय
@@ -14114,12 +14114,12 @@ emote स्तब्ध
 
 emote talk प्रश्न
 emote काम
-
+भावुक
 emotional अवरोध
 
+ईएमपी
 
-
-
+सहानुभूति
 empathy का पत्थर
 
 emperor's साहस
@@ -14192,7 +14192,7 @@ empyreal संतुलन
 
 empyreal एकाग्रता किरण
 
-
+सक्षम करना
 enable फलक संकेत
 enable कारवाँ आयोजन
 
@@ -14205,10 +14205,10 @@ enable unit फ़्रेम
 enable वाहन क्षमताएँ
 enable worgen altered रूप
 
+पिंजरे में डालना
 
 
-
-
+समेटना
 
 
 encase में amber
@@ -14610,11 +14610,11 @@ enchanter's टोप
 मुठभेड़
 मुठभेड़ आयोजन
 मुठभेड़ प्रकट
-
-
+प्रोत्साहित
+प्रोत्साहन
 encroaching weed buddy आभा
 
-
+बोझिल
 encumbered चेतावनी
 अंत
 अंत ambush
@@ -14645,7 +14645,7 @@ endless प्रकोप
 
 endurance का niuzao
 
-
+सहना
 endure वह रूपांतरण
 
 enduring रसायन का ज्ञान
@@ -14733,18 +14733,18 @@ energizing बीजाणु
 ऊर्जा usage
 ऊर्जा भँवर
 ऊर्जा2
+निर्बल करना
+निर्बल
 
-
-
-
-
+कमज़ोर बनाना
+कमज़ोर हुआ
 enfeebling प्रहार
 
 enforcers तैयार
-
+भिड़ना
 engage पर होगा
-
-
+सगाई हुई
+सगाई
 engaging में तीन
 इंजन efficiency
 इंजन आग
@@ -14753,14 +14753,14 @@ engaging में तीन
 अभियंता
 अभियांत्रिकी
 अभियांत्रिकी विशेषज्ञता
-
+अंग्रेज़ी
 english कृपया
 
 
 
 engraved truesilver अंगूठी
 engulf में ज्वालाएँ
-
+निगल लिया
 engulfed विस्फोट
 engulfed में ज्वालाएँ
 निगलना अँधेरा
@@ -14788,7 +14788,7 @@ enhanced बुद्धिमत्ता
 enhanced ताकत
 enhanced sunder कवच
 enhancement शमन
-
+पहेली
 enigma blizzard बोनस
 enigma resist बोनस
 enigma's उत्तर
@@ -14797,14 +14797,14 @@ enigmatic आदिम हीरा
 enigmatic shadowspirit हीरा
 enigmatic skyfire हीरा
 enigmatic skyflare हीरा
-
-
+आनंद लेना
+आनंददायक
 enjoying एक ठंडा एक
 
+बड़ा करना
 
-
-
-
+प्रबुद्ध
+ज्ञानोदय
 enohar's विस्फोटक तीर
 
 enormous gyreworm स्थिति
@@ -14841,17 +14841,17 @@ enrapping जड़ें
 enriched lasher जकड़न
 
 enriched terocone रस
-
+ग़ुलाम बनाना
 enslave राक्षस
 enslave gronn सजावट
 
 enslaved आत्मा निष्क्रिय
-
-
+फँसाना
+फँसा
 
 ensnaring जाल
 ensorcelled nerubian कवच
-
+उलझाना
 entangliing जकड़न दृश्य
 entangling पकड़
 entangling जाल
@@ -14876,17 +14876,17 @@ entangling गोली
 प्रवेश2
 entering आभा
 entering युद्ध का मैदान
-
-
-
-
+उत्साही
+लुभावने
+संपूर्ण
+क़ब्र में बंद करना
 entrails रूपांतर
 प्रवेश द्वार
-
-
+फँसाव
+जाल में फँसा
 entrapping जड़ें
 entrapping जड़ें आह्वान
-
+उद्यमी
 entropic आभा
 
 entropius शरीर
@@ -14897,14 +14897,14 @@ enveloping कोहरा
 enveloping जाल
 
 enveloping हवाएँ
-
+ज़हर भरना
 envenomed कटार फेंको
 
 envenomed गोली
-
+पर्यावरण
 
 envoker's ढाल
-
+ईर्ष्या
 
 eoe scene संगीत
 eoin's पीपा
@@ -14914,13 +14914,13 @@ ephemeral शक्ति
 महाकाव्य विफल
 महाकाव्य बैंगनी कमीज़ flex
 महाकाव्यप्रवेश
+भोजन प्रेमी
 
+अचानक बोध
 
+बराबर
 
-
-
-
-
+समानता
 
 सुसज्जित करना
 धारण flamethrower
@@ -14933,10 +14933,10 @@ ephemeral शक्ति
 eranikus वह chained invisiibility
 eric's धावा
 eric's pocket औषधि
-
+अम्म
 eroding बारिश
-
-
+ग़लती करना
+त्रुटि
 error - नहीं while mounted
 
 erunak दृष्टि आभा 01
@@ -14947,7 +14947,7 @@ erunak's बिजली
 
 erunak's meatstick दृश्य
 
-
+फूटना
 erupting आग
 erupting ज्वाला
 erupting बर्फ
@@ -14958,7 +14958,7 @@ erupting कुंड का क्रोध
 erupting जल
 
 escalating शक्ति
-
+वृद्धि
 भागना
 भागना artist
 भागना पंजे
@@ -14982,10 +14982,10 @@ escaping arthas मारो श्रेय
 अनुरक्षण zen'kiki
 eskhandar's क्रोध
 
-
-
+ख़ासकर
+ई-स्पोर्ट्स
 espresso धूल
-
+निबंध
 सार प्रवाह
 सार infused mushroom
 सार mango
@@ -15022,11 +15022,11 @@ espresso धूल
 सार का y'shaarj
 सार का yu'lon
 
+मूलतः
 
 
-
-
-
+पहुँचने का समय
+आदि
 
 
 
@@ -15093,18 +15093,18 @@ eternium runed फलक
 ettin's मुँह
 etymidian निकास पुतला
 etymidian सवार प्रतिरक्षा
-
-
+परमानंद
+यूरोप
 evacuee गायब
 
 evacuee reaches अजगरझुलसा
-
-
+बच निकलना
+धर्मप्रचार
 evanor's कारागार ज़ंजीरें
+भाप बनना
+वाष्पीकरण
 
-
-
-
+टालमटोल वाला
 evasive उत्तर
 evasive आभा
 
@@ -15113,7 +15113,7 @@ evasive आभा
 
 
 
-
+शाम
 evening प्रतिबंध
 
 आयोजन
@@ -15161,7 +15161,7 @@ eversong battered पेटी जाल पुतला
 हरकहाँ
 evict आत्मा
 evicted आत्मा
-
+सबूत
 evidence चिह्न
 evidence चिह्न अदृश्य
 बुराई
@@ -15174,7 +15174,7 @@ evidence चिह्न अदृश्य
 बुराई है एक बिंदु का view
 बुराई टेलीपोर्ट दृश्य केवल
 बुराई twin
-
+अंतड़ियाँ निकालना
 eviscerate और envenom बोनस नुकसान
 eviscerate और envenom discount
 
@@ -15185,18 +15185,18 @@ eviscerator's पायरक्षक
 
 
 
-
+आह्वान
 
 evoker वर्ग
-
+विकास क्रम
 ewer का jormungar रक्त
-
+सटीक रूप से
 बिल्कुल सही
 बिल्कुल सही correct
 बिल्कुल सही दाएं
 बिल्कुल सही वह समान
 बिल्कुल सही क्या मैं needed
-
+महिमामंडित
 exalted आभा
 exalted आभा प्रभाव
 exalted shattered सूरज offensive आभा
@@ -15204,15 +15204,15 @@ exalted के साथ
 
 
 examine jade प्रतिमा
-
+जाँचते हुए
 
 exarch's जादू
 exceeded मेरा expectations
 exceeded वह hype
-
+उत्कृष्ट
 excellent काम
 
-
+के सिवा
 exception को वह नियम
 exceptional स्वास्थ्य
 exceptional माना
@@ -15224,7 +15224,7 @@ exchange वस्तु
 excruciating वेदना
 क्षमा करें
 excuse मुझे कृपया
-
+अमल करना
 execute forsaken कैदी
 
 execute चरण
@@ -15233,23 +15233,23 @@ execute कैदी
 
 execute वह योजना
 executing योजना
+फाँसी
 
-
-
-
-
-
+जल्लाद
+निष्पादक
+व्यायाम
+साँस छोड़ना
 
 exhausted लेकिन अभी भी जाना
 
 
+थकाऊ
+थकावट
 
+उल्लसित करना
+उल्लास
 
-
-
-
-
-
+अस्तित्व में होना
 निकास
 निकास deathmatch
 निकास मदद मोड
@@ -15272,16 +15272,16 @@ exodar valiant's पताका
 
 exorcise आत्माएँ
 exorcising manifestation का क्रोध
+भूत भगाना
 
-
-
+ओझा
 
 
 expanded मन
 
 expansive मन
 expansive आत्मा
-
+उम्मीद करना
 expect वह unexpected
 expect वह सबसे बुरा
 expected नहीं कम
@@ -15294,12 +15294,12 @@ expedition भड़क
 निष्कासन miasma
 expelled भ्रष्टाचार
 Prophet of the Flame Transform 02
-
+महँगा
 
 अनुभव
 अनुभव है वह सर्वश्रेष्ठ teacher
 अनुभव2
-
+अनुभवी व्यक्ति
 experienced guide गायब चालू
 experienced खिलाड़ी
 
@@ -15326,10 +15326,10 @@ experimental बिल
 विशेषज्ञ tailor
 
 
-
+समझाना
 explain वह लड़ना
 explain स्वयं
-
+स्पष्टीकरण
 
 
 विस्फोट
@@ -15386,11 +15386,11 @@ exploded मछली
 विस्फोट गर्जन पत्थर
 
 explodo-rockets बाएं
-
+शोषण
 exploit कमज़ोरी
 exploited कमज़ोरी
-
-
+फ़ायदा उठाना
+खोजकर्ता
 
 विस्फोट
 विस्फोट fade दूर
@@ -15442,15 +15442,15 @@ expose razorthorn जकड़न
 expose स्वयं
 
 expose कमज़ोरी
-
+उजागर
 exposed दिल
 exposed नसें
 
 expunge विष
 expunged गैस
 
-
-
+ख़ून बहाना
+ख़ून निकलना
 
 extending हमारा coverage - त्याग
 extending वह छापा
@@ -15458,13 +15458,13 @@ extermination किरण
 external combustion इंजन
 external कूलडाउन
 extinct turtle खोल
-
+बुझाना
 extinguish सभी ज़िंदगी
 extinguish आग
 extinguish आग attempt
 extinguish ज्वालाएँ
-
-
+बुझाते हुए
+अतिरिक्त चीज़
 extra action बटन ओट मंत्र
 extra नुकसान कमज़ोरी
 extra बड़ा शिरस्त्राण sparkle
@@ -15479,19 +15479,19 @@ extract का वह afterlife
 extract तेल
 extract तेल प्रभाव
 
+पाठ्येतर
+असाधारण
 
 
-
-
-
-
+भव्य आयोजन
+चरम
 extreme पकाना
 
 extreme hozen-fu प्रभाव
 
 
 extreme-टक्कर छेद puncher
-
+बेहद
 
 
 आँख
@@ -15605,7 +15605,7 @@ Corrupting Crash Targeting
 चेहरा2
 faceless रीसेट
 faceless रूपांतरण
-
+माथा पीटना
 faces का कयामत
 facet का अनंतता
 
@@ -15613,7 +15613,7 @@ facing प्रवाह
 facing प्रवाह किरण
 
 facing wrong रास्ता
-
+गुट
 faction बदलो
 
 
@@ -15633,7 +15633,7 @@ faded जंगल चिह्न
 faded जंगल पदक
 faded जंगल पदक
 faded में twilight
-
+मंद पड़ना
 fading भ्रष्टाचार
 fading प्रकाश
 fading होगा
@@ -15661,10 +15661,10 @@ fahrad's true रूप
 विफल परीक्षा
 विफलता
 विफलता टाइमर आभा
-
-
+बेहोश
+बेहोश होना
 faintly-चमकता जड़ी
-
+निष्पक्ष
 fair और square
 fair काफी
 fair दूर clip
@@ -15673,7 +15673,7 @@ fair बिंदु
 
 fair चेतावनी
 आस्था
-
+नक़ली
 fake रक्त spurt
 fake मौत
 fake गोली
@@ -15726,22 +15726,22 @@ falcon's बुलाओ
 गिरता भेड़
 गिरता तारा
 गिरता vase विस्फोट
-
+गिरता है
 falls बंद
-
+झूठा
 false शुरू
 
-
-
-
-
+लड़खड़ाना
+परिवार वाले
+प्रसिद्धि
+परिचित
 परिवार
 परिवार खेल समय
 परिवार गिल्ड
 परिवार समस्या
 परिवार jewels
 परिवार2
-
+मशहूर
 fan का bananas
 fan का फलक
 fan का feathers
@@ -15752,7 +15752,7 @@ fanatic फलक
 fanatic फलक प्रभाव
 
 fanatical प्रहार
-
+कट्टरता
 
 fancy ऊपर टोपी
 fandral रचयिता आभा
@@ -15776,7 +15776,7 @@ fantasy पुस्तक
 दूर दृष्टि टोटम
 दूर श्रेष्ठ
 दूर-seeing आँखें
-
+विदाई
 fargo flintlocke खोज अदृश्य एक
 fargo flintlocke खोज अदृश्य b
 
@@ -15805,7 +15805,7 @@ farm दौड़ना
 fastening ज़ंजीर
 
 faster regrowth मंत्र
-
+मोटा
 fat गाँड
 fat लंबा-fat
 fat लंबा-flop
@@ -15819,7 +15819,7 @@ fatal प्रहार चालू
 fatal प्रहार
 
 fatal घाव
-
+मृत्यु
 नियति
 नियति का वह kor'thik
 नियति का वह sra'thik
@@ -15829,7 +15829,7 @@ fatal घाव
 नियति रून का nigh invincibility
 नियति रून का आदिम ऊर्जा
 नियति रून का unsurpassed vigor
-
+पिता
 father winter's सहायक
 father winter's सहायक unsummon
 
@@ -15838,7 +15838,7 @@ father winter's सहायक unsummon
 
 favor का वह राजा
 favorable हवाएँ
-
+अनुग्रहित
 favorite पट्टी
 
 favorite गीत
@@ -15894,13 +15894,13 @@ feathered क्रोध
 feathered सोना earring
 
 feathered raptor बाँह
-
+पंख जैसा हल्का
 feathers का क्रोध
 feathery चक्रवात विस्फोट
 feathery विस्फोट
-
-
-
+विशेषता
+उर्वरता
+खिलाया
 feeble शरीर
 
 खिलाओ
@@ -15934,13 +15934,13 @@ feeble शरीर
 खिलाओ young
 खिलाओपीछे
 feedback सक्रियण
-
+फ़ीडर
 भोजन
 भोजन उन्माद
 भोजन पत्थर falcon
 भोजन वह दानव
 भोजन वह brood
-
+महसूस करना
 feel बेहतर
 feel वह जलाओ
 feel वह flavor
@@ -15954,7 +15954,7 @@ feeling अच्छा के बारे में यह एक
 feeling laid पीछे
 feeling थका हुआ
 feeling बदतर
-
+महसूस होता है
 feels जैसा
 feels जैसा कल
 पैर
@@ -15963,8 +15963,8 @@ feels जैसा कल
 fei li संरक्षक आभा
 feign और drown
 feign मौत
-
-
+दिखावटी
+छल
 
 
 
@@ -16156,7 +16156,7 @@ felsteel ढाल कील
 
 felstrom पुनर्जीवन
 felsworn गैस मुखौटा
-
+महसूस किया
 
 
 
@@ -16194,7 +16194,7 @@ fengir's आभा
 हिंसक vermling
 
 
-
+किण्वित करना
 fern feeder मिसाइल
 fern feeder मिसाइल प्रभाव
 fern feeder दृश्य
@@ -16202,11 +16202,11 @@ ferocious काटो
 
 ferocious पंजा
 ferocious क्रोध
-
+उग्रता
 fertile भूमि
 
-
-
+उर्वरक
+जोश
 fester रक्त
 festered रक्त
 festering काटो
@@ -16258,10 +16258,10 @@ fetid मांस pile दृश्य
 fetish बंधन
 fetish का hir'eek
 fetish शमन
-
+दुश्मनी
 feugen ज़ंजीर
 feugen tesla निष्क्रिय
-
+बुख़ार
 fever काटो
 feverbite गायब
 fevered रक्त
@@ -16275,7 +16275,7 @@ feverish मौतकाटो
 
 
 fiasco's झुंड
-
+कथा साहित्य
 क्षेत्र
 क्षेत्र disruption
 क्षेत्र goal
@@ -16384,10 +16384,10 @@ fieroclast बौछार
 उग्र जाल spin
 उग्र पंख
 उग्र प्रकोप
-
+पंद्रह
 fifteen परतें
-
-
+पाँचवाँ
+पचास
 
 fifty प्रतिशत
 लड़ना
@@ -16401,12 +16401,12 @@ fifty प्रतिशत
 लड़ना वह jade warlord
 लड़ना wyrm
 लड़ना2
-
+लड़ते हुए
 fighting मछली
 fighting चिकित्सक rescued आभा
 
 
-
+झगड़े
 
 figment का doubt
 figments का longing
@@ -16441,8 +16441,8 @@ figure बाहर
 मूर्ति - truesilver boar
 मूर्ति - truesilver crab
 मूर्ति - twilight सर्प
-
-
+फ़ाइल
+फ़िले
 filet का redgill
 भरो
 भरो 15 वृत्त
@@ -16468,14 +16468,14 @@ fillet अंधा cavefish
 fillet विशाल catfish
 fillet का उन्माद
 fillet royal भिक्षुमछली
-
+भराई
 filling पीपा
 filling खाली jar
 filling बोतल
 filling पीपा
 filling marmot छेद
-
-
+फ़िल्म
+फ़िल्टर
 
 filthling निष्क्रिय
 
@@ -16497,10 +16497,10 @@ filthling निष्क्रिय
 अंतिम बौछार
 अंतिम शब्द
 अंतिम प्रकोप
-
+समापन दृश्य
 finale पूर्णता चरण
 finale विस्फोट
-
+आख़िरकार
 finally हो गया के लिए tonight
 finally गिरा
 
@@ -16533,7 +16533,7 @@ finally मिला में
 खोजो2
 finding jaina श्रेय
 finding sylvanas श्रेय
-
+ढूँढ़ता है
 ठीक
 ठीक bloodscalp dinnerware
 ठीक क्रिस्टल candelabra
@@ -16553,7 +16553,7 @@ finding sylvanas श्रेय
 उंगली
 उंगली का मौत
 उंगली का मौत coolup
-
+उँगलियाँ
 
 fingers का तुषार
 fingers का वह damned
@@ -16734,18 +16734,18 @@ fire's चमक
 आगखिलना
 आगबिजली
 आगबम
-
+आग उगलना
 आगविस्फोट
 
-
+पटाखे कई
 firefighting उपकरण
-
+जुगनू
 आगरूप
 आगपहरेदार
 
 firegut भय तूफ़ान
 firegut ogre भेस
-
+फ़ायर होज़
 Firelands Object Visual
 
 fireproof जाल
@@ -16773,7 +16773,7 @@ fireweave कंधे
 firework प्रभाव 1
 आगकाम launcher
 आगकाम launcher inactive
-
+आतिशबाज़ी
 fireworks विस्फोट
 
 firey हाथ
@@ -16813,7 +16813,7 @@ firing क्षेत्र तोप
 मछली snack
 मछली tails
 मछली उछालो
-
+मछुआरा
 fisherman's दावत
 fisherman's टोपी स्थिति
 मछली पकड़ना
@@ -16824,7 +16824,7 @@ fisherman's टोपी स्थिति
 मछली पकड़ना poles
 मछली पकड़ना raft
 fishliver तेल
-
+संदिग्ध मछली जैसा
 
 
 मुट्ठी चीरो
@@ -16837,8 +16837,8 @@ fishliver तेल
 मुट्ठी कुचलो
 मुट्ठी हथियार
 मुट्ठी weapons
-
-
+घूँसेबाज़ी
+हाथापाई
 मुट्ठियाँ का गूढ़ क्रोध
 मुट्ठियाँ का ज्वाला
 मुट्ठियाँ का झड़ी
@@ -16848,7 +16848,7 @@ fishliver तेल
 मुट्ठियाँ का बिजली
 मुट्ठियाँ का पत्थर
 fitful स्वप्न
-
+फ़िटनेस
 पाँच
 पाँच चार तीन दो एक
 पाँच जाना
@@ -16859,7 +16859,7 @@ fitful स्वप्न
 पाँच-गोली
 
 fix अनुष्ठान node
-
+टकटकी लगाना
 fixate क्रोध
 fixate किरण सजावट
 fixate राक्षस रचयिता
@@ -16869,16 +16869,16 @@ fixate चालू नारंगी carrier
 fixate onhit निष्क्रिय
 
 fixate चालू
-
+ध्यान केंद्रित
 fixated छलांग
 fixated क्रोध
 fixated क्रोध primer
-
+ठीक किया
 fixing वह समस्या
 fizzcrank parachute टेलीपोर्ट लक्ष्य
 fizzcrank pilot - gett बंद plane
 
-
+फुस्स होना
 
 fizzy काढ़ा
 fizzy बुलबुले
@@ -16892,7 +16892,7 @@ fizzy ऊर्जा पीना
 झंडा खोज
 झंडा wodin's mantid shanker
 flagged के लिए खिलाड़ी बनाम खिलाड़ी
-
+झंडे
 
 flail का go'rath
 flak बौछार
@@ -16900,7 +16900,7 @@ flak बौछार टक्कर
 flak तोप
 flak आग
 flak आग टक्कर
-
+अविश्वसनीय
 ज्वाला
 ज्वाला कवच किट
 ज्वाला तीर
@@ -17129,10 +17129,10 @@ flameward सक्रिय
 flammable तेल
 flank वह बॉस
 flank उन्हें
-
+किनारे से हमला
 
 flanking आदेश
-
+फड़फड़ाना
 भड़क
 भड़क बंदूक
 भड़क ऊपर
@@ -17201,12 +17201,12 @@ flashback स्क्रीन प्रभाव
 बोतल का titanic ताकत
 बोतल का winter's काटो
 बोतल ऊपर
-
-
+फ़्लास्क
+सपाट
 flat नुकसान कमी
 flat spin स्थिति
 flattery होगा पाओ तुम nowhere
-
+पादना
 flawless aquatic लड़ाई-पत्थर
 
 flawless लड़ाई-पत्थर
@@ -17222,7 +17222,7 @@ flawless मृतजीव लड़ाई-पत्थर
 
 flayed जीवित
 flayed मांस
-
+खाल उतारने वाला
 
 flayer झड़ी
 
@@ -17251,12 +17251,12 @@ fleshbeast रूपांतर
 fleshwerks चरण
 fletcher's दस्ताने
 fletcher's दस्ताने का वह phoenix
-
+मांसपेशियाँ दिखाना
 flex उठाओ
 flex छापा
-
-
-
+लचीलापन
+लचीला
+शेखी दिखाते हुए
 
 flickering ज्वाला
 flickering ज्वालाएँ
@@ -17276,7 +17276,7 @@ flickering ज्वालाएँ
 उड़ान को sholazar
 उड़ान को sholazar आवधिक
 उड़ान दृश्य स्थिति
-
+फेंकना ज़ोर से
 fling फलक
 
 
@@ -17298,15 +17298,15 @@ flip को light's आशा
 
 
 flitterling धूल
-
-
+तैरना
+तैरता हुआ
 floating मौत
 
 floating आत्मा
 floating भँवर प्रभाव
 
 flock बुलाओ
-
+बाढ़
 flood वह बातचीत
 फ़र्श
 फ़र्श है लावा
@@ -17317,7 +17317,7 @@ flooz टक्कर
 flooz बाधित
 
 flour विस्फोट
-
+फलना-फूलना
 प्रवाह का gratitude
 प्रवाह का ज्ञान
 प्रवाह का वह elements
@@ -17334,7 +17334,7 @@ flowers का वह मृत
 
 fluid जैसा जल
 fluid टाइमर बढ़ावा
-
+तरलता
 fluorescent हरा mechanostrider
 झड़ी
 झड़ी कुल्हाड़ी
@@ -17344,9 +17344,9 @@ fluorescent हरा mechanostrider
 झड़ी का मुट्ठियाँ
 झड़ी का दाँत
 झड़ी का xuen
-
+फ़्लश करना
 बाँसुरी का वह ancients
-
+फड़फड़ाहट
 
 
 
@@ -17450,12 +17450,12 @@ foaming क्रोध
 केंद्रित strikes
 केंद्रित होगा
 केंद्रित प्रकोप
-
+ध्यान लगाते हुए
 कोहरा
 कोहरा का भ्रष्टाचार
 कोहरा का वह kualdir
 कोहरा का समय
-
+धुँधला
 folded भूत लोहा
 
 folk संगीत
@@ -17473,12 +17473,12 @@ folk संगीत
 पीछा हमें
 पीछा आपका gut
 पीछा2
-
-
+अनुयायी
+अनुसरण
 following वह
-
+अनुसरण करता है
 पीछा करनाके माध्यम से
-
+छूट जाने का डर
 खाना
 खाना तोड़ो
 खाना बढ़ावा
@@ -17496,7 +17496,7 @@ fool's सोना
 
 
 
-
+फ़ुटबॉल
 
 foothold हमला गीत
 
@@ -17525,11 +17525,11 @@ footwraps का quenched आग
 के लिए तुम
 के लिए आपका information
 के लिए2
-
-
+चारा ढूँढ़ना
+सहनशीलता
 forbidden जादू
 forbidding समुद्र आभा
-
+अपशकुन
 forbosi throws को tayemba
 बल
 बल और verve
@@ -17602,7 +17602,7 @@ forcecast आह्वान शमन
 forcecast आह्वान zepik
 forcecast switch को seat 3
 बलढालना trapcap
-
+ज़बरदस्ती
 
 forced खोलो edict का temperance
 forced को चुनो
@@ -17627,7 +17627,7 @@ forced को चुनो
 प्रबल फेंको
 प्रबल जंगली jade
 
-
+पूर्वानुमान
 foreman's मंत्रमुग्ध हेलमेट
 
 foreman's reinforced हेलमेट
@@ -17639,7 +17639,7 @@ foreman's reinforced हेलमेट
 जंगल step
 जंगल sup
 
-
+हमेशा के लिए
 भट्ठी
 भट्ठी श्रेय
 भट्ठी अंगारा
@@ -17662,21 +17662,21 @@ forgemaster प्रकट सजावट
 forgemaster's कुल्हाड़ी
 forgemaster's हथौड़ा
 forgemaster's छड़ी
-
+भूलना
 forget के बारे में यह
 forget यह
-
+भूल जाता है
 forgewire कुल्हाड़ी
-
+लोहा गढ़ना
 forgive मुझे
-
-
+माफ़ी
+भूल गया
 forgotten आभा
 forgotten depths बम
 
 
 forgotten ज्ञान
-
+काँटा
 forked फलक दृश्य
 forked आग-गोली
 
@@ -17693,7 +17693,7 @@ forlorn spire कैमरा blackout
 रूप का rokkaram
 रूप का वह moonstalker
 formal सफ़ेद कमीज़
-
+गठन
 formation grounds टेलीपोर्ट
 forming फ़्रेम का atiesh
 forming समूह
@@ -17707,9 +17707,9 @@ forsaken महामारी बादल
 
 
 fort grookin युद्ध prep
-
+ख़ूबी
 fortification का shattrath
-
+किलाबंद
 fortified सप्ताह
 fortify पत्थर आभा
 fortifying काढ़ा
@@ -17720,18 +17720,18 @@ fortifying काढ़ा
 धैर्य का वह scourge
 धैर्य का वह sin'dorei
 धैर्य चालू
+क़िला
 
-
-
+सौभाग्य से
 भाग्य बिस्कुट
-
+चालीस
 आगे
 आगे thrust
 
 fossil खोजक 3000
 fossilized शिशु
 
-
+लड़ा
 गंदा
 गंदा विस्फोट
 गंदा ठंड
@@ -17746,9 +17746,9 @@ fossilized शिशु
 गंदा धारा
 गंदा विष
 गंदा जल
-
+गंदगी भरा
 foulstream टोटम
-
+पाया
 found दुश्मन
 found लक्ष्य
 foundations का साहस
@@ -17759,8 +17759,8 @@ foundations का साहस
 चार घंटा छापा
 चार टुकड़ा बोनस
 चार senses काढ़ा
-
-
+चौदह
+चौथा
 लोमड़ी
 लोमड़ी किट
 
@@ -17769,7 +17769,7 @@ foundations का साहस
 fps बूँद
 fps खेल
 
-
+फ्रैक्चर
 
 
 fractured chimera's आँख
@@ -17788,8 +17788,8 @@ frail आत्मा
 
 
 फ़्रेम
-
-
+फ़्रांस
+उन्मत्त भाव
 
 frantic छलांग
 
@@ -17841,7 +17841,7 @@ freed warsong योद्धा
 
 
 
-
+फ़्रीलांसर
 freewind बहादुर
 जमाओ
 जमाओ anim
@@ -17876,7 +17876,7 @@ freewind बहादुर
 जमाव हवा
 जमाव हवाएँ
 freezya धमाका
-
+फ़्रेंच
 frenetic झपट
 उन्मत्त हमला
 उन्मत्त रक्तपिपासा
@@ -17916,22 +17916,22 @@ frenzying बीजाणु
 ताज़ा lockout
 ताज़ा pine scent
 ताज़ा शुरू
-
+प्रथम वर्ष छात्र
 freya पुतला
 freya पुतला नीला
 freya पुतला हरा
 freya पुतला पीला
 freya आह्वान संदूक
 freya's कवच
-
+शुक्रवार
 friday's बाँह का law
-
+तला हुआ
 दोस्त
 दोस्त जोड़ो
 दोस्त का वह blackmaw
 दोस्त request sent
 दोस्त2
-
+मिलनसार
 friendly गठबंधन spectators
 
 friendly गिल्ड
@@ -17939,9 +17939,9 @@ friendly भीड़ spectators
 friendly npc रक्षात्मक मंत्र
 
 दोस्त
+भय
 
-
-
+डराना
 
 भयभीत
 भयभीत provincial सैनिक
@@ -17962,7 +17962,7 @@ frigid frostling infrigidate आभा
 frigid पकड़
 
 frill धमाका
-
+मेंढक
 frog न्याय
 
 frog प्रेम
@@ -17977,7 +17977,7 @@ frog कुंड
 से2
 सामने
 सामने तोप
-
+सामने से
 पाला
 तुषार absorption
 तुषार कवच
@@ -18173,7 +18173,7 @@ frostwoven पायजामा
 frostwoven चोगा
 frostwoven कंधे
 
-
+पाला पड़ा
 frosty उड़ता carpet
 
 frosty स्थिति
@@ -18226,18 +18226,18 @@ frozengore's धक्का
 frs खोज श्रेय
 फल
 फल bowl
-
-
+निराश होना
+निराश करने वाला
 frustratingly मुश्किल
-
-
+हताशा
+तलना
 frying pan प्रहार
 चोदना
 दफा हो जाओ
 चोदना वह
 चोदना यह
 भाड़ में जाओ
-
+बर्बाद हो गया
 fucked ऊपर
 हरामी
 हरामी गंदगी
@@ -18246,7 +18246,7 @@ fucked ऊपर
 हरामी छोड़ो मुझे alone
 हरामी मूर्ख
 हरामी useless
-
+ईंधन
 fuel पीपा
 fuel टैंक आक्रोश
 भरा
@@ -18279,8 +18279,8 @@ fuel टैंक आक्रोश
 
 
 fully weaponized mechanical साथी
-
-
+गर्जन विस्फोट
+लड़खड़ाहट
 fumper जाल
 
 मज़ेदार
@@ -18337,7 +18337,7 @@ furbolg medicine थैली
 भट्ठी आग c
 भट्ठी आग दृश्य
 भट्ठी पत्थर
-
+रोएँदार
 
 क्रोध
 क्रोध का al'akir
@@ -18371,7 +18371,7 @@ furbolg medicine थैली
 क्रोध योद्धा
 क्रोधहथौड़ा
 furyhammer's प्रतिरक्षा
-
+फ़्यूज़
 fuse कवच
 fuse कवच channeling
 fuse बिजली
@@ -18381,14 +18381,14 @@ fuse ध्वनि
 fused कवच
 
 
-
+संलयन
 fusion केंद्र
 fusion केंद्र trample
 fusion घूँसा
 fusion वार
 fusion गति
 future चालू आग
-
+आपकी जानकारी के लिए
 
 
 ga'trul चरण shift
@@ -18416,7 +18416,7 @@ gahz'rilla कील लक्ष्य picker
 gain solar शक्ति
 gain whirlwind हथियार
 gaining गति
-
+आकाशगंगा
 galaxy मस्तिष्क
 आँधी
 आँधी बल
@@ -18426,9 +18426,9 @@ galaxy मस्तिष्क
 आँधी हवा
 आँधी हवाएँ
 gall's धमाका
-
-
-
+गैलियन
+गैलरी
+सरपट
 खेल
 खेल changer
 खेल crashed
@@ -18458,12 +18458,12 @@ gamon ज़ंजीर 2
 
 
 gan'jo's पुनर्जीवन
-
+गिरोह
 
 gank दस्ता
-
-
-
+गैंक हुआ
+गैंक करना
+अंतराल
 gap कूदना
 
 gaping घाव
@@ -18482,7 +18482,7 @@ gargoyle विस्फोट
 gargoyle रूप
 gargoyle थूक आभा
 gargoyle प्रहार
-
+लहसुन
 garok's लड़ाई
 garr कवच कमज़ोरी
 
@@ -18493,7 +18493,7 @@ garrosh छलांग
 garrosh रूपांतर
 
 garrosh's zeppelin चालू आग
-
+गला घोंटना तार से
 garrote - मौन
 गैस
 गैस bladder
@@ -18510,7 +18510,7 @@ gaseous bloat सुरक्षा
 
 
 gasping के लिए साँस
-
+गैस भरा
 
 gastric विस्फोट
 दरवाज़ा
@@ -18546,7 +18546,7 @@ gateways murket और shaadraz
 इकट्ठा जल
 gathered काढ़ा
 
-
+संग्राहक
 संग्रह
 संग्रह amber
 संग्रह doubt
@@ -18564,10 +18564,10 @@ gathered काढ़ा
 दस्ताने का वह लोहा मीनार
 दस्ताने का वह समुद्र
 दस्ताने का unbound devotion
-
+दिया
 gavis greyshield श्रेय
 
-
+समलैंगिक
 gazban जल रूप
 टकटकी
 टकटकी का occu'thar
@@ -18576,7 +18576,7 @@ gazban जल रूप
 टकटकी का वह काला राजकुमार
 
 gdkp दौड़ना
-
+जीडीपी
 उपकरण
 उपकरण जाँच
 उपकरण icon
@@ -18605,7 +18605,7 @@ geist दीवार चलो
 रत्न perfection
 रत्न studded पट्टी
 रत्न-studded चमड़ा बेल्ट
-
+रत्न काटना
 
 gemmed और मंत्रमुग्ध
 gemmed तांबा दस्ताने
@@ -18615,26 +18615,26 @@ gen-li's अंतर्दृष्टि
 general बातचीत
 
 
-
+उत्पन्न करना
 generate क्रोध
-
+आम
 
 genesis rebirth बोनस
 
 
 genn greymane worgen रूपांतर
 
-
-
+शैली
+कोमल
 
 gentleman मारो श्रेय
-
+असली
 genuinely मज़ेदार
 
-
+भूगोल
 geosynchronous दुनिया spinner
-
-
+जर्मन
+जर्मनी
 पाओ
 पाओ एक पकड़
 पाओ एक hogtied razormane
@@ -18680,7 +18680,7 @@ geosynchronous दुनिया spinner
 पाओ के साथ वह बार
 पाओ wrecked
 पाओ आपका सिर बाहर
-
+पाता है
 
 getting के आसपास के साथ वह shado-pan
 getting बेहतर
@@ -18738,9 +18738,9 @@ ghastly दहाड़
 भूत-forged legplates
 भूत-forged कंधे
 ghostbusters किरण
-
+घोस्ट किया गया
 भूतरूप
-
+घोस्टिंग
 प्रेतमय
 प्रेतमय backfire
 प्रेतमय पंजा
@@ -18792,7 +18792,7 @@ giantmaim समूह बोनस
 
 giantstalker एक
 
-
+चल घोड़े
 
 gidwin's हथियार तेल
 giest उछालो
@@ -18825,7 +18825,7 @@ giest उछालो
 उपहार का वह xavian
 उपहार का twilight
 उपहार turn-में
-
+गीगाबिट
 gigantic प्रहार
 gigantic दावत
 gigantic शिरस्त्राण sparkle
@@ -18845,17 +18845,17 @@ gilneas चैंपियन
 gilneas आह्वान स्वामी आभा
 gingerbread बिस्कुट
 ginseng चाय
-
+जिराफ़
 giraffe रूप
 
 
 girdle का अंतर्दृष्टि
 girdle का ruination
 girdle का वह भोर
+लड़की
 
-
-
-
+प्रेमिका
+लड़कियाँ
 giselda रूपांतर dnd
 
 देना
@@ -18929,16 +18929,16 @@ gjalerbron कैदी आत्मा relay
 हिमनद बनियान
 हिमनद waistband
 हिमनद wrists
-
-
-
+जमा देना
+हिमनद
+ख़ुश
 glad को होना पीछे
 glad को मदद
 glad तुम यहाँ
 
 glade singer पदक
 
-
+ग्लेव
 glaive बौछार
 glaive टक्कर
 
@@ -18948,10 +18948,10 @@ glaive उछालो
 
 घूरना
 घूरना का वह tribunal
-
+काँच
 glass मछली पकड़ना bobber
 glass छुपना
-
+चमचमाता
 
 glimpse का पागलपन
 चमकीला बग sparkle
@@ -18972,7 +18972,7 @@ glittering विष
 
 glob का मशीन fluid
 glob का sticky goo
-
+वैश्विक
 global कूलडाउन
 global उसे
 global thermal sapper धावा
@@ -18981,7 +18981,7 @@ global thermonuclear युद्ध
 gloom पट्टी
 
 glopgut बचाव चरण
-
+गौरवशाली
 गौरव
 गौरव का वह पूर्वज
 गौरव का वह jouster
@@ -19501,14 +19501,14 @@ glutinous विष
 प्रतीक का zen उड़ान
 प्रतीक का zen meditation
 प्रतीक का zen posture
-
+जीएम
 
 
 gnarl's bough पुतला
 gnarlpine प्रतिशोध
-
+दाँत पीसना
 gnashing दाँत
-
+कुतरना
 gnaw हड्डी
 
 
@@ -19605,9 +19605,9 @@ gnomish x-किरण specs
 जाना पश्चिम
 जाना2
 
+बकरी
 
-
-
+लाजवाब
 gob दस्ता भड़क
 gob दस्ता स्वामी heartbeat
 gob दस्ता स्वामी आह्वान
@@ -19661,10 +19661,10 @@ gob दस्ता मंत्र override
 गोबलिन nurse उपचार मंत्र
 देवता
 देवता tier
-
-
-
-
+देवी
+ईश्वरतुल्य
+जाता है
+चलो चलो चलो
 जाना
 जाना अनुपस्थित
 जाना backwards
@@ -19686,11 +19686,11 @@ gob दस्ता मंत्र override
 सोना खेती
 सोना पदक
 सोना2
+सुनहरा
 
+गोल्फ़
 
-
-
-
+चला गया
 अच्छा
 अच्छा afternoon
 अच्छा और बुराई
@@ -19730,7 +19730,7 @@ gob दस्ता मंत्र override
 अलविदा2
 
 gorefiend's पकड़
-
+गोरिल्ला
 मिला
 मिला एक विचार
 मिला buffed
@@ -19741,37 +19741,37 @@ gorefiend's पकड़
 मिला sidetracked
 मिला काम में वह सुबह
 मिला तुम
-
+पकड़ लिया
 
 gotta दौड़ना
 gotta काम कल
-
-
-
+सरकार
+जीपीए
+जीपीएस
 पकड़ो
 पकड़ो कुछ को खाना
 पकड़ो वह chance
 grabbing एक पीना
 grabbing खाना
+सुशोभित
 
+स्नातक
+दीक्षांत समारोह
 
+दादाजी
+नानी
+दादी
+नाना
 
+अंगूर
 
-
-
-
-
-
-
-
-
-
-
+घास
+आभारी
 बधाई
 कब्रिस्तान
 कब्रिस्तान दौड़ना
-
-
+गुरुत्वाकर्षण
+धूसर
 
 
 बढ़िया
@@ -19788,16 +19788,16 @@ grabbing खाना
 बढ़िया2
 महान अदृश्यता
 
-
+लालची
 हरा
 हरा आग है बुरा
 हरा झंडा
-
+अभिवादन
 भूरा
 शोक
+खिलाड़ियों को सताना
 
-
-
+ग्रिल
 पीसो
 पीसो के लिए घंटे
 पीसो pays बंद
@@ -19817,18 +19817,18 @@ grabbing खाना
 समूह project
 समूह ऊपर
 समूह2
-
+बढ़ना
 grow से यह
 grow ऊपर
 grudging सम्मान
-
-
+दफ़ा हो
+जाना है
 पहरेदार
 संरक्षक ड्रूइड
 संरक्षक का प्राचीन राजा
 संरक्षक आत्मा
 guess क्या
-
+गाइड
 गिल्ड
 गिल्ड application
 गिल्ड बैंक
@@ -19855,47 +19855,47 @@ guess क्या
 गिल्ड vote
 गिल्ड website
 गिल्ड2
+गिल्ड साथी
 
-
-
-
-
+गिल्डें
+अपराधबोध
+दोषी
 बंदूक
 
 
 लोग
 लोग हम सकता करना यह
-
-
+जिम
+जिम्नास्टिक
 बधाई
 हाँ
 
 
-
+हैकर
 था
 था एक feeling
 था एक अच्छा स्वप्न
 था एक दुःस्वप्न
 था नहीं
 
-
-
-
+हाहाहा
+हाहाहाहा
+ओले
 बाल
 आधा
 आधा asleep
 आधा स्वास्थ्य
 आधा माना
 halfway वहाँ
-
+हैलोवीन
 halls का बिजली
 halls का पत्थर
-
+प्रभामंडल
 हथौड़ा
 हथौड़ा का न्याय
 हथौड़ा का प्रकोप
-
-
+हैम्स्टर
+हैमस्ट्रिंग
 हाथ
 हाथ में हाथ
 हाथ का freedom
@@ -19904,7 +19904,7 @@ halls का पत्थर
 हाथ का sacrifice
 हाथ का salvation
 हाथ son
-
+हैंडल
 handle यह
 handle वह सहायक
 
@@ -19935,20 +19935,20 @@ hang चालू
 मुश्किल बार
 मुश्किल काम pays बंद
 मुश्किल2
-
+कट्टर
 
 hardcore गिल्ड
 hardcore खिलाड़ी
+कठिन
+शायद ही
+अटका हुआ
 
-
-
-
-
-
+हानिकारक
+कठोर
 है
 है नहीं ज़िंदगी
 है नहीं
-
+हैशटैग
 तेज़ी
 तेज़ी makes waste
 गति
@@ -19956,10 +19956,10 @@ hardcore खिलाड़ी
 घृणा
 घृणा यह खेल
 घृणा2
-
-
+नफ़रत किया
+नफ़रत करता है
 hating यह
-
+प्रेतबाधा
 रखना
 रखना एक अच्छा दिन
 रखना एक अच्छा एक
@@ -19974,7 +19974,7 @@ havent cleared यह room
 havent played में years
 
 having मज़ेदार
-
+बाज़
 वह
 वह believes
 वह brings

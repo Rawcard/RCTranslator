@@ -12652,7 +12652,7 @@ door انفجار
 door آتش
 
 
-
+همزاد
 doren کشتن اعتبار
 doren مرحله shift
 dormus نگه‌داشتن camels anim
@@ -12676,16 +12676,16 @@ dos و don'ts
 دوبرابر-تیغه lunge
 دوبرابر-لبه thrash
 دوبرابر-stitched woolen شانه‌ها
-
-
+شک
+مشکوک
 doubting ذهن
 douse brazier آتش
 douse ابدی شعله
 douse آتش
 douse شعله‌ها
 douse roof آتش
-
-
+خیس‌شده
+خیساندن
 
 dousing شعله‌ها
 پایین
@@ -12694,15 +12694,15 @@ dousing شعله‌ها
 پایین به زمین
 پایین به wire
 پایینتپه since
-
-
-
-
+دانلود
+در حال دانلود
+تعدیل نیرو
+طبقه پایین
 پایینزمان
 downwind از altairus
 dowse ابدی شعله
-
-
+آب‌یابی
+چرت زدن
 dozing هاله تأخیر
 دی‌پی‌اس
 دی‌پی‌اس جادوگر بحرانی آسیب پاداش
@@ -12731,7 +12731,7 @@ draenei روح بصری 2
 draenei survivor گیج
 draenei مقبره نگهبان طلسم
 
-
+پیش‌نویس
 drag بدن
 drag مین cart
 drag مین cart بررسی
@@ -12861,7 +12861,7 @@ dragonstrike شلوار
 تخلیه ضعیف
 تخلیه world درخت بصری
 تخلیه world درخت بصری 2
-
+تخلیه‌شده
 
 drained از قدرت
 تخلیه ضربه
@@ -12902,10 +12902,10 @@ drakuru مرگ
 drakuru ناپدید شدن blightblood
 drakuru دگرگونی
 drakuru's جمجمه موشک
+درام
 
-
-
-
+نمایشی
+نوشید
 draught از جنگ
 کشیدن
 کشیدن باستانی glyphs
@@ -12928,7 +12928,7 @@ draught از جنگ
 کشیدن sports
 کشیدن vita
 کشیدن آب sample
-
+معایب کار
 drawing کیت
 drawn جادو
 drawn روح
@@ -13018,9 +13018,9 @@ dreamweave جلیقه
 dreamwraps از نور
 
 
-
+خیس آب
 drenched در mojo
-
+لباس زنانه
 
 dress vile موش
 dressed به impress اعتبار
@@ -13030,7 +13030,7 @@ dressed به کشتن
 
 
 drifting vapors از snow lily
-
+مته
 drill زره
 drill یورش
 
@@ -13069,12 +13069,12 @@ drill یورش
 نوشیدن wine
 
 
+نوشیدنی‌ها
 
 
 
 
-
-
+راننده
 driving اعتبار
 
 
@@ -13132,9 +13132,9 @@ drone تحریک
 افتادن zanzil's اکسیر
 افتادن-خاموش دوره‌ای
 افتادن2
-
+قطره
 droplet از y'shaarj
-
+ترک تحصیل‌کرده
 افتاده
 افتاده سلاح
 droppin بمب‌ها
@@ -13147,7 +13147,7 @@ drostan روشن ظهور
 drowned gilnean روح پرواز
 drowned صفحه اثر
 drowned وضعیت
-
+غرق شدن
 drowning مرگ
 drowning militia عروسک
 drowning vehicle exit عروسک
@@ -13195,7 +13195,7 @@ drums روشن کشیدن
 مست sleeping sleep
 مست stupor
 مست vomit
-
+خشک
 
 
 
@@ -13205,27 +13205,27 @@ dual تیغه‌ها
 
 dual wield 2h آزمایش
 ducal's اسب فعال‌سازی
-
+رفیق جان
 due به
-
+دوئل
 duel هاله بررسی
 duel هاله بررسی 01
 duel پرچم
 
-
-
+دوئل‌کننده
+کسل‌کننده
 dull chitinous تمرکز
 dull emberstone تمرکز
 dull pyreshell تمرکز
 dull rhyolite تمرکز
 
+کودن
+
+خنگ
 
 
 
-
-
-
-
+احمق خنگ
 عروسک
 عروسک - lab
 عروسک خشم
@@ -13360,12 +13360,12 @@ dwarven تبر
 
 
 
-
+کاهش یافتن تدریجی
 dyamite انفجار
 
 dying نفس
 dying نفرین
-
+پویا
 
 dynamite هاله
 dynamite انفجار
@@ -13375,7 +13375,7 @@ dynasty از فولاد
 
 each دیگر
 eadric دستاورد
-
+مشتاقانه
 
 eagle چنگال
 eagle چشم
@@ -13393,9 +13393,9 @@ eaglebane مچ‌بند
 زود بازی
 زود صبح فردا
 زود نمایش
-
-
-
+کسب درآمد
+هدفون
+گوش‌ها
 زمین
 زمین پرتو
 زمین انفجار
@@ -13480,7 +13480,7 @@ earthguard relieved اعتبار
 earthliving بصری
 earthliving سلاح
 earthpeace زره سینه
-
+زلزله
 earthquake دوربین shake
 
 earthquake فعال‌سازی
@@ -13490,10 +13490,10 @@ earthshadow حلقه
 earthsoul چکمه
 زمینضربه
 
-
+آسان‌تر
 easier said than تمام شد
 easier said than تمام شد phrase
-
+به‌راحتی
 
 east یخبندانگرگ warmaster
 east طرف
@@ -13501,7 +13501,7 @@ east طرف
 east survey کامل
 east معبد arrival scene
 east معبد دود بمب
-
+عید پاک
 easter lay noblegarden تخم هاله
 eastern آتش هاله
 
@@ -13539,15 +13539,15 @@ eastern آتش هاله
 خوردن through تور
 خوردن trog
 خوردن2
-
-
+خورده‌شده
+در حال خوردن
 
 
 
 
 
 eating orange
-
+می‌خورد
 eavesdropping اعتبار
 ebon تیغه aspirant's پرچم
 ebon تیغه پرچم
@@ -13572,7 +13572,7 @@ ebonsteel کمربند buckle
 
 ebonweave دستکش
 ebonweave ردا
-
+کتاب الکترونیکی
 
 echo انفجار
 echo از archimonde
@@ -13585,7 +13585,7 @@ echoes از past
 echoes از نور
 echoes از lordaeron
 echoes از خاطره
-
+پژواک‌دار
 echoing نبرد فریاد
 echoing غرش
 echoweb سم
@@ -13594,23 +13594,23 @@ eck گاز
 
 eck تف
 
-
+کسوف
 eclipse انرژی
 eclipse نشانگر
 
 eclipse بصری
 
-
-
-
-
+بوم‌شناسی
+علم اقتصاد
+اقتصاد
+زیست‌بوم
 
 eden رشد
 edgar's آیین
 لبه
 لبه از winter
 edicts از رعد king
-
+ویرایش‌شده
 
 
 
@@ -13618,14 +13618,14 @@ edicts از رعد king
 eerie جمجمه
 eerie smolderthorn بت
 اثر
-
+مؤثر
 effective تیم
-
-
+جوشش
+کارایی
 efficiency است کلید
+کارآمد
 
-
-
+شکوفایی
 
 effulgent ابتدایی diamond
 effulgent سایهروح diamond
@@ -13654,14 +13654,14 @@ effulgent وحشی jade
 تخم-splosive رگبار
 
 
-
+ها؟
 ei مرحله
 
 هشت
-
-
-
-
+هجده
+هشتم
+هشتاد
+هر کدام
 either یا
 خروج
 خروج همه passengers
@@ -13689,7 +13689,7 @@ ejection طلسم
 
 
 
-
+آرنج
 elder طلسم
 
 elder shu bandage بصری
@@ -13720,7 +13720,7 @@ electrical اضافه‌بار primer
 electrical شوک
 electrical طوفان
 electrical طوفان pre-هدف
-
+برق‌دار
 electrified زنجیرها
 
 electrified زمین
@@ -13735,8 +13735,8 @@ electro-magnetic ضربان
 electro-شوک
 electro-شوک therapy
 electro-ضربه
-
-
+برق‌گرفتگی دادن
+برق‌گرفتگی
 electroflux بینایی enhancers
 electromagnetic مانع
 
@@ -13744,7 +13744,7 @@ electromagnetic مانع
 electromagnetic ضربان
 electromancer ju'le اعتبار
 
-
+شوک الکتریکی
 electrostatic یورش
 
 
@@ -13756,7 +13756,7 @@ elegon غنیمت
 elegon ظهور آرایشی
 elekk dispersion پرتو
 elekk dispersion پرتو - کشتن اعتبار
-
+عنصر
 عنصری
 عنصری زره
 عنصری backwards مرگ
@@ -13845,11 +13845,11 @@ elementium وحشت
 
 elements نوار
 elendilad احضار script
-
+فیل
 elevator پس‌زدن
-
+یازده
 الف
-
+نخبه
 
 اکسیر
 اکسیر استاد
@@ -13951,26 +13951,26 @@ elune's پاسخ اثر
 elune's آیین از جنگ
 elune's لمس
 elune's غضب
-
+گریزان
 elusive نوشیدنی
 elusive نوشیدنی آرایشی
 elusive قدرت
-
+گریزپایی
 elven device فعال‌سازی ping
 
 elwynn جنگل
 elwynn جنگل گرگ
 
-
-
+ایمیل
+آزاد کردن
 embalming ابر
 
-
-
+خجالت‌زده
+خجالت‌آورانه
 
 embarrassing بازی
 embarrassing خودت
-
+شرمساری
 embedded تیغه
 embedded نیزه
 اخگر انفجار
@@ -14037,7 +14037,7 @@ embrace از shale عنکبوت
 embrace از عنکبوت
 embrace از twisting nether
 embrace از vampyr
-
+زمرد
 emerald acorn اثر
 emerald کیف
 emerald رگبار
@@ -14058,13 +14058,13 @@ emerald زهر
 
 
 
-
+بیرون آمدن
 emerge از snow
 emerge از snow - kun lai
 emerge وضعیت
 emerge احضار
 emerge بصری
-
+ظهور
 
 
 
@@ -14084,7 +14084,7 @@ emergency راکت pack
 emergency راکت-pack
 emergency راکت-pack xtreme
 emergency انتقال
-
+برجستگی
 
 emissary از ناامیدی اعتبار
 emissary از وحشت اعتبار
@@ -14114,12 +14114,12 @@ emissary از hate اعتبار
 حرکت صحبت exclamation
 حرکت صحبت question
 حرکت کار
-
+احساسی
 emotional مانع
 
+پالس الکترومغناطیسی
 
-
-
+همدلی
 empathy از سنگ
 
 
@@ -14192,7 +14192,7 @@ empty wrapper - عروسک طلسم
 
 empyreal تمرکز پرتو
 
-
+فعال کردن
 enable تیغه‌ها cue
 enable caravan رویداد
 
@@ -14205,10 +14205,10 @@ enable unit قاب
 enable vehicle توانایی‌ها
 enable worgen altered شکل
 
+در قفس انداختن
 
 
-
-
+محصور کردن
 
 
 encase در amber
@@ -14610,11 +14610,11 @@ enchanter's کلاه
 رویارویی
 رویارویی رویداد
 رویارویی ظهور
-
+تشویق‌شده
 
 encroaching weed buddy هاله
 
-
+سنگین‌بار
 encumbered هشدار
 پایان
 پایان ambush
@@ -14645,7 +14645,7 @@ endless غضب
 
 endurance از niuzao
 
-
+تحمل کردن
 endure تبدیل
 
 enduring اکسیر از wisdom
@@ -14733,18 +14733,18 @@ energizing خرد کردن
 انرژی usage
 انرژی vortex
 انرژی2
+بی‌حال کردن
+بی‌حال
 
-
-
-
-
+ضعیف کردن
+ضعیف‌شده
 enfeebling ضربه
 
 enforcers آماده
-
+درگیر شدن
 engage در خواهد
 
-
+درگیری مستقیم
 engaging در سه
 
 engine آتش
@@ -14753,14 +14753,14 @@ engine روشن آتش
 
 
 
-
+انگلیسی
 english لطفا
 
 
 
 engraved truesilver حلقه
 engulf در شعله‌ها
-
+بلعیده‌شده در آتش
 engulfed انفجار
 engulfed در شعله‌ها
 بلعیدن تاریکی
@@ -14797,14 +14797,14 @@ enigmatic ابتدایی diamond
 enigmatic سایهروح diamond
 
 
-
-
+لذت بردن
+لذت‌بخش
 enjoying یک سرد یک
 
+بزرگ کردن
 
-
-
-
+روشن‌ضمیر
+روشنگری
 enohar's منفجره arrow
 
 enormous gyreworm وضعیت
@@ -14841,17 +14841,17 @@ enraging ضربه
 enriched lasher ریشه
 
 
-
+به بردگی گرفتن
 enslave دیو
 enslave gronn آرایشی
 
 enslaved روح غیرفعال
-
-
+به دام انداختن
+به دام افتاده
 
 ensnaring تله
 ensorcelled nerubian زره سینه
-
+درهم پیچیدن
 entangliing ریشه بصری
 entangling چنگ
 entangling تور
@@ -14876,17 +14876,17 @@ entangling شلیک
 ورود2
 entering هاله
 entering نبردزمین
+پرشور
+وسوسه‌انگیز
 
-
-
-
+در گور کردن
 entrails دگرگونی
 
-
-
+به دام‌اندازی
+گرفتار
 
 entrapping roots احضار
-
+کارآفرین
 entropic هاله
 
 entropius بدن
@@ -14897,14 +14897,14 @@ enveloping تاریکی
 
 
 enveloping بادها
-
+مسموم کردن
 envenomed خنجر پرتاب
 
 envenomed شلیک
-
+محیط زیست
 
 envoker's سپر
-
+حسادت
 
 eoe scene موسیقی
 eoin's بشکه
@@ -14914,13 +14914,13 @@ ephemeral قدرت
 epic شکست
 epic بنفش پیراهن flex
 
+خوش‌خوراک
 
+تجلی
+قسمت
+برابر
 
-
-
-
-
-
+برابری
 
 تجهیز
 تجهیز flamethrower
@@ -14929,14 +14929,14 @@ epic بنفش پیراهن flex
 تجهیز سلاح
 تجهیز2
 
-
+ریشه‌کن کردن
 eranikus chained invisiibility
 eric's یورش
 eric's pocket معجون
+اممم
 
-
-
-
+خطا کردن
+خطا
 error - نه while mounted
 
 erunak رؤیا هاله 01
@@ -14947,7 +14947,7 @@ erunak's آذرخش
 
 erunak's meatstick بصری
 
-
+فوران کردن
 erupting آتش
 erupting شعله
 erupting یخ
@@ -14956,9 +14956,9 @@ erupting pool از خشم
 
 
 erupting آب
-
+فوران
 escalating قدرت
-
+تشدید
 
 
 escape چنگال‌ها
@@ -14982,10 +14982,10 @@ escorting prince
 
 eskhandar's خشم
 
-
-
+به‌ویژه
+ورزش‌های الکترونیکی
 espresso گرد
-
+انشا
 جوهر flow
 جوهر infused mushroom
 جوهر mango
@@ -15021,12 +15021,12 @@ espresso گرد
 جوهر از wrathion
 جوهر از y'shaarj
 جوهر از yu'lon
+ضروری
+اساساً به‌طور کلی
+تخمین
 
-
-
-
-
-
+زمان رسیدن
+و غیره
 
 
 
@@ -15088,29 +15088,29 @@ eternium runed تیغه
 اثیری shatter
 اثیری روح-trader
 اثیری انتقال
-
+اثیری‌شده
 
 
 etymidian exit عروسک
 etymidian سوار مصونیت
-
-
+سرخوشی
+اروپا
 evacuee ناپدید شدن
 
 evacuee reaches اژدهاآفت
-
-
+طفره رفتن
+تبشیر
 evanor's prison زنجیرها
-
-
-
-
+بخار شدن
+تبخیر
+گریز
+گریزنده
 
 evasive هاله
 
 
 
-
+حتی
 
 
 
@@ -15126,7 +15126,7 @@ evasive هاله
 رویداد success
 رویداد زمان‌سنج تقویت
 
-
+سرانجام
 ever heard از thinking
 ever-سوزان torch
 evergrove druid دگرگونی crow
@@ -15161,7 +15161,7 @@ every زمان
 
 evict روح
 evicted روح
-
+شواهد
 evidence نشانگر
 evidence نشانگر نامرئی
 شر
@@ -15174,7 +15174,7 @@ evidence نشانگر نامرئی
 شر است یک نقطه از view
 شر انتقال بصری only
 شر twin
-
+شکم دریدن
 eviscerate و envenom پاداش آسیب
 eviscerate و envenom discount
 
@@ -15188,7 +15188,7 @@ eviscerator's دستکش
 
 
 evoker کلاس
-
+تکامل
 ewer از jormungar خون
 
 
@@ -15196,23 +15196,23 @@ ewer از jormungar خون
 exactly راست
 exactly همان
 exactly چه من needed
-
+والامقام
 exalted هاله
 exalted هاله اثر
 exalted shattered sun offensive هاله
 exalted با
-
+امتحان
 
 examine jade مجسمه
 
-
+مثال
 exarch's افسون
 exceeded من expectations
 exceeded hype
 
 excellent کار
 
-
+به جز
 exception به rule
 exceptional سلامت
 exceptional مانا
@@ -15233,23 +15233,23 @@ execute زندانی
 
 execute plan
 
+اعدام
 
-
-
-
-
-
+جلاد
+مجری وصیت
+تمرین
+بازدم
 
 exhausted but هنوز رفتن
 exhausted احساس
 
+خسته‌کننده
+خستگی مفرط
 
-
-
-
-
-
-
+نشاط بخشیدن
+سرزندگی
+تبعید کردن
+وجود داشتن
 
 
 exit کمک حالت
@@ -15272,16 +15272,16 @@ exodar valiant's پرچم
 
 exorcise ارواح
 exorcising manifestation از خشم
+جن‌گیری
 
-
-
+جن‌گیر
 
 
 expanded ذهن
-
+گسترش بازی
 expansive ذهن
 expansive روح
-
+انتظار داشتن
 expect unexpected
 expect بدترین
 expected نه کمتر
@@ -15294,12 +15294,12 @@ expedition شعله
 اخراج miasma
 expelled فساد
 expelled hozu دگرگونی
-
+گران
 
 
 experience است بهترین teacher
 
-
+باتجربه
 experienced guide ناپدید شدن فعال‌سازی
 
 
@@ -15326,10 +15326,10 @@ experiment کانال
 خبره tailor
 
 
-
+توضیح دادن
 explain مبارزه
 explain خودت
-
+توضیح
 
 
 انفجار
@@ -15386,11 +15386,11 @@ exploded ماهی
 منفجر رعد سنگ
 
 explodo-rockets چپ
-
+بهره‌کشی
 exploit ضعف
 exploited ضعف
-
-
+سوءاستفاده کردن
+کاشف
 
 انفجار
 انفجار fade دور
@@ -15442,15 +15442,15 @@ expose razorthorn ریشه
 expose خود
 
 expose ضعف
-
+در معرض
 
 
 
 expunge زهر
 expunged گاز
 
-
-
+خون کسی را ریختن
+خون‌ریزی کامل
 
 extending our coverage - رها
 extending حمله
@@ -15458,13 +15458,13 @@ extermination پرتو
 
 external آماده‌سازی
 
-
+خاموش کردن
 extinguish همه زندگی
 extinguish آتش
 extinguish آتش attempt
 extinguish شعله‌ها
-
-
+در حال خاموش کردن
+اضافه
 extra action دکمه cover طلسم
 extra آسیب تضعیف
 extra بزرگ کلاه‌خود sparkle
@@ -15479,12 +15479,12 @@ extract از afterlife
 extract روغن
 extract روغن اثر
 
+فوق برنامه
+خارق‌العاده
 
 
-
-
-
-
+نمایش باشکوه
+افراطی
 extreme آشپزی
 
 extreme hozen-fu اثر
@@ -15605,20 +15605,20 @@ fabulous شعله‌ها
 چهره2
 چهرهکمتر reset
 faceless تبدیل
-
+کف دست به پیشانی
 faces از doom
 facet از ابدیت
-
+رو به
 facing کانال
 facing کانال پرتو
 
 facing اشتباه راه
-
+جناح
 faction تغییر
 
 
-
-
+عامل
+حقایق
 
 fade زره
 fade بیرون
@@ -15633,7 +15633,7 @@ faded جنگل نشان
 faded جنگل مدال
 faded جنگل مدال
 faded به twilight
-
+محو شدن
 fading فساد
 fading نور
 fading خواهد
@@ -15661,10 +15661,10 @@ fahrad's true شکل
 ناموفق آزمون
 شکست
 شکست زمان‌سنج هاله
-
-
+غش
+غش کردن
 faintly-درخشان herb
-
+منصفانه
 fair و square
 
 
@@ -15673,7 +15673,7 @@ fair نقطه
 
 fair هشدار
 
-
+جعلی
 fake خون spurt
 fake مرگ
 fake شلیک
@@ -15726,22 +15726,22 @@ falcon's فراخواندن
 افتادن sheep
 افتادن star
 افتادن vase انفجار
-
+سقوط می‌کند
 falls خاموش
-
+نادرست
 false شروع
 
-
-
-
-
+تزلزل
+خانواده‌ام
+شهرت
+آشنا
 
 family بازی زمان
 family صنف
 
 
 
-
+مشهور
 fan از bananas
 fan از تیغه‌ها
 fan از feathers
@@ -15752,7 +15752,7 @@ fanatic تیغه
 fanatic تیغه اثر
 
 fanatical ضربه
-
+تعصب
 
 fancy بالا کلاه
 fandral آفریننده هاله
@@ -15762,7 +15762,7 @@ fandral's شعله
 نیش از بلور عنکبوت
 fanged شنل pin
 fangs از moon
-
+فوق‌العاده
 fantasy کتاب
 
 far دور
@@ -15776,7 +15776,7 @@ far بینایی
 far بینایی توتم
 far برتر
 far-seeing چشم‌ها
-
+بدرود
 fargo flintlocke مأموریت نامرئی یک
 fargo flintlocke مأموریت نامرئی b
 
@@ -15784,7 +15784,7 @@ farm محتوا
 farm کشتن
 farm جادو گرد poof
 farm فرار کن
-
+کشاورز
 
 
 
@@ -15803,9 +15803,9 @@ farming این رئیس
 سریع track
 سریع2
 fastening زنجیر
-
+سریع‌تر
 faster regrowth طلسم
-
+چاق
 
 fat بلند-fat
 fat بلند-flop
@@ -15829,16 +15829,16 @@ fate رون از fleet پاها
 fate رون از nigh invincibility
 fate رون از ابتدایی انرژی
 fate رون از unsurpassed vigor
-
+پدر
 father winter's یاور
 father winter's یاور unsummon
 
-
-
+خستگی
+خسته‌شده
 
 favor از kings
 favorable بادها
-
+مورد لطف
 
 
 favorite آواز
@@ -15869,7 +15869,7 @@ favorite آواز
 ترسکمتر
 ترسکمتر enabler
 fearless غرش
-
+ترس‌ها
 fearsome زوزه
 fearsome غرش
 fearwurm نشان
@@ -15894,13 +15894,13 @@ feathered خشم
 feathered طلا earring
 
 feathered raptor بازو
-
+سبک چون پر
 feathers از خشم
 feathery گردباد انفجار
 feathery انفجار
-
-
-
+ویژگی
+باروری
+سیر
 feeble بدن
 
 تغذیه
@@ -15934,13 +15934,13 @@ feeble بدن
 تغذیه young
 تغذیهعقب
 feedback فعال‌سازی
-
+فیدر
 
 feeding جنون
 
 feeding جانور
 feeding brood
-
+احساس کردن
 feel بهتر
 feel سوزاندن
 feel flavor
@@ -15954,7 +15954,7 @@ feel flavor
 احساس laid عقب
 احساس tired
 احساس بدتر
-
+احساس می‌کند
 feels مانند
 feels مانند yesterday
 پاها
@@ -15963,8 +15963,8 @@ feels مانند yesterday
 fei li نگهبان هاله
 feign و drown
 feign مرگ
-
-
+وانمودی
+حمله فریبنده
 
 
 
@@ -16131,7 +16131,7 @@ feline برکت
 
 
 
-
+افتاد
 fell نفرین اثر
 fell خاموش
 
@@ -16156,7 +16156,7 @@ felsteel سپر میخ
 
 felstrom رستاخیز
 felsworn گاز نقاب
-
+حس کرد
 
 
 
@@ -16194,7 +16194,7 @@ fengir's هاله
 درنده vermling
 
 
-
+تخمیر کردن
 fern feeder موشک
 fern feeder موشک اثر
 fern feeder بصری
@@ -16202,11 +16202,11 @@ ferocious گاز
 
 ferocious چنگال
 ferocious خشم
-
+درندگی
 fertile زمین
 
-
-
+کود
+حرارت
 fester خون
 festered خون
 festering گاز
@@ -16258,10 +16258,10 @@ fetid meat pile بصری
 fetish بستن
 fetish از hir'eek
 
-
+دشمنی دیرینه
 feugen زنجیر
 feugen tesla غیرفعال
-
+تب
 fever گاز
 feverbite ناپدید شدن
 fevered خون
@@ -16384,10 +16384,10 @@ fieroclast رگبار
 آتشین web spin
 آتشین بال‌ها
 آتشین غضب
+پانزده
 
-
-
-
+پنجم
+پنجاه
 
 fifty درصد
 مبارزه
@@ -16401,7 +16401,7 @@ fifty درصد
 مبارزه jade warlord
 مبارزه wyrm
 مبارزه2
-
+جنگیدن
 fighting ماهی
 fighting شفادهنده rescued هاله
 
@@ -16441,8 +16441,8 @@ figure بیرون
 مجسمه - truesilver گراز
 مجسمه - truesilver خرچنگ
 مجسمه - twilight مار
-
-
+فایل
+فیله
 filet از redgill
 
 fill 15 دایره
@@ -16468,14 +16468,14 @@ fillet کور cavefish
 fillet غول catfish
 fillet از جنون
 
-
+پرکردن
 filling بشکه
 
 filling فلاسک
 filling بشکه
 filling marmot حفره
 
-
+فیلتر
 
 filthling غیرفعال
 
@@ -16497,10 +16497,10 @@ filthling غیرفعال
 نهایی رگبار
 نهایی word
 نهایی غضب
-
+پایان‌بندی
 finale تکمیل مرحله
 finale انفجار
-
+بالاخره
 finally تمام شد برای tonight
 finally افتاده
 
@@ -16533,7 +16533,7 @@ finally گرفت در
 یافتن2
 finding jaina اعتبار
 finding sylvanas اعتبار
-
+پیدا می‌کند
 خوب
 خوب bloodscalp dinnerware
 خوب بلور candelabra
@@ -16553,7 +16553,7 @@ finding sylvanas اعتبار
 
 finger از مرگ
 finger از مرگ coolup
-
+انگشتان
 
 fingers از یخبندان
 fingers از damned
@@ -16734,18 +16734,18 @@ fire's درخشش
 آتششکوفه
 آتشصاعقه
 آتشبمب
-
+آتش‌خواری
 آتشانفجار
 
-
+ترقه‌ها
 firefighting تجهیزات
-
+کرم شب‌تاب
 آتششکل
 آتشنگهبان
 
 firegut ترس طوفان
 firegut ogre تغییرقیافه
-
+شلنگ آتش‌نشانی
 firelands object کانال
 
 fireproof تور
@@ -16813,7 +16813,7 @@ firing میدان توپ
 ماهی snack
 ماهی tails
 ماهی پرتاب
-
+ماهیگیر
 fisherman's ضیافت
 fisherman's کلاه وضعیت
 ماهیگیری
@@ -16824,9 +16824,9 @@ fisherman's کلاه وضعیت
 ماهیگیری poles
 ماهیگیری raft
 fishliver روغن
+مشکوک ماهی‌وار
 
-
-
+شکاف
 مشت cleave
 مشت از cho'gall
 مشت از خشم range پاداش
@@ -16837,8 +16837,8 @@ fishliver روغن
 مشت خرد کردن
 مشت سلاح
 مشت weapons
-
-
+مشت‌زنی
+زد و خورد
 مشت‌ها از رازآلود خشم
 مشت‌ها از شعله
 مشت‌ها از flurry
@@ -16848,7 +16848,7 @@ fishliver روغن
 مشت‌ها از آذرخش
 مشت‌ها از سنگ
 fitful رؤیا
-
+تناسب اندام
 پنج
 پنج چهار سه دو یک
 پنج برو
@@ -16857,9 +16857,9 @@ fitful رؤیا
 پنج درصد نابودی
 پنج stacks
 پنج-شلیک
-
+درست کردن
 fix آیین node
-
+خیره شدن به
 fixate خشم
 fixate پرتو آرایشی
 fixate دیو آفریننده
@@ -16869,16 +16869,16 @@ fixate روشن orange carrier
 fixate onhit غیرفعال
 fixate هدف‌گیری
 fixate فعال‌سازی
-
+متمرکز بر
 fixated جهش
 fixated خشم
 fixated خشم primer
-
+درست‌شده
 fixing issue
 fizzcrank parachute انتقال هدف
 fizzcrank pilot - gett خاموش plane
 
-
+بی‌اثر شدن
 
 fizzy نوشیدنی
 
@@ -16892,7 +16892,7 @@ fizzy انرژی نوشیدن
 پرچم مأموریت
 پرچم wodin's mantid shanker
 flagged برای pvp
-
+پرچم‌ها
 
 flail از go'rath
 flak رگبار
@@ -16900,7 +16900,7 @@ flak رگبار برخورد
 flak توپ
 flak آتش
 flak آتش برخورد
-
+نامطمئن
 شعله
 شعله زره کیت
 شعله arrow
@@ -17129,10 +17129,10 @@ flameward فعال‌شده
 flammable روغن
 flank رئیس
 flank آنها
-
+حمله از جناح
 flanking رشد
 
-
+بال زدن
 شعله
 شعله gun
 شعله بالا
@@ -17201,12 +17201,12 @@ flashback صفحه اثر
 فلاسک از titanic قدرت
 فلاسک از winter's گاز
 فلاسک بالا
-
-
+فلاسک‌ها
+صاف
 flat آسیب reduction
 flat spin وضعیت
 flattery خواهد گرفتن تو nowhere
-
+باد معده خارج کردن
 flawless aquatic نبرد-سنگ
 
 flawless نبرد-سنگ
@@ -17219,15 +17219,15 @@ flawless humanoid نبرد-سنگ
 flawless جادو نبرد-سنگ
 flawless mechanical نبرد-سنگ
 flawless undead نبرد-سنگ
-
+پوست کندن
 
 flayed گوشت
-
+پوست‌کن
 
 
 
 fledgling colossus انتقال
-
+فرار کردن
 flee نبرد
 flee به سایه‌ها
 
@@ -17251,12 +17251,12 @@ fleshbeast دگرگونی
 fleshwerks مرحله
 fletcher's دستکش
 fletcher's دستکش از phoenix
-
+عضله نشان دادن
 flex برداشتن
 flex حمله
-
-
-
+انعطاف‌پذیری
+انعطاف‌پذیر
+در حال عضله نمایی
 
 flickering شعله
 flickering شعله‌ها
@@ -17276,7 +17276,7 @@ flickering شعله‌ها
 پرواز به sholazar
 پرواز به sholazar دوره‌ای
 پرواز بصری وضعیت
-
+پرت کردن
 fling تیغه
 
 
@@ -17298,7 +17298,7 @@ flip به light's hope
 
 
 flitterling گرد
-
+شناور شدن
 
 floating مرگ
 
@@ -17306,7 +17306,7 @@ floating روح
 floating vortex اثر
 
 flock فراخواندن
-
+طغیان
 flood گفتگو
 
 floor است گدازه
@@ -17315,9 +17315,9 @@ floor طومار
 
 flooz برخورد
 flooz وقفه
-
+شکست خوردن
 flour انفجار
-
+شکوفا شدن
 flow از gratitude
 flow از knowledge
 flow از elements
@@ -17329,12 +17329,12 @@ flow از زمان
 flower قدرت
 
 
-
+گل‌ها
 flowers از مرده
 
 fluid مانند آب
 fluid زمان‌سنج تقویت
-
+سیالیت
 fluorescent سبز mechanostrider
 
 flurry تبر
@@ -17344,9 +17344,9 @@ flurry از چنگال‌ها
 flurry از مشت‌ها
 flurry از دندان‌ها
 flurry از xuen
-
+سیفون کشیدن
 flute از ancients
-
+بال‌بال زدن
 
 
 
@@ -17450,16 +17450,16 @@ foaming خشم
 متمرکز ضربات
 متمرکز خواهد
 متمرکز غضب
-
+در حال تمرکز
 
 fog از فساد
 fog از kualdir
 fog از زمان
-
+مه‌آلود
 folded روح آهن
 
 folk موسیقی
-
+مردم عزیز
 دنبال
 دنبال her
 دنبال him
@@ -17473,12 +17473,12 @@ folk موسیقی
 دنبال us
 دنبال تو gut
 دنبال2
-
+دنبال‌کننده
 
 following آن
+دنبال می‌کند
 
-
-
+ترس از جا ماندن
 غذا
 غذا شکستن
 غذا تقویت
@@ -17496,7 +17496,7 @@ fool's طلا
 
 
 
-
+فوتبال آمریکایی
 
 foothold یورش آواز
 
@@ -17525,11 +17525,11 @@ footwraps از quenched آتش
 برای تو
 برای تو information
 برای2
-
-
+علوفه جستن
+بردباری
 forbidden جادو
 forbidding دریا هاله
-
+پیش‌آگاهی شوم
 forbosi throws به tayemba
 نیرو
 نیرو و verve
@@ -17602,7 +17602,7 @@ forcecast احضار shaman
 forcecast احضار zepik
 forcecast switch به seat 3
 نیروطلسم trapcap
-
+اجباری شده
 
 forced باز edict از temperance
 forced به انتخاب
@@ -17627,7 +17627,7 @@ forced به انتخاب
 نیرومند پرتاب
 نیرومند وحشی jade
 
-
+پیش‌بینی
 foreman's افسون‌شده کلاه‌خود
 
 foreman's reinforced کلاه‌خود
@@ -17639,7 +17639,7 @@ foreman's reinforced کلاه‌خود
 جنگل step
 جنگل sup
 
-
+برای همیشه
 
 forge اعتبار
 forge اخگر
@@ -17662,15 +17662,15 @@ forgemaster ظهور آرایشی
 forgemaster's تبر
 
 forgemaster's عصا
-
+فراموش کردن
 forget about آن
 forget آن
-
+فراموش می‌کند
 forgewire تبر
-
+آهنگری
 forgive من
-
-
+بخشش
+فراموش کردم
 forgotten هاله
 forgotten depths بمب
 forgotten hills احضار
@@ -17707,9 +17707,9 @@ forsaken طاعون ابر
 
 
 fort grookin جنگ prep
-
+نقطه قوت
 fortification از shattrath
-
+مستحکم
 
 fortify سنگ هاله
 fortifying نوشیدنی
@@ -17722,16 +17722,16 @@ fortifying نوشیدنی
 استقامت فعال‌سازی
 
 
+خوشبختانه
 
-
-
+چهل
 
 
 
 
 fossilized بچه
 
-
+جنگید
 کثیف
 کثیف انفجار
 کثیف سرما
@@ -17746,9 +17746,9 @@ fossilized بچه
 کثیف stream
 کثیف زهر
 کثیف آب‌ها
-
+پلیدی
 foulstream توتم
-
+پیدا کرد
 
 found هدف
 foundations از courage
@@ -17759,8 +17759,8 @@ fountain از skulls
 چهار hour حمله
 چهار قطعه پاداش
 چهار senses نوشیدنی
-
-
+چهارده
+چهارم
 
 fox کیت
 
@@ -17769,7 +17769,7 @@ fox کیت
 fps افتادن
 fps بازی
 
-
+شکستگی
 
 
 fractured chimera's چشم
@@ -17788,12 +17788,12 @@ frail روح
 
 
 قاب
-
+فرانسه
 
 
 frantic جهش
 
-
+ساییده
 freak بیرون
 freakin' laser پرتو
 مجانی
@@ -17841,7 +17841,7 @@ freakin' laser پرتو
 
 
 
-
+آزادکار
 مجانیباد brave
 انجماد
 انجماد anim
@@ -17876,7 +17876,7 @@ freakin' laser پرتو
 یخ‌زدن باد
 یخ‌زدن بادها
 freezya انفجار
-
+فرانسوی
 frenetic یورش
 دیوانه یورش
 دیوانه bloodthirst
@@ -17916,22 +17916,22 @@ frenzyheart's خشم
 تازه lockout
 تازه pine scent
 تازه شروع
-
+دانشجوی سال اول
 freya عروسک
 freya عروسک آبی
 freya عروسک سبز
 freya عروسک زرد
 freya احضار صندوق
 freya's طلسم
-
+جمعه
 friday's بازو از law
-
+سرخ‌شده
 
 friend افزودن
 friend از blackmaw
 
 
-
+دوستانه
 
 
 friendly صنف
@@ -17941,7 +17941,7 @@ friendly npc defensive طلسم
 
 
 
-
+ترساندن
 
 
 frightened provincial سرباز
@@ -17962,7 +17962,7 @@ frigid frostling infrigidate هاله
 frigid چنگ
 
 frill انفجار
-
+قورباغه
 
 
 
@@ -17977,7 +17977,7 @@ frill انفجار
 از2
 جلو
 جلو توپ
-
+از جلو
 یخبندان
 یخبندان جذب
 یخبندان زره
@@ -18226,18 +18226,18 @@ frozengore's پس‌زدن
 frs مأموریت اعتبار
 
 
-
-
+ناکام
+ناامیدکننده و آزارنده
 frustratingly سخت
-
-
+ناکامی
+سرخ کردن
 frying pan ضربه
 
 fuck خاموش
 fuck آن
 fuck این
 fuck تو
-
+گند خورده
 fucked بالا
 
 
@@ -18246,7 +18246,7 @@ fucked بالا
 fucking ترک من alone
 
 
-
+سوخت
 fuel بشکه
 fuel تانک خشم
 پر
@@ -18279,8 +18279,8 @@ fuel تانک خشم
 
 
 fully weaponized mechanical همراه
-
-
+غرش انفجاری
+دست‌پاچگی
 fumper تله
 
 
@@ -18301,7 +18301,7 @@ fungal رشد
 fungal ضربه
 
 funky monkey نوشیدنی
-
+خنده‌دار
 
 funny thing است
 funny تو mention
@@ -18337,8 +18337,8 @@ furnace آتش b
 furnace آتش c
 furnace آتش بصری
 furnace سنگ
-
-
+پشمالو
+افزون بر این
 خشم
 خشم از al'akir
 خشم از cho'gall
@@ -18371,7 +18371,7 @@ furnace سنگ
 خشم warrior
 
 furyhammer's مصونیت
-
+فیوز
 fuse زره
 fuse زره هدایت
 fuse آذرخش
@@ -18381,14 +18381,14 @@ fuse فلز
 fused زره
 
 
-
+همجوشی
 fusion هسته
 fusion هسته trample
 fusion مشت
 fusion برش
 fusion سرعت
 future روشن آتش
-
+برای اطلاع
 
 
 ga'trul مرحله shift
@@ -18416,7 +18416,7 @@ gahz'rilla میخ هدف picker
 gain solar قدرت
 gain whirlwind سلاح
 gaining سرعت
-
+کهکشان
 galaxy مغز
 
 gale نیرو
@@ -18426,9 +18426,9 @@ gale ضربه
 gale باد
 gale بادها
 gall's انفجار
-
-
-
+کشتی بادبانی
+گالری
+چهارنعل
 بازی
 بازی changer
 بازی crashed
@@ -18445,7 +18445,7 @@ gall's انفجار
 بازی sense
 بازی sports
 بازی زمان کارت
-
+بازی‌ها
 بازی chair
 بازی keyboard
 بازی mouse
@@ -18458,11 +18458,11 @@ gamon زنجیر 2
 
 
 gan'jo's رستاخیز
-
+دار و دسته
 
 gank جوخه
-
-
+گنک شده
+گنک کردن
 
 gap پرش
 
@@ -18493,7 +18493,7 @@ garrosh جهش
 garrosh دگرگونی
 
 garrosh's zeppelin روشن آتش
-
+خفه کردن با سیم
 garrote - سکوت
 گاز
 گاز bladder
@@ -18508,9 +18508,9 @@ gaseous آفت
 
 gaseous bloat محافظت
 
-
+زخم عمیق
 gasping برای نفس
-
+نفخ‌دار
 
 gastric انفجار
 دروازه
@@ -18546,7 +18546,7 @@ gateways murket و shaadraz
 گردآوری آب
 gathered نوشیدنی
 
-
+جمع‌آوری‌کننده
 
 
 
@@ -18564,10 +18564,10 @@ gathering جنگل heart
 دستکش از آهن برج
 دستکش از دریا
 دستکش از unbound devotion
-
+داد
 gavis greyshield اعتبار
 
-
+همجنسگرا
 gazban آب شکل
 خیره
 خیره از occu'thar
@@ -18576,7 +18576,7 @@ gazban آب شکل
 خیره از سیاه prince
 
 gdkp فرار کن
-
+تولید ناخالص داخلی
 تجهیزات
 تجهیزات بررسی
 تجهیزات icon
@@ -18605,7 +18605,7 @@ geist دیوار walk
 جواهر perfection
 جواهر studded band
 جواهر-studded چرم کمربند
-
+جواهرتراشی
 
 gemmed و افسون‌شده
 gemmed مس دستکش
@@ -18617,24 +18617,24 @@ general گفتگو
 
 
 generate خشم
-
-
+عمومی و کلی
+پیدایش
 genesis rebirth پاداش
 
 
 genn greymane worgen دگرگونی
 
-
-
+ژانر
+ملایم
 
 gentleman کشتن اعتبار
+اصیل
 
 
+جغرافیا
 
-
-
-
-
+آلمانی
+آلمان
 گرفتن
 گرفتن یک چنگ
 گرفتن یک hogtied razormane
@@ -18680,7 +18680,7 @@ gentleman کشتن اعتبار
 گرفتن با بار
 گرفتن wrecked
 گرفتن تو head بیرون
-
+می‌گیرد
 گرفتن
 گرفتن around با shado-pan
 گرفتن بهتر
@@ -18738,9 +18738,9 @@ ghastly غرش
 روح-forged legplates
 روح-forged شانه‌ها
 ghostbusters پرتو
-
+بی‌خبر رها شد
 روحشکل
-
+غیب شدن
 روح‌وار
 روح‌وار backfire
 روح‌وار چنگال
@@ -18792,7 +18792,7 @@ giantmaim مجموعه پاداش
 
 giantstalker یک
 
-
+هی برو
 
 gidwin's سلاح روغن
 giest پرتاب
@@ -18825,7 +18825,7 @@ giest پرتاب
 هدیه از xavian
 هدیه از twilight
 هدیه turn-در
-
+گیگابیت
 gigantic ضربه
 gigantic ضیافت
 gigantic کلاه‌خود sparkle
@@ -18845,7 +18845,7 @@ gilneas قهرمان
 gilneas احضار استاد هاله
 
 
-
+زرافه
 giraffe شکل
 
 
@@ -18854,8 +18854,8 @@ girdle از ruination
 girdle از سپیده
 
 
-
-
+دوست دختر
+دخترها
 giselda دگرگونی dnd
 
 بده
@@ -18898,11 +18898,11 @@ giselda دگرگونی dnd
 بده summer scorchling incense
 بده آب سطل
 بده2
-
+داده‌شده
 given راست click instruction
 given آن
-
-
+می‌دهد
+دادن
 giving یک hand
 
 gizlock's عروسک
@@ -18929,16 +18929,16 @@ gjalerbron زندانی روح relay
 یخچالی جلیقه
 یخچالی waistband
 یخچالی wrists
-
-
-
+منجمد کردن
+یخچال طبیعی
+خوشحالم
 glad به بودن عقب
 glad به کمک
 glad تو اینجا
 
 glade singer مدال
 
-
+تیغه دوسر
 glaive رگبار
 glaive برخورد
 
@@ -18948,7 +18948,7 @@ glaive پرتاب
 
 تابش
 تابش از tribunal
-
+شیشه
 glass ماهیگیری bobber
 glass پنهان
 
@@ -18981,7 +18981,7 @@ global thermonuclear جنگ
 
 
 glopgut rescue مرحله
-
+باشکوه
 
 glory از ancestors
 glory از jouster
@@ -19501,14 +19501,14 @@ glutinous زهر
 نماد از zen پرواز
 نماد از zen meditation
 نماد از zen posture
-
+مدیر بازی
 
 
 gnarl's bough عروسک
 
-
+دندان قروچه
 gnashing دندان‌ها
-
+جویدن
 gnaw استخوان
 
 
@@ -19605,9 +19605,9 @@ gnomish x-پرتو specs
 برو west
 برو2
 
+بز
 
-
-
+بی‌نظیر
 gob جوخه شعله
 gob جوخه استاد heartbeat
 gob جوخه استاد احضار
@@ -19661,10 +19661,10 @@ gob جوخه طلسم override
 گابلین nurse شفا طلسم
 
 god رده
-
-
-
-
+الهه
+خداگونه
+می‌رود
+زود زود
 رفتن
 رفتن afk
 رفتن backwards
@@ -19686,11 +19686,11 @@ god رده
 طلا farming
 طلا مدال
 طلا2
+طلایی
 
+گلف
 
-
-
-
+رفته
 خوب
 خوب afternoon
 خوب و شر
@@ -19730,7 +19730,7 @@ god رده
 خداحافظ2
 
 gorefiend's چنگ
-
+گوریل
 گرفت
 گرفت یک idea
 گرفت buffed
@@ -19741,37 +19741,37 @@ gorefiend's چنگ
 گرفت sidetracked
 گرفت کار در صبح
 گرفت تو
-
+گرفتمت
 
 gotta فرار کن
 gotta کار فردا
 
-
-
+معدل
+جی‌پی‌اس
 گرفتن
 گرفتن چیزی به خوردن
 گرفتن chance
 grabbing یک نوشیدن
 grabbing غذا
+برازنده
+نمره
+فارغ‌التحصیل
+جشن فارغ‌التحصیلی
 
+پدربزرگ
+مادربزرگ جان
+مادربزرگ
+بابابزرگ
 
+انگور
 
-
-
-
-
-
-
-
-
-
-
-
+چمن
+سپاسگزار
 
 
 graveyard فرار کن
-
-
+جاذبه زمین
+خاکستری
 
 
 عالی
@@ -19788,16 +19788,16 @@ graveyard فرار کن
 عالی2
 بزرگ‌تر نامرئی
 طمع
-
+حریص
 سبز
 سبز آتش است بد
 سبز پرچم
+درود
 
 
-
-
-
-
+اذیت کردن بازیکنان
+وخیم
+کباب‌پز
 
 grind برای hours
 grind pays خاموش
@@ -19817,12 +19817,12 @@ grinding طلا
 گروه project
 گروه بالا
 گروه2
-
+رشد کردن
 grow از آن
 grow بالا
 
-
-
+گمشو
+باید برم
 نگهبان
 نگهبان druid
 نگهبان از باستانی kings
@@ -19855,47 +19855,47 @@ guess چه
 صنف vote
 صنف website
 صنف2
-
-
-
-
-
+هم‌انجمنی
+هم‌گیلدی
+گیلدها
+احساس گناه
+گناهکار
 
 gut احساس
-
+یارو
 
 guys ما می‌تواند انجام این
+باشگاه ورزشی
+ژیمناستیک
 
 
 
-
-
-
-
+زیستگاه
+هکر
 داشت
 داشت یک احساس
 داشت یک خوب رؤیا
 داشت یک کابوس
 داشت نه
-
-
-
-
+هاها
+هاهاها
+هاهاهاها
+تگرگ
 
 نیم
 نیم asleep
 نیم سلامت
 نیم مانا
 halfway آنجا
-
+هالووین
 halls از آذرخش
 halls از سنگ
 
 
 hammer از justice
 hammer از غضب
-
-
+همستر
+زردپی
 
 hand در hand
 hand از freedom
@@ -19907,7 +19907,7 @@ hand از salvation
 
 handle آن
 handle دشمنان
-
+دست‌ها
 hang در آنجا
 hang در آنجا phrase
 hang روشن
@@ -19935,20 +19935,20 @@ happy به کمک
 سخت بار
 سخت کار pays خاموش
 سخت2
-
+سخت‌کیش
 hardcore بازی
 hardcore صنف
 hardcore بازیکن
+سخت‌تر
+به ندرت
+گیرکرده
 
-
-
-
-
+زیان‌آور
 
 دارد
 دارد نه زندگی
 دارد نه
-
+هشتگ
 
 
 
@@ -19956,10 +19956,10 @@ hardcore بازیکن
 
 hate این بازی
 
-
-
+منفور
+متنفر است
 hating این
-
+تسخیر کردن
 داشتن
 داشتن یک خوب روز
 داشتن یک خوب یک
@@ -19974,7 +19974,7 @@ havent cleared این room
 havent played در years
 
 
-
+شاهین
 او
 او believes
 او brings

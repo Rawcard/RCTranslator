@@ -12652,7 +12652,7 @@ doomweed หมอกควัน
 ประตู ไฟ
 ประตูยาม
 
-
+ตัวแฝด
 doren สังหาร เครดิต
 doren เฟส shift
 dormus ถือ camels anim
@@ -12676,16 +12676,16 @@ dos และ don'ts
 สองเท่า-ใบมีด lunge
 สองเท่า-คม thrash
 สองเท่า-stitched woolen ไหล่
-
-
+ความสงสัย
+น่าสงสัย
 doubting จิตใจ
 
 douse นิรันดร์ เปลวไฟ
 douse ไฟ
 douse เปลวไฟ
 douse roof ไฟ
-
-
+ราดน้ำแล้ว
+การราดน้ำ
 
 dousing เปลวไฟ
 ล่าง
@@ -12694,15 +12694,15 @@ dousing เปลวไฟ
 ล่าง ไป ดิน
 ล่าง ไป ที่ wire
 downhill ตั้งแต่
-
-
-
-
+ดาวน์โหลด
+กำลังดาวน์โหลด
+การลดขนาดองค์กร
+ชั้นล่าง
 ล่างเวลา
 downwind ของ altairus
 dowse นิรันดร์ เปลวไฟ
-
-
+การหาน้ำใต้ดิน
+งีบหลับ
 dozing ออร่า ล่าช้า
 ดาเมจ
 ดาเมจ ผู้ร่าย คริติคอล ความเสียหาย โบนัส
@@ -12861,7 +12861,7 @@ dragonstrike เกราะขา
 ดูด ที่ อ่อนแอ
 ดูด โลก ต้นไม้ ภาพ
 ดูด โลก ต้นไม้ ภาพ 2
-
+หมดแรง
 
 drained ของ พลัง
 ดูดกลืน ระเบิด
@@ -12902,10 +12902,10 @@ drakuru ความตาย
 drakuru หายไป blightblood
 drakuru แปลงร่าง
 drakuru's กะโหลก ขีปนาวุธ
+ดราม่า
 
-
-
-
+น่าตื่นเต้นเร้าใจ
+ดื่มแล้ว
 draught ของ สงคราม
 ดึง
 ดึง โบราณ glyphs
@@ -12928,7 +12928,7 @@ draught ของ สงคราม
 ดึง sports
 ดึง vita
 ดึง น้ำ sample
-
+ข้อด้อย
 drawing ชุด
 drawn เวทมนตร์
 drawn วิญญาณ
@@ -13018,9 +13018,9 @@ dreamweave เสื้อกั๊ก
 dreamwraps ของ ที่ แสง
 
 
-
+เปียกโชก
 drenched ใน mojo
-
+ชุดเดรส
 
 
 dressed ไป impress เครดิต
@@ -13030,7 +13030,7 @@ dressed ไป สังหาร
 dried needle เห็ด
 
 drifting vapors ของ ที่ หิมะ lily
-
+สว่าน
 drill เกราะ
 drill พุ่งชาร์จ
 
@@ -13067,9 +13067,9 @@ drill พุ่งชาร์จ
 ดื่ม ขวดเล็ก
 ดื่ม น้ำ
 ดื่ม wine
+การดื่ม
 
-
-
+เครื่องดื่ม
 
 
 
@@ -13132,9 +13132,9 @@ drone ยั่วยุ
 ทิ้ง zanzil's ยาอายุวัฒนะ
 ทิ้ง-ปิด เป็นระยะ
 ทิ้ง2
-
+หยดน้ำ
 droplet ของ y'shaarj
-
+คนออกกลางคัน
 
 dropped อาวุธ
 
@@ -13147,7 +13147,7 @@ drostan เปิด ปรากฏ
 drowned gilnean วิญญาณ การบิน
 drowned หน้าจอ เอฟเฟกต์
 drowned สถานะ
-
+จมน้ำ
 drowning ความตาย
 drowning militia หุ่นฝึก
 drowning ยานพาหนะ ทางออก หุ่นฝึก
@@ -13195,7 +13195,7 @@ drunken กะโหลก crack
 drunken sleeping นอน
 
 
-
+แห้ง
 
 
 dryad พรางตัว
@@ -13205,27 +13205,27 @@ dual ใบมีด
 
 dual wield 2h ทดสอบ
 ducal's ม้า กระตุ้น
-
+เพื่อนเอ๊ย
 due ไป
-
+การดวล
 duel ออร่า ตรวจสอบ
 duel ออร่า ตรวจสอบ 01
 duel ธง
 duel ชัยชนะ
-
-
+นักดวล
+น่าเบื่อ
 dull chitinous สมาธิ
 dull emberstone สมาธิ
 dull pyreshell สมาธิ
 dull rhyolite สมาธิ
 
-
+คนทึ่ม
 
 
 dumb ก้น
 dumb เหี้ย
 
-
+ไอ้งั่ง
 หุ่นฝึก
 หุ่นฝึก - lab
 หุ่นฝึก ดึงความสนใจ
@@ -13360,12 +13360,12 @@ dwarven ขวาน
 
 
 
-
+ลดน้อยลงเรื่อยๆ
 dyamite ระเบิด
 
 dying ลมหายใจ
 dying คำสาป
-
+มีพลวัต
 ไดนาไมต์
 ไดนาไมต์ ออร่า
 ไดนาไมต์ ระเบิด
@@ -13375,7 +13375,7 @@ dynasty ของ steel
 แต่ละ
 แต่ละ อื่น
 eadric ความสำเร็จ
-
+กระตือรือร้นมาก
 นกอินทรี
 นกอินทรี กรงเล็บ
 นกอินทรี ตา
@@ -13393,8 +13393,8 @@ eaglebane สนับแขน
 เช้า เกม
 เช้า เช้า พรุ่งนี้
 เช้า แสดง
-
-
+หาเงิน
+หูฟัง
 
 ดิน
 ดิน ลำแสง
@@ -13480,7 +13480,7 @@ earthliving เมล็ด
 earthliving ภาพ
 earthliving อาวุธ
 earthpeace เกราะอก
-
+แผ่นดินไหว
 earthquake กล้อง shake
 
 earthquake กระตุ้น
@@ -13490,10 +13490,10 @@ earthshadow แหวน
 earthsoul รองเท้าบู้ต
 ดินตี
 
-
+ง่ายกว่า
 easier said than เสร็จ
 easier said than เสร็จ phrase
-
+อย่างง่ายดาย
 ตะวันออก
 ตะวันออก frostwolf warmaster
 ตะวันออก ด้าน
@@ -13501,7 +13501,7 @@ easier said than เสร็จ phrase
 ตะวันออก สำรวจ สำเร็จ
 ตะวันออก วัด arrival scene
 ตะวันออก วัด ควัน ระเบิด
-
+อีสเตอร์
 easter lay noblegarden ไข่ ออร่า
 eastern ไฟ ออร่า
 
@@ -13539,8 +13539,8 @@ eastern ไฟ ออร่า
 กิน ผ่าน ตาข่าย
 กิน trog
 กิน2
-
-
+ถูกกินแล้ว
+กำลังกิน
 
 
 
@@ -13572,7 +13572,7 @@ ebonsteel เข็มขัด buckle
 
 ebonweave ถุงมือ
 ebonweave เสื้อคลุม
-
+อีบุ๊ก
 
 echo ระเบิด
 echo ของ archimonde
@@ -13585,7 +13585,7 @@ echoes จาก ที่ past
 echoes ของ แสง
 echoes ของ lordaeron
 echoes ของ memory
-
+ก้องสะท้อน
 echoing การต่อสู้ ตะโกน
 echoing คำราม
 
@@ -13594,16 +13594,16 @@ eck กัด
 
 eck ถ่มน้ำลาย
 
-
+สุริยุปราคา
 eclipse พลังงาน
 eclipse เครื่องหมาย
 eclipse รีเซ็ต
 eclipse ภาพ
 
+นิเวศวิทยา
+เศรษฐศาสตร์
 
-
-
-
+ระบบนิเวศ
 
 
 
@@ -13618,14 +13618,14 @@ eerie หมอก
 eerie กะโหลก
 eerie smolderthorn รูปเคารพ
 เอฟเฟกต์
-
+ได้ผล
 effective ทีม
-
-
+ฟองฟู่
+ประสิทธิภาพ
 efficiency คือ กุญแจ
-
+มีประสิทธิภาพ
 efficient การฟาร์ม
-
+การผลิบาน
 
 effulgent ดึกดำบรรพ์ เพชร
 effulgent shadowspirit เพชร
@@ -13654,14 +13654,14 @@ effulgent ป่าเถื่อน jade
 ไข่-splosive ระดมยิง
 
 
-
+เอ๊ะ
 ei เฟส
 eidolon คุก
 แปด
-
-
-
-
+สิบแปด
+ที่แปด
+แปดสิบ
+อย่างใดอย่างหนึ่ง
 either หรือ
 
 eject ทั้งหมด ผู้โดยสาร
@@ -13689,7 +13689,7 @@ ejection สเปล
 
 
 
-
+ข้อศอก
 elder เครื่องราง
 
 elder shu bandage ภาพ
@@ -13720,7 +13720,7 @@ electrical โหลดเกิน primer
 electrical ช็อก
 electrical พายุ
 electrical พายุ pre-เป้าหมาย
-
+มีไฟฟ้า
 electrified โซ่ตรวน
 
 electrified พื้น
@@ -13735,8 +13735,8 @@ electro-magnetic สั่น
 electro-ช็อก
 electro-ช็อก therapy
 electro-จู่โจม
-
-
+ช็อตไฟฟ้า
+การถูกไฟช็อต
 
 electromagnetic กำแพงกั้น
 
@@ -13744,7 +13744,7 @@ electromagnetic กำแพงกั้น
 electromagnetic สั่น
 electromancer ju'le เครดิต
 
-
+การช็อตไฟฟ้า
 electrostatic พุ่งชาร์จ
 
 
@@ -13845,11 +13845,11 @@ elementium ความสยองขวัญ
 
 elements แถบ
 elendilad อัญเชิญ script
-
+ช้าง
 elevator ผลักถอย
-
+สิบเอ็ด
 เอลฟ์
-
+ระดับหัวกะทิ
 
 ยาอายุวัฒนะ
 ยาอายุวัฒนะ นายท่าน
@@ -13951,11 +13951,11 @@ elune's response เอฟเฟกต์
 elune's ritual ของ สงคราม
 elune's สัมผัส
 elune's พิโรธ
-
+หลบเลี่ยงเก่ง
 elusive เบียร์
 elusive เบียร์ เครื่องตกแต่ง
 elusive พลัง
-
+ความลื่นไหลหลบหลีก
 elven อุปกรณ์ การเปิดใช้ ping
 
 elwynn ป่า
@@ -13965,12 +13965,12 @@ elwynn ป่า หมาป่า
 
 embalming เมฆ
 embarrass เขา
-
-
+อาย
+น่าอับอายขายหน้า
 
 embarrassing เล่น
 embarrassing ตัวคุณเอง
-
+ความอับอาย
 embedded ใบมีด
 embedded หอก
 ถ่านไฟ ระเบิด
@@ -14037,7 +14037,7 @@ embrace ของ ที่ shale แมงมุม
 embrace ของ ที่ แมงมุม
 embrace ของ ที่ twisting nether
 embrace ของ ที่ vampyr
-
+มรกต
 emerald acorn เอฟเฟกต์
 emerald กระเป๋า
 emerald ระดมยิง
@@ -14058,13 +14058,13 @@ emerald ฝน
 
 
 
-
+โผล่ออกมา
 emerge จาก หิมะ
 emerge จาก หิมะ - kun lai
 emerge สถานะ
 emerge อัญเชิญ
 emerge ภาพ
-
+การปรากฏขึ้น
 
 
 
@@ -14084,7 +14084,7 @@ emergency จรวด ฝูง
 emergency จรวด-ฝูง
 emergency จรวด-ฝูง xtreme
 emergency เทเลพอร์ต
-
+ความโดดเด่นสูงส่ง
 
 emissary ของ สิ้นหวัง เครดิต
 emissary ของ หวาดกลัว เครดิต
@@ -14114,12 +14114,12 @@ emote ทำให้มึน
 
 
 emote ทำงาน
-
+อารมณ์อ่อนไหว
 emotional กำแพงกั้น
 
+อีเอ็มพี
 
-
-
+ความเห็นอกเห็นใจ
 empathy ของ หิน
 
 
@@ -14205,10 +14205,10 @@ enable unit เฟรม
 enable ยานพาหนะ ความสามารถ
 enable worgen altered ร่าง
 
+ขังกรง
 
 
-
-
+ห่อหุ้ม
 
 
 encase ใน amber
@@ -14610,11 +14610,11 @@ enchantment พาสซีฟ ทดสอบ
 เผชิญหน้า
 เผชิญหน้า อีเวนต์
 เผชิญหน้า ปรากฏ
-
-
+ได้รับกำลังใจ
+กำลังใจ
 encroaching weed buddy ออร่า
 
-
+มีภาระหนัก
 encumbered คำเตือน
 จบ
 จบ ambush
@@ -14631,7 +14631,7 @@ encumbered คำเตือน
 จบ ที่ โจมตี
 จบ2
 
-
+ตอนจบ
 
 endless ความฝัน walkers
 endless คลั่ง
@@ -14645,7 +14645,7 @@ endless พิโรธ
 
 endurance ของ niuzao
 
-
+อดทน
 endure ที่ transformation
 
 enduring ยาอายุวัฒนะ ของ wisdom
@@ -14662,7 +14662,7 @@ enduring วิญญาณ
 ศัตรู เปิด ของคุณ ซ้าย
 ศัตรู เปิด ของคุณ ขวา
 ศัตรู spotted
-
+กระฉับกระเฉง
 
 เติมพลัง
 เติมพลัง เลือด รูน
@@ -14733,18 +14733,18 @@ energizing สปอร์
 พลังงาน usage
 พลังงาน วังวน
 พลังงาน2
+ทำให้อ่อนล้า
+อ่อนล้า
 
-
-
-
-
+ทำให้อ่อนแรง
+อ่อนแรง
 enfeebling ระเบิด
 
 enforcers พร้อม
-
+เข้าปะทะ
 engage ที่ จะ
-
-
+หมั้นแล้ว
+การหมั้น
 engaging ใน สาม
 เครื่องยนต์ efficiency
 เครื่องยนต์ ไฟ
@@ -14753,14 +14753,14 @@ engaging ใน สาม
 วิศวกร
 วิศวกรรม
 วิศวกรรม ความชำนาญ
-
+ภาษาอังกฤษ
 english กรุณา
 
 
 
 engraved truesilver แหวน
 engulf ใน เปลวไฟ
-
+ถูกกลืน
 engulfed ระเบิด
 engulfed ใน เปลวไฟ
 กลืนกิน ความมืด
@@ -14788,7 +14788,7 @@ enhanced ปัญญา
 enhanced พลัง
 enhanced sunder เกราะ
 enhancement หมอผี
-
+ปริศนา
 enigma blizzard โบนัส
 enigma resist โบนัส
 
@@ -14798,13 +14798,13 @@ enigmatic shadowspirit เพชร
 enigmatic skyfire เพชร
 enigmatic skyflare เพชร
 
-
+น่าสนุก
 enjoying หนึ่ง เย็น หนึ่ง
 
 
 
-
-
+รู้แจ้ง
+การตรัสรู้
 enohar's ระเบิด ลูกธนู
 
 enormous gyreworm สถานะ
@@ -14841,17 +14841,17 @@ enrapping ราก
 enriched lasher ตรึง
 
 
-
+ทำให้เป็นทาส
 enslave ปีศาจ
 enslave gronn เครื่องตกแต่ง
 
 enslaved วิญญาณ พาสซีฟ
-
-
+วางกับดัก
+ติดกับดัก
 
 ensnaring กับดัก
 ensorcelled nerubian เกราะอก
-
+พันเกี่ยว
 entangliing ตรึง ภาพ
 entangling คว้า
 entangling ตาข่าย
@@ -14876,14 +14876,14 @@ entangling ยิง
 เข้า2
 entering ออร่า
 entering สมรภูมิ
+กระตือรือร้นสุดๆ
+ล่อใจ
 
-
-
-
+ฝังทั้งเป็น
 entrails แปลงร่าง
 ทางเข้า
-
-
+การล่อให้ติดกับ
+ติดกับดักแล้ว
 entrapping ราก
 entrapping ราก อัญเชิญ
 
@@ -14897,14 +14897,14 @@ enveloping หมอก
 
 
 enveloping สายลม
-
+ใส่พิษ
 envenomed มีด ขว้าง
 
 envenomed ยิง
-
+สิ่งแวดล้อม
 
 envoker's โล่
-
+ความอิจฉา
 
 
 eoin's ถังเบียร์
@@ -14914,13 +14914,13 @@ ephemeral พลัง
 อีพิค ล้มเหลว
 อีพิค ม่วง shirt flex
 อีพิคเข้า
+ผู้รักการกิน
 
+การรู้แจ้งฉับพลัน
 
+เท่ากัน
 
-
-
-
-
+ความเท่าเทียม
 
 สวมใส่
 สวมใส่ flamethrower
@@ -14929,13 +14929,13 @@ ephemeral พลัง
 สวมใส่ อาวุธ
 สวมใส่2
 อุปกรณ์
-
+ถอนรากถอนโคน
 eranikus ที่ chained invisiibility
 eric's พุ่งชาร์จ
 eric's pocket ยา
-
+เอ่อ
 eroding ฝน
-
+ผิดพลาด
 
 error - ไม่ while mounted
 
@@ -14956,9 +14956,9 @@ erupting pool ของ โกรธ
 
 
 erupting น้ำ
-
+การปะทุ
 escalating พลัง
-
+การยกระดับ
 หนี
 หนี artist
 หนี claws
@@ -14983,9 +14983,9 @@ escaping arthas สังหาร เครดิต
 eskhandar's เดือดดาล
 
 
-
+อีสปอร์ต
 espresso ฝุ่น
-
+เรียงความ
 แก่นสาร flow
 แก่นสาร infused mushroom
 แก่นสาร mango
@@ -15022,11 +15022,11 @@ espresso ฝุ่น
 แก่นสาร ของ y'shaarj
 แก่นสาร ของ yu'lon
 
+โดยสาระสำคัญ
 
 
-
-
-
+เวลาถึงโดยประมาณ
+ฯลฯ
 
 
 
@@ -15088,32 +15088,32 @@ eternium runed ใบมีด
 ไร้รูป shatter
 ไร้รูป วิญญาณ-trader
 ไร้รูป เทเลพอร์ต
-
+ถูกทำให้เป็นอีเธอร์
 
 ettin's ปาก
 etymidian ทางออก หุ่นฝึก
 etymidian ผู้ขี่ ภูมิคุ้มกัน
-
-
+ความรู้สึกเคลิบเคลิ้ม
+ยุโรป
 evacuee หายไป
 
 evacuee reaches มังกรโรคร้าย
-
-
+หลบหลีก
+การเผยแผ่ศาสนา
 evanor's คุก โซ่ตรวน
-
-
-
-
+ระเหย
+การระเหย
+การหลบ
+หลบเลี่ยง
 
 evasive ออร่า
 
 
 
+แม้แต่
 
 
-
-
+ตอนเย็น
 evening แบน
 
 อีเวนต์
@@ -15126,7 +15126,7 @@ evening แบน
 อีเวนต์ success
 อีเวนต์ ตัวจับเวลา บัฟ
 
-
+ในที่สุด
 ever heard ของ thinking
 ever-เผาไหม้ คบเพลิง
 evergrove ดรูอิด แปลงร่าง crow
@@ -15161,7 +15161,7 @@ eversong battered ลัง กับดัก หุ่นฝึก
 ทุกที่ไหน
 evict วิญญาณ
 evicted วิญญาณ
-
+หลักฐาน
 evidence เครื่องหมาย
 evidence เครื่องหมาย ล่องหน
 ชั่วร้าย
@@ -15174,7 +15174,7 @@ evidence เครื่องหมาย ล่องหน
 ชั่วร้าย คือ หนึ่ง จุด ของ view
 ชั่วร้าย เทเลพอร์ต ภาพ เท่านั้น
 ชั่วร้าย twin
-
+ควักไส้
 eviscerate และ envenom โบนัส ความเสียหาย
 eviscerate และ envenom discount
 
@@ -15185,12 +15185,12 @@ eviscerator's ถุงมือเหล็ก
 
 
 
-
+การอัญเชิญ
 
 evoker คลาส
-
+วิวัฒนาการ
 ewer ของ jormungar เลือด
-
+แม่นยำทุกประการ
 ถูกต้อง
 ถูกต้อง correct
 ถูกต้อง ขวา
@@ -15212,7 +15212,7 @@ exceeded ที่ hype
 
 excellent ทำงาน
 
-
+ยกเว้น
 exception ไป ที่ rule
 exceptional พลังชีวิต
 exceptional มานา
@@ -15224,7 +15224,7 @@ exchange ไอเทม
 
 ขอโทษนะ
 excuse ฉัน กรุณา
-
+ประหาร
 execute forsaken นักโทษ
 
 execute เฟส
@@ -15233,22 +15233,22 @@ execute นักโทษ
 
 execute ที่ plan
 
+การประหารชีวิต
 
-
-
-
-
-
+เพชฌฆาต
+ผู้จัดการมรดก
+การออกกำลังกาย
+หายใจออก
 
 exhausted แต่ ยังคง กำลังไป
 
 
+เหนื่อยมาก
+ความเหนื่อยล้า
 
-
-
-
-
-
+ทำให้ชุ่มชื่น
+ความเบิกบาน
+การเนรเทศถิ่น
 
 ทางออก
 ทางออก deathmatch
@@ -15272,13 +15272,13 @@ exodar valiant's ธงชาย
 
 exorcise วิญญาณ
 exorcising manifestation ของ โกรธ
+การไล่ผี
 
-
-
+หมอผีไล่ผี
 
 
 expanded จิตใจ
-
+ภาคเสริม
 expansive จิตใจ
 expansive วิญญาณ
 
@@ -15294,12 +15294,12 @@ expedition พลุไฟ
 ขับออก miasma
 expelled ความเสื่อม
 Prophet of the Flame Transform 02
-
+แพง
 
 ประสบการณ์
 ประสบการณ์ คือ ที่ ดีที่สุด teacher
 ประสบการณ์2
-
+มีประสบการณ์
 experienced guide หายไป กระตุ้น
 experienced ผู้เล่น
 
@@ -15329,7 +15329,7 @@ experiment ร่ายต่อเนื่อง
 
 explain ที่ สู้
 explain ตัวคุณเอง
-
+คำอธิบายเหตุผล
 
 
 ระเบิด
@@ -15386,11 +15386,11 @@ exploded ปลา
 ระเบิด ฟ้าร้อง หิน
 
 explodo-rockets ซ้าย
+การใช้ช่องโหว่
 
 
-
-
-
+ใช้ประโยชน์
+นักสำรวจ
 
 ระเบิด
 ระเบิด จางหาย ไกล
@@ -15442,15 +15442,15 @@ expose razorthorn ตรึง
 expose ตนเอง
 
 
-
+ถูกเปิดเผย
 exposed หัวใจ
 
 
 expunge พิษ
 
 
-
-
+ดูดเลือด
+การเสียเลือด
 
 extending ของเรา coverage - ละทิ้ง
 extending ที่ บุก
@@ -15458,13 +15458,13 @@ extermination ลำแสง
 external combustion เครื่องยนต์
 external คูลดาวน์
 
-
+ดับไฟ
 extinguish ทั้งหมด ชีวิต
 extinguish ไฟ
 extinguish ไฟ attempt
 extinguish เปลวไฟ
-
-
+กำลังดับไฟ
+พิเศษ
 extra action ปุ่ม cover สเปล
 extra ความเสียหาย ดีบัฟ
 extra ใหญ่ หมวกเกราะ sparkle
@@ -15479,19 +15479,19 @@ extract ของ ที่ afterlife
 extract น้ำมัน
 extract น้ำมัน เอฟเฟกต์
 
+นอกหลักสูตร
 
 
 
-
-
-
+งานแสดงยิ่งใหญ่
+สุดขั้ว
 extreme การปรุง
 
 extreme hozen-fu เอฟเฟกต์
 
 
 extreme-กระแทก หลุม puncher
-
+อย่างยิ่ง
 
 
 ตา
@@ -15605,10 +15605,10 @@ Corrupting Crash Targeting
 ใบหน้า2
 faceless รีเซ็ต
 ใบหน้าน้อยกว่า transformation
-
+เอามือตบหน้าผาก
 faces ของ doom
 facet ของ eternity
-
+หันหน้าไปทาง
 facing ร่ายต่อเนื่อง
 facing ร่ายต่อเนื่อง ลำแสง
 
@@ -15661,10 +15661,10 @@ failed เทเลพอร์ต
 failed การทดสอบ
 
 failure ตัวจับเวลา ออร่า
-
-
+เป็นลม
+กำลังเป็นลม
 faintly-เรืองแสง สมุนไพร
-
+ยุติธรรม
 fair และ square
 fair พอ
 fair ไกล clip
@@ -15673,7 +15673,7 @@ fair จุด
 
 fair คำเตือน
 
-
+ปลอม
 fake เลือด spurt
 fake ความตาย
 fake ยิง
@@ -15726,22 +15726,22 @@ falcon's เรียก
 ตกลงมา แกะ
 ตกลงมา ดาว
 ตกลงมา vase ระเบิด
-
+ตกลงไป
 falls ปิด
-
+เท็จ
 false เริ่ม
 
-
-
-
-
+ลังเล
+ครอบครัวกู
+ชื่อเสียง
+คุ้นเคย
 ครอบครัว
 ครอบครัว เกม เวลา
 ครอบครัว กิลด์
 ครอบครัว issue
 ครอบครัว jewels
 ครอบครัว2
-
+มีชื่อเสียง
 fan ของ bananas
 fan ของ ใบมีด
 fan ของ feathers
@@ -15752,7 +15752,7 @@ fanatic ใบมีด
 fanatic ใบมีด เอฟเฟกต์
 
 fanatical จู่โจม
-
+ความคลั่งไคล้
 
 fancy บน หมวก
 fandral ผู้สร้าง ออร่า
@@ -15762,7 +15762,7 @@ fandral's เปลวไฟ
 เขี้ยว ของ ที่ คริสตัล แมงมุม
 fanged เสื้อคลุม pin
 fangs ของ ที่ พระจันทร์
-
+ยอดเยี่ยมมาก
 fantasy หนังสือ
 ไกล
 ไกล ไกล
@@ -15776,7 +15776,7 @@ fantasy หนังสือ
 ไกล sight โทเทม
 ไกล เหนือกว่า
 ไกล-seeing ดวงตา
-
+อำลา
 fargo flintlocke เควส ล่องหน หนึ่ง
 fargo flintlocke เควส ล่องหน b
 ฟาร์ม
@@ -15784,7 +15784,7 @@ fargo flintlocke เควส ล่องหน b
 ฟาร์ม สังหาร
 ฟาร์ม เวทมนตร์ ฝุ่น poof
 ฟาร์ม วิ่ง
-
+ชาวนา
 
 
 การฟาร์ม
@@ -15805,7 +15805,7 @@ fargo flintlocke เควส ล่องหน b
 fastening โซ่
 
 faster regrowth ร่าย
-
+อ้วน
 fat ก้น
 fat ยาว-fat
 fat ยาว-flop
@@ -15829,16 +15829,16 @@ fate รูน ของ กองเรือ feet
 fate รูน ของ nigh invincibility
 fate รูน ของ ดึกดำบรรพ์ พลังงาน
 fate รูน ของ unsurpassed vigor
-
+พ่อของฉัน
 father winter's ผู้ช่วย
 father winter's ผู้ช่วย unsummon
 
-
-
+ความเหนื่อยอ่อน
+เหนื่อยอ่อน
 
 favor ของ ที่ kings
 favorable สายลม
-
+ได้รับความโปรดปราน
 favorite แถบ
 
 
@@ -15894,13 +15894,13 @@ feathered ความเดือดดาล
 feathered ทอง earring
 
 feathered raptor แขน
-
+เบาราวขนนก
 feathers ของ ความเดือดดาล
 feathery พายุหมุน ระเบิด
 feathery การระเบิด
 
-
-
+ความอุดมสมบูรณ์
+อิ่ม
 feeble ร่างกาย
 
 ให้อาหาร
@@ -15934,13 +15934,13 @@ feeble ร่างกาย
 ให้อาหาร young
 ให้อาหารข้างหลัง
 feedback ทำงาน
-
+คนป้อนคิล
 ให้อาหาร
 ให้อาหาร คลั่ง
 ให้อาหาร หิน falcon
 ให้อาหาร ที่ อสูรกาย
 ให้อาหาร ที่ brood
-
+รู้สึก
 feel ดีกว่า
 feel ที่ เผา
 feel ที่ flavor
@@ -15954,7 +15954,7 @@ feeling ดี เกี่ยวกับ นี้ หนึ่ง
 feeling laid ข้างหลัง
 feeling เหนื่อย
 feeling แย่กว่า
-
+รู้สึกว่า
 feels ชอบ
 feels ชอบ เมื่อวาน
 
@@ -15963,8 +15963,8 @@ feet ของ ความเดือดดาล
 fei li ผู้พิทักษ์ ออร่า
 feign และ drown
 feign ความตาย
-
-
+แสร้ง
+การหลอกล่อ
 
 
 
@@ -16131,7 +16131,7 @@ feline พร
 
 
 
-
+ล้มลง
 fell คำสาป เอฟเฟกต์
 fell ปิด
 
@@ -16156,7 +16156,7 @@ felsteel โล่ หนามแหลม
 
 
 felsworn gas หน้ากาก
-
+รู้สึกแล้ว
 
 
 
@@ -16194,7 +16194,7 @@ fengir's ออร่า
 ดุร้าย vermling
 
 
-
+หมัก
 fern feeder ขีปนาวุธ
 fern feeder ขีปนาวุธ เอฟเฟกต์
 fern feeder ภาพ
@@ -16202,11 +16202,11 @@ ferocious กัด
 
 ferocious กรงเล็บ
 ferocious โกรธ
-
+ความดุร้าย
 fertile พื้น
 
-
-
+ปุ๋ย
+ความร้อนแรง
 fester เลือด
 festered เลือด
 festering กัด
@@ -16258,10 +16258,10 @@ fetid เน่า
 fetish พันธนาการ
 fetish ของ hir'eek
 fetish หมอผี
-
+ความบาดหมาง
 feugen โซ่
 feugen tesla พาสซีฟ
-
+ไข้
 fever กัด
 feverbite หายไป
 fevered เลือด
@@ -16275,7 +16275,7 @@ feverish ความตายกัด
 
 
 fiasco's ฝูง
-
+นิยาย
 สนาม
 สนาม disruption
 สนาม goal
@@ -16384,10 +16384,10 @@ fieroclast ระดมยิง
 เพลิง web spin
 เพลิง wings
 เพลิง พิโรธ
-
+สิบห้า
 fifteen ชั้น
-
-
+ที่ห้า
+ห้าสิบ
 
 fifty เปอร์เซ็นต์
 สู้
@@ -16401,12 +16401,12 @@ fifty เปอร์เซ็นต์
 สู้ ที่ jade warlord
 สู้ wyrm
 สู้2
-
+การต่อสู้กัน
 fighting ปลา
 fighting ฮีลเลอร์ rescued ออร่า
 
 
-
+การทะเลาะ
 
 figment ของ doubt
 figments ของ longing
@@ -16442,7 +16442,7 @@ figure ออก
 รูปปั้นเล็ก - truesilver crab
 รูปปั้นเล็ก - twilight อสรพิษ
 
-
+เนื้อสันใน
 filet ของ redgill
 
 fill 15 วงกลม
@@ -16468,14 +16468,14 @@ fillet blind ถ้ำปลา
 fillet ยักษ์ catfish
 fillet ของ คลั่ง
 fillet royal พระปลา
-
+ไส้
 filling ถัง
 filling ว่าง jar
 filling ขวด
 filling ถังเบียร์
 filling marmot หลุม
 
-
+ตัวกรอง
 
 filthling พาสซีฟ
 
@@ -16497,10 +16497,10 @@ filthling พาสซีฟ
 สุดท้าย ระดมยิง
 สุดท้าย word
 สุดท้าย พิโรธ
-
+ฉากจบ
 finale completion เฟส
 finale ระเบิด
-
+ในที่สุดก็
 finally เสร็จ สำหรับ tonight
 
 
@@ -16533,7 +16533,7 @@ finally ได้รับ ใน
 หา2
 finding jaina เครดิต
 finding sylvanas เครดิต
-
+หาเจอ
 สบายดี
 สบายดี bloodscalp dinnerware
 สบายดี คริสตัล candelabra
@@ -16734,18 +16734,18 @@ fiona's ขวา มือ rope
 ไฟเบ่งบาน
 ไฟสายฟ้า
 ไฟระเบิด
-
+การพ่นไฟ
 ไฟระเบิด
 
-
+ประทัดหลายลูก
 firefighting อุปกรณ์
-
+หิ่งห้อย
 ไฟร่าง
 ไฟยาม
 
 firegut ทำให้กลัว พายุ
 firegut ogre ปลอมตัว
-
+สายดับเพลิง
 Firelands Object Visual
 
 fireproof ตาข่าย
@@ -16773,7 +16773,7 @@ fireweave ไหล่
 พลุ เอฟเฟกต์ 1
 พลุ launcher
 พลุ launcher inactive
-
+ดอกไม้ไฟ
 fireworks ระเบิด
 
 firey มือ
@@ -16813,7 +16813,7 @@ firing สนาม ปืนใหญ่
 ปลา snack
 ปลา tails
 ปลา โยน
-
+ชาวประมง
 
 fisherman's หมวก สถานะ
 ตกปลา
@@ -16824,9 +16824,9 @@ fisherman's หมวก สถานะ
 ตกปลา poles
 ตกปลา raft
 fishliver น้ำมัน
+ทะแม่งๆ
 
-
-
+รอยแยก
 หมัด ออก
 หมัด ของ cho'gall
 หมัด ของ ความเดือดดาล range โบนัส
@@ -16837,8 +16837,8 @@ fishliver น้ำมัน
 หมัด ทุบ
 หมัด อาวุธ
 หมัด weapons
-
-
+การชกต่อย
+การต่อยตี
 หมัด ของ เวทลึกลับ ความเดือดดาล
 หมัด ของ เปลวไฟ
 หมัด ของ flurry
@@ -16848,7 +16848,7 @@ fishliver น้ำมัน
 หมัด ของ ฟ้าผ่า
 หมัด ของ หิน
 fitful ความฝัน
-
+ความฟิต
 ห้า
 ห้า สี่ สาม สอง หนึ่ง
 ห้า ไป
@@ -16869,16 +16869,16 @@ fixate เปิด ส้ม carrier
 fixate onhit พาสซีฟ
 
 fixate กระตุ้น
-
+หมกมุ่น
 fixated กระโดด
 fixated เดือดดาล
 fixated เดือดดาล primer
-
+ซ่อมแล้ว
 fixing ที่ issue
 fizzcrank parachute เทเลพอร์ต เป้าหมาย
 fizzcrank pilot - gett ปิด plane
 
-
+ล้มเหลวแป้ก
 
 fizzy เบียร์
 fizzy ฟองอากาศ
@@ -16900,7 +16900,7 @@ flak ระดมยิง กระแทก
 flak ปืนใหญ่
 flak ไฟ
 flak ไฟ กระแทก
-
+ไม่น่าเชื่อถือ
 เปลวไฟ
 เปลวไฟ เกราะ ชุด
 เปลวไฟ ลูกธนู
@@ -17129,10 +17129,10 @@ flameward เปิดใช้
 flammable น้ำมัน
 flank ที่ บอส
 flank พวกเขา
+การโจมตีด้านข้าง
 
 
-
-
+กระพือ
 พลุไฟ
 พลุไฟ ปืน
 พลุไฟ บน
@@ -17201,12 +17201,12 @@ flashback หน้าจอ เอฟเฟกต์
 ขวด ของ titanic พลัง
 ขวด ของ winter's กัด
 ขวด บน
-
+ขวดยา
 
 flat ความเสียหาย reduction
 flat spin สถานะ
 flattery จะ รับ คุณ nowhere
-
+ผายลม
 flawless aquatic การต่อสู้-หิน
 
 flawless การต่อสู้-หิน
@@ -17222,7 +17222,7 @@ flawless ผีดิบ การต่อสู้-หิน
 
 flayed มีชีวิต
 flayed เนื้อหนัง
-
+ผู้ถลกหนัง
 
 
 
@@ -17251,12 +17251,12 @@ fleshbeast แปลงร่าง
 fleshwerks เฟส
 fletcher's ถุงมือ
 fletcher's ถุงมือ ของ ที่ phoenix
-
+อวดกล้าม
 flex หยิบ
 flex บุก
-
-
-
+ความยืดหยุ่น
+ยืดหยุ่น
+กำลังอวดกล้าม
 
 flickering เปลวไฟ
 flickering เปลวไฟ
@@ -17276,7 +17276,7 @@ flickering เปลวไฟ
 การบิน ไป sholazar
 การบิน ไป sholazar เป็นระยะ
 การบิน ภาพ สถานะ
-
+เหวี่ยง
 fling ใบมีด
 
 
@@ -17298,15 +17298,15 @@ flip ไป light's ความหวัง
 
 
 flitterling ฝุ่น
-
-
+ลอย
+ลอยอยู่
 floating ความตาย
 
 floating วิญญาณ
 floating วังวน เอฟเฟกต์
 
 flock เรียก
-
+น้ำท่วม
 flood ที่ แชท
 พื้น
 พื้น คือ lava
@@ -17317,7 +17317,7 @@ flooz กระแทก
 flooz ขัดจังหวะ
 
 flour ระเบิด
-
+เจริญรุ่งเรือง
 flow ของ gratitude
 flow ของ knowledge
 flow ของ ที่ elements
@@ -17334,7 +17334,7 @@ flowers ของ ที่ ตาย
 
 fluid ชอบ น้ำ
 fluid ตัวจับเวลา บัฟ
-
+ความลื่นไหล
 fluorescent เขียว mechanostrider
 
 flurry ขวาน
@@ -17344,9 +17344,9 @@ flurry ของ claws
 flurry ของ หมัด
 flurry ของ teeth
 flurry ของ xuen
-
+กดชักโครก
 flute ของ ที่ ancients
-
+กระพือปีก
 
 ความผันผวน
 
@@ -17450,16 +17450,16 @@ foaming เดือดดาล
 จดจ่อ จู่โจม
 จดจ่อ จะ
 จดจ่อ พิโรธ
-
+กำลังโฟกัส
 หมอก
 หมอก ของ ความเสื่อม
 หมอก ของ ที่ kualdir
 หมอก ของ เวลา
-
+มีหมอก
 folded ผี เหล็ก
 
 
-
+ผู้คนทั้งหลาย
 ตาม
 ติดตาม เธอ
 ติดตาม เขา
@@ -17478,7 +17478,7 @@ folded ผี เหล็ก
 following นั้น
 
 ตามผ่าน
-
+กลัวตกเทรนด์
 อาหาร
 อาหาร ทำลาย
 อาหาร บัฟ
@@ -17494,9 +17494,9 @@ fool's คำสาป
 
 fool's ทอง
 
-
-
-
+โง่เขลา
+เท้า
+ฟุตบอล
 
 foothold จู่โจม song
 
@@ -17525,11 +17525,11 @@ footwraps ของ quenched ไฟ
 สำหรับ คุณ
 สำหรับ ของคุณ information
 สำหรับ2
-
-
+หาอาหาร
+ความอดกลั้น
 forbidden เวทมนตร์
 forbidding ทะเล ออร่า
-
+ลางร้าย
 forbosi throws ไป tayemba
 พลัง
 พลัง และ verve
@@ -17627,7 +17627,7 @@ forced ไป choose
 รุนแรง ขว้าง
 รุนแรง ป่าเถื่อน jade
 
-
+พยากรณ์
 foreman's ต้องมนตร์ หมวกเกราะ
 
 foreman's reinforced หมวกเกราะ
@@ -17639,7 +17639,7 @@ foreman's reinforced หมวกเกราะ
 ป่า step
 ป่า sup
 
-
+ตลอดไป
 เตาหลอม
 เตาหลอม เครดิต
 เตาหลอม ถ่านไฟ
@@ -17662,21 +17662,21 @@ forgemaster ปรากฏ เครื่องตกแต่ง
 forgemaster's ขวาน
 forgemaster's ค้อน
 forgemaster's ไม้เท้า
-
+ลืม
 forget เกี่ยวกับ มัน
 forget มัน
-
+ลืมเสมอ
 forgewire ขวาน
-
+การตีเหล็ก
 forgive ฉัน
-
-
+การให้อภัย
+ลืมไปแล้ว
 forgotten ออร่า
 forgotten depths ระเบิด
 
 
 
-
+ส้อม
 forked ใบมีด ภาพ
 forked ไฟ-ยิง
 
@@ -17693,7 +17693,7 @@ forlorn spire กล้อง blackout
 ร่าง ของ rokkaram
 ร่าง ของ ที่ moonstalker
 formal ขาว shirt
-
+รูปขบวน
 formation grounds เทเลพอร์ต
 forming เฟรม ของ atiesh
 forming กลุ่ม
@@ -17707,9 +17707,9 @@ forsaken โรคระบาด เมฆ
 
 
 fort grookin สงคราม prep
-
+จุดแข็ง
 fortification ของ shattrath
-
+ป้อมปราการแน่นหนา
 fortified สัปดาห์
 fortify หิน ออร่า
 fortifying เบียร์
@@ -17720,18 +17720,18 @@ fortifying เบียร์
 ความอดทน ของ ที่ scourge
 ความอดทน ของ ที่ sin'dorei
 ความอดทน กระตุ้น
+ป้อมปราการ
 
+โชคดีที่
 
-
-
-
+สี่สิบ
 ข้างหน้า
 ข้างหน้า thrust
 
 fossil ตัวค้นหา 3000
 fossilized ลูกมังกร
 
-
+ต่อสู้แล้ว
 โสโครก
 โสโครก ระเบิด
 โสโครก หนาวเย็น
@@ -17746,9 +17746,9 @@ fossilized ลูกมังกร
 โสโครก ลำธาร
 โสโครก พิษ
 โสโครก waters
-
+ความชั่วร้าย
 foulstream โทเทม
-
+พบแล้ว
 found ศัตรู
 found เป้าหมาย
 foundations ของ courage
@@ -17759,8 +17759,8 @@ foundations ของ courage
 สี่ ชั่วโมง บุก
 สี่ ชิ้น โบนัส
 สี่ senses เบียร์
-
-
+สิบสี่
+ที่สี่
 สุนัขจิ้งจอก
 สุนัขจิ้งจอก ชุด
 
@@ -17769,7 +17769,7 @@ foundations ของ courage
 fps ทิ้ง
 fps เกม
 
-
+กระดูกร้าว
 
 
 fractured chimera's ตา
@@ -17785,15 +17785,15 @@ fragmentation ระเบิด
 fragrant อากาศ analysis
 
 frail วิญญาณ
-
+ความเปราะบาง
 
 เฟรม
-
-
+ฝรั่งเศส
+ร้อนรน
 
 frantic กระโดด
 
-
+หลุดลุ่ย
 freak ออก
 freakin' laser ลำแสง
 ปลดปล่อย
@@ -17838,10 +17838,10 @@ freed warsong จอมเวทย์
 
 freed warsong หมอผี
 freed warsong นักรบ
+อิสรภาพ
 
 
-
-
+ฟรีแลนซ์
 freewind กล้าหาญ
 แช่แข็ง
 แช่แข็ง anim
@@ -17876,7 +17876,7 @@ freewind กล้าหาญ
 เยือกแข็ง ลม
 เยือกแข็ง สายลม
 freezya ระเบิด
-
+ภาษาฝรั่งเศส
 frenetic พุ่ง
 บ้าคลั่ง จู่โจม
 บ้าคลั่ง bloodthirst
@@ -17916,22 +17916,22 @@ frenzying สปอร์
 สด lockout
 สด pine scent
 สด เริ่ม
-
+นักศึกษาปีหนึ่ง
 freya หุ่นฝึก
 freya หุ่นฝึก น้ำเงิน
 freya หุ่นฝึก เขียว
 freya หุ่นฝึก เหลือง
 freya อัญเชิญ หีบ
 freya's เครื่องราง
-
+วันศุกร์
 friday's แขน ของ law
-
+ทอด
 เพื่อน
 เพื่อน เพิ่ม
 เพื่อน ของ ที่ blackmaw
 เพื่อน request sent
 เพื่อน2
-
+เป็นมิตร
 friendly พันธมิตร spectators
 
 friendly กิลด์
@@ -17939,9 +17939,9 @@ friendly ฝ่ายมาร spectators
 friendly npc ตั้งรับ สเปล
 
 เพื่อนๆ
+ความตกใจ
 
-
-
+ทำให้กลัว
 
 
 frightened provincial ทหาร
@@ -17962,7 +17962,7 @@ frigid frostling infrigidate ออร่า
 frigid คว้า
 
 frill ระเบิด
-
+กบ
 
 
 frog รัก
@@ -17977,7 +17977,7 @@ frog รัก
 จาก2
 หน้า
 หน้า ปืนใหญ่
-
+ด้านหน้า
 น้ำแข็ง
 น้ำแข็ง absorption
 น้ำแข็ง เกราะ
@@ -18173,7 +18173,7 @@ frostwoven เกราะขา
 frostwoven เสื้อคลุม
 frostwoven ไหล่
 
-
+เย็นเยือก
 frosty บินได้ carpet
 
 frosty สถานะ
@@ -18226,18 +18226,18 @@ frozengore's ผลักถอย
 frs เควส เครดิต
 ผลไม้
 ผลไม้ bowl
-
-
+หงุดหงิด
+น่าหงุดหงิด
 frustratingly ยาก
-
-
+ความหงุดหงิด
+ทอดในน้ำมัน
 frying pan จู่โจม
 เหี้ย
 ไปให้พ้น
 เหี้ย นั้น
 เหี้ย นี้
 ไอ้สัตว์
-
+ซวยแล้ว
 fucked บน
 อีสัตว์
 อีสัตว์ ของเสีย
@@ -18246,7 +18246,7 @@ fucked บน
 อีสัตว์ ออก ฉัน alone
 อีสัตว์ ทึ่ม
 อีสัตว์ useless
-
+เชื้อเพลิง
 fuel ถัง
 fuel แทงค์ ดึงความสนใจ
 เต็ม
@@ -18279,8 +18279,8 @@ fuel แทงค์ ดึงความสนใจ
 
 
 fully weaponized mechanical เพื่อน
-
-
+การระเบิดรุนแรง
+ทำพลาด
 fumper กับดัก
 
 สนุก
@@ -18337,8 +18337,8 @@ furbolg medicine ถุง
 เตาเผา ไฟ c
 เตาเผา ไฟ ภาพ
 เตาเผา หิน
-
-
+มีขน
+ยิ่งไปกว่านั้น
 ความเดือดดาล
 ความเดือดดาล ของ al'akir
 ความเดือดดาล ของ cho'gall
@@ -18371,7 +18371,7 @@ furbolg medicine ถุง
 ความเดือดดาล นักรบ
 ความเดือดดาลค้อน
 furyhammer's ภูมิคุ้มกัน
-
+ฟิวส์
 fuse เกราะ
 fuse เกราะ channeling
 fuse ฟ้าผ่า
@@ -18381,14 +18381,14 @@ fuse ฟ้าผ่า
 fused เกราะ
 
 
-
+การหลอมรวม
 fusion แกนกลาง
 fusion แกนกลาง trample
 fusion ต่อย
 fusion ฟัน
 fusion ความเร็ว
 future เปิด ไฟ
-
+แจ้งให้ทราบ
 
 
 ga'trul เฟส shift
@@ -18416,7 +18416,7 @@ gahz'rilla หนามแหลม เป้าหมาย picker
 gain solar พลัง
 gain whirlwind อาวุธ
 gaining ความเร็ว
-
+กาแล็กซี
 galaxy สมอง
 ลมกระโชก
 ลมกระโชก พลัง
@@ -18426,9 +18426,9 @@ galaxy สมอง
 ลมกระโชก ลม
 ลมกระโชก สายลม
 gall's ระเบิด
-
-
-
+เรือใบสเปน
+แกลเลอรี
+ควบม้า
 เกม
 เกม changer
 เกม crashed
@@ -18458,12 +18458,12 @@ gamon โซ่ 2
 
 
 
-
+แก๊ง
 
 gank หมู่
-
-
-
+โดนแกงค์
+การแกงค์
+ช่องว่าง
 gap กระโดด
 
 gaping บาดแผล
@@ -18482,7 +18482,7 @@ gargoyle ระเบิด
 gargoyle ร่าง
 gargoyle ถ่มน้ำลาย ออร่า
 gargoyle จู่โจม
-
+กระเทียม
 garok's การต่อสู้
 garr เกราะ ดีบัฟ
 garrosh รัดคอ
@@ -18493,7 +18493,7 @@ garrosh กระโดด
 garrosh แปลงร่าง
 
 garrosh's zeppelin เปิด ไฟ
-
+รัดคอ
 garrote - ปิดปาก
 
 
@@ -18508,9 +18508,9 @@ gaseous โรคร้าย
 
 gaseous bloat การปกป้อง
 
-
+แผลลึก
 gasping สำหรับ ลมหายใจ
-
+มีลมในท้อง
 
 gastric ระเบิด
 ประตู
@@ -18546,7 +18546,7 @@ gateways murket และ shaadraz
 เก็บรวบรวม น้ำ
 gathered เบียร์
 
-
+ผู้เก็บรวบรวม
 การรวบรวม
 การรวบรวม amber
 การรวบรวม doubt
@@ -18564,10 +18564,10 @@ gathered เบียร์
 ถุงมือเหล็ก ของ ที่ เหล็ก หอคอย
 ถุงมือเหล็ก ของ ที่ ทะเล
 ถุงมือเหล็ก ของ unbound devotion
-
+ให้แล้ว
 gavis greyshield เครดิต
 
-
+เกย์
 gazban น้ำ ร่าง
 จ้องมอง
 จ้องมอง ของ occu'thar
@@ -18576,7 +18576,7 @@ gazban น้ำ ร่าง
 จ้องมอง ของ ที่ ดำ เจ้าชาย
 
 gdkp วิ่ง
-
+จีดีพี
 อุปกรณ์
 อุปกรณ์ ตรวจสอบ
 อุปกรณ์ icon
@@ -18605,36 +18605,36 @@ geist กำแพง เดิน
 อัญมณี perfection
 อัญมณี studded แถบ
 อัญมณี-studded หนัง เข็มขัด
-
+การเจียระไนพลอย
 
 gemmed และ ต้องมนตร์
 gemmed ทองแดง ถุงมือเหล็ก
 
 
-
+ทั่วไป
 general แชท
 
 
 
 generate เดือดดาล
-
-
+ธรรมดาสามัญ
+ปฐมกาล
 genesis rebirth โบนัส
 
 
 genn greymane worgen แปลงร่าง
 
 
-
+อ่อนโยน
 
 gentleman สังหาร เครดิต
-
+ของแท้
 genuinely สนุก
 
-
+ภูมิศาสตร์
 geosynchronous โลก spinner
-
-
+ภาษาเยอรมัน
+เยอรมนี
 รับ
 รับ หนึ่ง กำ
 รับ หนึ่ง hogtied razormane
@@ -18738,9 +18738,9 @@ ghastly คำราม
 ผี-forged legplates
 ผี-forged ไหล่
 ghostbusters ลำแสง
-
+โดนเท
 ผีร่าง
-
+การหายเงียบ
 ดั่งผี
 ดั่งผี backfire
 ดั่งผี กรงเล็บ
@@ -18792,7 +18792,7 @@ giantmaim set โบนัส
 
 giantstalker หนึ่ง
 
-
+ฮึ้ย
 
 gidwin's อาวุธ น้ำมัน
 giest โยน
@@ -18825,7 +18825,7 @@ giest โยน
 ของขวัญ ของ ที่ xavian
 ของขวัญ ของ twilight
 ของขวัญ turn-ใน
-
+กิกะบิต
 gigantic ระเบิด
 
 gigantic หมวกเกราะ sparkle
@@ -18845,17 +18845,17 @@ gilneas แชมป์เปี้ยน
 gilneas อัญเชิญ นายท่าน ออร่า
 
 ginseng ชา
-
+ยีราฟ
 giraffe ร่าง
 
 
 girdle ของ insight
 girdle ของ ruination
 girdle ของ ที่ รุ่งอรุณ
+เด็กผู้หญิง
 
-
-
-
+แฟนสาว
+พวกผู้หญิง
 giselda แปลงร่าง dnd
 
 ให้
@@ -18898,11 +18898,11 @@ giselda แปลงร่าง dnd
 ให้ ฤดูร้อน scorchling incense
 ให้ น้ำ ถัง
 ให้2
-
+ได้รับให้
 given ขวา click instruction
 given นั้น
 
-
+การให้
 giving หนึ่ง มือ
 
 gizlock's หุ่นฝึก
@@ -18929,16 +18929,16 @@ gjalerbron นักโทษ วิญญาณ relay
 ธารน้ำแข็ง เสื้อกั๊ก
 ธารน้ำแข็ง waistband
 ธารน้ำแข็ง wrists
-
-
-
+ทำให้เป็นน้ำแข็ง
+ธารน้ำแข็ง
+ดีใจ
 glad ไป เป็น ข้างหลัง
 glad ไป ช่วย
 glad คุณ ที่นี่
 
 glade singer เหรียญ
 
-
+ใบดาบคู่
 glaive ระดมยิง
 glaive กระแทก
 
@@ -18948,7 +18948,7 @@ glaive โยน
 
 จ้องเขม็ง
 จ้องเขม็ง ของ ที่ tribunal
-
+แก้ว
 glass ตกปลา bobber
 glass ซ่อน
 
@@ -18981,7 +18981,7 @@ global thermonuclear สงคราม
 gloom แถบ
 
 glopgut ช่วยเหลือ เฟส
-
+รุ่งโรจน์
 
 glory ของ ที่ ancestors
 glory ของ ที่ jouster
@@ -19501,14 +19501,14 @@ glutinous พิษ
 สัญลักษณ์ ของ zen การบิน
 สัญลักษณ์ ของ zen meditation
 สัญลักษณ์ ของ zen posture
-
+จีเอ็ม
 
 
 gnarl's bough หุ่นฝึก
 
+ขบเขี้ยว
 
-
-
+แทะ
 gnaw กระดูก
 
 
@@ -19605,9 +19605,9 @@ gnomish x-ลำแสง specs
 ไป ตะวันตก
 ไป2
 
+แพะ
 
-
-
+เทพมาก
 gob หมู่ พลุไฟ
 gob หมู่ นายท่าน heartbeat
 gob หมู่ นายท่าน อัญเชิญ
@@ -19661,10 +19661,10 @@ gob หมู่ สเปล override
 โกบลิน nurse การรักษา สเปล
 
 
+เทพธิดา
+ราวกับเทพ
 
-
-
-
+ไปๆๆ
 กำลังไป
 กำลังไป ไม่อยู่
 กำลังไป backwards
@@ -19686,9 +19686,9 @@ gob หมู่ สเปล override
 ทอง การฟาร์ม
 ทอง เหรียญ
 ทอง2
+สีทอง
 
-
-
+กอล์ฟ
 
 
 ดี
@@ -19730,7 +19730,7 @@ gob หมู่ สเปล override
 ลาก่อน2
 
 gorefiend's คว้า
-
+กอริลลา
 ได้รับ
 ได้รับ หนึ่ง idea
 ได้รับ buffed
@@ -19741,37 +19741,37 @@ gorefiend's คว้า
 ได้รับ sidetracked
 ได้รับ ทำงาน ใน ที่ เช้า
 ได้รับ คุณ
-
+จับได้แล้ว
 
 gotta วิ่ง
 gotta ทำงาน พรุ่งนี้
+รัฐบาล
 
-
-
+จีพีเอส
 คว้า
 คว้า บางอย่าง ไป กิน
 คว้า ที่ chance
 grabbing หนึ่ง ดื่ม
 grabbing อาหาร
+สง่างาม
+
+จบการศึกษา
+พิธีรับปริญญา
+
+ปู่
+ย่า
+ยาย
 
 
+องุ่น
 
-
-
-
-
-
-
-
-
-
-
+หญ้า
 
 ยินดีด้วย
 สุสาน
 สุสาน วิ่ง
-
-
+แรงโน้มถ่วง
+สีเทา
 
 
 ยอดเยี่ยม
@@ -19788,16 +19788,16 @@ grabbing อาหาร
 ยอดเยี่ยม2
 ยิ่งใหญ่ ล่องหน
 
-
+โลภ
 เขียว
 เขียว ไฟ คือ ไม่ดี
 เขียว ธง
-
+สวัสดีครับ
 เทา
 
-
-
-
+การป่วนผู้เล่น
+สาหัส
+เตาย่าง
 ฟาร์ม
 ฟาร์ม สำหรับ hours
 ฟาร์ม pays ปิด
@@ -19817,12 +19817,12 @@ grabbing อาหาร
 กลุ่ม project
 กลุ่ม บน
 กลุ่ม2
-
+เติบโตขึ้น
 grow จาก มัน
 grow บน
 
 
-
+ต้องไปแล้ว
 ยาม
 ผู้พิทักษ์ ดรูอิด
 ผู้พิทักษ์ ของ โบราณ kings
@@ -19855,47 +19855,47 @@ guess อะไร
 กิลด์ vote
 กิลด์ website
 กิลด์2
+เพื่อนกิลด์
+สมาชิกกิลด์
 
-
-
-
-
+ความรู้สึกผิด
+มีความผิด
 ปืน
 
 
 พวกนาย
 พวกนาย เรา ได้ ทำ นี้
-
-
+ยิม
+ยิมนาสติก
 ยินดีด้วย
 
 
-
-
+ถิ่นที่อยู่
+แฮกเกอร์
 มี
 มี หนึ่ง feeling
 มี หนึ่ง ดี ความฝัน
 มี หนึ่ง nightmare
 มี ไม่
-
-
-
-
+ฮ่าๆ
+ฮ่าๆๆ
+ฮ่าๆๆๆ
+ลูกเห็บ
 ผม
 ครึ่ง
 ครึ่ง asleep
 ครึ่ง พลังชีวิต
 ครึ่ง มานา
 halfway ที่นั่น
-
+ฮาโลวีน
 halls ของ ฟ้าผ่า
 halls ของ หิน
-
+รัศมี
 ค้อน
 ค้อน ของ justice
 ค้อน ของ พิโรธ
-
-
+หนูแฮมสเตอร์
+เอ็นร้อยหวาย
 มือ
 มือ ใน มือ
 มือ ของ freedom
@@ -19904,7 +19904,7 @@ halls ของ หิน
 มือ ของ sacrifice
 มือ ของ salvation
 มือ son
-
+ด้ามจับ
 handle มัน
 handle ที่ ศัตรูเสริม
 
@@ -19935,20 +19935,20 @@ hang เปิด
 ยาก ครั้ง
 ยาก ทำงาน pays ปิด
 ยาก2
-
+ฮาร์ดคอร์
 
 hardcore กิลด์
 hardcore ผู้เล่น
+ยากกว่า
+แทบไม่
+ติดแรงก์
 
-
-
-
-
+เป็นอันตราย
 
 มี
 มี ไม่ ชีวิต
 มี ไม่
-
+แฮชแท็ก
 เร็วขึ้น
 เร็วขึ้น makes waste
 ความเร็ว
@@ -19956,10 +19956,10 @@ hardcore ผู้เล่น
 เกลียด
 เกลียด นี้ เกม
 เกลียด2
-
+ถูกเกลียด
 
 hating นี้
-
+หลอกหลอน
 มี
 มี หนึ่ง ดี วัน
 มี หนึ่ง ดี หนึ่ง
@@ -19974,7 +19974,7 @@ havent cleared นี้ room
 havent played ใน years
 
 having สนุก
-
+เหยี่ยว
 เขา
 เขา believes
 เขา brings
