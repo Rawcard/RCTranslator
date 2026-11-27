@@ -4614,7 +4614,7 @@ Portal explotado
 Sebordisco
 Cachiporrazo
 Golpe aporreador
-|4azul:azules;
+
 Aura azul
 Destierro azul
 Estado de destierro azul
@@ -4697,8 +4697,8 @@ Cohete de Theramore azul
 Combustible de guerra azul
 Jinete del viento azul
 Camisa de obrero azul
-|4azul:azules; wyrmrest warden beam
-|4azul:azules;2
+
+
 Medallón de Puntazul
 Engaño
 farol misión crédito
@@ -26194,7 +26194,7 @@ año2
 años
 
 gritar
-|4amarilla:amarillas;
+
 sí
 Sí y no
 sí hermano

@@ -149,7 +149,7 @@ function T:AddCustomEntry(langCode, english, translation)
     -- Inject into live dictionary (english key → foreign value)
     self.Languages[langCode].dictionary[english] = translation
     -- Inject into reverse lookup (foreign → english)
-    self.Languages[langCode].reverse[translation:lower()] = english
+    self.Languages[langCode].reverse[T.Lower(translation)] = english
     -- Update word count
     local count = 0
     for _ in pairs(self.Languages[langCode].dictionary) do count = count + 1 end
@@ -178,7 +178,7 @@ function T:RemoveCustomEntry(langCode, english)
     -- Remove reverse lookup
     local oldTranslation = self.db.customDictionary[langCode][english]
     if oldTranslation then
-        self.Languages[langCode].reverse[oldTranslation:lower()] = nil
+        self.Languages[langCode].reverse[T.Lower(oldTranslation)] = nil
     end
 
     -- Remove from live dictionary
@@ -206,7 +206,7 @@ function T:LoadCustomDictionary()
         if self:IsLanguageLoaded(langCode) then
             for english, translation in pairs(entries) do
                 self.Languages[langCode].dictionary[english] = translation
-                self.Languages[langCode].reverse[translation:lower()] = english
+                self.Languages[langCode].reverse[T.Lower(translation)] = english
                 total = total + 1
             end
             -- Recount
@@ -233,7 +233,7 @@ function T:ApplyPendingCustomWords(langCode)
     local n = 0
     for english, translation in pairs(entries) do
         d.dictionary[english] = translation
-        d.reverse[translation:lower()] = english
+        d.reverse[T.Lower(translation)] = english
         n = n + 1
     end
     local count = 0
@@ -268,6 +268,136 @@ T.PackedDicts = {}
 --- Called by each Dictionaries/<code>.lua at load. Stores ONLY the raw string.
 --- No tables are built here, so 33 dictionaries cost ~11 MB of flat string
 --- rather than ~49 MB of Lua tables.
+-- ============================================================
+-- UTF-8 WORDS AND CASE
+-- ============================================================
+-- Lua's %w and string.lower only know ASCII, so a Russian, Greek, Arabic,
+-- Hebrew, Hindi or Korean word was never seen as a word at all, and accented
+-- Latin words (é, ü, ő, ș, ầ...) were cut in pieces at the accent. Words are
+-- now runs of letters, digits, ' and - plus any non-ASCII byte, with the
+-- usual non-ASCII punctuation peeled off the ends, and T.Lower lower-cases
+-- Latin-1, Latin Extended, Vietnamese, Greek and Cyrillic capitals too.
+T.WORD = "[%w'%-\128-\255]+"
+T.TOKEN = "([%w'%-\128-\255]+)([^%w'%-\128-\255]*)"
+T.LEAD = "^([^%w'%-\128-\255]*)"
+
+local function lowerCP(cp)
+    if cp >= 0xC0 and cp <= 0xDE and cp ~= 0xD7 then return cp + 32 end
+    if cp >= 0x100 and cp <= 0x17F then
+        if cp == 0x130 then return 0x69 end
+        if cp == 0x178 then return 0xFF end
+        if (cp >= 0x139 and cp <= 0x148) or (cp >= 0x179 and cp <= 0x17E) then
+            if cp % 2 == 1 then return cp + 1 end
+            return cp
+        end
+        if cp ~= 0x138 and cp ~= 0x149 and cp ~= 0x17F and cp % 2 == 0 then return cp + 1 end
+        return cp
+    end
+    if cp >= 0x218 and cp <= 0x21B and cp % 2 == 0 then return cp + 1 end
+    if cp >= 0x391 and cp <= 0x3A9 and cp ~= 0x3A2 then return cp + 32 end
+    if cp == 0x386 then return 0x3AC end
+    if cp >= 0x388 and cp <= 0x38A then return cp + 37 end
+    if cp == 0x38C then return 0x3CC end
+    if cp == 0x38E or cp == 0x38F then return cp + 63 end
+    if cp >= 0x410 and cp <= 0x42F then return cp + 32 end
+    if cp >= 0x400 and cp <= 0x40F then return cp + 80 end
+    if cp >= 0x490 and cp <= 0x4BF and cp % 2 == 0 then return cp + 1 end
+    if cp >= 0x1E00 and cp <= 0x1EFF and cp % 2 == 0 then return cp + 1 end
+    return cp
+end
+local function encode(cp)
+    if cp < 0x80 then return string.char(cp) end
+    if cp < 0x800 then
+        return string.char(0xC0 + math.floor(cp / 64), 0x80 + cp % 64)
+    end
+    return string.char(0xE0 + math.floor(cp / 4096), 0x80 + math.floor(cp / 64) % 64, 0x80 + cp % 64)
+end
+local lowerCache = setmetatable({}, { __mode = "k" })
+local function lower2(c)
+    local hit = lowerCache[c]
+    if hit then return hit end
+    local a, b = c:byte(1, 2)
+    local cp = (a - 0xC0) * 64 + (b - 0x80)
+    local l = lowerCP(cp)
+    hit = (l == cp) and c or encode(l)
+    lowerCache[c] = hit
+    return hit
+end
+local function lower3(c)
+    local hit = lowerCache[c]
+    if hit then return hit end
+    local a, b, d = c:byte(1, 3)
+    local cp = (a - 0xE0) * 4096 + (b - 0x80) * 64 + (d - 0x80)
+    local l = lowerCP(cp)
+    hit = (l == cp) and c or encode(l)
+    lowerCache[c] = hit
+    return hit
+end
+function T.Lower(s)
+    if type(s) ~= "string" then return s end
+    s = s:lower()
+    if not s:find("[\195-\213\225]") then return s end
+    s = s:gsub("[\195-\213][\128-\191]", lower2)
+    s = s:gsub("\225[\184-\187][\128-\191]", lower3)
+    return s
+end
+
+-- non-ASCII punctuation that sits against a word: ¿ ¡ « » ‹ › “ ” „ ‘ ’ ‚
+-- … – — · ، ؛ ؟ । ॥ 、 。 ， ！ ？ ： ； （ ） 「 」 『 』 【 】 《 》 〈 〉
+local PUNCT = {
+    "\194\191", "\194\161", "\194\171", "\194\187", "\226\128\185", "\226\128\186",
+    "\226\128\156", "\226\128\157", "\226\128\158", "\226\128\152", "\226\128\153", "\226\128\154",
+    "\226\128\166", "\226\128\147", "\226\128\148", "\194\183", "\216\140", "\216\155", "\216\159",
+    "\224\165\164", "\224\165\165", "\227\128\129", "\227\128\130", "\239\188\140", "\239\188\129",
+    "\239\188\159", "\239\188\154", "\239\188\155", "\239\188\136", "\239\188\137", "\227\128\140",
+    "\227\128\141", "\227\128\142", "\227\128\143", "\227\128\144", "\227\128\145", "\227\128\138",
+    "\227\128\139", "\227\128\136", "\227\128\137",
+}
+--- Split a word token into (leading punctuation, word, trailing punctuation).
+function T.PeelWord(word)
+    local lead, tail = "", ""
+    local changed = true
+    while changed and word ~= "" do
+        changed = false
+        for _, p in ipairs(PUNCT) do
+            if word:sub(1, #p) == p then
+                lead = lead .. p; word = word:sub(#p + 1); changed = true
+            end
+            if word ~= "" and #word >= #p and word:sub(-#p) == p then
+                tail = p .. tail; word = word:sub(1, -#p - 1); changed = true
+            end
+        end
+    end
+    return lead, word, tail
+end
+
+--- Tokens of a line: { word = ..., trailing = ... }, with punctuation peeled
+--- off each word, plus the text before the first word.
+function T:Tokenize(text)
+    local tokens = {}
+    local leading = text:match(T.LEAD) or ""
+    for word, trailing in text:gmatch(T.TOKEN) do
+        local lead, core, tail = T.PeelWord(word)
+        if lead ~= "" then
+            if #tokens > 0 then
+                tokens[#tokens].trailing = tokens[#tokens].trailing .. lead
+            else
+                leading = leading .. lead
+            end
+        end
+        if core == "" then
+            if #tokens > 0 then
+                tokens[#tokens].trailing = tokens[#tokens].trailing .. tail .. trailing
+            else
+                leading = leading .. tail .. trailing
+            end
+        else
+            tokens[#tokens + 1] = { word = core, trailing = tail .. trailing }
+        end
+    end
+    return tokens, leading
+end
+
 function RCT_PACK(code, name, blob)
     local T = RC_Translator
     if not T then return end
@@ -280,13 +410,19 @@ function RCT_PACK(code, name, blob)
     end
 end
 
-function T:RegisterDictionary(code, name, dict, hidden)
+function T:RegisterDictionary(code, name, dict, hidden, prebuiltReverse)
     if not code or not dict then return end
 
-    local reverse = {}
-    for eng, trans in pairs(dict) do
-        if type(trans) == "string" and trans ~= "" then
-            reverse[trans:lower()] = eng
+    -- the packed dictionaries hand over a reverse map built in key order
+    -- (when two English words share a translation, the first, more common
+    -- one wins, the same every time); others are built here
+    local reverse = prebuiltReverse
+    if not reverse then
+        reverse = {}
+        for eng, trans in pairs(dict) do
+            if type(trans) == "string" and trans ~= "" then
+                reverse[T.Lower(trans)] = eng
+            end
         end
     end
 
@@ -354,14 +490,15 @@ function T:EnsureLanguageLoaded(code)
             local key = keys[i]
             if key then
                 fwd[key] = value
-                rev[value:lower()] = key
+                local l = T.Lower(value)
+                if not rev[l] then rev[l] = key end
             end
         end
     end
 
     self.PackedDicts[code] = nil      -- blob is now redundant; let it be collected
 
-    self:RegisterDictionary(code, d.name, fwd, d.hidden)
+    self:RegisterDictionary(code, d.name, fwd, d.hidden, rev)
     return true
 end
 
@@ -461,7 +598,7 @@ function T:TranslateCJK(text, srcReverse, dstForward)
             end
             local word = text:sub(s, i - 1)
             total = total + 1
-            local eng = srcReverse[word:lower()]
+            local eng = srcReverse[T.Lower(word)]
             local res = eng and (dstForward and dstForward[eng:lower()] or eng) or nil
             emit(res or word, true)
             if res then translated = translated + 1 end
@@ -483,7 +620,7 @@ function T:TranslateCJK(text, srcReverse, dstForward)
             local matched = false
             for k = #ends, 1, -1 do            -- longest first
                 local sub = text:sub(i, ends[k])
-                local eng = srcReverse[sub:lower()]
+                local eng = srcReverse[T.Lower(sub)]
                 if eng then
                     local res = dstForward and dstForward[eng:lower()] or eng
                     if res then
@@ -615,15 +752,12 @@ function T:Translate(text, fromLang, toLang)
     local totalWords = 0
 
     -- Build a token list: {word, trailing} pairs preserving original spacing
-    local tokens = {}
-    for word, trailing in text:gmatch("([%w'%-]+)([^%w'%-]*)") do
-        totalWords = totalWords + 1
-        table.insert(tokens, { word = word, trailing = trailing })
-    end
+    local tokens, leadingText = self:Tokenize(text)
+    totalWords = #tokens
 
     -- Helper: lookup a phrase (space-joined) through the active dicts
     local function lookupPhrase(phrase)
-        local lower = phrase:lower()
+        local lower = T.Lower(phrase)
         if srcReverse and dstForward then
             local english = srcReverse[lower]
             if english then return dstForward[english:lower()] end
@@ -639,7 +773,7 @@ function T:Translate(text, fromLang, toLang)
     local i = 1
     while i <= #tokens do
         local tok = tokens[i]
-        local lower = tok.word:lower()
+        local lower = T.Lower(tok.word)
 
         if self:IsIgnoredWord(lower) then
             table.insert(translated, tok.word .. tok.trailing)
@@ -648,6 +782,14 @@ function T:Translate(text, fromLang, toLang)
             -- Try phrases of decreasing length (max 6 words)
             local matched = false
             local maxLen = math.min(6, #tokens - i + 1)
+            -- a phrase doesn't run across punctuation ("«Bonjour» à tous"
+            -- keeps its »): stop at the first word followed by more than spaces
+            for j = i, i + maxLen - 2 do
+                if tokens[j].trailing:find("[^ ]") then
+                    maxLen = j - i + 1
+                    break
+                end
+            end
             for phraseLen = maxLen, 2, -1 do
                 -- Build phrase from tokens i..i+phraseLen-1
                 local parts = {}
@@ -683,8 +825,7 @@ function T:Translate(text, fromLang, toLang)
         end
     end
 
-    local leading = text:match("^([^%w'%-]*)")
-    return self:CollapseCJKSpaces(self:RestoreLinks((leading or "") .. table.concat(translated, ""), __links), toLang), wordsTranslated, totalWords
+    return self:CollapseCJKSpaces(self:RestoreLinks((leadingText or "") .. table.concat(translated, ""), __links), toLang), wordsTranslated, totalWords
 end
 
 function T:MatchCase(source, result)
@@ -694,6 +835,20 @@ function T:MatchCase(source, result)
     -- and split/mangle a multibyte character, turning it into boxes (□□).
     if result:find("[\128-\255]") then
         return result
+    end
+    if source:find("[\128-\255]") then
+        -- a non-ASCII source word (Привет, ÉTÉ): read its case with T.Lower,
+        -- since upper()/lower() can't see those letters
+        local first = source:match("^[%z\1-\127\194-\244][\128-\191]*") or ""
+        local rest = source:sub(#first + 1)
+        local second = rest:match("^[%z\1-\127\194-\244][\128-\191]*") or ""
+        local capFirst = T.Lower(first) ~= first
+        if capFirst and second ~= "" and T.Lower(second) ~= second then
+            return result:upper()
+        elseif capFirst then
+            return result:sub(1, 1):upper() .. result:sub(2)
+        end
+        return result:lower()
     end
     if source == source:upper() then
         return result:upper()
@@ -902,7 +1057,7 @@ function T:DetectLanguage(text)
         return scriptLang, 0.95, "script"
     end
     
-    local lowerText = " " .. text:lower() .. " "
+    local lowerText = " " .. T.Lower(text) .. " "
     local markerScores = {}
     for code, markers in pairs(self.MarkerWords) do
         local hits = 0
@@ -940,8 +1095,8 @@ function T:DetectLanguage(text)
     end
     
     local words = {}
-    for word in text:gmatch("[%w'%-]+") do
-        local lower = word:lower()
+    for _, tok in ipairs((self:Tokenize(text))) do
+        local lower = T.Lower(tok.word)
         if not self:IsIgnoredWord(lower) then
             table.insert(words, lower)
         end
@@ -1013,7 +1168,7 @@ end
 -- Returns the language code if foreign, nil if English or unknown.
 function T:IsWordForeign(word)
     if not word or word == "" then return nil end
-    local lower = word:lower()
+    local lower = T.Lower(word)
     if self:IsIgnoredWord(lower) then return nil end
     -- Allow known short foreign words; skip truly ambiguous 1-char tokens
     local knownShortForeign = { ["ja"]=true, ["da"]=true, ["si"]=true, ["sí"]=true,
@@ -1055,19 +1210,20 @@ function T:HighlightForeignWords(text, msgId)
     if not text or text == "" then return text end
 
     local parts = {}
-    for word, trailing in text:gmatch("([%w'%-]+)([^%w'%-]*)") do
+    local tokens, leading = self:Tokenize(text)
+    for _, tok in ipairs(tokens) do
+        local word, trailing = tok.word, tok.trailing
         local foreignLang = self:IsWordForeign(word)
         if foreignLang then
             -- Gold-colored hyperlink: visually distinct + underlined on hover
             local link = string.format("|cFFFFCC00|Hrctword:%d:%s:%s|h%s|h|r",
-                msgId, foreignLang, word:lower(), word)
+                msgId, foreignLang, T.Lower(word), word)
             table.insert(parts, link .. trailing)
         else
             table.insert(parts, word .. trailing)
         end
     end
 
-    local leading = text:match("^([^%w'%-]*)")
     return (leading or "") .. table.concat(parts, "")
 end
 
@@ -1781,7 +1937,7 @@ function T:HandleHyperlinkClick(chatFrame, link, text, button)
         T:EnsureLanguageLoaded(wordLang)
         local langData = T.Languages[wordLang]
         if langData and langData.reverse then
-            local translated = langData.reverse[wordText:lower()]
+            local translated = langData.reverse[T.Lower(wordText)]
             if translated then
                 local targetName = T.db and T.Languages[T.db.targetLang] and T.Languages[T.db.targetLang].name or "Target"
                 DEFAULT_CHAT_FRAME:AddMessage(

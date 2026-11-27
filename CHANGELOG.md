@@ -1,6 +1,11 @@
 # RC-Translator 3.4.64
 
-- **457 more everyday English words** (such as "away", "job", "luck", "weekend", "trouble", "else", "ever"), the most common words that were missing from the dictionary. Each is translated into all 38 languages, about 13,700 new translations in all. Where a language already used that word for something else, the existing translation is kept.
+- **Words in other alphabets now translate.** Russian, Ukrainian, Bulgarian, Serbian, Greek, Arabic, Hebrew, Persian, Hindi and Korean words weren't recognised as words at all, so lines in those languages came through untranslated. Words with accents (é, ü, ő, ș, ę, ầ...) were cut in half at the accent, so many French, German, Polish, Czech, Hungarian, Turkish, Romanian and Vietnamese words were missed too. Both are fixed.
+- Capitalised and ALL-CAPS words in those languages are recognised ("Привет", "ПРИВЕТ"), and the translation keeps the capitals.
+- Punctuation such as ¿ ¡ « » „ “ ” … and the Arabic, Hindi and Chinese commas and full stops no longer sticks to the word next to it, and a phrase is no longer matched across punctuation (so "«Bonjour» tout le monde" keeps its »).
+- When two English words share a translation, translating back now always picks the same, more common one.
+- **About 3,400 more everyday words** (such as "because", "already", "hungry", "weekend", "hospital", "providers", "survivors"), in all 38 languages. Persian, Hebrew, Arabic, Thai and Hindi also got about 2,400 words each that the other languages already had. Every language now knows over 25,000 words.
+- A new test checks every dictionary (one line per word, no stray characters) and translates a sample of words from every language back to English.
 
 ## RC-Translator 3.4.63
 
