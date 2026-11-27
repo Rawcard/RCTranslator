@@ -29323,4 +29323,487 @@ fenomen
 
 
 protector
+proveïdors
+editor
+segons sembla
+novell
+cerca
+frases
+separació
+sexualment
+
+cirurgià
+robatori
+vàlvula
+rentat
+
+
+apreciació
+Aràbia
+atlètic
+autoritzat
+Pequín
+va bufar
+Carib
+
+
+queixant-se
+galetes
+currículum
+
+va exigir
+
+
+entitat
+excessiu
+exercicis
+feminista
+governant
+pernil
+joies
+periodisme
+lineal
+ocasional
+orientat
+
+oracions
+predit
+premut
+prevenint
+disposicions
+persecució
+reflectit
+recordatori
+restaurat
+reprendre
+carena
+erudits
+segellat
+va sonar
+rierols
+el més fort
+tendeix
+tribu
+
+victorià
+preocupant
+
+as
+
+alternar
+
+obra d'art
+atleta
+nena
+fallida
+cànon
+capacitats
+li importava
+cadenes
+tancament
+cognitiu
+competidors
+tasses
+decidint
+
+
+diplomàtic
+
+tambor
+
+
+entretingut
+establint
+
+agafada
+grapat
+feliçment
+harmonia
+híbrid
+intencions
+invertint
+durador
+localment
+
+
+el més proper
+avui dia
+obertament
+visió general
+parells
+palestí
+parròquia
+poemes
+
+terrisser
+preferència
+prometedor
+
+
+reflecteix
+respectat
+restauració
+egoista
+sergent
+seda
+
+
+votant
+malgastant
+arxius
+matriu
+assistit
+esquenes
+panxa
+cabina
+ponts
+
+
+capítols
+ciutadania
+civils
+conflictes
+consens
+
+distinció
+donacions
+dracs
+dibuixa
+examinat
+
+fidel
+
+figa
+
+genuïnament
+el més difícil
+Holanda
+fam
+implicacions
+importació
+innovador
+jurisdicció
+
+llimona
+
+pulmó
+a joc
+
+monetari
+novel·les
+nutrició
+mineral
+
+pi
+enquestes
+
+posar per a una foto
+abocar
+proteïnes
+proveïdor
+publicar
+purament
+
+
+recompenses
+va cantar
+
+senadors
+greument
+sud-oest
+
+supervivents
+contes
+
+tradicions
+il·limitat
+rentat a mà
+rellotges
+aconsellar
+
+
+desafiat
+cigarrets
+consistent
+culte
+làctics
+
+lliurant
+destruint
+
+el més primerenc
+vores
+
+
+evolucionat
+exportacions
+arreglant
+vola
+governança
+escalfat
+més important encara
+indicant
+
+influent
+tenir intenció
+texans
+avions de reacció
+va durar
+
+fuita
+encenedor
+mencions
+ratolins
+músics
+apassionat
+patates
+va impedir
+receptor
+recomanació
+aldarull
+més segur
+ven
+
+servent
+crani
+ranura
+estàtua
+rendició
+
+tendre
+a fons
+tractaments
+va piular
+
+variacions
+
+avenços
+està d'acord
+
+anticipat
+aprovar
+arquitecte
+conca
+beneficiós
+
+cria
+núvia
+
+majordom
+carreres
+celebritats
+pollet
+coca-cola
+
+contractista
+contribuint
+diàmetre
+
+Dublín
+abocador
+duet
+dinàmica
+
+assaigs
+
+fabulós
+fada
+
+se centra
+plegar
+friqui
+joc d'atzar
+suaument
+
+eix
+
+investigant
+etiquetes
+mancant
+
+
+folrat
+
+
+mèrit
+
+
+obsessionat
+
+partícules
+
+penalitzacions
+permanentment
+mascotes
+butxaques
+predir
+presentant
+
+
+gravats
+
+es va adonar
+
+reparacions
+per separat
+
+societats
+va resoldre
+protagonitzat per
+
+subtil
+gustos
+
+peatge
+esquinçat
+tràgic
+transformat
+a sota
+variant
+visualització
+
+magatzem
+porta posat
+vídua
+esposes
+administrador
+afectant
+
+del tot
+responent
+avaluar
+suposició
+
+va evitar
+evitant
+cistella
+barba
+cervells
+
+
+
+va comentar
+informàtica
+concentrar-se
+duent a terme
+conseqüència
+pantalles
+
+ètic
+excel·lència
+boscos
+lliurement
+fruites
+
+imaginat
+habitants
+puntades
+llegendes
+revistes
+matriu matemàtica
+mesurant
+Mont-real
+motocicleta
+a tot el país
+
+nominació
+
+obligació
+òptic
+
+mesquí
+
+conservat
+
+perspectives
+editorials
+
+quàntic
+
+va reconèixer
+canya
+regnat
+responent a
+retingut
+puja
+salva
+escanejar
+
+
+pantalons curts
+
+especialitzat
+
+partidari
+
+dit del peu
+
+tremend
+
+ferides
+allotjament
+abordant
+
+ambulància
+
+papereta
+bateries
+
+cambres
+cigarret
+compacte
+completant
+consultoria
+refrigeració
+cantonades
+dèficit
+
+demostració
+detectat
+
+
+ancià
+
+explorant
+fibra
+filmat
+botiga de queviures
+guiat
+
+a mig camí
+més feliç
+talons
+buc
+
+indicació
+va insistir
+intensiu
+interactiu
+íntim
+bugada
+aixecament
+marcial
+nigerià
+nord-est
+observar
+embalatge
+panells
+políticament
+presumiblement
+fent veure
+prioritats
+pronunciat
+fiscalia
+demostra
+
+
+qualitats
+reines
+racional
+reformes
+
+
+va arrencar
+ombres
+especificat
 ]==])

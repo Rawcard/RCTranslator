@@ -29323,4 +29323,487 @@ fenómeno
 
 
 protetor
+fornecedores
+editora
+alegadamente
+
+
+frases
+separação
+sexualmente
+
+cirurgião
+roubo
+válvula
+lavagem
+adjacente
+acordos
+apreço
+Arábia
+atlético
+autorizado
+Pequim
+soprou
+Caraíbas
+escalada
+colónia
+a queixar-se
+bolachas
+currículo
+
+exigiu
+
+eleitoral
+entidade
+excessivo
+exercícios
+feminista
+governante
+fiambre
+joias
+jornalismo
+
+ocasional
+orientado
+pilotos
+orações
+previsto
+pressionado
+a prevenir
+
+perseguição
+refletido
+lembrete
+restaurado
+retomar
+cume
+estudiosos
+selado
+soou
+riachos
+o mais forte
+tende
+tribo
+variável
+vitoriano
+preocupante
+zonas
+ás
+ajustado
+alternar
+chega
+obra de arte
+atleta
+querida
+falência
+cânone
+capacidades
+importou-se
+correntes
+encerramento
+cognitivo
+concorrentes
+chávenas
+a decidir
+
+dentário
+diplomático
+divisões
+
+
+
+divertido
+a estabelecer
+eterno
+aderência
+punhado
+alegremente
+harmonia
+híbrido
+intenções
+a investir
+duradouro
+localmente
+
+
+
+hoje em dia
+abertamente
+
+pares
+palestiniano
+paróquia
+poemas
+possibilidades
+oleiro
+preferência
+promissor
+
+
+reflete
+
+restauro
+egoísta
+sargento
+seda
+
+
+eleitor
+a desperdiçar
+arquivos
+
+assistido
+costas
+barriga
+cabine
+pontes
+
+
+capítulos
+cidadania
+civis
+conflitos
+consenso
+
+distinção
+doações
+dragões
+atrai
+examinado
+
+fiel
+
+figo
+
+genuinamente
+o mais difícil
+Holanda
+fome
+implicações
+importação
+inovador
+jurisdição
+riso
+limão
+
+pulmão
+a condizer
+
+monetário
+romances
+nutrição
+minério
+
+pinheiro
+sondagens
+
+
+despejar
+proteínas
+prestador
+publicar
+puramente
+aluguer
+
+recompensas
+cantou
+
+senadores
+gravemente
+sudoeste
+estúdios
+sobreviventes
+contos
+
+tradições
+ilimitado
+lavado
+relógios
+aconselhar
+
+bombardeamento
+desafiado
+cigarros
+que consiste
+culto
+laticínios
+
+a entregar
+a destruir
+diário
+
+bordas
+entradas
+
+evoluído
+exportações
+a reparar
+voa
+governação
+aquecido
+mais importante
+a indicar
+
+influente
+tencionar
+calças de ganga
+jatos
+durou
+processo judicial
+
+isqueiro
+menções
+ratos
+músicos
+apaixonado
+batatas
+impediu
+recetor
+recomendação
+motim
+mais seguro
+vende
+
+servo
+crânio
+ranhura
+estátua
+rendição
+
+terno
+minuciosamente
+tratamentos
+tuitou
+vácuo
+variações
+
+avanços
+concorda
+alegações
+antecipado
+aprovar
+arquiteto
+bacia
+benéfico
+
+
+noiva
+
+mordomo
+carreiras
+celebridades
+pintainho
+coca
+comparável
+empreiteiro
+a contribuir
+diâmetro
+
+
+lixeira
+dupla
+dinâmica
+
+ensaios
+
+fabuloso
+fada
+
+foca-se
+
+
+
+suavemente
+
+
+inevitável
+a investigar
+rótulos
+em falta
+ri-se
+disposição
+forrado
+pavilhão
+lordes
+mérito
+
+
+obcecado
+
+partículas
+
+penalidades
+permanentemente
+animais de estimação
+bolsos
+prever
+
+presidentes
+urgente
+gravuras
+
+
+rebelde
+reparações
+separadamente
+a tremer
+sociedades
+resolveu
+protagonizado por
+lutas
+subtil
+gostos
+atira
+portagem
+rasgado
+trágico
+transformado
+
+variação
+visualização
+
+armazém
+veste
+viúva
+esposas
+administrador
+a afetar
+
+ao todo
+a responder
+avaliar
+suposição
+assegurado
+evitou
+a evitar
+cesto
+barba
+cérebros
+
+
+
+comentou
+informática
+concentrar-se
+
+
+ecrãs
+emissões
+ético
+excelência
+florestas
+livremente
+frutos
+agarrou
+imaginado
+habitantes
+pontapés
+lendas
+revistas
+matriz
+a medir
+
+mota
+a nível nacional
+bem feito
+nomeação
+
+obrigação
+ótico
+
+mesquinho
+portos
+preservado
+
+perspetivas
+editoras
+
+quântico
+rebeldes
+reconheceu
+junco
+reinado
+a responder a
+retido
+sobe
+salva
+digitalizar
+assustar
+setores
+calções
+período
+especializado
+submissão
+apoiante
+testamento
+dedo do pé
+
+tremendo
+valorizado
+feridas
+alojamento
+a abordar
+alegadamente ainda
+ambulância
+
+boletim de voto
+baterias
+
+
+cigarro
+compacto
+a concluir
+consultoria
+arrefecimento
+cantos
+défice
+demonstração curta
+demonstração
+detetado
+doado
+elaborado
+
+
+a explorar
+fibra
+filmado
+mercearia
+guiado
+Guiné
+a meio caminho
+mais feliz
+saltos
+casco
+
+indicação
+insistiu
+intensivo
+interativo
+íntimo
+roupa suja
+levantamento
+marcial
+nigeriano
+nordeste
+observar
+embalagem
+painéis
+politicamente
+presumivelmente
+a fingir
+prioridades
+pronunciado
+acusação
+
+pulso
+
+qualidades
+rainhas
+racional
+reformas
+receitas
+passeios
+arrancou
+sombras
+especificado
 ]==])

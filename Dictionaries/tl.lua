@@ -29323,4 +29323,487 @@ penomena
 
 
 proteksiyon
+mga tagapagbigay
+tagapaglathala
+ayon sa ulat
+
+
+mga pangungusap
+paghihiwalay
+sa sekswal na paraan
+
+siruhano
+pagnanakaw
+balbula
+paghuhugas ng damit
+katabi
+mga kasunduan
+pagpapahalaga
+
+matipuno
+awtorisado
+
+
+
+
+kolonya
+nagrereklamo
+mga biskwit
+kurikulum
+
+hiningi
+
+panghalalan
+entidad
+
+mga ehersisyo
+peminista
+
+
+alahas
+pamamahayag
+
+
+
+mga piloto
+mga dasal
+hinulaan
+pinindot
+pumipigil
+mga probisyon
+paghabol
+naipakita
+paalala
+naibalik
+ipagpatuloy
+tagaytay
+mga iskolar
+selyado
+tumunog
+mga sapa
+pinakamalakas
+
+tribu
+
+
+nakababahala
+mga sona
+alas
+inayos
+salitan
+
+likhang-sining
+atleta
+beybi
+pagkabangkarote
+kanon
+mga kakayahan
+nagmalasakit
+mga kadena
+
+kognitibo
+mga kakumpitensya
+mga tasa
+
+tagapagtanggol
+pang-ngipin
+diplomatiko
+mga dibisyon
+
+editoryal
+
+nakakaaliw
+nagtatatag
+walang hanggan na
+
+dakot
+
+harmonya
+
+mga intensyon
+namumuhunan
+pangmatagalan
+sa lokal
+paghahalo
+molekular
+
+sa panahon ngayon
+hayagan
+pangkalahatang-ideya
+mga pares
+Palestino
+parokya
+mga tula
+mga posibilidad
+magpapalayok
+kagustuhan
+
+proporsyon
+mga binili
+sumasalamin
+iginagalang
+pagpapanumbalik
+makasarili
+sarhento
+seda
+selyo
+udyok
+botante
+nagsasayang
+mga arkibo
+hanay
+tinulungan
+mga likod
+
+
+mga tulay
+
+
+mga kabanata
+pagkamamamayan
+mga sibilyan
+mga tunggalian
+konsensus
+deklarasyon
+
+mga donasyon
+mga dragon
+gumuguhit
+
+pangmukha
+
+nakamamatay na
+igos
+
+
+pinakamahirap
+
+
+mga implikasyon
+angkat
+makabago
+hurisdiksyon
+tawanan
+limon
+
+
+tugma
+makapangyarihan
+
+mga nobela
+nutrisyon
+mineral
+mga kinalabasan
+pino
+mga survey
+nang mahina
+mag-pose
+ibuhos
+mga protina
+
+ilathala
+purong
+upahan
+nalutas
+mga gantimpala
+kumanta
+
+mga senador
+
+timog-kanluran
+mga studio
+mga nakaligtas
+
+pinamagatang
+mga tradisyon
+walang limitasyon
+hinugasan
+mga relo
+payuhan
+mga paglabas
+
+hinamon
+mga sigarilyo
+binubuo ng
+kulto
+gatas na produkto
+mahal ko
+naghahatid
+sinisira
+talaarawan
+pinakamaaga
+mga gilid
+mga entry
+
+nag-ebolb
+mga export
+nag-aayos
+
+
+pinainit
+higit sa lahat
+
+
+maimpluwensya
+balak
+maong
+mga jet
+tumagal
+demanda
+tagas
+
+mga pagbanggit
+mga daga
+mga musikero
+
+patatas
+pinigilan
+
+rekomendasyon
+
+mas ligtas
+nagbebenta
+hinatulan
+
+bungo
+puwang
+estatwa
+pagsuko
+
+malambing
+
+mga paggamot
+nag-tweet
+
+mga baryasyon
+
+mga pagsulong
+sumasang-ayon
+
+
+aprubahan
+arkitekto
+palanggana
+
+
+pagpaparami
+nobya
+usbong
+mayordomo
+
+mga sikat
+sisiw
+kola
+maihahambing
+kontratista
+nag-aambag
+diyametro
+
+
+tambakan
+
+dinamika
+pinahusay
+mga sanaysay
+
+
+diwata
+mga ama
+nakatuon sa
+tiklupin
+kakatwang tao
+sugal
+marahan
+ayon sa kasaysayan
+
+hindi maiiwasan
+nag-iimbestiga
+mga label
+kulang
+
+
+may linya
+
+mga panginoon
+merito
+
+
+nahuhumaling
+
+mga partikulo
+
+mga parusa
+
+mga alagang hayop
+mga bulsa
+hulaan
+
+mga pangulo
+apurahan
+mga print
+panlalawigan
+
+rebelde
+mga pagkukumpuni
+
+nanginginig
+mga lipunan
+nilutas
+pinagbibidahan ni
+mga pakikibaka
+banayad
+mga panlasa
+naghahagis
+
+punit
+
+nabago
+
+baryante
+panonood
+
+bodega
+nagsusuot
+balo
+mga asawang babae
+administrador
+
+
+
+sumasagot
+tasahin
+palagay
+siniguro
+iniwasan
+umiiwas
+
+balbas
+mga utak
+
+kaakit-akit na
+
+nagkomento
+
+
+nagsasagawa
+kahihinatnan
+mga display
+mga emisyon
+etikal
+
+mga kagubatan
+malaya
+mga prutas
+hinablot
+inisip
+mga naninirahan
+mga sipa
+mga alamat
+mga magasin
+
+sumusukat
+
+motorsiklo
+
+
+nominasyon
+
+obligasyon
+optikal
+
+maliit na bagay
+mga daungan
+napanatili
+
+mga prospect
+mga publisher
+dami
+
+mga rebelde
+kinilala niya
+tambo
+
+tumutugon
+pinanatili
+
+nagliligtas
+i-scan
+takutin
+mga sektor
+
+
+dalubhasa
+pagsusumite
+tagasuporta
+tipan
+daliri sa paa
+mga pang-itaas
+
+
+mga sugat
+
+tinutugunan
+di-umano
+ambulansya
+
+balota
+mga baterya
+
+mga silid
+sigarilyo
+
+kinukumpleto
+pagkonsulta
+pagpapalamig
+mga sulok
+
+
+pagpapakita
+
+
+
+nakatatanda
+nakatagpo
+ginagalugad
+hibla
+kinunan
+
+ginabayan
+
+kalahati ng daan
+mas masaya
+takong
+katawan ng barko
+nang malaya
+indikasyon
+iginiit
+masinsinan
+interaktibo
+matalik
+labahin
+pagbubuhat
+
+
+hilagang-silangan
+obserbahan
+pag-iimpake
+mga panel
+sa pulitika
+
+nagkukunwari
+mga priyoridad
+binibigkas
+pag-uusig
+nagpapatunay
+pulso
+
+
+mga reyna
+makatwiran
+mga reporma
+mga kita
+mga sakay
+pinunit
+mga anino
+
 ]==])

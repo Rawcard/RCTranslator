@@ -29323,4 +29323,487 @@ hiện tượng
 
 triển vọng
 
+nhà cung cấp
+nhà xuất bản
+theo báo cáo
+
+
+
+sự chia ly
+về mặt tình dục
+
+bác sĩ phẫu thuật
+trộm cắp
+van
+giặt giũ
+liền kề
+các thỏa thuận
+sự trân trọng
+Ả Rập
+
+được ủy quyền
+Bắc Kinh
+đã thổi
+vùng Caribe
+leo núi
+
+
+
+chương trình giảng dạy
+đồng bằng
+đã yêu cầu
+chia
+
+thực thể
+quá mức
+các bài tập
+nữ quyền
+cầm quyền
+giăm bông
+trang sức
+
+tuyến tính
+
+định hướng
+
+
+được dự đoán
+bị nhấn
+
+các điều khoản
+sự theo đuổi
+được phản ánh
+lời nhắc
+được khôi phục
+tiếp tục lại
+sống núi
+học giả
+niêm phong
+
+
+mạnh nhất
+
+
+biến số
+thời Victoria
+đáng lo ngại
+các khu vực
+át chủ bài
+được điều chỉnh
+luân phiên
+
+tác phẩm nghệ thuật
+
+cưng ơi
+phá sản
+
+năng lực
+đã quan tâm
+dây xích
+sự đóng cửa
+
+
+
+đang quyết định
+hậu vệ
+nha khoa
+
+sư đoàn
+
+bài xã luận
+đã bật
+
+thành lập
+vĩnh cửu
+độ bám
+một nắm
+
+sự hài hòa
+lai
+
+
+lâu dài
+tại địa phương
+sự pha trộn
+phân tử
+
+ngày nay
+
+tổng quan
+cặp
+Palestine
+giáo xứ
+bài thơ
+
+thợ gốm
+
+đầy hứa hẹn
+
+các giao dịch mua
+
+được tôn trọng
+sự phục hồi
+ích kỷ
+trung sĩ
+lụa
+tem
+sự thôi thúc
+
+
+kho lưu trữ
+mảng
+
+lưng
+bụng
+gian hàng
+những cây cầu
+tàn bạo
+
+các chương
+quyền công dân
+
+
+sự đồng thuận
+tuyên ngôn
+sự phân biệt
+quyên góp
+
+vẽ
+được kiểm tra
+
+
+
+quả sung
+
+thực lòng
+khó nhất
+Hà Lan
+cơn đói
+hàm ý
+nhập khẩu
+
+quyền tài phán
+tiếng cười
+chanh
+được nâng lên
+phổi
+phù hợp nhau
+hùng mạnh
+
+tiểu thuyết
+dinh dưỡng
+quặng
+
+cây thông
+thăm dò dư luận
+kém
+tạo dáng
+rót
+chất đạm
+nhà cung cấp dịch vụ
+
+thuần túy
+cho thuê
+
+phần thưởng
+đã hát
+
+thượng nghị sĩ
+
+tây nam
+hãng phim
+người sống sót
+truyện kể
+có tựa đề
+
+
+đã rửa
+đồng hồ đeo tay
+khuyên
+sự xuất hiện
+đánh bom
+bị thách thức
+
+
+giáo phái
+sản phẩm từ sữa
+em yêu
+
+
+
+sớm nhất
+
+mục nhập
+đồng euro
+đã tiến hóa
+
+sửa chữa
+
+quản trị
+được sưởi ấm
+quan trọng hơn
+chỉ ra
+
+có ảnh hưởng
+
+quần jean
+
+
+vụ kiện
+rò rỉ
+bật lửa
+đề cập
+
+nhạc sĩ
+
+
+đã ngăn chặn
+bộ thu
+
+bạo loạn
+an toàn hơn
+
+bị kết án tù
+người hầu
+hộp sọ
+khe
+bức tượng
+đầu hàng
+thanh thiếu niên
+dịu dàng
+kỹ lưỡng
+phương pháp điều trị
+đã tweet
+chân không
+các biến thể
+được thừa nhận
+những tiến bộ
+
+các cáo buộc
+được dự đoán trước
+phê duyệt
+kiến trúc sư
+lưu vực
+có lợi
+
+chăn nuôi
+cô dâu
+nụ
+quản gia
+
+
+gà con
+cola
+có thể so sánh
+nhà thầu
+
+đường kính
+
+
+bãi rác
+bộ đôi
+động lực học
+được tăng cường
+bài luận
+
+
+nàng tiên
+những người cha
+tập trung vào
+gấp
+kẻ quái dị
+cờ bạc
+nhẹ nhàng
+
+trung tâm kết nối
+không thể tránh khỏi
+đang điều tra
+
+
+
+
+được lót
+
+các lãnh chúa
+công lao
+vi mô
+
+bị ám ảnh
+
+
+mục sư
+
+
+
+
+dự đoán
+trình bày
+các tổng thống
+cấp bách
+bản in
+cấp tỉnh
+
+kẻ nổi loạn
+sửa chữa lớn
+
+run rẩy
+các xã hội
+đã giải
+đóng vai chính
+cuộc đấu tranh
+tinh tế
+khẩu vị
+
+phí cầu đường
+bị xé
+bi thảm
+được biến đổi
+
+biến thể
+
+lan truyền
+
+mặc
+góa phụ
+các bà vợ
+quản trị viên
+
+đồng minh
+
+đang trả lời
+
+
+
+đã tránh
+đang tránh
+giỏ
+râu
+bộ não
+khả năng chứa
+
+các tù trưởng
+đã bình luận
+điện toán
+
+
+hệ quả
+màn hình hiển thị
+khí thải
+có đạo đức
+sự xuất sắc
+
+
+
+đã chộp lấy
+
+
+cú đá
+
+
+ma trận
+đo lường
+
+xe máy
+toàn quốc
+một cách đẹp đẽ
+đề cử
+
+
+quang học
+
+nhỏ nhen
+
+được bảo tồn
+chương trình truyền hình
+viễn cảnh
+các nhà xuất bản
+
+lượng tử
+quân nổi dậy
+đã công nhận
+cây sậy
+triều đại
+đang phản hồi
+được giữ lại
+
+
+quét
+làm sợ
+các lĩnh vực
+quần short
+
+chuyên biệt
+bài nộp
+
+di chúc
+ngón chân
+
+to lớn
+được coi trọng
+
+chỗ ở
+
+được cho là
+xe cứu thương
+cam đoan
+lá phiếu
+
+nghĩa trang
+các phòng
+một điếu thuốc
+nhỏ gọn
+
+
+làm mát
+các góc
+thâm hụt
+bản demo
+cuộc biểu tình
+được phát hiện
+được quyên góp
+công phu
+trưởng lão
+gặp phải
+
+sợi
+được quay phim
+tạp hóa
+có hướng dẫn
+
+nửa đường
+hạnh phúc hơn
+gót giày
+thân tàu
+một cách độc lập
+
+đã khăng khăng
+chuyên sâu
+
+thân mật
+đồ giặt
+
+võ thuật
+Nigeria
+đông bắc
+
+đóng gói
+
+về mặt chính trị
+
+
+
+rõ rệt
+truy tố
+
+mạch
+
+phẩm chất
+các nữ hoàng
+
+
+
+
+đã xé
+
+
 ]==])
