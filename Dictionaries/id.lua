@@ -29806,4 +29806,484 @@ wahana
 
 
 ditentukan
+rentetan
+
+teknologis
+untuk sementara
+toleransi
+wisatawan
+secara tradisional
+
+
+tidak bahagia
+
+memadai
+
+permintaan maaf
+dikaitkan
+memohon
+rasa memiliki
+
+
+
+kuningan
+dengungan
+tanaman pangan
+
+
+didiagnosis
+
+dimensi
+mencelupkan
+meresahkan
+
+
+efektivitas
+tersingkir
+
+pengarsipan
+
+terus terang
+
+meretas
+kebencian
+
+berinteraksi
+menilai dari
+para ksatria
+keterbatasan
+baginda
+pengukuran
+ukuran-ukuran
+
+abad pertengahan
+mobilitas
+
+orientasi
+
+pil
+
+hasil penjualan
+
+
+tikus got
+
+ritme
+biadab
+
+menggoyang
+penembak
+saudara kandung
+suatu hari nanti
+canggih
+
+
+sikap tubuh
+statis
+suportif
+bedah
+
+pasang surut
+
+peperangan
+pemanasan
+
+menarik diri
+penarikan
+termuda
+penuaan
+maskapai penerbangan
+
+berpendapat
+
+otentik
+mundur ke belakang
+pirang
+
+serangga
+penggerebekan
+tanah lapang
+
+kerah
+mematuhi
+dihitung
+
+bercerai
+menyumbang
+
+dikeringkan
+gema
+editor
+secara emosional
+
+mengalami
+
+
+
+
+ketidaktahuan
+mengabaikan
+
+diinduksi
+menginspirasi
+menengah
+
+susunan pemain
+matematis
+
+kuku
+
+
+
+berlawanan
+asal-usul
+dokter-dokter
+jaringan pipa
+ditanam
+penetapan harga
+mempertanyakan
+rekreasi
+
+mengundurkan diri
+
+sketsa
+berbau
+dendam
+
+
+senar
+termal
+
+mentransformasi
+menyaksikan
+tempat kerja
+
+
+alien
+analis
+bahasa Arab
+arktik
+asis
+
+
+
+
+kapel
+
+mempertimbangkan
+wadah
+koboi
+
+dikerahkan
+
+
+
+
+esensi
+
+bulu
+panen
+judul berita
+
+
+
+rongsokan
+ginjal
+lobi
+
+
+sederhana
+motor
+navigasi
+paragraf
+semenanjung
+pil obat
+menguntungkan
+
+
+
+secara wajar
+
+sisanya
+
+
+disita
+sentimen
+pelayan-pelayan
+
+kaus kaki
+
+
+dengan demikian
+ambang batas
+ban
+kesukuan
+suku-suku
+bagasi
+ketidakpastian
+vampir
+
+vonis
+menampung
+sesuai dengan itu
+diubah
+lengkungan
+
+
+
+lencana
+
+penyiaran
+
+bus
+
+
+dibersihkan
+kompleksitas
+
+
+kontinental
+
+dengan sengaja
+
+kamus
+martabat
+dimensi ruang
+menyelam
+
+antusiasme
+
+persamaan
+mengekstrak
+
+kapal feri
+mengalir
+kulkas
+berfungsi
+pengukur
+lulusan
+usus
+
+ideologi
+
+inklusi
+
+serangga kecil
+instruktur
+isolasi
+penjaga gawang
+anak domba
+pembohong
+mesin-mesin
+rumah mewah
+merkuri
+yaitu
+
+
+
+
+rekan sebaya
+
+
+
+dipuji
+tempat usaha
+probabilitas
+diinterogasi
+menolak untuk
+pengunduran diri
+penunggang
+
+rak
+
+hidangan pembuka
+menempel
+berlangganan
+permukaan
+
+melelahkan
+
+transfer
+
+tegangan
+
+lebar
+
+aluminium
+
+
+
+
+
+
+
+rusa jantan
+
+peradaban
+
+kreativitas
+dealer
+
+sarang
+
+
+
+
+mengevaluasi
+
+
+
+
+menyisipkan
+minuman keras
+pijat
+dicocokkan
+kacau
+
+
+orkestra
+
+
+
+presisi
+pelestarian
+para pendeta
+secara pribadi
+
+
+kualifikasi
+penalaran
+
+mawar
+rumor
+berlayar
+
+
+
+semata
+giliran kerja
+terkecil
+khususnya
+
+simpati
+para remaja
+teoretis
+
+
+sisi baik
+
+
+
+sukarela
+gandum
+
+
+pergelangan tangan
+dianiaya
+akut
+laksamana
+berperilaku
+taruhan judi
+dagu
+kewargaan
+juru tulis
+
+cukup banyak
+menghubungi
+
+kudeta
+dikritik
+
+menurun
+dibela
+
+simpanan
+pengungkapan
+pembuangan
+khas
+didokumentasikan
+donasi
+diseret
+
+
+
+perusahaan-perusahaan
+
+
+dengan tegas
+tepung
+
+
+
+tidak langsung
+menginspirasi orang
+kelembagaan
+sementara waktu
+diwawancarai
+dengan ramah
+kebaikan hati
+bocor
+penduduk setempat
+lotre
+besaran
+
+mencatat
+organ
+stopkontak
+gerai
+parameter
+ikrar
+pengunjuk rasa
+
+publisitas
+
+
+kacau balau
+nuansa
+silikon
+irisan
+ejaan
+
+
+penyintas tunggal
+telegraf
+vaksin
+vinil
+
+keajaiban
+dengan akurat
+afiliasi
+suaka
+bengkok
+Brussel
+klausul
+gugus
+
+
+konsistensi
+silinder
+penari
+
+
+penyangkalan
+dermaga
+
+
+ekspedisi
+mengekspresikan
+membentang
+memfasilitasi
+
+prestasi
+fosil
+pendirian
+barang kiriman
+
+pemandu
+kejujuran
+tidak pantas
+
+
+suntikan
+
 ]==])

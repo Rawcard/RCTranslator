@@ -29806,4 +29806,484 @@ mga sakay
 pinunit
 mga anino
 
+sunod-sunod na panalo
+paglipat
+teknolohikal
+
+pagpaparaya
+mga turista
+ayon sa tradisyon
+naglakbay
+
+
+isakatuparan
+
+baguhin
+
+iniuugnay
+magmakaawa
+pagkakabilang
+naka-book
+
+
+tanso dilaw
+ugong
+mga pananim
+ideklara
+mga taga-disenyo
+na-diagnose
+
+
+isawsaw
+nakakabahala
+tuldok
+mga damit pambabae
+pagiging epektibo
+na-eliminate
+pambihira
+pag-file
+
+tapatang sinasabi
+grap
+i-hack
+pagkapoot
+mga impluwensya
+makipag-ugnayan
+sa paghusga
+mga kabalyero
+
+kamahalan
+
+mga sukatan
+
+medyebal
+kadaliang kumilos
+mga pagpatay
+oryentasyon
+
+mga tableta
+mga planeta
+mga nalikom
+
+mga saklaw
+
+magretiro
+ritmo
+
+mga server
+niyugyog
+mamamaril
+magkakapatid
+balang araw
+sopistikado
+
+mga bilis
+tindig
+
+
+pang-opera
+mga simbolo
+pagtaas ng tubig
+mga paglalakbay
+
+pag-init
+mga katapusan ng linggo
+bawiin
+pag-atras
+pinakabata
+pagtanda
+
+mga alternatibo
+nangangatwiran
+pag-audit
+tunay na tunay
+paurong
+
+mga suntok
+mga insekto
+
+bakanteng lote
+mga clip
+kuwelyo
+sumunod
+binilang
+
+diborsiyado
+mag-donate
+mga guhit
+pinatuyo
+alingawngaw
+mga editor
+sa damdamin
+pagandahin
+nararanasan
+pinapahaba
+
+mga palapag
+pesteng
+kamangmangan
+binabalewala
+imigrante
+sanhi ng
+nakaka-inspire
+panggitna
+imbensyon
+
+matematikal
+
+mga kuko
+
+gayunpaman pa rin
+
+kalaban na
+mga pinagmulan
+
+
+itinanim
+pagpepresyo
+
+
+
+nagbitiw
+mga kasalanan
+
+
+pagkamuhi
+
+
+mga kuwerdas
+
+mga kalakalan
+ibahin ang anyo
+nasaksihan
+lugar ng trabaho
+
+nakakamit
+mga alien
+analista
+Arabe
+arktiko
+mga assist
+
+
+
+mga kampeonato
+kapilya
+mga kumperensya
+
+lalagyan
+mga koboy
+dinurog
+idineploy
+magkaiba
+dimensyonal
+ihalal
+nakataas
+esensya
+mga ehekutibo
+balahibo
+
+
+tinutukoy
+
+igiit
+basura lumang
+bato sa katawan
+
+mga mekanismo
+mineral na
+
+mga motor
+nabigasyon
+talata
+tangway
+pildoras
+
+mga lalawigan
+rantso
+mga sinag
+makatwirang paraan
+
+
+mga pakana
+mga screen
+kinumpiska
+
+mga katulong
+
+medyas
+angkop para
+nabubuhay
+sa gayon
+hangganan na antas
+
+pantribu
+mga tribo
+baul ng kotse
+kawalan ng katiyakan
+bampira
+iba-iba
+hatol
+
+alinsunod dito
+binago na
+
+mga samahan
+
+aksis
+tsapa
+
+pagsasahimpapawid
+mga bala
+mga bus
+mga tagapagdala
+
+nilinis
+pagiging kumplikado
+nakakalito
+konsultasyon
+kontinental
+kaginhawahan
+sinasadya
+mga diyamante
+diksyunaryo
+dignidad
+dimensyon
+pagsisid
+
+sigasig
+mga kapaligiran
+ekwasyon
+
+mga paborito
+
+dumadaloy
+refrigerator
+
+panukat
+mga nagtapos
+bituka
+mga may-hawak
+ideolohiya
+mga tanga
+pagsasama
+mga inisyatiba
+mga kulisap
+tagapagturo
+
+goalkeeper
+batang tupa
+sinungaling
+makinarya
+mansyon
+asoge
+
+mga nerbiyos
+mga obserbasyon
+pag-order
+mga landas
+mga kapantay
+nakabinbin
+
+
+pinuri
+
+probabilidad
+tinanong
+tumatanggi
+pagbibitiw
+
+ritwal
+istante
+mga taya
+pampagana
+dumidikit
+mag-subscribe
+mga ibabaw
+mga teritoryo
+pagurin
+mga tore
+mga paglilipat
+lubos na
+boltahe
+balaan
+lapad
+tagapayo
+aluminyo
+mga apartment
+mga saloobin
+
+piyansa
+mga hadlang
+pag-aari ni
+
+lalaking usa
+nailalarawan
+sibilisasyon
+mga kontratista
+pagkamalikhain
+mga dealer
+maselan
+
+mga hangarin
+pagkadismaya
+
+
+suriin nang husto
+
+mga frame
+panliligalig
+
+ipasok
+alak na matapang
+masahe
+tinugma
+ginulo
+musikero
+
+orkestra
+mga pakete
+
+
+
+pangangalaga
+mga pari
+nang pribado
+mga premyo
+hinihila
+pagkwalipika
+pangangatwiran
+mga reporter
+mga rosas
+mga tsismis
+maglayag
+
+palihim
+
+
+mga shift
+pinakamaliit
+lalo na para
+nagpumiglas
+simpatya
+mga kabataan
+teoretikal
+
+mga tweet
+
+hinimok
+
+
+kusang-loob
+trigo
+latigo
+mga lobo
+pulso ng kamay
+inabuso
+matinding
+almirante
+kumilos nang maayos
+pagtaya
+baba
+sibiko
+klerk
+mga konklusyon
+nang malaki
+kinontak
+
+kudeta
+binatikos
+krudo
+
+ipinagtanggol
+mga demonyo
+mga deposito
+pagsisiwalat
+pagtatapon
+
+nakadokumento
+donasyon
+kinaladkad
+
+mga engkwentro
+tinitiyak
+
+eskort
+
+matatag
+harina
+
+mga hawak
+
+hindi direkta
+magbigay-inspirasyon
+institusyonal
+pansamantalang
+kinapanayam
+mabait na
+kabaitan
+na-leak
+mga lokal
+loterya
+laki
+
+napapansin
+mga organo
+saksakan
+
+mga parameter
+
+mga nagpoprotesta
+nagpapatunay na
+publisidad
+pinarusahan
+tuta
+patay na
+mga lilim
+silikon
+
+pagbaybay
+mga subscriber
+
+nakaligtas na tao
+telegrapo
+bakuna
+
+
+mga kababalaghan
+nang tumpak
+kaakibat
+
+
+
+sugnay
+kumpol
+nagreklamo
+mga compound
+pagkakapare-pareho
+silindro
+mananayaw
+bingi
+mga utang
+pagtanggi
+daungan ng barko
+
+
+ekspedisyon
+nagpapahayag
+
+padaliin
+mga kabiguan
+gawa
+
+pagtatatag
+kargamento ng barko
+
+mga gabay
+
+hindi naaangkop
+sanggol na
+sinimulan
+iniksyon
+
 ]==])

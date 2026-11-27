@@ -29806,4 +29806,484 @@ các nữ hoàng
 đã xé
 
 
+chuỗi
+chuyển đổi qua lại
+
+
+lòng khoan dung
+khách du lịch
+theo truyền thống
+đã đi du lịch
+món ăn vặt
+không vui
+
+đầy đủ
+
+lời xin lỗi
+được cho là của
+van xin
+cảm giác thuộc về
+đã đặt chỗ
+
+
+đồng thau
+tiếng vo ve
+mùa màng
+
+
+được chẩn đoán
+dầu diesel
+kích thước
+nhúng
+đáng lo
+dấu chấm
+
+
+bị loại
+đặc biệt xuất sắc
+nộp hồ sơ
+đã chạy trốn
+nói thẳng ra
+
+
+lòng căm thù
+
+
+xét theo
+
+
+bệ hạ
+phép đo
+số đo
+trung vị
+thời trung cổ
+tính di động
+các vụ giết người
+
+lò nướng
+thuốc viên
+các hành tinh
+tiền thu được
+
+
+chuột cống
+nghỉ hưu
+nhịp điệu
+man rợ
+
+đã lắc
+
+anh chị em
+một ngày nào đó
+tinh vi
+thư rác
+
+tư thế
+tĩnh
+
+phẫu thuật
+
+thủy triều
+những chuyến đi
+
+sự nóng lên
+
+
+sự rút quân
+nhỏ tuổi nhất
+lão hóa
+hãng bay
+các lựa chọn thay thế
+
+kiểm toán
+đích thực
+
+tóc vàng
+những cú đánh
+bọ
+vụ bố ráp
+khoảng trống
+đoạn clip
+cổ áo
+
+đã đếm
+rùng rợn
+đã ly hôn
+hiến tặng
+
+
+tiếng vọng
+
+về mặt cảm xúc
+
+đang trải qua
+kéo dài thêm
+hương vị
+các tầng
+
+sự thiếu hiểu biết
+
+
+gây ra bởi
+truyền cảm hứng
+trung cấp
+phát minh
+
+
+trong khi đó
+
+
+
+
+đối lập
+
+các bác sĩ
+đường ống
+đã trồng
+định giá
+đặt câu hỏi
+
+được gia hạn
+đã từ chức
+
+bản phác thảo
+có mùi
+sự hằn học
+nhà tài trợ
+
+dây đàn
+
+các ngành nghề
+biến đổi
+đã chứng kiến
+nơi làm việc
+
+
+
+nhà phân tích
+tiếng Ả Rập
+bắc cực
+kiến tạo
+bị cháy
+
+
+giải vô địch
+nhà nguyện
+
+
+thùng chứa
+cao bồi
+bị nghiền nát
+
+khác nhau
+chiều
+bầu
+được nâng cao
+bản chất
+
+lông thú
+thu hoạch
+
+
+
+nhất quyết
+đồ bỏ đi
+thận
+sảnh
+
+khoáng chất
+
+
+điều hướng
+đoạn văn
+bán đảo
+viên thuốc
+có lãi
+các tỉnh
+
+tia
+một cách hợp lý
+từ chối
+phần còn lại
+
+
+bị tịch thu
+tình cảm
+
+đã vận chuyển
+tất
+
+
+nhờ đó
+ngưỡng
+lốp xe
+bộ tộc
+các bộ lạc
+cốp xe
+sự không chắc chắn
+ma cà rồng
+
+
+
+theo đó
+
+vòm
+
+
+trục
+huy hiệu
+
+
+
+
+hãng vận tải
+
+đã dọn sạch
+độ phức tạp
+khó hiểu
+tham vấn
+
+sự tiện lợi
+cố ý
+
+từ điển
+phẩm giá
+chiều không gian
+lặn
+cái tôi
+sự nhiệt tình
+các môi trường
+phương trình
+chiết xuất
+mục yêu thích
+phà
+chảy
+tủ lạnh
+đang hoạt động
+đồng hồ đo
+sinh viên tốt nghiệp
+ruột
+người nắm giữ
+hệ tư tưởng
+những kẻ ngốc
+sự hòa nhập
+
+côn trùng
+người hướng dẫn
+sự cô lập
+thủ môn
+cừu non
+kẻ nói dối
+
+biệt thự lớn
+thủy ngân
+cụ thể là
+dây thần kinh
+các quan sát
+đặt hàng
+con đường
+bạn đồng lứa
+đang chờ xử lý
+bạch kim
+
+được khen ngợi
+
+xác suất
+bị chất vấn
+từ chối làm
+đơn từ chức
+người cưỡi
+nghi lễ
+kệ
+tiền cược
+món khai vị
+dính
+đăng ký theo dõi
+bề mặt
+
+làm mệt
+tháp
+chuyển khoản
+
+điện áp
+
+chiều rộng
+cố vấn
+nhôm
+
+
+
+tiền bảo lãnh
+
+đã thuộc về
+
+hươu đực
+được đặc trưng
+nền văn minh
+nhà thầu phụ
+
+đại lý bán
+
+hang
+
+sự thất vọng
+
+bước vào
+
+
+
+
+
+chèn
+rượu mạnh
+mát-xa
+đã ghép
+làm hỏng
+nhạc công
+đặc biệt là
+dàn nhạc
+bưu kiện
+miếng đệm
+đã tham gia
+
+
+các linh mục
+
+
+
+vòng loại
+lập luận logic
+
+
+tin đồn
+chèo thuyền
+cá hồi
+
+
+
+ca làm việc
+nhỏ nhất
+đặc biệt dành riêng
+
+sự cảm thông
+các thiếu niên
+
+gỗ xây dựng
+các tweet
+mặt tốt
+thúc giục
+
+
+tự nguyện
+lúa mì
+roi
+
+cổ tay
+bị ngược đãi
+cấp tính
+đô đốc
+cư xử
+
+cằm
+
+
+
+
+đã liên hệ
+nhà tranh
+cuộc đảo chính
+bị chỉ trích
+
+giảm đi
+
+ác quỷ
+
+công bố
+xử lý rác
+đặc trưng
+được ghi chép
+khoản quyên góp
+bị kéo lê
+máy bay không người lái
+cuộc chạm trán
+
+các doanh nghiệp
+hộ tống
+
+kiên quyết
+bột mì
+
+cổ phần nắm giữ
+
+gián tiếp
+truyền cảm hứng cho
+
+lâm thời
+được phỏng vấn
+vui lòng
+
+bị rò rỉ
+người dân địa phương
+xổ số
+
+trừ
+lưu ý
+nội tạng
+ổ cắm
+cửa hàng bán lẻ
+tham số
+lời cam kết
+người biểu tình
+chứng tỏ
+sự công khai
+
+chó con
+toang rồi
+sắc thái
+silic
+lát
+chính tả
+người đăng ký
+
+người sống sót duy nhất
+điện báo
+vắc-xin
+đĩa than
+đã ước
+kỳ quan
+
+chi nhánh
+tị nạn
+bị cong
+
+
+cụm
+đã phàn nàn
+
+tính nhất quán
+xi lanh
+vũ công
+điếc
+nợ nần
+sự phủ nhận
+bến tàu
+hiển nhiên
+
+cuộc thám hiểm
+bày tỏ
+kéo dài đến
+tạo điều kiện
+
+kỳ tích
+hóa thạch
+sự thành lập
+hàng hóa vận chuyển
+
+hướng dẫn viên
+sự trung thực
+không phù hợp
+trẻ sơ sinh
+đã khởi xướng
+tiêm
+
 ]==])
