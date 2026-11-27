@@ -30286,4 +30286,484 @@ bebé
 iniciado
 injeção
 
+insulto
+interferência
+interestadual
+
+gosto
+
+mediterrânico
+arrumado
+negociar
+
+compensar
+perfeição
+porcos
+piratas
+cartazes
+a praticar
+a rezar
+sonda
+proibido
+
+propor
+trimestral
+receitas culinárias
+a recusar
+reabilitação
+resistente
+
+foguetes
+rolo
+
+formas
+escorregou
+esgueirar-se
+a resolver
+dorido
+especulação
+íngreme
+
+sucessor
+a visar
+
+vetor
+violações
+pesar
+de todo
+perverso
+acústico
+antepassados
+
+atómico
+feijão
+galo
+botões
+cocaína
+convincente
+compilado
+complicações
+
+cordão
+apinhado
+
+arguido
+atrasos
+denso
+desesperadamente
+doutrina
+expor
+financeiramente
+atuação
+porto de abrigo
+
+hidrogénio
+implica
+intacto
+ingestão
+irrelevante
+maxilar
+gatinho
+relvado
+
+medalhas
+enganado
+
+pena
+lago pequeno
+carregador
+porções
+profeta
+recordou
+reduz
+referendo
+refugiado
+regulado
+arredondado
+apressou-se
+satisfazer
+escamas
+sazonal
+segmentos
+sensato
+deslocado
+a deslocar
+a brilhar
+a girar
+a pisar
+colegas de equipa
+toques
+município
+viajado
+torcido
+escritos
+âmbar
+tornozelo
+autismo
+solteiro
+baga
+milhares de milhões
+touros
+
+capitalismo
+cautela
+certificação
+característico
+colunas
+compatível
+concertos
+
+
+continuamente
+persuasivo
+acoplado
+curiosidade
+deleite
+a determinar
+entidades
+exceções
+inundações
+afortunado
+alicerces
+
+geográfico
+agarrar
+
+incentivo
+inclusivo
+infeções
+a beijar
+
+
+loucura
+mandato
+memorável
+fusão
+minorias
+a ocorrer
+a organizar
+atua
+póquer
+portátil
+com preço
+aleatoriamente
+classificações
+a perceber
+demitir-se
+a revelar
+assalto
+esfregar
+corredores
+disperso
+
+revistado
+sexualidade
+
+bofetada
+bife
+sucessão
+superintendente
+suspeita
+varrer
+tático
+daí em diante
+minucioso
+propinas
+
+variáveis
+
+venda por grosso
+administrado
+
+maçãs
+arquitetónico
+artilharia
+
+praias
+abelhas
+embarque
+incomodado
+tela
+desfiladeiro
+bochecha
+
+circulação
+coincidência
+comediante
+comandos
+
+concentrado
+
+geleira portátil
+incontáveis
+caril
+falecido
+dedicação
+a definir
+detenção
+disputas
+empregar
+fazer cumprir
+explícito
+explicitamente
+de olhos
+gripe
+proibido entrar
+fração
+infantaria
+
+investidor
+julgado
+raptado
+palestras
+levemente
+
+mantém
+mármore
+marítimo
+derreter
+modos
+
+juramento
+infração
+
+patriotas
+pirata
+
+
+pré-visualização
+processado
+a perseguir
+quebra-cabeças
+reconstrução
+renomado
+revelação
+
+tubarões
+dispara
+saia
+socialmente
+
+
+
+recheado
+substancialmente
+subúrbios
+
+dedos dos pés
+
+traços
+caminhada
+
+triunfo
+roupa interior
+viável
+cintura
+
+engenho
+destroço
+acessórios
+defensores de
+apelativo
+marcações
+pressupostos
+balé
+
+binário
+
+blogues
+travão
+empresário
+
+compaixão
+
+
+primos
+
+defesas
+a negar
+
+aflição
+documentação
+dúvidas
+dramaticamente
+gajos
+
+elevador
+trocas
+desculpas
+fábricas
+arauto
+caminhada longa
+oco
+pátria
+importado
+internacionalmente
+beijou
+coxo
+licenciamento
+a limitar
+cacifo
+
+marcação
+mensageiro
+metais
+mísseis
+lápis
+filosófico
+canos
+
+súplica
+punir
+
+
+
+retórica
+rivais
+a correr
+salvação
+sanções
+
+sensibilidade
+soberano
+especificações
+gasta
+cônjuge
+
+sintético
+ensina
+aterrador
+rastreado
+comerciantes
+variedades
+a acordar
+natureza selvagem
+admite
+
+agregado
+anatomia
+anuncia
+
+automóvel
+cimento
+xadrez
+a citar
+colónias
+compósito
+consistir
+conselhos
+decorado
+delegados
+a sonhar
+
+
+à moda antiga
+gerador
+a adivinhar
+pastilha elástica
+passatempo
+caçadores
+ídolo
+
+incorreto
+entroncamento
+
+salto
+localizar
+fechaduras
+gere
+massas
+modelação
+motivo
+vizinhança
+
+
+opor-se
+ideal
+embalagens
+licenças
+rebenta
+
+previsões
+preparação
+
+procurador
+rebelião
+destinatário
+a lembrar
+resgatado
+robusto
+acionistas
+de lados
+simulação
+sóbrio
+especiaria
+espremer
+tempestades
+supervisão
+suspeitos
+varrido
+terreno
+aterrorizado
+temático
+ameaçar
+entusiasmado
+toalha
+
+tubos
+inconsciente
+varia
+virtude
+a desejar
+força de trabalho
+
+aeroportos
+ámen
+cinzas
+automóvel adj
+
+a implorar
+
+
+baixas
+apanha
+comissões
+conjunção
+dispendioso
+vacas
+choros
+ciclos
+mais escuro
+descida
+ambiente de trabalho
+marcar
+diretório
+deficiências
+discute
+descidas
+perfuração
+
+desfruta
+gengibre
+governadores
+paragem
+imagiologia
+implícito
+impressionar
+incapacidade
+
+litígio
+
+mercadoria
+minerais
+mineiros
+bairros
+a obter
+ocupar
+ortodoxo
+despesas gerais
+pintor
+pistola
+impressora
+propenso
 ]==])

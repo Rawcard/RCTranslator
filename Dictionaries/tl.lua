@@ -30286,4 +30286,484 @@ sanggol na
 sinimulan
 iniksyon
 
+insulto
+panghihimasok
+
+
+pagkagusto
+
+
+maayos
+makipag-ayos
+mga obligasyon
+ibawi
+kasakdalan
+mga baboy
+mga pirata
+mga poster
+nagsasanay
+nagdarasal
+pansiyasat
+ipinagbabawal
+inaasahang
+imungkahi
+kada tatlong buwan
+mga resipe
+tumatanggi na
+rehabilitasyon
+matibay laban
+
+mga rocket
+
+paglalayag sa bangka
+mga hugis
+nadulas
+pumuslit
+nilulutas
+masakit
+haka-haka
+matarik
+dayami
+kahalili
+tinatarget
+
+
+mga paglabag
+timbangin
+
+
+akustiko
+mga ninuno
+arkibo
+atomiko
+bitsuwelas
+bukol
+mga pindutan
+
+nakakakumbinsi
+tinipon
+mga komplikasyon
+
+kurdon
+
+mga debate
+nasasakdal
+mga pagkaantala
+siksik na
+desperado na
+doktrina
+ilantad
+sa pananalapi
+raket
+
+
+
+nagpapahiwatig na
+
+
+walang kaugnayan
+panga
+kuting
+damuhan
+gumawa ng produkto
+mga medalya
+nagkamali
+hugis-itlog
+
+
+kargador
+
+propeta
+naalala
+
+reperendum
+
+kinokontrol
+bilugan
+nagmadali
+bigyang-kasiyahan
+timbangan
+pana-panahon
+mga segment
+
+
+naglilipat
+nagniningning
+umiikot
+tumatapak
+mga kakampi
+mga haplos
+bayan
+nakapaglakbay
+pinilipit
+mga sulatin
+
+bukung-bukong
+awtismo
+binata
+
+bilyun-bilyon
+mga toro
+pambu-bully
+kapitalismo
+pag-iingat
+sertipikasyon
+katangian ng
+mga hanay
+
+mga konsiyerto
+
+pagsasaayos
+
+nakakumbinsing argumento
+
+pagkamausisa
+kagalakan
+tinutukoy na
+mga entidad
+mga eksepsiyon
+pagbaha
+mapalad
+mga pundasyon
+
+heograpikal
+maunawaan
+madaling gamitin
+insentibo
+inklusibo
+mga impeksyon
+naghahalikan
+mga linya ng daan
+
+
+mandato
+di-malilimutan
+
+mga minorya
+
+nag-oorganisa
+
+
+
+may presyo
+random
+
+napagtatanto
+magbitiw
+
+pagnanakaw sa bangko
+
+mga mananakbo
+nakakalat
+iskawt
+hinalughog
+sekswalidad
+sumisigaw nang malakas
+sampal
+
+paghalili
+superintendente
+hinala
+walisin
+taktikal
+
+masusi
+matrikula
+
+mga variable
+nag-iiba-iba
+pakyawan
+
+kaanib
+mga mansanas
+pang-arkitektura
+artilerya
+
+mga dalampasigan
+mga bubuyog
+pagsakay
+naabala
+kanbas
+
+pisngi
+pabilog
+sirkulasyon
+
+komedyante
+
+kinomisyon
+nakatuon nang husto
+konsensiya
+
+di-mabilang
+kari
+yumao
+dedikasyon
+nagtatakda
+detensyon
+mga alitan
+empleyuhin
+
+tahasan
+nang tahasan
+may mata
+trangkaso
+bawal
+praksyon
+impanterya
+
+mamumuhunan
+hinusgahan
+kinidnap
+mga lektura
+
+nag-uugnay
+nagpapanatili
+marmol
+
+matunaw
+mga mode
+nominado na
+panunumpa
+
+
+mga makabayan
+pirata
+
+hula
+
+naproseso
+hinahabol
+palaisipan
+muling pagtatayo
+tanyag
+paghahayag
+iskolar
+mga pating
+bumabaril
+palda
+sa lipunan
+
+tusok
+haluin
+pinalamanan
+nang malaki-laki
+mga suburb
+tendensiya
+mga daliri sa paa
+
+
+paglalakbay nang malayo
+
+
+panloob na damit
+
+baywang
+
+
+
+mga aksesorya
+mga tagapagtaguyod
+
+mga tipanan
+mga palagay
+
+baratilyo
+
+
+mga blog
+preno
+negosyante
+taksi
+habag
+itinama
+pagwawasto
+mga pinsan
+kritiko
+mga depensa
+tinatanggihan
+
+
+dokumentasyon
+mga pagdududa
+nang dramatiko
+mga pare
+elegante
+
+mga palitan
+
+mga pabrika
+tagapagbalita
+paglalakad sa bundok
+hungkag
+tinubuang-bayan
+inangkat
+
+hinalikan
+
+paglilisensya
+nililimitahan
+
+
+pagmamarka
+mensahero
+mga metal
+mga misil
+lapis
+pilosopiko
+
+
+
+parusahan
+pitaka ng babae
+
+
+retorika
+mga karibal
+nagmamadali
+kaligtasan ng kaluluwa
+
+sekular
+pagiging sensitibo
+soberano
+mga detalye
+
+
+superbisor
+sintetiko
+nagtuturo
+nakakakilabot
+sinubaybayan
+mga mangangalakal
+
+gumigising
+
+umaamin
+tagapayo sa
+
+anatomiya
+nag-aanunsyo
+mga aplikante
+
+semento
+
+sinisipi
+mga kolonya
+
+
+mga konseho
+pinalamutian
+mga delegado
+nananaginip
+nagbibigay-daan
+pamasahe
+makaluma
+
+nanghuhula
+chewing gum
+libangan na gawain
+mga mangangaso
+idolo
+ilusyon
+
+sangandaan
+
+lundag
+
+mga kandado
+
+
+pagmomodelo
+motibo
+
+
+mas bago
+tutulan
+pinakamainam
+
+mga permit
+
+pang-koreo
+mga hula
+
+
+tagausig
+paghihimagsik
+tatanggap
+inaalala
+nailigtas
+matatag na
+mga shareholder
+
+simulasyon
+hindi lasing
+pampalasa
+pigain
+mga bagyo
+pangangasiwa
+mga suspek
+tinangay
+
+takot na takot
+may tema
+magbanta
+tuwang-tuwa
+tuwalya
+
+mga tubo maliit
+walang malay
+nag-iiba
+birtud
+nagnanais
+lakas-paggawa
+ektaryang maliit
+mga paliparan
+
+
+pang-sasakyan
+larangan ng digmaan
+nagmamakaawa
+
+bumibili
+mga nasawi
+nahuhuli
+mga komite
+pagkakasabay
+magastos
+mga baka
+mga iyak
+mga siklo
+mas madilim
+
+
+i-dial
+direktoryo
+mga kapansanan
+
+mga pagbagsak
+pagbabarena
+eliminasyon
+nasisiyahan
+luya
+mga gobernador
+paghinto
+
+
+
+kawalan ng kakayahan
+garapon
+paglilitis
+
+mga paninda
+mga mineral
+mga minero
+mga kapitbahayan
+nakukuha
+sakupin
+
+
+pintor
+pistola
+
+madaling kapitan
 ]==])

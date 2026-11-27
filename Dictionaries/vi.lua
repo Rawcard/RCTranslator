@@ -30286,4 +30286,484 @@ trẻ sơ sinh
 đã khởi xướng
 tiêm
 
+sự xúc phạm
+sự can thiệp
+
+
+sự yêu thích
+
+Địa Trung Hải
+gọn gàng
+
+
+bù đắp
+sự hoàn hảo
+lợn
+cướp biển
+áp phích quảng cáo
+
+cầu nguyện
+tàu thăm dò
+bị cấm
+
+
+hàng quý
+công thức nấu ăn
+
+phục hồi chức năng
+chịu đựng được
+người lái
+tên lửa đẩy
+con lăn
+đi thuyền buồm
+
+
+lẻn
+
+đau nhức
+suy đoán
+dốc
+rơm
+người kế nhiệm
+nhắm mục tiêu
+
+vectơ
+những vi phạm
+cân nặng
+
+độc ác
+âm thanh học
+tổ tiên
+
+nguyên tử
+hạt đậu
+cục u
+nút bấm
+
+
+được biên soạn
+biến chứng
+
+dây
+đông đúc
+các cuộc tranh luận
+bị cáo
+sự chậm trễ
+dày đặc
+một cách tuyệt vọng
+học thuyết
+vạch trần
+về mặt tài chính
+buổi diễn
+bến cảng
+mối nguy
+hydro
+ngụ ý
+nguyên vẹn
+lượng hấp thụ
+không liên quan
+hàm
+mèo con
+bãi cỏ
+
+
+nhầm lẫn
+hình bầu dục
+lòng thương hại
+ao
+người khuân vác
+
+nhà tiên tri
+đã nhớ lại
+
+trưng cầu dân ý
+
+được quy định
+làm tròn
+vội vã
+làm hài lòng
+cái cân
+theo mùa
+phân đoạn
+
+bị dịch chuyển
+đang dịch chuyển
+sáng chói
+xoay tròn
+bước đi
+
+những cái chạm
+thị trấn nhỏ
+đã đi xa
+xoắn
+tác phẩm viết
+hổ phách
+mắt cá chân
+tự kỷ
+người độc thân nam
+quả mọng
+hàng tỷ
+
+bắt nạt
+chủ nghĩa tư bản
+sự thận trọng
+chứng nhận
+đặc trưng của
+
+tương thích
+các buổi hòa nhạc
+bị lên án
+cấu hình
+
+lập luận thuyết phục
+được ghép nối
+sự tò mò
+niềm vui thích
+
+
+
+lũ lụt
+
+nền móng
+biên cương
+
+nắm bắt
+tiện dụng
+
+bao trùm
+
+hôn nhau
+làn đường
+
+sự điên rồ
+
+đáng nhớ
+sáp nhập
+dân tộc thiểu số
+
+tổ chức sự kiện
+biểu diễn
+
+
+được định giá
+
+
+
+từ chức
+
+vụ cướp
+chà xát
+những người chạy
+rải rác
+trinh sát
+bị lục soát
+
+la lối
+cái tát
+bít tết
+sự kế vị
+
+sự nghi ngờ
+
+
+
+kỹ càng
+học phí
+khối u
+các biến số
+khác nhau tùy
+bán buôn
+
+
+
+
+pháo binh
+được lắp ráp
+
+ong
+lên tàu
+bị làm phiền
+vải canvas
+hẻm núi
+má
+hình tròn
+tuần hoàn
+sự trùng hợp
+diễn viên hài
+các lệnh
+được ủy thác
+tập trung cao
+lương tâm
+thùng giữ lạnh
+
+cà ri
+đã qua đời
+sự cống hiến
+
+giam giữ
+
+thuê mướn
+thi hành
+rõ ràng minh bạch
+một cách rõ ràng
+có mắt
+cúm
+cấm kỵ
+phân số
+bộ binh
+không thể thiếu
+
+bị đánh giá
+bị bắt cóc
+bài giảng
+
+liên kết với
+
+đá cẩm thạch
+
+tan chảy
+
+ứng cử viên được đề cử
+lời thề
+
+bao bì
+những người yêu nước
+tên cướp biển
+địa cực
+
+xem trước
+đã qua xử lý
+
+câu đố
+tái thiết
+
+sự mặc khải
+học giả uyên bác
+
+
+váy ngắn
+về mặt xã hội
+
+gai
+khuấy
+nhồi
+đáng kể về
+ngoại ô
+
+
+chạm bóng ghi điểm
+
+chuyến đi bộ dài
+khó nhằn
+chiến thắng vẻ vang
+đồ lót
+khả thi
+eo
+được chào đón
+sự hóm hỉnh
+xác tàu
+phụ kiện
+người ủng hộ mạnh mẽ
+
+các cuộc hẹn
+
+ba lê
+món hời
+nhị phân
+hỗn hợp pha
+blog
+phanh
+doanh nhân
+xe taxi
+lòng trắc ẩn
+đã sửa
+sự sửa chữa
+anh chị em họ
+
+
+
+kho bãi
+sự đau khổ
+
+
+một cách ngoạn mục
+mấy anh
+thanh lịch
+thang máy
+
+lời bào chữa
+
+sứ giả báo tin
+
+rỗng
+quê hương
+
+trên trường quốc tế
+đã hôn
+dở tệ
+cấp phép
+
+tủ khóa
+đất liền
+đánh dấu
+người đưa tin
+
+
+bút chì
+
+
+
+lời khẩn cầu
+trừng trị
+ví nữ
+tiền vệ
+
+tu từ học
+
+
+sự cứu rỗi
+lệnh trừng phạt
+thế tục
+độ nhạy cảm
+có chủ quyền
+thông số kỹ thuật
+
+vợ hoặc chồng
+giám sát viên
+tổng hợp
+dạy học
+
+được theo dõi
+thương nhân
+giống cây
+
+vùng hoang dã
+
+cố vấn chuyên môn
+tổng thể
+giải phẫu học
+
+ứng viên
+ô tô
+xi măng
+cờ vua
+
+
+
+
+
+được trang trí
+đại biểu
+mơ mộng
+
+giá vé
+kiểu cũ
+máy phát điện
+đoán
+kẹo cao su
+
+
+thần tượng
+ảo ảnh
+không chính xác
+ngã ba
+ngọn giáo
+cú nhảy
+định vị
+ổ khóa
+
+quần chúng
+mô hình hóa
+động cơ phạm tội
+
+kết nối mạng lưới
+mới hơn
+
+tối ưu
+
+giấy phép hoạt động
+bật ra
+bưu chính
+những dự đoán
+
+
+công tố viên
+cuộc nổi loạn
+người nhận
+ghi nhớ
+được giải cứu
+vững chắc
+cổ đông
+
+mô phỏng
+tỉnh táo không say
+gia vị
+vắt
+những cơn bão
+sự giám sát
+
+bị cuốn đi
+địa hình
+kinh hãi
+theo chủ đề
+
+vui mừng khôn xiết
+khăn tắm
+bộ ba
+
+bất tỉnh
+
+đức tính
+mong ước
+lực lượng lao động
+mẫu đất
+
+
+tro tàn
+ô tô công nghiệp
+
+van nài
+bó
+
+thương vong
+bắt được
+các ủy ban
+sự kết hợp
+tốn kém
+bò cái
+tiếng khóc
+chu trình
+tối hơn
+sự đi xuống
+màn hình nền
+quay số
+thư mục
+
+thảo luận về
+những lúc sa sút
+
+loại trừ
+tận hưởng
+gừng
+
+sự dừng lại
+chẩn đoán hình ảnh
+ngầm hiểu
+gây ấn tượng
+sự bất lực
+
+vụ kiện tụng
+người cố vấn
+hàng hóa buôn bán
+khoáng sản
+
+
+
+chiếm đóng
+
+chi phí chung
+họa sĩ
+súng lục
+máy in
+dễ bị
 ]==])
